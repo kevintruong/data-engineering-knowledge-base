@@ -71,107 +71,104 @@ _The quick notes on what you need to pass. Also, I passed and it was one of the 
 certified. All the screen time it was time to give my eyes a break._
 
 
-## TABLE OF CONTENTS........................................................................................................
-
 ## TABLE OF CONTENTS
 
-
-
-- WELCOME
-   - About these Training Notes
-   - What do other Students say?
-- TABLE OF CONTENTS........................................................................................................
-- GETTING STARTED
-   - Your Pathway to Success
-   - Support & Feedback
-   - Join the AWS Community
-   - Connect with Neal on Social Media
-- HOW TO BEST PREPARE FOR YOUR EXAM
-   - The 2020 SAA-C02 Exam Version
-   - Domains, Objectives and Examples
-- COMPUTE
-   - Amazon EC2
-   - Amazon EBS
-   - Elastic Load Balancing
-   - AWS Auto Scaling
-   - Amazon ECS
-   - AWS Lambda
-   - AWS Elastic Beanstalk
-   - Compute Quiz Questions
-- STORAGE
-   - Amazon S3
-   - S3 performance guidelines
-   - Glacier
-   - Amazon EFS
-   - AWS Storage Gateway
-   - Amazon fsx
-   - Storage Quiz Questions
-- AWS DATABASE
-   - Amazon RDS
-   - Amazon Aurora
-   - Amazon DynamoDB.............................................................................................................
-   - Amazon ElastiCache
-   - Amazon RedShift
-   - Database Quiz Questions.....................................................................................................
-- MIGRATION
-   - AWS Snowball
-   - AWS Database Migration Service.........................................................................................
-   - AWS DataSync
-   - Migration Quiz Question
-- NETWORKING AND CONTENT DELIVERY
-   - Amazon VPC
-   - Amazon CloudFront
-   - Amazon Route
-   - AWS Global Accelerator
-   - Amazon API Gateway
-   - AWS Direct Connect
-   - Networking & Content Delivery Quiz Questions
-- MANAGEMENT TOOLS
-   - Amazon CloudWatch
-   - AWS CloudTrail....................................................................................................................
-   - AWS OpsWorks
-   - AWS CloudFormation
-   - AWS Config
-   - AWS Systems Manager
-   - Management Tools Quiz Questions
-- MEDIA SERVICES
-   - Amazon Elastic Transcoder
-   - Media Services Quiz Questions
-- ANALYTICS
-   - Amazon EMR
-   - Amazon Kinesis
-   - Amazon Athena
-   - AWS Glue
-   - Analytics Quiz Questions
-- AWS SECURITY, IDENTITY & COMPLIANCE
-   - AWS IAM
-   - AWS Accounts
-   - AWS Resource access manager
-   - Resource Groups
-   - AWS Directory Service
-   - AWS Key Management Store (KMS)
-   - AWS CloudHSM
-   - Amazon Cognito
-   - AWS WAF and Shield
-   - Security, Identity & Compliance Quiz Questions
-- APPLICATION INTEGRATION
-   - Amazon SNS
-   - Amazon SQS
-   - Amazon Simple Workflow Service (SWF)
-   - Amazon MQ
-   - AWS Step Functions
-   - Application Integration Quiz Questions
-- AWS DESKTOP & APP STREAMING
-   - Amazon Workspaces
-- CONCLUSION
-   - Before taking the AWS Exam
-   - Reach out and Connect
-- OTHER BOOKS & COURSES BY NEAL DAVIS
-   - Courses for the AWS Certified Cloud Practitioner
-   - Courses for the AWS Certified Solutions Architect Associate
-   - Courses for the AWS Certified Developer Associate
-   - Courses for the AWS Certified SysOps Administrator Associate
-- ABOUT THE AUTHOR
+- [WELCOME](#welcome)
+  - [About these Training Notes](#about-these-training-notes)
+  - [What do other Students say?](#what-do-other-students-say)
+- [TABLE OF CONTENTS](#table-of-contents)
+- [GETTING STARTED](#getting-started)
+  - [Your Pathway to Success](#your-pathway-to-success)
+  - [Support & Feedback](#support--feedback)
+  - [Join the AWS Community](#join-the-aws-community)
+  - [Connect with Neal on Social Media](#connect-with-neal-on-social-media)
+- [HOW TO BEST PREPARE FOR YOUR EXAM](#how-to-best-prepare-for-your-exam)
+  - [The 2020 SAA-C02 Exam Version](#the-2020-saa-c02-exam-version)
+  - [Domains, Objectives and Examples](#domains-objectives-and-examples)
+- [COMPUTE](#compute)
+  - [Amazon EC2](#amazon-ec2)
+    - [AMAZON MACHINE IMAGES](#amazon-machine-images)
+  - [Amazon EBS](#amazon-ebs)
+  - [Elastic Load Balancing](#elastic-load-balancing)
+  - [AWS Auto Scaling](#aws-auto-scaling)
+  - [Amazon ECS](#amazon-ecs)
+  - [AWS Lambda](#aws-lambda)
+  - [AWS Elastic Beanstalk](#aws-elastic-beanstalk)
+  - [Compute Quiz Questions](#compute-quiz-questions)
+- [STORAGE](#storage)
+  - [Amazon S3](#amazon-s3)
+  - [S3 performance guidelines](#s3-performance-guidelines)
+  - [Glacier](#glacier)
+  - [Amazon EFS](#amazon-efs)
+  - [AWS Storage Gateway](#aws-storage-gateway)
+  - [Amazon fsx](#amazon-fsx)
+  - [Storage Quiz Questions](#storage-quiz-questions)
+- [AWS DATABASE](#aws-database)
+  - [Amazon RDS](#amazon-rds)
+  - [Amazon Aurora](#amazon-aurora)
+  - [Amazon DynamoDB](#amazon-dynamodb)
+  - [Amazon ElastiCache](#amazon-elasticache)
+  - [Amazon RedShift](#amazon-redshift)
+  - [Database Quiz Questions](#database-quiz-questions)
+- [MIGRATION](#migration)
+  - [AWS Snowball](#aws-snowball)
+  - [AWS Database Migration Service](#aws-database-migration-service)
+  - [AWS DataSync](#aws-datasync)
+  - [Migration Quiz Question](#migration-quiz-question)
+- [NETWORKING AND CONTENT DELIVERY](#networking-and-content-delivery)
+  - [Amazon VPC](#amazon-vpc)
+  - [Amazon CloudFront](#amazon-cloudfront)
+  - [Amazon Route](#amazon-route)
+  - [AWS Global Accelerator](#aws-global-accelerator)
+  - [Amazon API Gateway](#amazon-api-gateway)
+  - [AWS Direct Connect](#aws-direct-connect)
+  - [Networking & Content Delivery Quiz Questions](#networking--content-delivery-quiz-questions)
+- [MANAGEMENT TOOLS](#management-tools)
+  - [Amazon CloudWatch](#amazon-cloudwatch)
+  - [AWS CloudTrail](#aws-cloudtrail)
+  - [AWS OpsWorks](#aws-opsworks)
+  - [AWS CloudFormation](#aws-cloudformation)
+  - [AWS Config](#aws-config)
+  - [AWS Systems Manager](#aws-systems-manager)
+  - [Management Tools Quiz Questions](#management-tools-quiz-questions)
+- [MEDIA SERVICES](#media-services)
+  - [Amazon Elastic Transcoder](#amazon-elastic-transcoder)
+  - [Media Services Quiz Questions](#media-services-quiz-questions)
+- [ANALYTICS](#analytics)
+  - [Amazon EMR](#amazon-emr)
+  - [Amazon Kinesis](#amazon-kinesis)
+  - [Amazon Athena](#amazon-athena)
+  - [AWS Glue](#aws-glue)
+  - [Analytics Quiz Questions](#analytics-quiz-questions)
+- [AWS SECURITY, IDENTITY & COMPLIANCE](#aws-security-identity--compliance)
+  - [AWS IAM](#aws-iam)
+  - [AWS Accounts](#aws-accounts)
+  - [AWS Resource access manager](#aws-resource-access-manager)
+  - [Resource Groups](#resource-groups)
+  - [AWS Directory Service](#aws-directory-service)
+  - [AWS Key Management Store (KMS)](#aws-key-management-store-kms)
+  - [AWS CloudHSM](#aws-cloudhsm)
+  - [Amazon Cognito](#amazon-cognito)
+  - [AWS WAF and Shield](#aws-waf-and-shield)
+  - [Security, Identity & Compliance Quiz Questions](#security-identity--compliance-quiz-questions)
+- [APPLICATION INTEGRATION](#application-integration)
+  - [Amazon SNS](#amazon-sns)
+  - [Amazon SQS](#amazon-sqs)
+  - [Amazon Simple Workflow Service (SWF)](#amazon-simple-workflow-service-swf)
+  - [Amazon MQ](#amazon-mq)
+  - [AWS Step Functions](#aws-step-functions)
+  - [Application Integration Quiz Questions](#application-integration-quiz-questions)
+- [AWS DESKTOP & APP STREAMING](#aws-desktop--app-streaming)
+  - [Amazon Workspaces](#amazon-workspaces)
+- [CONCLUSION](#conclusion)
+  - [Before taking the AWS Exam](#before-taking-the-aws-exam)
+  - [Reach out and Connect](#reach-out-and-connect)
+- [OTHER BOOKS & COURSES BY NEAL DAVIS](#other-books--courses-by-neal-davis)
+  - [Courses for the AWS Certified Cloud Practitioner](#courses-for-the-aws-certified-cloud-practitioner)
+  - [Courses for the AWS Certified Solutions Architect Associate](#courses-for-the-aws-certified-solutions-architect-associate)
+  - [Courses for the AWS Certified Developer Associate](#courses-for-the-aws-certified-developer-associate)
+  - [Courses for the AWS Certified SysOps Administrator Associate](#courses-for-the-aws-certified-sysops-administrator-associate)
+- [ABOUT THE AUTHOR](#about-the-author)
 
 
 ## GETTING STARTED
@@ -6126,7 +6123,7 @@ Following a restore the new DB instance will have a new endpoint.
 
 The storage type can be changed when restoring a snapshot.
 
-### Amazon DynamoDB.............................................................................................................
+### Amazon DynamoDB
 
 **GENERAL DYNAMODB CONCEPTS**
 
@@ -6863,7 +6860,7 @@ Data transfer – no charge for data transfer between RedShift and S3 within a r
 scenarios you may pay charges.
 
 
-### Database Quiz Questions.....................................................................................................
+### Database Quiz Questions
 
 Answers and explanations are provided below after the last question in this section.
 
@@ -7101,7 +7098,7 @@ AWS Import/export is when you send your own disks into AWS – this is being dep
 of Snowball.
 
 
-### AWS Database Migration Service.........................................................................................
+### AWS Database Migration Service
 
 AWS Database Migration Service helps you migrate databases to AWS quickly and securely.
 
@@ -9434,7 +9431,7 @@ using your existing system, application and custom log files.
 - Data points with a period of 300 seconds (5 minute) are available for 63 days.
 - Data points with a period of 3600 seconds (1 hour) are available for 455 days (15 months).
 
-### AWS CloudTrail....................................................................................................................
+### AWS CloudTrail
 
 AWS CloudTrail is a web service that records activity made on your account
 
@@ -12020,8 +12017,7 @@ Answers and explanations are provided below after the last question in this sect
 **Question 1:**
 
 A company needs to deploy virtual desktops for its customers in an AWS VPC, and would like to
-leverage their existing on-premise security principles. AWS Workspaces will be used as the virtual
-desktop solution.
+leverage their existing on-premise security principles. AWS Workspaces will be used as the virtual desktop solution.
 
 Which set of AWS services and features will meet the company’s requirements?
 
@@ -12031,6 +12027,7 @@ B. A VPN connection, VPC NACLs and Security Groups
 C. A VPN connection, VPC NACLs and Security Groups
 D. Amazon EC2, and AWS IAM
 ```
+
 **Question 2:**
 
 To improve security in your AWS account you have decided to enable multi-factor authentication
@@ -12043,6 +12040,7 @@ C. Using biometrics
 D. Using a key pair
 E. Using the AWS API
 ```
+
 **Question 3:**
 
 Your company would like to restrict the ability of most users to change their own passwords whilst

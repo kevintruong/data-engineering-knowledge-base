@@ -431,8 +431,7 @@ using that EBS volume
 
 **16. Question**
 
-**An Amazon VPC contains several Amazon EC2 instances. The instances need to make API calls to Amazon DynamoDB. A
-solutions architect needs to ensure that the API calls do not traverse the internet.**
+**An Amazon VPC contains several Amazon EC2 instances. The instances need to make API calls to Amazon DynamoDB. A solutions architect needs to ensure that the API calls do not traverse the internet.**
 
 **How can this be accomplished? (Select TWO)**
 
@@ -448,9 +447,7 @@ solutions architect needs to ensure that the API calls do not traverse the inter
 
 **17. Question**
 
-**A solutions architect is designing the infrastructure to run an application on Amazon EC2 instances. The application
-requires high availability and must dynamically scale based on demand to be cost efficient.**
-
+**A solutions architect is designing the infrastructure to run an application on Amazon EC2 instances. The application requires high availability and must dynamically scale based on demand to be cost efficient.**
 **What should the solutions architect do to meet these requirements?**
 
 1: Configure an Application Load Balancer in front of an Auto Scaling group to deploy instances to multiple Regions
@@ -465,9 +462,7 @@ Zones
 
 **18. Question**
 
-**A retail company with many stores and warehouses is implementing IoT sensors to gather monitoring data from devices in
-each location. The data will be sent to AWS in real time. A solutions architect must provide a solution for ensuring
-events are received in order for each device and ensure that data is saved for future processing.**
+**A retail company with many stores and warehouses is implementing IoT sensors to gather monitoring data from devices in each location. The data will be sent to AWS in real time. A solutions architect must provide a solution for ensuring events are received in order for each device and ensure that data is saved for future processing.**
 
 **Which solution would be MOST efficient?**
 
