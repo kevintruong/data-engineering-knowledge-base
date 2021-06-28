@@ -175,46 +175,29 @@ certified. All the screen time it was time to give my eyes a break._
 
 ### Your Pathway to Success
 
-So, you’re excited to get started with the AWS Certified Solutions Architect Associate certification
-and wondering what resources are out there to help you. Let’s start with the free options. Visit
-https://digitalcloud.training/amazon-aws-free-certification-training-solutions-architect for links to
-various free resources including sample practice questions, blog articles, video tutorials and AWS
-documentation.
+So, you’re excited to get started with the AWS Certified Solutions Architect Associate certification and wondering what resources are out there to help you. Let’s start with the free options. Visit https://digitalcloud.training/amazon-aws-free-certification-training-solutions-architect for links to various free resources including sample practice questions, blog articles, video tutorials and AWS documentation.
 
 For the full training experience though, your best bet are the following training courses:
 
 **Step 1: Enroll in the Instructor-led Video Course**
 
-To get you started, we’d suggest first enrolling in the on-demand AWS Certified Solutions Architect
-Associate Video Course from Digital Cloud Training to familiarize yourself with the AWS platform
-before returning to the Training Notes to get a more detailed understanding of the AWS services.
+To get you started, we’d suggest first enrolling in the on-demand AWS Certified Solutions Architect Associate Video Course from Digital Cloud Training to familiarize yourself with the AWS platform before returning to the Training Notes to get a more detailed understanding of the AWS services.
 
-For more information, visit: https://digitalcloud.training/aws-certified-solutions-architect-associate-
-hands-on-course-saa-c
+For more information, visit: https://digitalcloud.training/aws-certified-solutions-architect-associate- hands-on-course-saa-c
 
 **Step 2: Practice Exam Course with online Exam Simulator (**
 
 **Practice Questions)**
 
-To assess where you are at on your AWS journey, we recommend taking the AWS Certified
-Solutions Architect Associate Practice Exams on the Digital Cloud Training website. The **online exam
-simulator** with over **500 unique questions** will help you identify your strengths and weaknesses.
-These practice tests are designed to reflect the difficulty of the AWS exam and are the closest to the
-real exam experience available. To learn more, visit https://digitalcloud.training/aws-certified-
-solutions-architect-associate-practice-tests-saa-c
+To assess where you are at on your AWS journey, we recommend taking the AWS Certified Solutions Architect Associate Practice Exams on the Digital Cloud Training website. The **online exam simulator** with over **500 unique questions** will help you identify your strengths and weaknesses.  These practice tests are designed to reflect the difficulty of the AWS exam and are the closest to the real exam experience available. To learn more, visit https://digitalcloud.training/aws-certified- solutions-architect-associate-practice-tests-saa-c
 
 
 Our online Practice Exams are delivered in 4 different variations:
 
 - **Exam Mode**
-    In exam simulation mode, you complete one full-length practice exam and answer all 65
-    questions within the allotted time. You are then presented with a pass / fail score report
-    showing your overall score and performance in each knowledge area to identify your
-    strengths and weaknesses.
+    In exam simulation mode, you complete one full-length practice exam and answer all 65 questions within the allotted time. You are then presented with a pass / fail score report showing your overall score and performance in each knowledge area to identify your strengths and weaknesses.
 - **Training Mode**
-    When taking the practice exam in training mode, you will be shown the answers and
-    explanations for every question after clicking “check”. Upon completion of the exam, the
-    score report will show your overall score and performance in each knowledge area.
+    When taking the practice exam in training mode, you will be shown the answers and explanations for every question after clicking “check”. Upon completion of the exam, the score report will show your overall score and performance in each knowledge area.
 - **Knowledge Reviews**
     Now that you have identified your strengths and weaknesses, you get to dive deep into
     specific areas with our knowledge reviews. You are presented with a series of questions
@@ -227,26 +210,17 @@ Our online Practice Exams are delivered in 4 different variations:
 
 **Step 3: Training Notes**
 
-As a final step, use these training notes to focus your study on the knowledge areas where you need
-to most. Get a detailed understanding of the AWS services and deep dive into the SAA-C02 exam
-objectives with detailed facts, tables and diagrams that will shortcut your time to success.
+As a final step, use these training notes to focus your study on the knowledge areas where you need to most. Get a detailed understanding of the AWS services and deep dive into the SAA-C02 exam objectives with detailed facts, tables and diagrams that will shortcut your time to success.
 
 ### Support & Feedback
 
-We want you to get great value from these training resources. If for any reason you are not 100%
-satisfied, please contact us at support@digitalcloud.training. We promise to address all questions
-and concerns, typically within 24hrs. We really want you to have a 5 - star learning experience!
+We want you to get great value from these training resources. If for any reason you are not 100% satisfied, please contact us at support@digitalcloud.training. We promise to address all questions and concerns, typically within 24hrs. We really want you to have a 5 - star learning experience!
 
-The AWS platform is evolving quickly, and the exam tracks these changes with a typical lag of
-around 6 months. We are therefore reliant on student feedback to keep track of what is appearing
-in the exam. If there are any topics in your exam that weren't covered in our training resources,
-please provide us with feedback using this form https://digitalcloud.training/student-feedback. We
-appreciate any feedback that will help us further improve our AWS training resources.
+The AWS platform is evolving quickly, and the exam tracks these changes with a typical lag of around 6 months. We are therefore reliant on student feedback to keep track of what is appearing in the exam. If there are any topics in your exam that weren't covered in our training resources, please provide us with feedback using this form https://digitalcloud.training/student-feedback. We appreciate any feedback that will help us further improve our AWS training resources.
 
 ### Join the AWS Community
 
-Our private Facebook group is a great place to ask questions and share knowledge and exam tips
-with the AWS community. Join the AWS Certification QA group on Facebook and share your exam
+Our private Facebook group is a great place to ask questions and share knowledge and exam tips with the AWS community. Join the AWS Certification QA group on Facebook and share your exam
 
 
 feedback with the AWS community: https://www.facebook.com/groups/awscertificationqa
@@ -260,23 +234,19 @@ To learn more about the different ways of connecting with Neal, visit:
 https://digitalcloud.training/neal-davis
 
 ```
-digitalcloud.training/n
-eal-davis
+digitalcloud.training/n eal-davis
 ```
 ```
-https://www.youtube.com/c/digitalclo
-udtraining
+https://www.youtube.com/c/digitalclo udtraining
 ```
 ```
-facebook.com/digitalcl
-oudtraining
+facebook.com/digitalcl oudtraining
 ```
 ```
 Twitter @nealkdavis
 ```
 ```
-linkedin.com/in/nealkd
-avis
+linkedin.com/in/nealkd avis
 ```
 ```
 Instagram @digitalcloudtraining
@@ -286,43 +256,28 @@ Instagram @digitalcloudtraining
 
 ### The 2020 SAA-C02 Exam Version
 
-The **new SAA-C02 exam** for the **AWS Certified Solutions Architect Associate certification** has been
-available since March 2020. The old version of the exam was retired on 1st July 2020 after it was
-extended for an extra couple of months due to the exam testing center closures caused by the
-COVID- 19 pandemic. The new exam has been updated with new content to align with the latest
-AWS features and services.
+The **new SAA-C02 exam** for the **AWS Certified Solutions Architect Associate certification** has been available since March 2020. The old version of the exam was retired on 1st July 2020 after it was extended for an extra couple of months due to the exam testing center closures caused by the COVID- 19 pandemic. The new exam has been updated with new content to align with the latest AWS features and services.
 
-To help you best prepare for the AWS Certified Solutions Architect Associate SAA-C02 exam, let's
-have a closer look at the exam blueprint and break down the various "domains" of the exam guide
-so you know what to expect.
+To help you best prepare for the AWS Certified Solutions Architect Associate SAA-C02 exam, let's have a closer look at the exam blueprint and break down the various "domains" of the exam guide so you know what to expect.
 
 **THE AWS EXAM BLUEPRINT**
 
-The AWS Certified Solutions Architect Associate exam is recommended for individuals with at least
-one year of hands-on experience. The exam is intended for Solutions Architects and requires you to
-demonstrate knowledge of how to define a solution using architectural design principles based on
-customer requirements and provide implementation guidance based on best practices to the
-organization throughout the lifecycle of the project.
+The AWS Certified Solutions Architect Associate exam is recommended for individuals with at least one year of hands-on experience. The exam is intended for Solutions Architects and requires you to demonstrate knowledge of how to define a solution using architectural design principles based on customer requirements and provide implementation guidance based on best practices to the organization throughout the lifecycle of the project.
 
-In the official Exam Guide for the AWS Certified Solutions Architect, the following **AWS knowledge
-is recommended:**
+In the official Exam Guide for the AWS Certified Solutions Architect, the following **AWS knowledge is recommended:**
 
-- One year of hands-on experience designing available, cost-efficient, fault-tolerant, and
-    scalable distributed systems on AWS.
+- One year of hands-on experience designing available, cost-efficient, fault-tolerant, and scalable distributed systems on AWS.
 - Hands-on experience using compute, networking, storage and database AWS services.
 - Hands-on experience with AWS deployment and management services.
 - Ability to identify and define technical requirements for an AWS-based application.
 - Ability to identify which AWS services meet a given technical requirement.
-- Knowledge of recommended best practices for building secure and reliable applications on
-    the AWS platform.
+- Knowledge of recommended best practices for building secure and reliable applications on the AWS platform.
 - An understanding of the basic architectural principles of building on the AWS cloud.
 - An understanding of the AWS global infrastructure.
 - An understanding of network technologies as they relate to AWS.
-- An understanding of security features and tools that AWS provides and how they relate to
-    traditional services.
+- An understanding of security features and tools that AWS provides and how they relate to traditional services.
 
-**The exam includes 65 questions and has a time limit of 130 minutes**. You need to score a minimum
-of 720 out of 1000 points to pass the exam.
+**The exam includes 65 questions and has a time limit of 130 minutes**. You need to score a minimum of 720 out of 1000 points to pass the exam.
 
 The question format of the exam is multiple-choice (one correct response from four options) and
 multiple response (two or more correct responses from five or more options). The questions are
@@ -375,31 +330,18 @@ application stacks to best use the underlying infrastructure architecture.
 
 **Example Questions**
 
-**Question:** You are a Solutions Architect at a media company, and you need to build an application
-stack that can receive customer comments from sporting events. The application is expected to
-receive significant load that could scale to millions of messages within a short space of time
-following high-profile matches.
+**Question:** You are a Solutions Architect at a media company, and you need to build an application stack that can receive customer comments from sporting events. The application is expected to receive significant load that could scale to millions of messages within a short space of time following high-profile matches.
 
-As you are unsure of the load required for the database layer what is the most cost-effective way to
-ensure that the messages are not dropped?
+As you are unsure of the load required for the database layer what is the most cost-effective way to ensure that the messages are not dropped?
 
 1. Use RDS Auto Scaling for the database layer which will automatically scale as required
-2. Create an SQS queue and modify the application to write to the SQS queue. Launch another
-    application instance that polls the queue and writes messages to the database
-
-
+2. Create an SQS queue and modify the application to write to the SQS queue. Launch another application instance that polls the queue and writes messages to the database
 3. Write the data to an S3 bucket, configure RDS to poll the bucket for new messages
 4. Use DynamoDB and provision enough write capacity to handle the highest expected load
 
-**Answer: 2** , Amazon Simple Queue Service (Amazon SQS) offers a reliable, highly scalable, hosted
-queue for storing messages in transit between computers and is used for distributed/decoupled
-applications. This is a great use case for SQS as you don’t have to over-provision the database layer
-or worry about messages being dropped.
+**Answer: 2** , Amazon Simple Queue Service (Amazon SQS) offers a reliable, highly scalable, hosted queue for storing messages in transit between computers and is used for distributed/decoupled applications. This is a great use case for SQS as you don’t have to over-provision the database layer or worry about messages being dropped.
 
-**Question:** A new Big Data application you are developing will use hundreds of EC2 instances to
-write data to a shared file system. The file system must be stored redundantly across multiple AZs
-within a region and allow the EC2 instances to concurrently access the file system. The required
-throughput is multiple GB per second.
+**Question:** A new Big Data application you are developing will use hundreds of EC2 instances to write data to a shared file system. The file system must be stored redundantly across multiple AZs within a region and allow the EC2 instances to concurrently access the file system. The required throughput is multiple GB per second.
 
 From the options presented which storage solution can deliver these requirements?
 
@@ -426,27 +368,18 @@ This domain makes up 28% of the exam and includes the following **objectives** :
 
 **What you need to know**
 
-You need to be able to select the best storage and database services to use for a given scenario,
-taking into account requirements for performance.
+You need to be able to select the best storage and database services to use for a given scenario, taking into account requirements for performance.
 
-Technologies to increase performance may include a caching layer such as Amazon ElastiCache,
-Amazon DynamoDB DAX, or Amazon CloudFront and you must be able to select the best service to
-use in the situation presented.
+Technologies to increase performance may include a caching layer such as Amazon ElastiCache, Amazon DynamoDB DAX, or Amazon CloudFront and you must be able to select the best service to use in the situation presented.
 
-You must know how to effectively implement elasticity and scalability to your application
-architectures. This means understanding at an architectural and implementation level what to use
-and how to build it.
+You must know how to effectively implement elasticity and scalability to your application architectures. This means understanding at an architectural and implementation level what to use and how to build it.
 
-Elasticity and scalability services you need to understand, include AWS Auto Scaling, EC2 Auto
-Scaling, and how to implement these features at the application, storage, and database layers of
-your application using AWS technology.
+Elasticity and scalability services you need to understand, include AWS Auto Scaling, EC2 Auto Scaling, and how to implement these features at the application, storage, and database layers of your application using AWS technology.
 
 **Example Questions**
 
 
-**Question:** A developer is creating a solution for a real-time bidding application for a large retail
-company that allows users to bid on items of end-of-season clothing. The application is expected to
-be extremely popular and the back-end DynamoDB database may not perform as required.
+**Question:** A developer is creating a solution for a real-time bidding application for a large retail company that allows users to bid on items of end-of-season clothing. The application is expected to be extremely popular and the back-end DynamoDB database may not perform as required.
 
 How can the Solutions Architect enable in-memory read performance with microsecond response
 times for the DynamoDB database?
@@ -456,13 +389,9 @@ times for the DynamoDB database?
 3. Increase the provisioned throughput
 4. Configure Amazon DAX
 
-**Answer:** 4, Amazon DynamoDB Accelerator (DAX) is a fully managed, highly available, in-memory
-cache for DynamoDB that delivers up to a 10x performance improvement – from milliseconds to
-microseconds – even at millions of requests per second. You can enable DAX for a DynamoDB
-database with a few clicks.
+**Answer:** 4, Amazon DynamoDB Accelerator (DAX) is a fully managed, highly available, in-memory cache for DynamoDB that delivers up to a 10x performance improvement – from milliseconds to microseconds – even at millions of requests per second. You can enable DAX for a DynamoDB database with a few clicks.
 
-**Question:** A Solutions Architect is designing a workload that requires a high-performance object-
-based storage system that must be shared with multiple Amazon EC2 instances.
+**Question:** A Solutions Architect is designing a workload that requires a high-performance object- based storage system that must be shared with multiple Amazon EC2 instances.
 
 Which AWS service delivers these requirements?
 
@@ -471,9 +400,7 @@ Which AWS service delivers these requirements?
 3. Amazon EBS
 4. Amazon ElastiCache
 
-**Answer:** 1, Amazon S3 is an object-based storage system. Though object storage systems aren’t
-mounted and shared like filesystems or block-based storage systems, they can be shared by
-multiple instances as they allow concurrent access.
+**Answer:** 1, Amazon S3 is an object-based storage system. Though object storage systems aren’t mounted and shared like filesystems or block-based storage systems, they can be shared by multiple instances as they allow concurrent access.
 
 **Test Domain 3: Design Secure Applications and Architectures**
 
@@ -487,35 +414,21 @@ This domain makes up 24% of the exam and includes the following three objectives
 
 **What you need to know**
 
-You need to understand how to use native AWS technologies and solution architecture to create
-secure applications. This includes configuring security controls for authentication, authorization,
-and access and applying encryption to data.
+You need to understand how to use native AWS technologies and solution architecture to create secure applications. This includes configuring security controls for authentication, authorization, and access and applying encryption to data.
 
-You need to know how to design isolation and separation through AWS service architecture,
-Amazon EC2 instance deployment options and Amazon VPC configuration.
+You need to know how to design isolation and separation through AWS service architecture, Amazon EC2 instance deployment options and Amazon VPC configuration.
 
-It is also recommended to understand the best practices for implementing services in the most
-secure manner and best practices for creating users, groups, and roles using AWS IAM. Which
-services can use multi-factor authentication is also required knowledge and you should understand
-the available AWS Directory Services at a high-level and when to use them.
+It is also recommended to understand the best practices for implementing services in the most secure manner and best practices for creating users, groups, and roles using AWS IAM. Which services can use multi-factor authentication is also required knowledge and you should understand the available AWS Directory Services at a high-level and when to use them.
 
+Questions often come up asking you to identify which technologies include DDoS mitigation and these include AWS Auto Scaling, Amazon CloudFront, and Amazon Route 53.
 
-Questions often come up asking you to identify which technologies include DDoS mitigation and
-these include AWS Auto Scaling, Amazon CloudFront, and Amazon Route 53.
+You should also know how to implement monitoring and logging using Amazon CloudWatch and AWS CloudTrail, when and what penetration testing you are allowed to perform within the AWS cloud and what compliance programs AWS comply with.
 
-You should also know how to implement monitoring and logging using Amazon CloudWatch and
-AWS CloudTrail, when and what penetration testing you are allowed to perform within the AWS
-cloud and what compliance programs AWS comply with.
-
-Technologies you need to know for domain 3 include Amazon VPC, AWS KMS, AWS CloudHSM, AWS
-IAM, Amazon Cognito, and AWS Directory Services.
+Technologies you need to know for domain 3 include Amazon VPC, AWS KMS, AWS CloudHSM, AWS IAM, Amazon Cognito, and AWS Directory Services.
 
 **Example Questions**
 
-**Question:** The development team at your company have created a new mobile application that will
-be used by users to access confidential data. The developers have used Amazon Cognito for
-authentication, authorization, and user management. Due to the sensitivity of the data, there is a
-requirement to add another method of authentication in addition to a username and password.
+**Question:** The development team at your company have created a new mobile application that will be used by users to access confidential data. The developers have used Amazon Cognito for authentication, authorization, and user management. Due to the sensitivity of the data, there is a requirement to add another method of authentication in addition to a username and password.
 
 You have been asked to recommend the best solution. What is your recommendation?
 
@@ -524,14 +437,9 @@ You have been asked to recommend the best solution. What is your recommendation?
 3. Integrate a third-party identity provider (IdP)
 4. Use multi-factor authentication (MFA) with a Cognito user pool
 
-**Answer:** 4, You can use MFA with a Cognito user pool (not in IAM) and this satisfies the
-requirement. A user pool is a user directory in Amazon Cognito. With a user pool, your users can
-sign-in to your web or mobile app through Amazon Cognito. Your users can also sign-in through
-social identity providers like Facebook or Amazon, and through SAML identity providers.
+**Answer:** 4, You can use MFA with a Cognito user pool (not in IAM) and this satisfies the requirement. A user pool is a user directory in Amazon Cognito. With a user pool, your users can sign-in to your web or mobile app through Amazon Cognito. Your users can also sign-in through social identity providers like Facebook or Amazon, and through SAML identity providers.
 
-**Question:** You have been asked to come up with a solution for providing single sign-on to existing
-staff in your company who manage on-premise web applications and now need access to the AWS
-management console to manage resources in the AWS cloud.
+**Question:** You have been asked to come up with a solution for providing single sign-on to existing staff in your company who manage on-premise web applications and now need access to the AWS management console to manage resources in the AWS cloud.
 
 Which product combinations provide the best solution to achieve this requirement?
 
@@ -540,12 +448,7 @@ Which product combinations provide the best solution to achieve this requirement
 3. Use the AWS Secure Token Service (STS) and SAML
 4. Use IAM and Amazon Cognito
 
-**Answer:** 3, Single sign-on using federation allows users to log-in to the AWS console without
-assigning IAM credentials. The AWS Security Token Service (STS) is a web service that enables you
-to request temporary, limited-privilege credentials for IAM users or for users that you authenticate
-(such as federated users from an on-premise directory). Federation (typically Active Directory) uses
-SAML 2.0 for authentication and grants temporary access based on the users’ AD credentials. The
-user does not need to be a user in IAM.
+**Answer:** 3, Single sign-on using federation allows users to log-in to the AWS console without assigning IAM credentials. The AWS Security Token Service (STS) is a web service that enables you to request temporary, limited-privilege credentials for IAM users or for users that you authenticate (such as federated users from an on-premise directory). Federation (typically Active Directory) uses SAML 2.0 for authentication and grants temporary access based on the users’ AD credentials. The user does not need to be a user in IAM.
 
 **Test Domain 4: Design Cost-Optimized Architectures**
 
@@ -553,51 +456,37 @@ This domain makes up 18% of the exam and includes the following objectives:
 
 4.1 Identify cost-effective storage solutions.
 
-
 4.2 Identify cost-effective compute and database service.
 
 4.3 Design cost-optimized network architectures.
 
 **What you need to know**
 
-A relatively small but still important area of the exam requires architects to consider cost-
-effectiveness when deploying application on AWS. You need to understand the various cost models
-of compute and storage services, what you pay for and what the best choices would be given a
-specific scenario.
+A relatively small but still important area of the exam requires architects to consider cost- effectiveness when deploying application on AWS. You need to understand the various cost models of compute and storage services, what you pay for and what the best choices would be given a specific scenario.
 
 **Example Questions**
 
-**Question:** You need to run a production batch process quickly that will use several EC2 instances.
-The process cannot be interrupted and must be completed within a short time period.
+**Question:** You need to run a production batch process quickly that will use several EC2 instances.  The process cannot be interrupted and must be completed within a short time period.
 
-What is likely to be the MOST cost-effective choice of EC2 instance type to use for this
-requirement?
+What is likely to be the MOST cost-effective choice of EC2 instance type to use for this requirement?
 
 1. Reserved instances
 2. Spot instances
 3. On-demand instances
 4. Flexible instances
 
-**Answer:** 3, the key requirements here are that you need to deploy several EC2 instances quickly to
-run the batch process and you must ensure that the job completes. The on-demand pricing model is
-the best for this ad-hoc requirement. Though spot pricing may be cheaper, you cannot afford to risk
-that the instances are terminated by AWS when the market price increases.
+**Answer:** 3, the key requirements here are that you need to deploy several EC2 instances quickly to run the batch process and you must ensure that the job completes. The on-demand pricing model is the best for this ad-hoc requirement. Though spot pricing may be cheaper, you cannot afford to risk that the instances are terminated by AWS when the market price increases.
 
-**Question:** An Architect is designing a serverless application that will accept images uploaded by
-users from around the world. The application will make API calls to back-end services and save the
-session state data of the user to a database.
+**Question:** An Architect is designing a serverless application that will accept images uploaded by users from around the world. The application will make API calls to back-end services and save the session state data of the user to a database.
 
-Which combination of services would provide a solution that is cost-effective while delivering the
-least latency?
+Which combination of services would provide a solution that is cost-effective while delivering the least latency?
 
 1. Amazon CloudFront, API Gateway, Amazon S3, AWS Lambda, DynamoDB
 2. API Gateway, Amazon S3, AWS Lambda, DynamoDB
 3. Amazon CloudFront, API Gateway, Amazon S3, AWS Lambda, Amazon RDS
 4. Amazon S3, API Gateway, AWS Lambda, Amazon RDS
 
-**Answer:** 1, Amazon CloudFront caches content closer to users at Edge locations around the world.
-This is the lowest latency option for uploading content. API Gateway and AWS Lambda are present
-in all options. DynamoDB can be used for storing session state data
+**Answer:** 1, Amazon CloudFront caches content closer to users at Edge locations around the world.  This is the lowest latency option for uploading content. API Gateway and AWS Lambda are present in all options. DynamoDB can be used for storing session state data
 
 
 ## COMPUTE
@@ -606,54 +495,40 @@ in all options. DynamoDB can be used for storing session state data
 
 **GENERAL**
 
-Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute
-capacity in the cloud. It is designed to make web-scale computing easier for developers.
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale computing easier for developers.
 
 With Amazon EC2 you launch virtual server instances on the AWS cloud.
 
 Each virtual server is known as an “instance”.
 
-You are limited to running up to a total of 20 On-Demand instances across the instance family,
-purchasing 20 Reserved Instances, and requesting Spot Instances per your dynamic spot limit per
-region (by default).
+You are limited to running up to a total of 20 On-Demand instances across the instance family, purchasing 20 Reserved Instances, and requesting Spot Instances per your dynamic spot limit per region (by default).
 
-AWS are transitioning to a vCPU based, rather than instance based, limit. This is currently being
-rolled out and may not feature on the exam yet.
+AWS are transitioning to a vCPU based, rather than instance based, limit. This is currently being rolled out and may not feature on the exam yet.
 
-Amazon EC2 currently supports a variety of operating systems including: Amazon Linux, Ubuntu,
-Windows Server, Red Hat Enterprise Linux, SUSE Linux Enterprise Server, Fedora, Debian, CentOS,
-Gentoo Linux, Oracle Linux, and FreeBSD.
+Amazon EC2 currently supports a variety of operating systems including: Amazon Linux, Ubuntu, Windows Server, Red Hat Enterprise Linux, SUSE Linux Enterprise Server, Fedora, Debian, CentOS, Gentoo Linux, Oracle Linux, and FreeBSD.
 
-EC2 compute units (ECU) provide the relative measure of the integer processing power of an
-Amazon EC2 instance.
+EC2 compute units (ECU) provide the relative measure of the integer processing power of an Amazon EC2 instance.
 
 With EC2 you have full control at the operating system layer.
 
 **Key pairs are used to securely connect to EC2 instances:**
 
 - A key pair consists of a **public key** that AWS stores, and a **private key file** that you store.
-- For Windows AMIs, the private key file is required to obtain the password used to log into
-    your instance.
-- For Linux AMIs, the private key file allows you to securely SSH (secure shell) into your
-    instance.
+- For Windows AMIs, the private key file is required to obtain the password used to log into your instance.
+- For Linux AMIs, the private key file allows you to securely SSH (secure shell) into your instance.
 
 **Metadata and User Data:**
 
 - User data is data that is supplied by the user at instance launch in the form of a script.
-- Instance metadata is data about your instance that you can use to configure or manage the
-    running instance.
+- Instance metadata is data about your instance that you can use to configure or manage the running instance.
 - User data is limited to 16KB.
 - User data and metadata are not encrypted.
-- Instance metadata is available at [http://169.254.169.254/latest/meta-data/](http://169.254.169.254/latest/meta-data/) (the trailing “/”
-    is required).
+- Instance metadata is available at [http://169.254.169.254/latest/meta-data/](http://169.254.169.254/latest/meta-data/) (the trailing “/” is required).
 - Instance user data is available at: [http://169.254.169.254/latest/user-data.](http://169.254.169.254/latest/user-data.)
 - The IP address 169.254.169.254 is a link-local address and is valid only from the instance.
 - On Linux you can use the curl command to view metadata and userdata, e.g.
     “curl [http://169.254.169.254/latest/meta-data/”.](http://169.254.169.254/latest/meta-data/”.)
-
-
-- The Instance Metadata Query tool allows you to query the instance metadata without
-    having to type out the full URI or category names.
+- The Instance Metadata Query tool allows you to query the instance metadata without having to type out the full URI or category names.
 
 **BILLING AND PROVISIONING**
 
@@ -666,50 +541,32 @@ With EC2 you have full control at the operating system layer.
 
 **Spot:**
 
-- Amazon EC2 Spot Instances let you take advantage of unused EC2 capacity in the AWS
-    cloud.
+- Amazon EC2 Spot Instances let you take advantage of unused EC2 capacity in the AWS cloud.
 - Spot Instances are available at up to a 90% discount compared to On-Demand prices.
-- You can use Spot Instances for various stateless, fault-tolerant, or flexible applications such
-    as big data, containerized workloads, CI/CD, web servers, high-performance computing
-    (HPC), and other test & development workloads.
-- You can request Spot Instances by using the Spot management console, CLI, API or the same
-    interface that is used for launching On-Demand instances by indicating the option to use
-    Spot.
-- You can also select a Launch Template or a pre-configured or custom Amazon Machine
-    Image (AMI), configure security and network access to your Spot instance, choose from
-    multiple instance types and locations, use static IP endpoints, and attach persistent block
-    storage to your Spot instances.
-- **New pricing model:** The Spot price is determined by long term trends in supply and demand
-    for EC2 spare capacity.
-- You don’t have to bid for Spot Instances in the new pricing model, and you just pay the Spot
-    price that’s in effect for the current hour for the instances that you launch.
-- Spot Instances receive a two-minute interruption notice when these instances are about to
-    be reclaimed by EC2, because EC2 needs the capacity back.
+- You can use Spot Instances for various stateless, fault-tolerant, or flexible applications such as big data, containerized workloads, CI/CD, web servers, high-performance computing (HPC), and other test & development workloads.
+- You can request Spot Instances by using the Spot management console, CLI, API or the same interface that is used for launching On-Demand instances by indicating the option to use Spot.
+- You can also select a Launch Template or a pre-configured or custom Amazon Machine Image (AMI), configure security and network access to your Spot instance, choose from multiple instance types and locations, use static IP endpoints, and attach persistent block storage to your Spot instances.
+
+**New pricing model:**
+
+- The Spot price is determined by long term trends in supply and demand for EC2 spare capacity.
+- You don’t have to bid for Spot Instances in the new pricing model, and you just pay the Spot price that’s in effect for the current hour for the instances that you launch.
+- Spot Instances receive a two-minute interruption notice when these instances are about to be reclaimed by EC2, because EC2 needs the capacity back.
 - Instances are not interrupted because of higher competing bids.
-- To reduce the impact of interruptions and optimize Spot Instances, diversify and run your
-    application across multiple capacity pools.
-- Each instance family, each instance size, in each Availability Zone, in every Region is a
-    separate Spot pool.
-- You can use the RequestSpotFleet API operation to launch thousands of Spot Instances and
-    diversify resources automatically.
-- To further reduce the impact of interruptions, you can also set up Spot Instances and Spot
-    Fleets to respond to an interruption notice by stopping or hibernating rather than
-    terminating instances when capacity is no longer available.
+- To reduce the impact of interruptions and optimize Spot Instances, diversify and run your application across multiple capacity pools.
+- Each instance family, each instance size, in each Availability Zone, in every Region is a separate Spot pool.
+- You can use the RequestSpotFleet API operation to launch thousands of Spot Instances and diversify resources automatically.
+- To further reduce the impact of interruptions, you can also set up Spot Instances and Spot Fleets to respond to an interruption notice by stopping or hibernating rather than terminating instances when capacity is no longer available.
 
 **Reserved:**
 
-- Purchase (or agree to purchase) usage of EC2 instances in advance for significant discounts
-    over On-Demand pricing.
-
-
+- Purchase (or agree to purchase) usage of EC2 instances in advance for significant discounts over On-Demand pricing.
 - Provides a capacity reservation when used in a specific AZ.
-- AWS Billing automatically applies discounted rates when you launch an instance that
-    matches your purchased RI.
+- AWS Billing automatically applies discounted rates when you launch an instance that matches your purchased RI.
 - Capacity is reserved for a term of 1 or 3 years.
 - EC2 has three RI types: Standard, Convertible, and Scheduled.
 - Standard = commitment of 1 or 3 years, charged whether it’s on or off.
-- Scheduled = reserved for specific periods of time, accrue charges hourly, billed in monthly
-    increments over the term (1 year).
+- Scheduled = reserved for specific periods of time, accrue charges hourly, billed in monthly increments over the term (1 year).
 - Scheduled RIs match your capacity reservation to a predictable recurring schedule.
 - For the differences between standard and convertible RIs, see the table below.
 - RIs are used for steady state workloads and predictable usage.
@@ -731,14 +588,14 @@ With EC2 you have full control at the operating system layer.
 - Instance type – designates CPU, memory, networking capability.
 - Platform – Linux, SUSE Linux, RHEL, Microsoft Windows, Microsoft SQL Server.
 - Tenancy – Default (shared) tenancy, or Dedicated tenancy.
-- Availability Zone (optional) – if AZ is selected, RI is reserved, and discount applies to that AZ
-    (Zonal RI). If no AZ is specified, no reservation is created but the discount is applied to any
-
+- Availability Zone (optional) – if AZ is selected, RI is reserved, and discount applies to that AZ (Zonal RI). If no AZ is specified, no reservation is created but the discount is applied to any
 
 ```
 instance in the family in any AZ in the region (Regional RI).
 ```
+
 **Comparing Amazon EC2 Pricing Models**
+<!-- TODO -->
 
 The following table provides a brief comparison of On-demand, Reserved and Spot pricing models:
 
@@ -767,6 +624,7 @@ compute intensive use cases
 that can withstand
 interruption
 ```
+
 **Dedicated hosts:**
 
 - Physical servers dedicated just for your use.
@@ -785,8 +643,7 @@ interruption
 
 - Virtualized instances on hardware just for you.
 - Also uses physically dedicated EC2 servers.
-- Does not provide the additional visibility and controls of dedicated hosts (e.g. how instance
-    are placed on a server).
+- Does not provide the additional visibility and controls of dedicated hosts (e.g. how instance are placed on a server).
 - Billing is per instance.
 - May share hardware with other non-dedicated instances in the same account.
 - Available as On-Demand, Reserved Instances, and Spot Instances.
@@ -794,7 +651,6 @@ interruption
 
 The following table describes some of the differences between dedicated instances and dedicated
 hosts:
-
 
 Partial instance-
 hours consumed are billed based on instance usage.
@@ -808,20 +664,16 @@ Data between instances in different regions is charged (in and out).
 Regional Data Transfer rates apply if at least one of the following is true, but are only charged once
 for a given instance even if both are true:
 
-- The other instance is in a different Availability Zone, regardless of which type of address is
-    used.
-- Public or Elastic IP addresses are used, regardless of which Availability Zone the other
-    instance is in.
+- The other instance is in a different Availability Zone, regardless of which type of address is used.
+- Public or Elastic IP addresses are used, regardless of which Availability Zone the other instance is in.
 
 **INSTANCE TYPES**
 
 Amazon EC2 provides a wide selection of instance types optimized to fit different use cases.
 
-Instance types comprise varying combinations of CPU, memory, storage, and networking capacity
-and give you the flexibility to choose the appropriate mix of resources for your applications.
+Instance types comprise varying combinations of CPU, memory, storage, and networking capacity and give you the flexibility to choose the appropriate mix of resources for your applications.
 
-Each instance type includes one or more instance sizes, allowing you to scale your resources to the
-requirements of your target workload.
+Each instance type includes one or more instance sizes, allowing you to scale your resources to the requirements of your target workload.
 
 
 **Options when launching Instances**
@@ -830,13 +682,11 @@ Choose whether to auto-assign a public IP – default is to use the subnet setti
 
 Can add an instance to a placement group.
 
-Instances can be assigned to IAM roles which configures them with credentials to access AWS
-resources.
+Instances can be assigned to IAM roles which configures them with credentials to access AWS resources.
 
 Termination protection can be enabled and prevents you from terminating an instance.
 
-Basic monitoring is enabled by default ( 5 - minute periods), detailed monitoring can be enabled (1
-minute periods, chargeable).
+Basic monitoring is enabled by default ( 5 - minute periods), detailed monitoring can be enabled (1 minute periods, chargeable).
 
 Can define shared or dedicated tenancy.
 
@@ -858,7 +708,6 @@ There is an option to create tags (or can be done later).
 
 You can select an existing security group or create a new one.
 
-
 You must create or use an existing key pair – this is required.
 
 #### AMAZON MACHINE IMAGES
@@ -867,21 +716,16 @@ An Amazon Machine Image (AMI) provides the information required to launch an ins
 
 An AMI includes the following:
 
-- A template for the root volume for the instance (for example, an operating system, an
-    application server, and applications).
+- A template for the root volume for the instance (for example, an operating system, an application server, and applications).
 - Launch permissions that control which AWS accounts can use the AMI to launch instances.
-- A block device mapping that specifies the volumes to attach to the instance when it’s
-    launched.
+- A block device mapping that specifies the volumes to attach to the instance when it’s launched.
 
-AMIs are regional. You can only launch an AMI from the region in which it is stored. However, you
-can copy AMI’s to other regions using the console, command line, or the API.
+AMIs are regional. You can only launch an AMI from the region in which it is stored. However, you can copy AMI’s to other regions using the console, command line, or the API.
 
 Volumes attached to the instance are either EBS or Instance store:
 
-- Amazon Elastic Block Store (EBS) provides persistent storage. EBS snapshots, which reside on
-    Amazon S3, are used to create the volume.
-- Instance store volumes are ephemeral (non-persistent). That means data is lost if the instance
-    is shut down. A template stored on Amazon S3 is used to create the volume.
+- Amazon Elastic Block Store (EBS) provides persistent storage. EBS snapshots, which reside on Amazon S3, are used to create the volume.
+- Instance store volumes are ephemeral (non-persistent). That means data is lost if the instance is shut down. A template stored on Amazon S3 is used to create the volume.
 
 **NETWORKING**
 
@@ -892,20 +736,17 @@ Networking Limits (per Region or as Specified):
 
 There are three types of IP address that can be assigned to an Amazon EC2 instance:
 
-- Public – public address that is assigned automatically to instances in public subnets and
-    reassigned if instance is stopped/started.
+- Public – public address that is assigned automatically to instances in public subnets and reassigned if instance is stopped/started.
 - Private – private address assigned automatically to all instances.
 - Elastic IP – public address that is static.
 
-Public IPv4 addresses are lost when the instance is stopped but private addresses (IPv4 and IPv6)
-are retained.
+Public IPv4 addresses are lost when the instance is stopped but private addresses (IPv4 and IPv6) are retained.
 
 Public IPv4 addresses are retained if you restart the instance.
 
 Elastic IPs are retained when the instance is stopped.
 
-Elastic IP addresses are static public IP addresses that can be remapped (moved) between
-instances.
+Elastic IP addresses are static public IP addresses that can be remapped (moved) between instances.
 
 All accounts are limited to 5 elastic IP’s per region by default.
 
@@ -915,7 +756,6 @@ An Elastic IP address is for use in a specific region only.
 
 You can assign custom tags to your Elastic IP addresses to categorize them.
 
-
 By default, EC2 instances come with a private IP assigned to the primary network interface (eth0).
 
 Public IP addresses are assigned for instances in public subnets (VPC).
@@ -924,8 +764,7 @@ Public IP addresses are always assigned for instances in EC2-Classic.
 
 DNS records for elastic IP’s can be configured by filling out a form.
 
-Secondary IP addresses can be useful for hosting multiple websites on a server or redirecting traffic
-to a standby EC2 instance for HA.
+Secondary IP addresses can be useful for hosting multiple websites on a server or redirecting traffic to a standby EC2 instance for HA.
 
 You can choose whether secondary IP addresses can be reassigned.
 
@@ -933,23 +772,19 @@ You can associate a single private IPv4 address with a single Elastic IP address
 
 When reassigned the IPv4 to Elastic IP association is maintained.
 
-When a secondary private address is unassigned from an interface, the associated Elastic IP address
-is disassociated.
+When a secondary private address is unassigned from an interface, the associated Elastic IP address is disassociated.
 
 You can assign or remove IP addresses from EC2 instances while they are running or stopped.
 
-All IP addresses (IPv4 and IPv6) remain attached to the network interface when detached or
-reassigned to another instance.
+All IP addresses (IPv4 and IPv6) remain attached to the network interface when detached or reassigned to another instance.
 
-You can attach a network interface to an instance in a different subnet as long as it’s within the
-same AZ.
+You can attach a network interface to an instance in a different subnet as long as it’s within the same AZ.
 
 The following table compares the different types of IP address available in Amazon EC2:
 
 **Elastic Network Interfaces**
 
-An elastic network interface (referred to as a network interface in this documentation) is a logical
-networking component in a VPC that represents a virtual network card.
+An elastic network interface (referred to as a network interface in this documentation) is a logical networking component in a VPC that represents a virtual network card.
 
 **A network interface can include the following attributes:**
 
@@ -971,8 +806,7 @@ You cannot team by adding ENIs to an instance.
 
 eth0 is the primary network interface and cannot be moved or detached.
 
-By default, eth0 is the only Elastic Network Interface (ENI) created with an EC2 instance when
-launched.
+By default, eth0 is the only Elastic Network Interface (ENI) created with an EC2 instance when launched.
 
 You can add additional interfaces to EC2 instances (number dependent on instances family/type).
 
@@ -988,8 +822,7 @@ ENIs can be “warm-attached” when the instance is stopped.
 
 ENIs can be “cold-attached” when the instance is launched.
 
-If you add a second interface AWS will not assign a public IP address to eth0 (you would need to add
-an Elastic IP).
+If you add a second interface AWS will not assign a public IP address to eth0 (you would need to add an Elastic IP).
 
 Default interfaces are terminated with instance termination.
 
@@ -999,19 +832,15 @@ You can change the termination behavior.
 
 **ENHANCED NETWORKING – ELASTIC NETWORK ADAPTER (ENA)**
 
-Enhanced networking provides higher bandwidth, higher packet-per-second (PPS) performance,
-and consistently lower inter-instance latencies.
+Enhanced networking provides higher bandwidth, higher packet-per-second (PPS) performance, and consistently lower inter-instance latencies.
 
 Enhanced networking is enabled using an Elastic Network Adapter (ENA).
 
-If your packets-per-second rate appears to have reached its ceiling, you should consider moving to
-enhanced networking because you have likely reached the upper thresholds of the VIF driver.
+If your packets-per-second rate appears to have reached its ceiling, you should consider moving to enhanced networking because you have likely reached the upper thresholds of the VIF driver.
 
 AWS currently supports enhanced networking capabilities using SR-IOV.
 
-SR-IOV provides direct access to network adapters, provides higher performance (packets-per-
-second) and lower latency.
-
+SR-IOV provides direct access to network adapters, provides higher performance (packets-per- second) and lower latency.
 
 Must launch an HVM AMI with the appropriate drivers.
 
@@ -1023,27 +852,19 @@ Only supported in VPC.
 
 An Elastic Fabric Adapter is an AWS Elastic Network Adapter (ENA) with added capabilities.
 
-An EFA can still handle IP traffic, but also supports an important access model commonly called OS
-bypass.
+An EFA can still handle IP traffic, but also supports an important access model commonly called OS bypass.
 
-This model allows the application (most commonly through some user-space middleware) access
-the network interface without having to get the operating system involved with each message.
+This model allows the application (most commonly through some user-space middleware) access the network interface without having to get the operating system involved with each message.
 
-Elastic Fabric Adapter (EFA) is a network interface for Amazon EC2 instances that enables customers
-to run applications requiring high levels of inter-node communications at scale on AWS.
+Elastic Fabric Adapter (EFA) is a network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale on AWS.
 
-Its custom-built operating system (OS) bypass hardware interface enhances the performance of
-inter-instance communications, which is critical to scaling these applications.
+Its custom-built operating system (OS) bypass hardware interface enhances the performance of inter-instance communications, which is critical to scaling these applications.
 
-With EFA, High Performance Computing (HPC) applications using the Message Passing Interface
-(MPI) and Machine Learning (ML) applications using NVIDIA Collective Communications Library
-(NCCL) can scale to thousands of CPUs or GPUs.
+With EFA, High Performance Computing (HPC) applications using the Message Passing Interface (MPI) and Machine Learning (ML) applications using NVIDIA Collective Communications Library (NCCL) can scale to thousands of CPUs or GPUs.
 
-As a result, you get the application performance of on-premises HPC clusters with the on-demand
-elasticity and flexibility of the AWS cloud.
+As a result, you get the application performance of on-premises HPC clusters with the on-demand elasticity and flexibility of the AWS cloud.
 
-EFA is available as an optional EC2 networking feature that you can enable on any supported EC2
-instance at no additional cost.
+EFA is available as an optional EC2 networking feature that you can enable on any supported EC2 instance at no additional cost.
 
 **ENI VS ENA VS EFA**
 
@@ -1070,39 +891,29 @@ Placement groups are a logical grouping of instances in one of the following con
 
 **Cluster** – clusters instances into a low-latency group in a single AZ:
 
-
 - A cluster placement group is a logical grouping of instances within a single Availability Zone.
-- Cluster placement groups are recommended for applications that benefit from low network
-    latency, high network throughput, or both, and if the majority of the network traffic is
-    between the instances in the group.
+- Cluster placement groups are recommended for applications that benefit from low network latency, high network throughput, or both, and if the majority of the network traffic is between the instances in the group.
 
 **Spread** – spreads instances across underlying hardware (can span AZs):
 
-- A spread placement group is a group of instances that are each placed on distinct underlying
-    hardware.
-- Spread placement groups are recommended for applications that have a small number of
-    critical instances that should be kept separate from each other.
+- A spread placement group is a group of instances that are each placed on distinct underlying hardware.
+- Spread placement groups are recommended for applications that have a small number of critical instances that should be kept separate from each other.
 
 **Partition** — divides each group into logical segments called partitions:
 
 - Amazon EC2 ensures that each partition within a placement group has its own set of racks.
-- Each rack has its own network and power source. No two partitions within a placement
-    group share the same racks, allowing you to isolate the impact of hardware failure within
-    your application.
-- Partition placement groups can be used to deploy large distributed and replicated
-    workloads, such as HDFS, HBase, and Cassandra, across distinct racks.
+- Each rack has its own network and power source. No two partitions within a placement group share the same racks, allowing you to isolate the impact of hardware failure within your application.
+- Partition placement groups can be used to deploy large distributed and replicated workloads, such as HDFS, HBase, and Cassandra, across distinct racks.
 
 The table below describes some key differences between clustered and spread placement groups:
 
-Launching instances in a spread placement group reduces the risk of simultaneous failures that
-might occur when instances share the same underlying hardware.
+Launching instances in a spread placement group reduces the risk of simultaneous failures that might occur when instances share the same underlying hardware.
 
 Recommended for applications that benefit from low latency and high bandwidth.
 
 Recommended to use an instance type that supports enhanced networking.
 
-Instances within a placement group can communicate with each other using private or public IP
-addresses.
+Instances within a placement group can communicate with each other using private or public IP addresses.
 
 Best performance is achieved when using private IP addresses.
 
@@ -1113,20 +924,15 @@ Low-latency 10 Gbps or 25 Gbps network.
 
 Recommended to keep instance types homogenous within a placement group.
 
-Can use reserved instances at an instance level but cannot reserve capacity for the placement
-group.
+Can use reserved instances at an instance level but cannot reserve capacity for the placement group.
 
-The name you specify for a placement group must be unique within your AWS account for the
-Region.
+The name you specify for a placement group must be unique within your AWS account for the Region.
 
 You can’t merge placement groups.
 
-An instance can be launched in one placement group at a time; it cannot span multiple placement
-groups.
+An instance can be launched in one placement group at a time; it cannot span multiple placement groups.
 
-On-Demand Capacity Reservation and zonal Reserved Instances provide a capacity reservation for
-EC2 instances in a specific Availability Zone. The capacity reservation can be used by instances in a
-placement group. However, it is not possible to explicitly reserve capacity for a placement group.
+On-Demand Capacity Reservation and zonal Reserved Instances provide a capacity reservation for EC2 instances in a specific Availability Zone. The capacity reservation can be used by instances in a placement group. However, it is not possible to explicitly reserve capacity for a placement group.
 
 Instances with a tenancy of host cannot be launched in placement groups.
 
@@ -1147,8 +953,7 @@ IAM roles are universal and can be used in any region.
 
 **BASTION/JUMP HOSTS**
 
-You can configure EC2 instances as bastion hosts (aka jump boxes) in order to access your VPC
-instances for management.
+You can configure EC2 instances as bastion hosts (aka jump boxes) in order to access your VPC instances for management.
 
 Can use the SSH or RDP protocols to connect to your bastion host.
 
@@ -1194,24 +999,19 @@ If all checks pass, the overall status of the instance is **OK.**
 
 If one or more checks fail, the overall status is **impaired.**
 
-System status checks detect (StatusCheckFailed_System) problems with your instance that require
-**AWS** involvement to repair.
+System status checks detect (StatusCheckFailed_System) problems with your instance that require **AWS** involvement to repair.
 
-Instance status checks (StatusCheckFailed_Instance) detect problems that require **your** involvement
-to repair.
+Instance status checks (StatusCheckFailed_Instance) detect problems that require **your** involvement to repair.
 
 Status checks are built into Amazon EC2, so they cannot be disabled or deleted.
 
-You can, however, create or delete alarms that are triggered based on the result of the status
-checks.
+You can, however, create or delete alarms that are triggered based on the result of the status checks.
 
-You can create Amazon CloudWatch alarms that monitor Amazon EC2 instances and automatically
-perform an action if the status check fails.
+You can create Amazon CloudWatch alarms that monitor Amazon EC2 instances and automatically perform an action if the status check fails.
 
 **Actions can include:**
 
-- Recover the instance (only supported on specific instance types and can be used only with
-    StatusCheckFailed_System).
+- Recover the instance (only supported on specific instance types and can be used only with StatusCheckFailed_System).
 - Stop the instance (only applicable to EBS-backed volumes).
 - Terminate the instance (cannot terminate if termination protection is enabled).
 - Reboot the instance.
@@ -1223,23 +1023,19 @@ It is a best practice to use EC2 to reboot instance rather than the OS (create a
 - Standard monitoring = 5 mins
 - Detailed monitoring = 1 min (chargeable)
 
-
 **TAGS**
 
 A tag is a label that you assign to an AWS resource.
 
 Used to manage AWS assets.
 
-Tags are just arbitrary name/value pairs that you can assign to virtually all AWS assets to serve as
-metadata.
+Tags are just arbitrary name/value pairs that you can assign to virtually all AWS assets to serve as metadata.
 
 Each tag consists of a key and an optional value, both of which you define.
 
-Tagging strategies can be used for cost allocation, security, automation, and many other uses. For
-example, you can use a tag in an IAM policy to implement access control.
+Tagging strategies can be used for cost allocation, security, automation, and many other uses. For example, you can use a tag in an IAM policy to implement access control.
 
-Enforcing standardized tagging can be done via AWS Config rules or custom scripts. For example,
-EC2 instances not properly tagged are stopped or terminated daily.
+Enforcing standardized tagging can be done via AWS Config rules or custom scripts. For example, EC2 instances not properly tagged are stopped or terminated daily.
 
 Most resources can have up to 50 tags.
 
@@ -1255,8 +1051,7 @@ Up-to-date AMIs are critical for rapid fail-over.
 
 AMIs can be copied to other regions for safety or DR staging.
 
-Horizontally scalable architectures are preferred because risk can be spread across multiple smaller
-machines versus one large machine.
+Horizontally scalable architectures are preferred because risk can be spread across multiple smaller machines versus one large machine.
 
 Reserved instances are the only way to guarantee that resources will be available when needed.
 
@@ -1317,16 +1112,13 @@ Extra non-boot volumes are not deleted on termination by default.
 
 The behavior can be changed by altering the “DeleteOnTermination” attribute.
 
-You can now create AMIs with encrypted root/boot volumes as well as data volumes (you can also
-use separate CMKs per volume).
+You can now create AMIs with encrypted root/boot volumes as well as data volumes (you can also use separate CMKs per volume).
 
 Volume sizes and types can be upgraded without downtime (except for magnetic standard).
 
-Elastic Volumes allow you to increase volume size, adjust performance, or change the volume type
-while the volume is in use.
+Elastic Volumes allow you to increase volume size, adjust performance, or change the volume type while the volume is in use.
 
-To migrate volumes between AZ’s create a snapshot then create a volume in another AZ from the
-snapshot (possible to change size and type).
+To migrate volumes between AZ’s create a snapshot then create a volume in another AZ from the snapshot (possible to change size and type).
 
 Auto-enable IO setting prevents the stopping of IO to a disk when AWS detects inconsistencies.
 
@@ -1336,19 +1128,15 @@ Magnetic EBS is for workloads that need throughput rather than IOPS.
 
 Throughput optimized EBS volumes cannot be a boot volume.
 
-Each instance that you launch has an associated root device volume, either an Amazon EBS volume
-or an instance store volume.
+Each instance that you launch has an associated root device volume, either an Amazon EBS volume or an instance store volume.
 
-You can use block device mapping to specify additional EBS volumes or instance store volumes to
-attach to an instance when it’s launched.
-
+You can use block device mapping to specify additional EBS volumes or instance store volumes to attach to an instance when it’s launched.
 
 You can also attach additional EBS volumes to a running instance.
 
 You cannot decrease an EBS volume size.
 
-When changing volumes, the new volume must be at least the size of the current volume’s
-snapshot.
+When changing volumes, the new volume must be at least the size of the current volume’s snapshot.
 
 Images can be made public but not if they’re encrypted.
 
