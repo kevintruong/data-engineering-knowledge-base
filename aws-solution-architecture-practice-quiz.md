@@ -187,9 +187,7 @@ AWS training resources.
 
 ### Connect with the AWS Community
 
-Our private Facebook group is a great place to ask questions and share knowledge and exam tips with the AWS community.
-Join the AWS Certification QA group on Facebook and share your exam feedback with the AWS
-community: https://www.facebook.com/groups/awscertificationqa
+Our private Facebook group is a great place to ask questions and share knowledge and exam tips with the AWS community. Join the AWS Certification QA group on Facebook and share your exam feedback with the AWS community: https://www.facebook.com/groups/awscertificationqa
 
 To join the discussion about all things related to Amazon Web Services on Slack, visit:
 [http://digitalcloud.training/slack](http://digitalcloud.training/slack) for instructions.
@@ -201,7 +199,10 @@ To learn about the different ways of connecting with Neal, visit: https://digita
 digitalcloud.training/neal-davis
 
 (^)
-youtube.com/c/digitalcloudtraining facebook.com/digitalcloudtraining Twitter @nealkdavis linkedin.com/in/nealkdavis
+youtube.com/c/digitalcloudtraining 
+facebook.com/digitalcloudtraining 
+Twitter @nealkdavis 
+linkedin.com/in/nealkdavis 
 Instagram @digitalcloudtraining
 
 ## Set 1: Practice Questions only

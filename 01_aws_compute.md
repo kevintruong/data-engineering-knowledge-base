@@ -48,8 +48,6 @@ With EC2 you have full control at the operating system layer.
 - Ideal for auto scaling groups and unpredictable workloads.
 - Good for dev/test.
 
-----
-
 **Spot:**
 
 - Amazon EC2 Spot Instances let you take advantage of unused EC2 capacity in the AWS cloud.
@@ -57,8 +55,6 @@ With EC2 you have full control at the operating system layer.
 - You can use Spot Instances for various stateless, fault-tolerant, or flexible applications such as big data, containerized workloads, CI/CD, web servers, high-performance computing (HPC), and other test & development workloads.
 - You can request Spot Instances by using the Spot management console, CLI, API or the same interface that is used for launching On-Demand instances by indicating the option to use Spot.
 - You can also select a Launch Template or a pre-configured or custom Amazon Machine Image (AMI), configure security and network access to your Spot instance, choose from multiple instance types and locations, use static IP endpoints, and attach persistent block storage to your Spot instances.
-
-----
 
 **New pricing model:**
 
@@ -70,8 +66,6 @@ With EC2 you have full control at the operating system layer.
 - Each instance family, each instance size, in each Availability Zone, in every Region is a separate Spot pool.
 - You can use the RequestSpotFleet API operation to launch thousands of Spot Instances and diversify resources automatically.
 - To further reduce the impact of interruptions, you can also set up Spot Instances and Spot Fleets to respond to an interruption notice by stopping or hibernating rather than terminating instances when capacity is no longer available.
-
----- 
 
 **Reserved:**
 
@@ -107,7 +101,6 @@ With EC2 you have full control at the operating system layer.
 - Tenancy – Default (shared) tenancy, or Dedicated tenancy.
 - Availability Zone (optional) – if AZ is selected, RI is reserved, and discount applies to that AZ (Zonal RI). If no AZ is specified, no reservation is created but the discount is applied to any instance in the family in any AZ in the region (Regional RI).
 
-----
 
 ##### **Comparing Amazon EC2 Pricing Models**
 
@@ -137,8 +130,6 @@ The following table provides a brief comparison of On-demand, Reserved and Spot 
 - Most expensive option.
 - Billing is per host.
 
-----
-
 **Dedicated instances:**
 
 - Virtualized instances on hardware just for you.
@@ -148,8 +139,6 @@ The following table provides a brief comparison of On-demand, Reserved and Spot 
 - May share hardware with other non-dedicated instances in the same account.
 - Available as On-Demand, Reserved Instances, and Spot Instances.
 - Cost additional $2 per hour per region.
-
-----
 
 The following table describes some of the differences between dedicated instances and dedicated hosts:
 ![img.png](assets/delicated_instance_vs_host_attributes.png)
@@ -261,7 +250,6 @@ AWS charge for elastic IP’s when they’re not being used.
 An Elastic IP address is for use in a specific region only.
 
 You can assign custom tags to your Elastic IP addresses to categorize them.
-
 
 By default, EC2 instances come with a private IP assigned to the primary network interface (eth0).
 
@@ -430,7 +418,6 @@ Instances within a placement group can communicate with each other using private
 
 ----
 
-
 Best performance is achieved when using private IP addresses.
 
 Using public IP addresses, the performance is limited to 5Gbps or less.
@@ -457,8 +444,7 @@ IAM roles are more secure than storing access keys and secret access keys on EC2
 
 IAM roles are easier to manage.
 
-You can attach an IAM role to an instance at launch time or at any time after by using the AWS CLI,
-SDK, or the EC2 console.
+You can attach an IAM role to an instance at launch time or at any time after by using the AWS CLI, SDK, or the EC2 console.
 
 IAM roles can be attached, modified, or replaced at any time.
 
@@ -567,25 +553,21 @@ Up-to-date AMIs are critical for rapid fail-over.
 
 AMIs can be copied to other regions for safety or DR staging.
 
-Horizontally scalable architectures are preferred because risk can be spread across multiple smaller machines versus one large machine.
+Horizontally scalable architectures are preferred because risk can be spread across multiple smaller machines versus one large machine. 
 
 Reserved instances are the only way to guarantee that resources will be available when needed.
 
-Auto Scaling and Elastic Load Balancing work together to provide automated recovery by
-maintaining minimum instances.
+Auto Scaling and Elastic Load Balancing work together to provide automated recovery by maintaining minimum instances.
 
 Route 53 health checks also provide “self-healing” redirection of traffic.
 
 #### **MIGRATION**
 
-AWS Server Migration Service (SMS) is an agent-less service which makes it easier and faster for you
-to migrate thousands of on-premises workloads to AWS.
+AWS Server Migration Service (SMS) is an agent-less service which makes it easier and faster for you to migrate thousands of on-premises workloads to AWS.
 
-AWS SMS allows you to automate, schedule, and track incremental replications of live server
-volumes, making it easier for you to coordinate large-scale server migrations.
+AWS SMS allows you to automate, schedule, and track incremental replications of live server volumes, making it easier for you to coordinate large-scale server migrations.
 
-Automates migration of on-premises VMware vSphere or Microsoft Hyper-V/SCVMM virtual
-machines to AWS.
+Automates migration of on-premises VMware vSphere or Microsoft Hyper-V/SCVMM virtual machines to AWS.
 
 Replicates VMs to AWS, syncing volumes and creating periodic AMIs.
 
@@ -594,8 +576,7 @@ Minimizes cutover downtime by syncing VMs incrementally.
 Supports Windows and Linux VMs only (just like AWS).
 
 
-The Server Migration Connector is downloaded as a virtual appliance into your on-premises vSphere
-or Hyper-V environments.
+The Server Migration Connector is downloaded as a virtual appliance into your on-premises vSphere or Hyper-V environments.
 
 ### Amazon EBS
 
@@ -619,8 +600,7 @@ EBS volumes must be in the same AZ as the instances they are attached to.
 
 EBS is designed for an annual failure rate of 0.1%-0.2% & an SLA of 99.95%.
 
-Termination protection is turned off by default and must be manually enabled (keeps the
-volume/data when the instance is terminated).
+Termination protection is turned off by default and must be manually enabled (keeps the volume/data when the instance is terminated).
 
 Root EBS volumes are deleted on termination by default.
 
@@ -1093,7 +1073,6 @@ Inbound to registered instances (Allow, either type of ELB).
 - Protocol: TCP.
 - Port: Health Check/Listener.
 
-
 **Outbound (Allow, for both types of ELB).**
 
 - Destination: ELB Security Group.
@@ -1387,15 +1366,12 @@ Target groups are used for registering instances against an ALB or NLB.
 
 Target groups are a regional construct.
 
-The following diagram shows how target groups can be used with host-based and target-based
-routing to route traffic to multiple websites, running on multiple ports, on a single EC2 instance:
+The following diagram shows how target groups can be used with host-based and target-based routing to route traffic to multiple websites, running on multiple ports, on a single EC2 instance:
 
 **The following attributes can be defined:**
 
-- Deregistration delay – the amount of time for Elastic Load Balancing to wait before
-    deregistering a target.
-- Slow start duration – the time period, in seconds, during which the load balancer sends a
-    newly registered target a linearly increasing share of the traffic to the target group.
+- Deregistration delay – the amount of time for Elastic Load Balancing to wait before deregistering a target.
+- Slow start duration – the time period, in seconds, during which the load balancer sends a newly registered target a linearly increasing share of the traffic to the target group.
 - Stickiness – indicates whether sticky sessions are enabled.
 
 The default settings for attributes are shown below:
@@ -1408,14 +1384,11 @@ Health checks are defined per target group.
 
 ALB can route to multiple target groups.
 
-You can register the same EC2 instance or IP address with the same target group multiple times
-using different ports (used for routing requests to micro-services).
+You can register the same EC2 instance or IP address with the same target group multiple times using different ports (used for routing requests to micro-services).
 
-If you register by instance ID the traffic is routed using the primary private IP address of the primary
-network interface.
+If you register by instance ID the traffic is routed using the primary private IP address of the primary network interface.
 
-If you register by IP address you can route traffic to an instance using any private address from one
-or more network interfaces.
+If you register by IP address you can route traffic to an instance using any private address from one or more network interfaces.
 
 You cannot mix different types within a target group (EC2, ECS, IP).
 
@@ -1439,29 +1412,22 @@ An EC2 instance can be registered with the same target group multiple times usin
 
 **Listener rules:**
 
-- Rules determine how the load balancer routes requests to the targets in one or more target
-    groups.
-- Each rule consists of a priority, one or more actions, an optional host condition, and an
-    optional path condition.
+- Rules determine how the load balancer routes requests to the targets in one or more target groups.
+- Each rule consists of a priority, one or more actions, an optional host condition, and an optional path condition.
 - Only one action can be configured per rule.
 - One or more rules are required.
 - Each listener has a default rule and you can optionally define additional rules.
 - Up to 100 rules per ALB.
 - Rules determine what action is taken when the rule matches the client request.
 - Rules are defined on listeners.
-- You can add rules that specify different target groups based on the content of the request
-    (content-based routing).
-- If no rules are found the default rule will be followed which directs traffic to the default
-    target groups.
+- You can add rules that specify different target groups based on the content of the request (content-based routing).
+- If no rules are found the default rule will be followed which directs traffic to the default target groups.
 
-The image below shows a ruleset with a host-based and path-based entry and a default rule at the
-end:
+The image below shows a ruleset with a host-based and path-based entry and a default rule at the end: 
 
 **Default rules:**
 
 - When you create a listener, you define an action for the default rule.
-
-
 - Default rules cannot have conditions.
 - You can delete the non-default rules for a listener at any time.
 - You cannot delete the default rule for a listener.
@@ -1598,7 +1564,7 @@ CloudWatch reports Network Load Balancer metrics.
 
 Enhanced logging – can use the Flow Logs feature to record all requests sent to your load balancer.
 
-### **AWS AUTO SCALING**
+### AWS AUTO SCALING
 
 #### **AMAZON EC2 AUTO SCALING**
 
@@ -1664,8 +1630,7 @@ You can attach one or more Target Groups to your ASG to include instances behind
 
 The ELBs must be in the same region.
 
-Once you do this any EC2 instance existing or added by the ASG will be automatically registered
-with the ASG defined ELBs.
+Once you do this any EC2 instance existing or added by the ASG will be automatically registered with the ASG defined ELBs.
 
 If adding an instance to an ASG would result in exceeding the maximum capacity of the ASG the request will fail.
 
@@ -1690,7 +1655,6 @@ The scaling options define the triggers and when instances should be provisioned
 - Dynamic – scale based on real-time system metrics (e.g. CloudWatch metrics).
 
 The following table describes the scaling options available and when to use them:
-
 
 The scaling options are configured through Scaling Policies which determine when, if, and how the ASG scales and shrinks.
 
@@ -1760,17 +1724,12 @@ Auto Scaling may go over the maximum number of instances by 10% temporarily for 
 - With ELB an instance is marked as unhealthy if ELB reports it as OutOfService.
 - A healthy instance enters the InService state.
 - If an instance is marked as unhealthy it will be scheduled for replacement.
-- If connection draining is enabled, Auto Scaling waits for in-flight requests to complete or
-    timeout before terminating instances.
-- The health check grace period allows a period of time for a new instance to warm up before
-    performing a health check (300 seconds by default).
+- If connection draining is enabled, Auto Scaling waits for in-flight requests to complete or timeout before terminating instances.
+- The health check grace period allows a period of time for a new instance to warm up before performing a health check (300 seconds by default).
 
-If using an ELB it is best to enable ELB health checks as otherwise EC2 status checks may show an
-instance as being healthy that the ELB has determined is unhealthy. In this case the instance will be
-removed from service by the ELB but will not be terminated by Auto Scaling.
+If using an ELB it is best to enable ELB health checks as otherwise EC2 status checks may show an instance as being healthy that the ELB has determined is unhealthy. In this case the instance will be removed from service by the ELB but will not be terminated by Auto Scaling.
 
-Elastic IPs and EBS volumes are detached from terminated instances and will need to be manually
-reattached.
+Elastic IPs and EBS volumes are detached from terminated instances and will need to be manually reattached.
 
 Using custom health checks a CLI command can be issued to set the instance’s status to unhealthy,
 
@@ -1924,14 +1883,12 @@ There are two launch types and the table below describes some of the differences
 
 - The Fargate launch type allows you to run your containerized applications without the need to provision and manage the backend infrastructure. Just register your task definition and Fargate launches the container for you.
 - Fargate Launch Type is a serverless infrastructure managed by AWS.
-- Fargate only supports container images hosted on Elastic Container Registry (ECR) or Docker
-    Hub.
+- Fargate only supports container images hosted on Elastic Container Registry (ECR) or Docker Hub.
   
 **EC2 Launch Type**
 
 - The EC2 launch type allows you to run your containerized applications on a cluster of Amazon EC2 instances that you manage.
-- Private repositories are only supported by the EC2 Launch Type.
-The following diagram shows the two launch types and summaries some key differences:
+- Private repositories are only supported by the EC2 Launch Type. The following diagram shows the two launch types and summaries some key differences:
 
 ##### **ECS TERMS**
 
@@ -1941,8 +1898,7 @@ TODO
 
 #### **IMAGES**
 
-Containers are created from a read-only template called an image which has the instructions for
-creating a Docker container.
+Containers are created from a read-only template called an image which has the instructions for creating a Docker container.
 
 Images are built from a Dockerfile.
 
@@ -2008,8 +1964,7 @@ You can create IAM policies for your clusters to allow or restrict users’ acce
 You can schedule ECS using Service Scheduler and Custom Scheduler.
 
 
-Ensures that the specified number of tasks are constantly running and reschedules tasks when a
-task fails.
+Ensures that the specified number of tasks are constantly running and reschedules tasks when a task fails.
 
 Can ensure tasks are registered against an ELB.
 
@@ -2019,8 +1974,7 @@ You can create your own schedulers to meet business needs.
 
 Leverage third party schedulers such as Blox.
 
-The Amazon ECS schedulers leverage the same cluster state information provided by the Amazon
-ECS API to make appropriate placement decisions.
+The Amazon ECS schedulers leverage the same cluster state information provided by the Amazon ECS API to make appropriate placement decisions.
 
 #### **ECS CONTAINER AGENT**
 
@@ -2028,8 +1982,7 @@ The ECS container agent allows container instances to connect to the cluster.
 
 The container agent runs on each infrastructure resource on an ECS cluster.
 
-The ECS container agent is included in the Amazon ECS optimized AMI and can also be installed on
-any EC2 instance that supports the ECS specification (only supported on EC2 instances).
+The ECS container agent is included in the Amazon ECS optimized AMI and can also be installed on any EC2 instance that supports the ECS specification (only supported on EC2 instances).
 
 Linux and Windows based.
 
@@ -2039,38 +1992,27 @@ For non-AWS Linux instances to be used on AWS you must manually install the ECS 
 
 ##### **Service Auto Scaling**
 
-Amazon ECS service can optionally be configured to use Service Auto Scaling to adjust the desired
-task count up or down automatically.
+Amazon ECS service can optionally be configured to use Service Auto Scaling to adjust the desired task count up or down automatically.
 
 Service Auto Scaling leverages the Application Auto Scaling service to provide this functionality.
 
 **Amazon ECS Service Auto Scaling supports the following types of scaling policies:**
 
-- Target Tracking Scaling Policies—Increase or decrease the number of tasks that your service
-    runs based on a target value for a specific CloudWatch metric. This is similar to the way that
-    your thermostat maintains the temperature of your home. You select temperature and the
-    thermostat does the rest.
-- Step Scaling Policies—Increase or decrease the number of tasks that your service runs in
-    response to CloudWatch alarms. Step scaling is based on a set of scaling adjustments,
-    known as step adjustments, which vary based on the size of the alarm breach.
+- Target Tracking Scaling Policies—Increase or decrease the number of tasks that your service runs based on a target value for a specific CloudWatch metric. This is similar to the way that your thermostat maintains the temperature of your home. You select temperature and the thermostat does the rest.
+- Step Scaling Policies—Increase or decrease the number of tasks that your service runs in response to CloudWatch alarms. Step scaling is based on a set of scaling adjustments, known as step adjustments, which vary based on the size of the alarm breach.
 
 ##### **Cluster Auto Scaling**
 
-This is a new feature released in December 2019. It is unlikely that this will appear on the SAA-C01
-exam but could appear on the SAA-C02 exam.
+This is a new feature released in December 2019. It is unlikely that this will appear on the SAA-C01 exam but could appear on the SAA-C02 exam.
 
 Uses a new ECS resource type called a Capacity Provider.
 
 A Capacity Provider can be associated with an EC2 Auto Scaling Group (ASG).
 
+When you associate an ECS Capacity Provider with an ASG and add the Capacity Provider to an ECS cluster, the cluster can now scale your ASG automatically by using two new features of ECS:
 
-When you associate an ECS Capacity Provider with an ASG and add the Capacity Provider to an ECS
-cluster, the cluster can now scale your ASG automatically by using two new features of ECS:
-
-1. **Managed scaling** , with an automatically-created scaling policy on your ASG, and a new
-    scaling metric (Capacity Provider Reservation) that the scaling policy uses; and
-2. **Managed instance termination protection** , which enables container-aware termination of
-    instances in the ASG when scale-in happens.
+1. **Managed scaling** , with an automatically-created scaling policy on your ASG, and a new scaling metric (Capacity Provider Reservation) that the scaling policy uses; and
+2. **Managed instance termination protection** , which enables container-aware termination of instances in the ASG when scale-in happens.
 
 #### **SECURITY/SLA**
 
@@ -2078,8 +2020,7 @@ EC2 instances use an IAM role to access ECS.
 
 IAM can be used to control access at the container level using IAM roles.
 
-The container agent makes calls to the ECS API on your behalf through the applied IAM roles and
-policies.
+The container agent makes calls to the ECS API on your behalf through the applied IAM roles and policies.
 
 You need to apply IAM roles to container instances before they are launched (EC2 launch type).
 
@@ -2114,8 +2055,7 @@ The Compute SLA guarantees a Monthly Uptime Percentage of at least 99.99% for Am
 
 **EC2 Launch Type:**
 
-No additional charge – you pay for the EC2 resources you launch including instances, EBS volumes
-and load balancers
+No additional charge – you pay for the EC2 resources you launch including instances, EBS volumes and load balancers
 
 **Fargate:**
 
@@ -2128,14 +2068,11 @@ You pay for the vCPU and memory allocated to the containers you run.
 
 AWS Lambda lets you run code as functions without provisioning or managing servers.
 
-Lambda-based applications (also referred to as serverless applications) are composed of functions
-triggered by events.
+Lambda-based applications (also referred to as serverless applications) are composed of functions triggered by events.
 
-With serverless computing, your application still runs on servers, but all the server management is
-done by AWS.
+With serverless computing, your application still runs on servers, but all the server management is done by AWS.
 
-You cannot log in to the compute instances that run Lambda functions or customize the operating
-system or language runtime.
+You cannot log in to the compute instances that run Lambda functions or customize the operating system or language runtime.
 
 **Lambda functions:**
 
@@ -2146,8 +2083,7 @@ system or language runtime.
 
 You specify the amount of memory you need allocated to your Lambda functions.
 
-AWS Lambda allocates CPU power proportional to the memory you specify using the same ratio as
-a general purpose EC2 instance type.
+AWS Lambda allocates CPU power proportional to the memory you specify using the same ratio as a general purpose EC2 instance type.
 
 **Functions can access:**
 
@@ -2155,18 +2091,14 @@ a general purpose EC2 instance type.
 - AWS services running in VPCs (e.g. RedShift, Elasticache, RDS instances).
 - Non-AWS services running on EC2 instances in an AWS VPC.
 
-To enable your Lambda function to access resources inside your private VPC, you must provide
-additional VPC-specific configuration information that includes VPC subnet IDs and security group
-IDs.
+To enable your Lambda function to access resources inside your private VPC, you must provide additional VPC-specific configuration information that includes VPC subnet IDs and security group IDs.
 
-AWS Lambda uses this information to set up elastic network interfaces (ENIs) that enable your
-function.
+AWS Lambda uses this information to set up elastic network interfaces (ENIs) that enable your function.
 
 **Compute resources:**
 
 - You can request additional memory in 64MB increments from 128MB to 3008MB.
-- Functions larger than 1536MB are allocated multiple CPU threads, and multi-threaded or
-    multi-process code is needed to take advantage.
+- Functions larger than 1536MB are allocated multiple CPU threads, and multi-threaded or multi-process code is needed to take advantage.
 
 **There is a maximum execution timeout.**
 
@@ -2184,24 +2116,18 @@ The handler name refers to the method in your code where Lambda begins execution
 **The components of AWS Lambda are:**
 
 - A Lambda function which is comprised of your custom code and any dependent libraries.
-- Event sources such as SNS or a custom service that triggers your function and executes its
-    logic.
+- Event sources such as SNS or a custom service that triggers your function and executes its logic.
 - Downstream resources such as DynamoDB or Amazon S3 buckets that your Lambda
     function calls once it is triggered.
-- Log streams are custom logging statements that allow you to analyze the execution flow
-    and performance of your Lambda function.
+- Log streams are custom logging statements that allow you to analyze the execution flow and performance of your Lambda function.
 
-Lambda is an event-driven compute service where AWS Lambda runs code in response to events
-such as changes to data in an S3 bucket or a DynamoDB table.
+Lambda is an event-driven compute service where AWS Lambda runs code in response to events such as changes to data in an S3 bucket or a DynamoDB table.
 
-An event source is an AWS service or developer-created application that produces events that
-trigger an AWS Lambda function to run.
+An event source is an AWS service or developer-created application that produces events that trigger an AWS Lambda function to run.
 
 Event sources are mapped to Lambda functions.
 
-Event sources maintain the mapping configuration except for stream-based services (e.g.
-DynamoDB, Kinesis) for which the configuration is made on the Lambda side and Lambda performs
-the polling.
+Event sources maintain the mapping configuration except for stream-based services (e.g. DynamoDB, Kinesis) for which the configuration is made on the Lambda side and Lambda performs the polling.
 
 **Supported AWS event sources include:**
 
@@ -2226,16 +2152,11 @@ the polling.
 - Amazon Kinesis Data Firehose.
 - Other Event Sources: Invoking a Lambda Function On Demand.
 
-Other event sources can invoke Lambda functions on-demand (application needs permissions to
+Other event sources can invoke Lambda functions on-demand (application needs permissions to invoke the Lambda function).
 
+Lambda can run code in response to HTTP requests using Amazon API gateway or API calls made using the AWS SDKs.
 
-invoke the Lambda function).
-
-Lambda can run code in response to HTTP requests using Amazon API gateway or API calls made
-using the AWS SDKs.
-
-AWS Lambda supports code written in Node.js (JavaScript), Python, Java (Java 8 compatible), C#
-(.NET Core), Ruby, Go and PowerShell.
+AWS Lambda supports code written in Node.js (JavaScript), Python, Java (Java 8 compatible), C# (.NET Core), Ruby, Go and PowerShell.
 
 AWS Lambda stores code in Amazon S3 and encrypts it at rest.
 
@@ -2247,80 +2168,60 @@ Lambda functions are serverless and independent, 1 event = 1 function.
 
 Functions can trigger other functions so 1 event can trigger multiple functions.
 
-For non-stream-based event sources each published event is a unit of work, run in parallel up to
-your account limit (one Lambda function per event)2.
+For non-stream-based event sources each published event is a unit of work, run in parallel up to your account limit (one Lambda function per event)2.
 
-For stream-based event sources the number of shards indicates the unit of concurrency (one
-function per shard).
+For stream-based event sources the number of shards indicates the unit of concurrency (one function per shard).
 
 Lambda works globally.
 
-To enable VPC support, you need to specify one or more subnets in a single VPC and a security
-group as part of your function configuration.
+To enable VPC support, you need to specify one or more subnets in a single VPC and a security group as part of your function configuration.
 
-Lambda functions provide access only to a single VPC. If multiple subnets are specified, they must
-all be in the same VPC.
+Lambda functions provide access only to a single VPC. If multiple subnets are specified, they must all be in the same VPC.
 
-Lambda functions configured to access resources in a particular VPC will not have access to the
-Internet as a default configuration. If you need access to external endpoints, you will need to create
-a NAT in your VPC to forward this traffic and configure your security group to allow this outbound
-traffic.
+Lambda functions configured to access resources in a particular VPC will not have access to the Internet as a default configuration. If you need access to external endpoints, you will need to create a NAT in your VPC to forward this traffic and configure your security group to allow this outbound traffic.
 
 Versioning can be used to run different versions of your code.
 
-Each Lambda function has a unique Amazon Resource Name (ARN) which cannot be changed after
-publishing.
+Each Lambda function has a unique Amazon Resource Name (ARN) which cannot be changed after publishing.
 
 **Use cases fall within the following categories:**
 
 - Using Lambda functions with AWS services as event sources.
-- On-demand Lambda function invocation over HTTPS using Amazon API Gateway (custom
-    REST API and endpoint).
-- On-demand Lambda function invocation using custom applications (mobile, web apps,
-    clients) and AWS SDKs, AWS Mobile SDKs, and the AWS Mobile SDK for Android.
-- Scheduled events can be configured to run code on a scheduled basis through the AWS
-    Lambda Console.
+- On-demand Lambda function invocation over HTTPS using Amazon API Gateway (custom REST API and endpoint).
+- On-demand Lambda function invocation using custom applications (mobile, web apps, clients) and AWS SDKs, AWS Mobile SDKs, and the AWS Mobile SDK for Android.
+- Scheduled events can be configured to run code on a scheduled basis through the AWS Lambda Console.
 
 #### **BUILDING LAMBDA APPS**
 
-You can deploy and manage your serverless applications using the AWS Serverless Application
-Model (AWS SAM).
-
+You can deploy and manage your serverless applications using the AWS Serverless Application Model (AWS SAM).
 
 AWS SAM is a specification that prescribes the rules for expressing serverless applications on AWS.
 
-This specification aligns with the syntax used by AWS CloudFormation today and is supported
-natively within AWS CloudFormation as a set of resource types (referred to as “serverless
+This specification aligns with the syntax used by AWS CloudFormation today and is supported natively within AWS CloudFormation as a set of resource types (referred to as “serverless
 resources”).
 
-You can automate your serverless application’s release process using AWS CodePipeline and AWS
-CodeDeploy.
+You can automate your serverless application’s release process using AWS CodePipeline and AWS CodeDeploy.
 
 You can enable your Lambda function for tracing with AWS X-Ray.
 
 #### **LAMBDA@EDGE**
 
-Lambda@Edge allows you to run code across AWS locations globally without provisioning or
-managing servers, responding to end users at the lowest network latency.
+Lambda@Edge allows you to run code across AWS locations globally without provisioning or managing servers, responding to end users at the lowest network latency.
 
-Lambda@Edge lets you run Node.js and Python Lambda functions to customize content that
-CloudFront delivers, executing the functions in AWS locations closer to the viewer.
+Lambda@Edge lets you run Node.js and Python Lambda functions to customize content that CloudFront delivers, executing the functions in AWS locations closer to the viewer.
 
-The functions run in response to CloudFront events, without provisioning or managing servers.
+The functions run in response to CloudFront events, without provisioning or managing servers. 
 
-**You can use Lambda functions to change CloudFront requests and responses at the following
-points:**
+**You can use Lambda functions to change CloudFront requests and responses at the following points:**
 
 - After CloudFront receives a request from a viewer (viewer request).
 - Before CloudFront forwards the request to the origin (origin request).
 - After CloudFront receives the response from the origin (origin response).
 - Before CloudFront forwards the response to the viewer (viewer response).
 
-You just upload your Node.js code to AWS Lambda and configure your function to be triggered in
-response to an Amazon CloudFront request.
+You just upload your Node.js code to AWS Lambda and configure your function to be triggered in response to an Amazon CloudFront request.
 
-The code is then ready to execute across AWS locations globally when a request for content is
-received, and scales with the volume of CloudFront requests globally.
+The code is then ready to execute across AWS locations globally when a request for content is received, and scales with the volume of CloudFront requests globally.
 
 #### **LIMITS**
 
@@ -2340,22 +2241,15 @@ Concurrent executions per account – 1000 (soft limit).
 
 Lambda automatically monitors Lambda functions and reports metrics through CloudWatch.
 
-Lambda tracks the number of requests, the latency per request, and the number of requests
-resulting in an error.
+Lambda tracks the number of requests, the latency per request, and the number of requests resulting in an error.
 
-You can view the request rates and error rates using the AWS Lambda Console, the CloudWatch
+You can view the request rates and error rates using the AWS Lambda Console, the CloudWatch console, and other AWS resources.
 
+X-Ray is an AWS service that can be used to detect, analyze and optimize performance issues with Lambda applications.
 
-console, and other AWS resources.
+X-Ray collects metadata from the Lambda service and any upstream and downstream services that make up your application.
 
-X-Ray is an AWS service that can be used to detect, analyze and optimize performance issues with
-Lambda applications.
-
-X-Ray collects metadata from the Lambda service and any upstream and downstream services that
-make up your application.
-
-Lambda is integrated with CloudTrail for capturing API calls and can deliver log files to your S3
-bucket.
+Lambda is integrated with CloudTrail for capturing API calls and can deliver log files to your S3 bucket.
 
 #### **CHARGES**
 
@@ -2429,6 +2323,5 @@ Can access logs without logging into application servers.
 
 Can use CloudFormation to deploy Elastic Beanstalk.
 
-There is no additional charge for Elastic Beanstalk – you pay only for the AWS resources needed to
-store and run your applications.
+There is no additional charge for Elastic Beanstalk – you pay only for the AWS resources needed to store and run your applications.
 

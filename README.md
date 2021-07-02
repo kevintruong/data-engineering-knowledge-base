@@ -38,6 +38,111 @@ The reminder on noat.cards bot should be modified to archive 2 different things 
 type: noatcards
 contents:
   - file: "01_aws_compute.md"
+    tags: "ec2,...." 
     test:
       - file: "01_aws_compute_quiz.md"
+        tags: "
 ```
+
+Questions sample: 
+
+```markdown
+**Question 13: Which of the following listener / protocol combinations is INCORRECT?** 
+
+1. Application Load Balancer TCP and HTTP/HTTPS
+2. Classic Load Balancer TCP and HTTP/HTTPS
+3. Network Load Balancer TCP
+
+#load_balancer #LB #<what_is_the_test_domain_of_question>
+#ALB #CLB #NLB #app_loadbalancer #classic_loadbalancer #network_loadbalancer
+
+#parent_tag1 #parent_tag1 #parent_tag3  // parent groups tags: components, question domain 
+#itself_tag1 #itself_tag2 #itself_tag3  //attribute/catalog of the question
+```
+
+each question will content 2 tag lines: 
+
+- Tags address level: to identify the question belong to what group for easy to graph between question and knowledge
+- Free style tag: for tagging only, attribute of question. 
+
+
+## Test Domains 
+
+Need to consider 4 test domains for aws certification: 
+
+### **Test Domain 1: Design Resilient Architectures**
+
+This domain makes up 30% of the exam and includes the following four objectives:
+
+- 1.1 Design a multi-tier architecture solution.
+- 1.2 Design highly available and/or fault-tolerant architectures.
+- 1.3 Design decoupling mechanisms using AWS services.
+- 1.4 Choose appropriate resilient storage.
+
+**What you need to know**
+
+You need to understand the various block, file and object storage technologies such as Amazon EBS, Instance Store, Amazon EFS, Amazon S3, and Amazon FSx and know their use cases.
+
+You must be able to design multi-tier application architectures and know-how to decouple application components using technologies such as Amazon SQS and Amazon SWF.
+
+The architectures also need to be highly available in the case of component failure, and able to recover in the case of major outages, so you need to know the various ways of implementing high availability and fault tolerance.
+
+Technologies you need to understand include Amazon Elastic Load Balancing, Amazon Route 53 and Amazon RDS Read Replicas and Multi-AZ.
+
+You also need to understand the AWS Global Infrastructure in order to determine how to design application stacks to best use the underlying infrastructure architecture.
+
+### **Test Domain 2: Design High-Performing Architectures**
+
+This domain makes up 28% of the exam and includes the following **objectives** :
+
+- 2.1 Identify elastic and scalable compute solutions for a workload.
+- 2.2 Select high-performing and scalable storage solutions for a workload.
+- 2.3 Select high-performing networking solutions for a workload.
+- 2.4 Choose high-performing database solutions for a workload.
+
+**What you need to know**
+
+You need to be able to select the best storage and database services to use for a given scenario, taking into account requirements for performance.
+
+Technologies to increase performance may include a caching layer such as Amazon ElastiCache, Amazon DynamoDB DAX, or Amazon CloudFront and you must be able to select the best service to use in the situation presented.
+
+You must know how to effectively implement elasticity and scalability to your application architectures. This means understanding at an architectural and implementation level what to use and how to build it.
+
+Elasticity and scalability services you need to understand, include AWS Auto Scaling, EC2 Auto Scaling, and how to implement these features at the application, storage, and database layers of your application using AWS technology.
+
+
+### **Test Domain 3: Design Secure Applications and Architectures**
+
+This domain makes up 24% of the exam and includes the following three objectives:
+
+- 3.1 Design secure access to AWS resources.
+- 3.2 Design secure application tiers.
+- 3.3 Select appropriate data security options.
+
+**What you need to know**
+
+You need to understand how to use native AWS technologies and solution architecture to create secure applications. This includes configuring security controls for authentication, authorization, and access and applying encryption to data.
+
+You need to know how to design isolation and separation through AWS service architecture, Amazon EC2 instance deployment options and Amazon VPC configuration.
+
+It is also recommended to understand the best practices for implementing services in the most secure manner and best practices for creating users, groups, and roles using AWS IAM. Which services can use multi-factor authentication is also required knowledge and you should understand the available AWS Directory Services at a high-level and when to use them.
+
+Questions often come up asking you to identify which technologies include DDoS mitigation and these include AWS Auto Scaling, Amazon CloudFront, and Amazon Route 53.
+
+You should also know how to implement monitoring and logging using Amazon CloudWatch and AWS CloudTrail, when and what penetration testing you are allowed to perform within the AWS cloud and what compliance programs AWS comply with.
+
+Technologies you need to know for domain 3 include Amazon VPC, AWS KMS, AWS CloudHSM, AWS IAM, Amazon Cognito, and AWS Directory Services.
+
+
+### **Test Domain 4: Design Cost-Optimized Architectures**
+
+This domain makes up 18% of the exam and includes the following objectives:
+
+- 4.1 Identify cost-effective storage solutions.
+- 4.2 Identify cost-effective compute and database service.
+- 4.3 Design cost-optimized network architectures.
+
+**What you need to know**
+
+A relatively small but still important area of the exam requires architects to consider cost- effectiveness when deploying application on AWS. You need to understand the various cost models of compute and storage services, what you pay for and what the best choices would be given a specific scenario.
+

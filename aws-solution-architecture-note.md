@@ -33,11 +33,7 @@ The scope of coverage of services, and what information is included for each ser
 feedback from our pool of over 2 50,000 students who have taken the exam, as well as our own
 experience.
 
-To test your understanding, we have added **80 quiz questions** that you will find at the end of each
-major chapter. Please note that quiz questions that are **numbered** , are primarily designed as a tool
-to review your knowledge of the content that was presented within the section. Quiz questions that
-are **lettered** represent the AWS exam style or difficulty. You will also find examples of exam style
-practice questions within the chapter "How to best prepare for your exam".
+To test your understanding, we have added **80 quiz questions** that you will find at the end of each major chapter. Please note that quiz questions that are **numbered** , are primarily designed as a tool to review your knowledge of the content that was presented within the section. Quiz questions that are **lettered** represent the AWS exam style or difficulty. You will also find examples of exam style practice questions within the chapter "How to best prepare for your exam".
 
 ### What do other Students say?
 
@@ -199,18 +195,13 @@ Our online Practice Exams are delivered in 4 different variations:
 - **Training Mode**
     When taking the practice exam in training mode, you will be shown the answers and explanations for every question after clicking “check”. Upon completion of the exam, the score report will show your overall score and performance in each knowledge area.
 - **Knowledge Reviews**
-    Now that you have identified your strengths and weaknesses, you get to dive deep into
-    specific areas with our knowledge reviews. You are presented with a series of questions
-    focussed on a specific topic. There is no time limit and you can view the answer to each
-    question as you go through them.
+    Now that you have identified your strengths and weaknesses, you get to dive deep into specific areas with our knowledge reviews. You are presented with a series of questions focussed on a specific topic. There is no time limit and you can view the answer to each question as you go through them.
 - **Final Exam Simulator**
-    The exam simulator randomly selects 65 questions from our pool of over 500 unique
-    questions – mimicking the real AWS exam environment. The practice exam has the same
-    format, style, time limit and passing score as the real AWS exam
+    The exam simulator randomly selects 65 questions from our pool of over 500 unique questions – mimicking the real AWS exam environment. The practice exam has the same format, style, time limit and passing score as the real AWS exam
 
 **Step 3: Training Notes**
 
-As a final step, use these training notes to focus your study on the knowledge areas where you need to most. Get a detailed understanding of the AWS services and deep dive into the SAA-C02 exam objectives with detailed facts, tables and diagrams that will shortcut your time to success.
+As a final step, use these training notes to focus your study on the knowledge areas where you need to most. Get a detailed understanding of the AWS services and deep dive into the SAA-C02 exam objectives with detailed facts, tables and diagrams that will shortcut your time to success. 
 
 ### Support & Feedback
 
@@ -279,19 +270,14 @@ In the official Exam Guide for the AWS Certified Solutions Architect, the follow
 
 **The exam includes 65 questions and has a time limit of 130 minutes**. You need to score a minimum of 720 out of 1000 points to pass the exam.
 
-The question format of the exam is multiple-choice (one correct response from four options) and
-multiple response (two or more correct responses from five or more options). The questions are
-100% scenario based with most scenarios being just a couple to a few lines long.
+The question format of the exam is multiple-choice (one correct response from four options) and multiple response (two or more correct responses from five or more options). The questions are 100% scenario based with most scenarios being just a couple to a few lines long.
 
-You will find there are often multiple correct answers and you must select the answer that best fits
-the scenario. For instance, you may be asked to select the MOST secure, MOST cost-effective, BEST
+You will find there are often multiple correct answers and you must select the answer that best fits the scenario. For instance, you may be asked to select the MOST secure, MOST cost-effective, BEST
 
 
 architecture or LEAST complex option.
 
-**Important** : Be very careful reading the wording of the question to ensure you select correctly.
-Sometimes small details can be easily missed that change the answer so take your time when sitting
-the exam.
+**Important** : Be very careful reading the wording of the question to ensure you select correctly. Sometimes small details can be easily missed that change the answer so take your time when sitting the exam.
 
 ### Domains, Objectives and Examples
 
@@ -312,21 +298,15 @@ This domain makes up 30% of the exam and includes the following four objectives:
 
 **What you need to know**
 
-You need to understand the various block, file and object storage technologies such as Amazon EBS,
-Instance Store, Amazon EFS, Amazon S3, and Amazon FSx and know their use cases.
+You need to understand the various block, file and object storage technologies such as Amazon EBS, Instance Store, Amazon EFS, Amazon S3, and Amazon FSx and know their use cases.
 
-You must be able to design multi-tier application architectures and know-how to decouple
-application components using technologies such as Amazon SQS and Amazon SWF.
+You must be able to design multi-tier application architectures and know-how to decouple application components using technologies such as Amazon SQS and Amazon SWF.
 
-The architectures also need to be highly available in the case of component failure, and able to
-recover in the case of major outages, so you need to know the various ways of implementing high
-availability and fault tolerance.
+The architectures also need to be highly available in the case of component failure, and able to recover in the case of major outages, so you need to know the various ways of implementing high availability and fault tolerance.
 
-Technologies you need to understand include Amazon Elastic Load Balancing, Amazon Route 53 and
-Amazon RDS Read Replicas and Multi-AZ.
+Technologies you need to understand include Amazon Elastic Load Balancing, Amazon Route 53 and Amazon RDS Read Replicas and Multi-AZ.
 
-You also need to understand the AWS Global Infrastructure in order to determine how to design
-application stacks to best use the underlying infrastructure architecture.
+You also need to understand the AWS Global Infrastructure in order to determine how to design application stacks to best use the underlying infrastructure architecture.
 
 **Example Questions**
 
