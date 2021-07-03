@@ -1,10 +1,8 @@
-
 ## ANALYTICS
 
 ### Amazon EMR
 
-Amazon EMR is a web service that enables businesses, researchers, data analysts, and developers
-to easily and cost-effectively process vast amounts of data.
+Amazon EMR is a web service that enables businesses, researchers, data analysts, and developers to easily and cost-effectively process vast amounts of data.
 
 EMR utilizes a hosted Hadoop framework running on Amazon EC2 and Amazon S3.
 
@@ -12,27 +10,21 @@ Managed Hadoop framework for processing huge amounts of data.
 
 Also support Apache Spark, HBase, Presto and Flink.
 
-Most commonly used for log analysis, financial analysis, or extract, translate and loading (ETL)
-activities.
+Most commonly used for log analysis, financial analysis, or extract, translate and loading (ETL) activities.
 
 A Step is a programmatic task for performing some process on the data (e.g. count words).
 
 A cluster is a collection of EC2 instances provisioned by EMR to run your Steps.
 
-EMR uses Apache Hadoop as its distributed data processing engine, which is an open source, Java
-software framework that supports data-intensive distributed applications running on large clusters
-of commodity hardware.
+EMR uses Apache Hadoop as its distributed data processing engine, which is an open source, Java software framework that supports data-intensive distributed applications running on large clusters of commodity hardware.
 
-EMR is a good place to deploy Apache Spark, an open-source distributed processing used for big
-data workloads which utilizes in-memory caching and optimized query execution.
+EMR is a good place to deploy Apache Spark, an open-source distributed processing used for big data workloads which utilizes in-memory caching and optimized query execution.
 
-You can also launch Presto clusters. Presto is an open-source distributed SQL query engine designed
-for fast analytic queries against large datasets.
+You can also launch Presto clusters. Presto is an open-source distributed SQL query engine designed for fast analytic queries against large datasets.
 
 EMR launches all nodes for a given cluster in the same Amazon EC2 Availability Zone.
 
-You can access Amazon EMR by using the AWS Management Console, Command Line Tools, SDKS,
-or the EMR API.
+You can access Amazon EMR by using the AWS Management Console, Command Line Tools, SDKS, or the EMR API.
 
 With EMR you have access to the underlying operating system (you can SSH in).
 
@@ -40,8 +32,7 @@ With EMR you have access to the underlying operating system (you can SSH in).
 
 **GENERAL**
 
-Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can
-get timely insights and react quickly to new information.
+Amazon Kinesis makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information.
 
 Collection of services for processing streams of various data.
 
@@ -51,25 +42,19 @@ There is a default limit of 500 shards, but you can request an increase to unlim
 
 A record consists of a partition key, sequence number, and data blob (up to 1 MB).
 
-Transient data store – default retention of 24 hours but can be configured for up to 7 days.
-
-
-There are four types of Kinesis service and these are detailed below.
+Transient data store – default retention of 24 hours but can be configured for up to 7 days.  There are four types of Kinesis service and these are detailed below.
 
 **KINESIS VIDEO STREAMS**
 
-Kinesis Video Streams makes it easy to securely stream video from connected devices to AWS for
-analytics, machine learning (ML), and other processing.
+Kinesis Video Streams makes it easy to securely stream video from connected devices to AWS for analytics, machine learning (ML), and other processing.
 
-Durably stores, encrypts, and indexes video data streams, and allows access to data through easy-
-to-use APIs.
+Durably stores, encrypts, and indexes video data streams, and allows access to data through easy- to-use APIs.
 
 Producers provide data streams.
 
 Stores data for 24 hours by default, up to 7 days.
 
-Stores data in shards – 5 transaction per second for reads, up to a max read rate of 2MB per second
-and 1000 records per second for writes up to a max of 1MB per second.
+Stores data in shards – 5 transaction per second for reads, up to a max read rate of 2MB per second and 1000 records per second for writes up to a max of 1MB per second.
 
 Consumers receive and process data.
 
@@ -79,16 +64,13 @@ Supports encryption at rest with server-side encryption (KMS) with a customer ma
 
 **KINESIS DATA STREAMS**
 
-Kinesis Data Streams enables you to build custom applications that process or analyze streaming
-data for specialized needs.
+Kinesis Data Streams enables you to build custom applications that process or analyze streaming data for specialized needs.
 
 Kinesis Data Streams enables real-time processing of streaming big data.
 
-Kinesis Data Streams is useful for rapidly moving data off data producers and then continuously
-processing the data.
+Kinesis Data Streams is useful for rapidly moving data off data producers and then continuously processing the data.
 
-Kinesis Data Streams **stores data** for later processing by applications (key difference with Firehose
-which delivers data directly to AWS services).
+Kinesis Data Streams **stores data** for later processing by applications (key difference with Firehose which delivers data directly to AWS services).
 
 **Common use cases include:**
 
@@ -106,7 +88,6 @@ which delivers data directly to AWS services).
 - Kinesis Streams applications are consumers that run on EC2 instances.
 - Shards are uniquely identified groups or data records in a stream.
 - Records are the data units stored in a Kinesis Stream.
-
 
 A producer creates the data that makes up the stream.
 
@@ -149,7 +130,6 @@ Kinesis Streams uses KMS master keys for encryption.
 To read from or write to an encrypted stream the producer and consumer applications must have permission to access the master key.
 
 Kinesis Data Streams replicates synchronously across three AZs.
-
 
 **KINESIS DATA FIREHOSE**
 
@@ -199,7 +179,6 @@ Server-side-encryption can be used if Kinesis Streams is used as the data source
 Firehose can invoke an AWS Lambda function to transform incoming data before delivering it to a destination.
 
 For Amazon S3 destinations, streaming data is delivered to your S3 bucket. If data transformation is enabled, you can optionally back up source data to another Amazon S3 bucket:
-
 
 For Amazon Redshift destinations, streaming data is delivered to your S3 bucket first. Kinesis Data Firehose then issues an Amazon Redshift **COPY** command to load data from your S3 bucket to your Amazon Redshift cluster. If data transformation is enabled, you can optionally back up source data to another Amazon S3 bucket:
 
@@ -282,25 +261,15 @@ You can also use Glue’s fully-managed ETL capabilities to transform data or co
 
 **USE CASES**
 
-Query services like Amazon Athena, data warehouses like Amazon Redshift, and sophisticated data
-processing frameworks like Amazon EMR, all address different needs and use cases.
+Query services like Amazon Athena, data warehouses like Amazon Redshift, and sophisticated data processing frameworks like Amazon EMR, all address different needs and use cases.
 
-Amazon Redshift provides the fastest query performance for enterprise reporting and business
-intelligence workloads, particularly those involving extremely complex SQL with multiple joins and
-sub-queries.
+Amazon Redshift provides the fastest query performance for enterprise reporting and business intelligence workloads, particularly those involving extremely complex SQL with multiple joins and sub-queries.
 
-Amazon EMR makes it simple and cost effective to run highly distributed processing frameworks
+Amazon EMR makes it simple and cost effective to run highly distributed processing frameworks such as Hadoop, Spark, and Presto when compared to on-premises deployments. Amazon EMR is flexible – you can run custom applications and code, and define specific compute, memory, storage, and application parameters to optimize your analytic requirements.
 
+Amazon Athena provides the easiest way to run ad-hoc queries for data in S3 without the need to setup or manage any servers.
 
-such as Hadoop, Spark, and Presto when compared to on-premises deployments. Amazon EMR is
-flexible – you can run custom applications and code, and define specific compute, memory, storage,
-and application parameters to optimize your analytic requirements.
-
-Amazon Athena provides the easiest way to run ad-hoc queries for data in S3 without the need to
-setup or manage any servers.
-
-The table below shows the primary use case and situations for using a few AWS query and analytics
-services:
+The table below shows the primary use case and situations for using a few AWS query and analytics services:
 
 **PRICING**
 
@@ -308,9 +277,7 @@ With Amazon Athena, you pay only for the queries that you run.
 
 You are charged based on the amount of data scanned by each query.
 
-You can get significant cost savings and performance gains by compressing, partitioning, or
-converting your data to a columnar format, because each of those operations reduces the amount
-of data that Athena needs to scan to execute a query.
+You can get significant cost savings and performance gains by compressing, partitioning, or converting your data to a columnar format, because each of those operations reduces the amount of data that Athena needs to scan to execute a query.
 
 ### AWS Glue
 
@@ -334,8 +301,7 @@ AWS Glue consists of a Data Catalog which is a central metadata repository, an E
 
 Together, these automate much of the undifferentiated heavy lifting involved with discovering, categorizing, cleaning, enriching, and moving data, so you can spend more time analyzing your data.
 
-AWS Glue crawlers connect to a source or target data store, progress through a prioritized list of
-classifiers to determine the schema for the data, and then creates metadata in the AWS Glue Data Catalog.
+AWS Glue crawlers connect to a source or target data store, progress through a prioritized list of classifiers to determine the schema for the data, and then creates metadata in the AWS Glue Data Catalog.
 
 The metadata is stored in tables in a data catalog and used in the authoring process of ETL jobs.
 
@@ -360,7 +326,6 @@ It provides a unified view of data via the Glue Data Catalog that is available f
 Glue automatically generates Scala or Python code for ETL jobs that you can further customize using tools you are already familiar with.
 
 AWS Glue is serverless, so there are no compute resources to configure and manage.
-
 
 ### Analytics Quiz Questions
 
@@ -406,8 +371,8 @@ B. Configure Access Logs to be delivered to S3 and use Kinesis for processing th
 C. Configure Access Logs to be delivered to S3 and use EMR for processing the log files
 D. Configure Access Logs to be delivered to EC2 and install Hadoop for processing the log files
 ```
-**Question 5:**
 
+**Question 5:**
 
 A Solutions Architect is designing the messaging and streaming layers of a serverless application.  The messaging layer will manage communications between components and the streaming layer will manage real-time analysis and processing of streaming data.
 
@@ -428,14 +393,12 @@ E. Use Amazon CloudTrail for collecting, processing and analyzing real-time stre
 Explanation:
 
 ```
-What we need here is a service that can streaming collect streaming data. The only option
-available is Kinesis Firehose which captures, transforms, and loads streaming data into
-“destinations” such as S3, RedShift, Elasticsearch and Splunk.
-Amazon EC2 is not suitable for collecting streaming data.
-EBS is a block-storage service in which you attach volumes to EC2 instances, this does not assist
-with collecting streaming data (see previous point).
+What we need here is a service that can streaming collect streaming data. The only option available is Kinesis Firehose which captures, transforms, and loads streaming data into “destinations” such as S3, RedShift, Elasticsearch and Splunk.  Amazon EC2 is not suitable for collecting streaming data.
+
+EBS is a block-storage service in which you attach volumes to EC2 instances, this does not assist with collecting streaming data (see previous point).
 Amazon API Gateway is used for hosting and managing APIs not for receiving streaming data.
 ```
+
 **Question 2 answer: C**
 
 Explanation:

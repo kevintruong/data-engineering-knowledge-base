@@ -4,8 +4,7 @@
 
 **GENERAL RDS CONCEPTS**
 
-Amazon Relational Database Service (Amazon RDS) is a managed service that makes it easy to set up, operate, and scale a
-relational database in the cloud.
+Amazon Relational Database Service (Amazon RDS) is a managed service that makes it easy to set up, operate, and scale a relational database in the cloud.
 
 RDS is an Online Transaction Processing (OLTP) type of database.
 
@@ -45,19 +44,18 @@ A DB instance is a database environment in the cloud with the compute and storag
 Database instances are accessed via endpoints.
 
 Endpoints can be retrieved via the DB instance description in the AWS Management Console,
+
 **DescribeDBInstances** API or **describe-db-instances** command.
 
 By default, customers are allowed to have up to a total of 40 Amazon RDS DB instances (only 10 of
 
 these can be Oracle or MS SQL unless you have your own licences).
 
-Maintenance windows are configured to allow DB instances modifications to take place such as scaling and software
-patching (some operations require the DB instance to be taken offline briefly).
+Maintenance windows are configured to allow DB instances modifications to take place such as scaling and software patching (some operations require the DB instance to be taken offline briefly).
 
 You can define the maintenance window or AWS will schedule a 30 - minute window.
 
-Windows integrated authentication for SQL only works with domains created using the AWS directory service – need to
-establish a trust with an on-premise AD directory.
+Windows integrated authentication for SQL only works with domains created using the AWS directory service – need to establish a trust with an on-premise AD directory.
 
 **Events and Notifications:**
 
@@ -103,19 +101,15 @@ Encryption at rest is supported for all DB types and uses AWS KMS.
 - DB instance storage
 - Read Replicas
 
-You cannot encrypt an existing DB, you need to create a snapshot, copy it, encrypt the copy, then build an encrypted DB
-from the snapshot.
+You cannot encrypt an existing DB, you need to create a snapshot, copy it, encrypt the copy, then build an encrypted DB from the snapshot.
 
-Data that is encrypted at rest includes the underlying storage for a DB instance, its automated backups, Read Replicas,
-and snapshots.
+Data that is encrypted at rest includes the underlying storage for a DB instance, its automated backups, Read Replicas, and snapshots.
 
-A Read Replica of an Amazon RDS encrypted instance is also encrypted using the same key as the master instance when both
-are in the same region.
+A Read Replica of an Amazon RDS encrypted instance is also encrypted using the same key as the master instance when both are in the same region.
 
 If the master and Read Replica are in different regions, you encrypt using the encryption key for that region.
 
-You can’t have an encrypted Read Replica of an unencrypted DB instance or an unencrypted Read Replica of an encrypted DB
-instance.
+You can’t have an encrypted Read Replica of an unencrypted DB instance or an unencrypted Read Replica of an encrypted DB instance.
 
 Encryption/decryption is handled transparently.
 
@@ -125,15 +119,13 @@ RDS generates a certificate for the instance.
 
 **DB SUBNET GROUPS**
 
-A DB subnet group is a collection of subnets (typically private) that you create in a VPC and that you then designate
-for your DB instances.
+A DB subnet group is a collection of subnets (typically private) that you create in a VPC and that you then designate for your DB instances.
 
 Each DB subnet group should have subnets in at least two Availability Zones in a given region.
 
 It is recommended to configure a subnet group with subnets in each AZ (even for standalone instances).
 
-During the creation of an RDS instance you can select the DB subnet group and the AZ within the group to place the RDS
-DB instance in.
+During the creation of an RDS instance you can select the DB subnet group and the AZ within the group to place the RDS DB instance in.
 
 You cannot pick the IP within the subnet that is allocated.
 
@@ -341,11 +333,9 @@ Only supported for transactional database storage engines (InnoDB not MyISAM).
 
 Read replicas are available for MySQL, PostgreSQL, MariaDB, Oracle and Aurora (not SQL Server).
 
-For the MySQL, MariaDB, PostgreSQL, and Oracle database engines, Amazon RDS creates a second DB instance using a
-snapshot of the source DB instance.
+For the MySQL, MariaDB, PostgreSQL, and Oracle database engines, Amazon RDS creates a second DB instance using a snapshot of the source DB instance.
 
-It then uses the engines’ native asynchronous replication to update the read replica whenever there is a change to the
-source DB instance.
+It then uses the engines’ native asynchronous replication to update the read replica whenever there is a change to the source DB instance.
 
 Amazon Aurora employs an SSD-backed virtualized storage layer purpose-built for database workloads.
 
@@ -365,8 +355,7 @@ Read replicas can be configured from the AWS Console or the API.
 
 You can specify the AZ the read replica is deployed in.
 
-The read replicas storage type and instance class can be different from the source but the compute should be at least
-the performance of the source.
+The read replicas storage type and instance class can be different from the source but the compute should be at least the performance of the source.
 
 You cannot change the DB engine.
 
@@ -374,8 +363,7 @@ In a multi-AZ failover, the read replicas are switched to the new primary.
 
 Read replicas must be explicitly deleted.
 
-If a source DB instance is deleted without deleting the replicas each replica becomes a standalone single-AZ DB
-instance.
+If a source DB instance is deleted without deleting the replicas each replica becomes a standalone single-AZ DB instance.
 
 You can promote a read replica to primary.
 
@@ -399,8 +387,7 @@ This configuration can be used for centralizing data from across different regio
 
 **DB SNAPSHOTS**
 
-DB Snapshots are user-initiated and enable you to back up your DB instance in a known state as frequently as you wish,
-and then restore to that specific state.
+DB Snapshots are user-initiated and enable you to back up your DB instance in a known state as frequently as you wish, and then restore to that specific state.
 
 Cannot be used for point-in-time recovery.
 
@@ -420,8 +407,7 @@ Can restore up to the last 5 minutes.
 
 You cannot restore from a DB snapshot to an existing DB – a new instance is created when you restore.
 
-Only default DB parameters and security groups are restored – you must manually associate all other DB parameters and
-SGs.
+Only default DB parameters and security groups are restored – you must manually associate all other DB parameters and SGs.
 
 It is recommended to take a final snapshot before deleting an RDS instance.
 
@@ -451,11 +437,9 @@ Use along with the Schema Conversion Tool (SCT) to migrate databases to AWS RDS 
 The source database remains fully operational during the migration, minimizing downtime to applications that rely on the
 database.
 
-The AWS Database Migration Service can migrate your data to and from most widely used commercial and open-source
-databases.
+The AWS Database Migration Service can migrate your data to and from most widely used commercial and open-source databases.
 
-Schema Conversion Tool can copy database schemas for homogenous migrations (same database)
-and convert schemas for heterogeneous migrations (different database).
+Schema Conversion Tool can copy database schemas for homogenous migrations (same database) and convert schemas for heterogeneous migrations (different database).
 
 DMS is used for smaller, simpler conversions and also supports MongoDB and DynamoDB.
 
@@ -465,8 +449,7 @@ DMS has replication functions for on-premise to AWS or to Snowball or S3.
 
 ### Amazon Aurora
 
-Amazon Aurora is a relational database service that combines the speed and availability of high-end commercial databases
-with the simplicity and cost-effectiveness of open source databases.
+Amazon Aurora is a relational database service that combines the speed and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.
 
 Aurora is an AWS proprietary database.
 
@@ -492,20 +475,17 @@ There are two types of replication: Aurora replica (up to 15), MySQL Read Replic
 
 The table below describes the differences between the two replica options:
 
-You can create read replicas for an Amazon Aurora database in up to five AWS regions. This capability is available for
-Amazon Aurora with MySQL compatibility.
+You can create read replicas for an Amazon Aurora database in up to five AWS regions. This capability is available for Amazon Aurora with MySQL compatibility.
 
 **CROSS-REGION READ REPLICAS**
 
-Cross-region read replicas allow you to improve your disaster recovery posture, scale read operations in regions closer
-to your application users, and easily migrate from one region to another.
+Cross-region read replicas allow you to improve your disaster recovery posture, scale read operations in regions closer to your application users, and easily migrate from one region to another.
 
 Cross-region replicas provide fast local reads to your users.
 
 Each region can have an additional 15 Aurora replicas to further scale local reads.
 
-You can choose between Global Database, which provides the best replication performance, and traditional binlog-based
-replication.
+You can choose between Global Database, which provides the best replication performance, and traditional binlog-based replication.
 
 You can also set up your own binlog replication with external MySQL databases.
 
@@ -513,14 +493,11 @@ The following diagram depicts the Cross-Region Read Replica topology:
 
 **GLOBAL DATABASE**
 
-For globally distributed applications you can use Global Database, where a single Aurora database can span multiple AWS
-regions to enable fast local reads and quick disaster recovery.
+For globally distributed applications you can use Global Database, where a single Aurora database can span multiple AWS regions to enable fast local reads and quick disaster recovery.
 
-Global Database uses storage-based replication to replicate a database across multiple AWS Regions, with typical latency
-of less than 1 second.
+Global Database uses storage-based replication to replicate a database across multiple AWS Regions, with typical latency of less than 1 second.
 
-You can use a secondary region as a backup option in case you need to recover quickly from a regional degradation or
-outage.
+You can use a secondary region as a backup option in case you need to recover quickly from a regional degradation or outage.
 
 A database in a secondary region can be promoted to full read/write capabilities in less than 1 minute.
 
@@ -528,40 +505,31 @@ The following table depicts the Aurora Global Database topology:
 
 **MULTI MASTER**
 
-Amazon Aurora Multi-Master is a new feature of the Aurora MySQL-compatible edition that adds the ability to scale out
-write performance across multiple Availability Zones, allowing applications to direct read/write workloads to multiple
-instances in a database cluster and operate with higher availability.
+Amazon Aurora Multi-Master is a new feature of the Aurora MySQL-compatible edition that adds the ability to scale out write performance across multiple Availability Zones, allowing applications to direct read/write workloads to multiple instances in a database cluster and operate with higher availability.
 
-Aurora Multi-Master is designed to achieve high availability and ACID transactions across a cluster of database nodes
-with configurable read after write consistency.
+Aurora Multi-Master is designed to achieve high availability and ACID transactions across a cluster of database nodes with configurable read after write consistency.
 
 **Architecture:**
 
 - An Aurora cluster consists of a set of compute (database) nodes and a shared storage volume.
-- The storage volume consists of six storage nodes placed in three Availability Zones for high availability and
-  durability of user data.
+- The storage volume consists of six storage nodes placed in three Availability Zones for high availability and durability of user data.
 - Every database node in the cluster is a writer node that can run read and write statements.
 
 There is no single point of failure in the cluster.
 
 Applications can use any writer node for their read/write and DDL needs.
 
-A database change made by a writer node is written to six storage nodes in three Availability Zones, providing data
-durability and resiliency against storage node and Availability Zone failures.
+A database change made by a writer node is written to six storage nodes in three Availability Zones, providing data durability and resiliency against storage node and Availability Zone failures.
 
-The writer nodes are all functionally equal, and a failure of one writer node does not affect the availability of the
-other writer nodes in the cluster.
+The writer nodes are all functionally equal, and a failure of one writer node does not affect the availability of the other writer nodes in the cluster.
 
 **High Availability:**
 
-Aurora Multi-Master improves upon the high availability of the single-master version of Amazon Aurora because all of the
-nodes in the cluster are read/write nodes.
+Aurora Multi-Master improves upon the high availability of the single-master version of Amazon Aurora because all of the nodes in the cluster are read/write nodes.
 
-With single-master Aurora, a failure of the single writer node requires the promotion of a read replica to be the new
-writer.
+With single-master Aurora, a failure of the single writer node requires the promotion of a read replica to be the new writer.
 
-In the case of Aurora Multi-Master, the failure of a writer node merely requires the application using the writer to
-open connections to another writer.
+In the case of Aurora Multi-Master, the failure of a writer node merely requires the application using the writer to open connections to another writer.
 
 **AURORA SERVERLESS**
 
@@ -569,18 +537,13 @@ Amazon Aurora Serverless is an on-demand, auto-scaling configuration for Amazon 
 
 Available for MySQL-compatible and PostgreSQL-compatible editions.
 
-The database automatically starts up, shuts down, and scales capacity up or down based on
+The database automatically starts up, shuts down, and scales capacity up or down based on application needs.
 
-application needs.
+It enables you to run a database in the cloud without managing any database instances. It's a simple, cost-effective option for infrequent, intermittent, or unpredictable workloads.
 
-It enables you to run a database in the cloud without managing any database instances. It's a simple, cost-effective
-option for infrequent, intermittent, or unpredictable workloads.
+You simply create a database endpoint and optionally specify the desired database capacity range and connect applications.
 
-You simply create a database endpoint and optionally specify the desired database capacity range and connect
-applications.
-
-With Aurora Serverless, you only pay for database storage and the database capacity and I/O your database consumes while
-it is active.
+With Aurora Serverless, you only pay for database storage and the database capacity and I/O your database consumes while it is active.
 
 Pay on a per-second basis for the database capacity you use when the database is active.
 
@@ -592,23 +555,19 @@ The table below provides a few example use cases for Amazon Aurora Serverless:
 
 Each 10GB chunk of your database volume is replicated six ways, across three Availability Zones.
 
-Amazon Aurora storage is fault-tolerant, transparently handling the loss of up to two copies of data without affecting
-database write availability and up to three copies without affecting read availability.
+Amazon Aurora storage is fault-tolerant, transparently handling the loss of up to two copies of data without affecting database write availability and up to three copies without affecting read availability.
 
-Amazon Aurora storage is also self-healing; data blocks and disks are continuously scanned for errors and replaced
-automatically.
+Amazon Aurora storage is also self-healing; data blocks and disks are continuously scanned for errors and replaced automatically.
 
 **AURORA AUTO SCALING**
 
-Aurora Auto Scaling dynamically adjusts the number of Aurora Replicas provisioned for an Aurora DB cluster using
-single-master replication.
+Aurora Auto Scaling dynamically adjusts the number of Aurora Replicas provisioned for an Aurora DB cluster using single-master replication.
 
 Aurora Auto Scaling is available for both Aurora MySQL and Aurora PostgreSQL.
 
 Aurora Auto Scaling enables your Aurora DB cluster to handle sudden increases in connectivity or workload.
 
-When the connectivity or workload decreases, Aurora Auto Scaling removes unnecessary Aurora Replicas so that you don’t
-pay for unused provisioned DB instances.
+When the connectivity or workload decreases, Aurora Auto Scaling removes unnecessary Aurora Replicas so that you don’t pay for unused provisioned DB instances.
 
 **AUTOMATIC, CONTINUOUS, INCREMENTAL BACKUPS AND POINT-IN-**
 
@@ -620,16 +579,13 @@ This allows you to restore your database to any second during your retention per
 
 Your automatic backup retention period can be configured up to thirty-five days.
 
-Automated backups are stored in Amazon S3, which is designed for 99.999999999% durability. Amazon Aurora backups are
-automatic, incremental, and continuous and have no impact on database performance.
+Automated backups are stored in Amazon S3, which is designed for 99.999999999% durability. Amazon Aurora backups are automatic, incremental, and continuous and have no impact on database performance.
 
-When automated backups are turned on for your DB Instance, Amazon RDS automatically performs a full daily snapshot of
-your data (during your preferred backup window) and captures transaction logs (as updates to your DB Instance are made).
+When automated backups are turned on for your DB Instance, Amazon RDS automatically performs a full daily snapshot of your data (during your preferred backup window) and captures transaction logs (as updates to your DB Instance are made).
 
 Automated backups are enabled by default and data is stored on S3 and is equal to the size of the DB.
 
-Amazon RDS retains backups of a DB Instance for a limited, user-specified period of time called the retention period,
-which by default is 7 days but can be up to 35 days.
+Amazon RDS retains backups of a DB Instance for a limited, user-specified period of time called the retention period, which by default is 7 days but can be up to 35 days.
 
 **There are two methods to backup and restore RDS DB instances:**
 
@@ -677,8 +633,7 @@ Automated backups are deleted when you delete the RDS DB instance.
 
 Automated backups are only supported for InnoDB storage engine for MySQL (not for myISAM).
 
-When you restore a DB instance the default DB parameters and security groups are applied – you must then apply the
-custom DB parameters and security groups.
+When you restore a DB instance the default DB parameters and security groups are applied – you must then apply the custom DB parameters and security groups.
 
 You cannot restore from a DB snapshot into an existing DB instance.
 
@@ -690,8 +645,7 @@ The storage type can be changed when restoring a snapshot.
 
 **GENERAL DYNAMODB CONCEPTS**
 
-Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless
-scalability.
+Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability.
 
 Multi-AZ NoSQL data store with Cross-Region Replication option.
 
@@ -713,8 +667,7 @@ SSD based and uses limited indexing on attributes for performance.
 
 DynamoDB is a Web service that uses HTTP over SSL (HTTPS) as a transport and JSON as a message serialization format.
 
-Amazon DynamoDB stores three geographically distributed replicas of each table to enable high availability and data
-durability.
+Amazon DynamoDB stores three geographically distributed replicas of each table to enable high availability and data durability.
 
 Data is synchronously replicated across 3 facilities (AZs) in a region.
 
@@ -722,8 +675,7 @@ Data is synchronously replicated across 3 facilities (AZs) in a region.
 
 - Amazon DynamoDB global tables provides a fully managed solution for deploying a multi- region, multi-master database.
 - When you create a global table, you specify the AWS regions where you want the table to be available.
-- DynamoDB performs all of the necessary tasks to create identical tables in these regions, and propagate ongoing data
-  changes to all of them.
+- DynamoDB performs all of the necessary tasks to create identical tables in these regions, and propagate ongoing data changes to all of them.
 
 Provides low read and write latency.
 
@@ -743,11 +695,9 @@ Provides two read models.
 
 **Strongly consistent reads:**
 
-- A strongly consistent read returns a result that reflects all writes that received a successful response prior to the
-  read (faster consistency).
+- A strongly consistent read returns a result that reflects all writes that received a successful response prior to the read (faster consistency).
 
-Users/applications reading from DynamoDB tables can specify in their requests if they want strong consistency (default
-is eventually consistent).
+Users/applications reading from DynamoDB tables can specify in their requests if they want strong consistency (default is eventually consistent).
 
 Attributes consists of a name and a value or set of values.
 
@@ -782,13 +732,11 @@ Stores structured data in tables, indexed by a primary key.
 
 Supports GET/PUT operations using a user-defined primary key.
 
-DynamoDB provides flexible querying by letting you query on non-primary key attributes using Global Secondary Indexes
-and Local Secondary Indexes.
+DynamoDB provides flexible querying by letting you query on non-primary key attributes using Global Secondary Indexes and Local Secondary Indexes.
 
 You can create one or more secondary indexes on a table.
 
-A _secondary index_ lets you query the data in the table using an alternate key, in addition to queries against the
-primary key.
+A _secondary index_ lets you query the data in the table using an alternate key, in addition to queries against the primary key.
 
 **DynamoDB supports two kinds of secondary indexes:**
 
@@ -811,23 +759,19 @@ Use DynamoDB when relational features are not required and the DB is likely to n
 
 **DYNAMODB STREAMS**
 
-DynamoDB Streams help you to keep a list of item level changes or provide a list of item level changes that have taken
-place in the last 24hrs.
+DynamoDB Streams help you to keep a list of item level changes or provide a list of item level changes that have taken place in the last 24hrs.
 
-Amazon DynamoDB is integrated with AWS Lambda so that you can create triggers—pieces of code that automatically respond
-to events in DynamoDB Streams.
+Amazon DynamoDB is integrated with AWS Lambda so that you can create triggers—pieces of code that automatically respond to events in DynamoDB Streams.
 
 If you enable DynamoDB Streams on a table, you can associate the stream ARN with a Lambda function that you write.
 
 **DYNAMO DAX**
 
-Amazon DynamoDB Accelerator (DAX) is a fully managed, highly available, in-memory cache for DynamoDB that delivers up to
-a 10x performance improvement.
+Amazon DynamoDB Accelerator (DAX) is a fully managed, highly available, in-memory cache for DynamoDB that delivers up to a 10x performance improvement.
 
 Improves performance from milliseconds to microseconds, even at millions of requests per second.
 
-DAX does all the heavy lifting required to add in-memory acceleration to your DynamoDB tables, without requiring
-developers to manage cache invalidation, data population, or cluster management.
+DAX does all the heavy lifting required to add in-memory acceleration to your DynamoDB tables, without requiring developers to manage cache invalidation, data population, or cluster management.
 
 You do not need to modify application logic, since DAX is compatible with existing DynamoDB API calls.
 
@@ -844,8 +788,6 @@ The following diagram depicts the Amazon DynamoDB DAX service.
 **Note the following:**
 
 - You can apply an IAM role to the the DAX nodes
-
-
 - You can apply Security Groups to the DAX nodes
 - DynamoDB DAX sits within your VPC
 
@@ -853,8 +795,7 @@ The following diagram depicts the Amazon DynamoDB DAX service.
 
 Keep item sizes small.
 
-If you are storing serial data in DynamoDB that will require actions based on date/time use separate tables for days,
-weeks, months.
+If you are storing serial data in DynamoDB that will require actions based on date/time use separate tables for days, weeks, months.
 
 Store more frequently and less frequently accessed data in separate tables.
 
@@ -871,8 +812,7 @@ Triggers integrate with AWS Lambda to respond to triggers.
 **Integration with RedShift:**
 
 - RedShift complements DynamoDB with advanced business intelligence.
-- When copying data from a DynamoDB table into RedShift you can perform complex data analysis queries including joins
-  with other tables.
+- When copying data from a DynamoDB table into RedShift you can perform complex data analysis queries including joins with other tables.
 - A copy operation from a DynamoDB table counts against the table’s read capacity.
 - After data is copied, SQL queries do not affect the data in DynamoDB.
 
@@ -895,8 +835,7 @@ These are the limits unless you request a higher amount:
 
 DynamoDB can throttle requests that exceed the provisioned throughput for a table.
 
-DynamoDB can also throttle read requests for an Index to prevent your application from consuming too many capacity
-units.
+DynamoDB can also throttle read requests for an Index to prevent your application from consuming too many capacity units.
 
 When a request is throttled it fails with an HTTP 400 code (Bad Request) and a ProvisionedThroughputExceeded exception.
 
@@ -906,36 +845,29 @@ Amazon DynamoDB global tables provide a fully managed solution for deploying a m
 
 When you create a global table, you specify the AWS regions where you want the table to be available.
 
-DynamoDB performs all of the necessary tasks to create identical tables in these regions, and propagate ongoing data
-changes to all of them.
+DynamoDB performs all of the necessary tasks to create identical tables in these regions, and propagate ongoing data changes to all of them.
 
 DynamoDB global tables are ideal for massively scaled applications, with globally dispersed users.
 
-Global tables provide automatic multi-master replication to AWS regions world-wide, so you can deliver low-latency data
-access to your users no matter where they are located.
+Global tables provide automatic multi-master replication to AWS regions world-wide, so you can deliver low-latency data access to your users no matter where they are located.
 
 **Definitions:**
 
 - **A** **_global table_** is a collection of one or more replica tables, all owned by a single AWS account.
-- **A** **_replica table_** (or _replica_ , for short) is a single DynamoDB table that functions as a part of a global
-  table. Each replica stores the same set of data items. Any given global table can only have one replica table per
+- **A** **_replica table_** (or _replica_ , for short) is a single DynamoDB table that functions as a part of a global table. Each replica stores the same set of data items. Any given global table can only have one replica table per
   region.
 
 The following diagram depicts the **Amazon DynamoDB Global Tables topology:**
 
 You can add replica tables to the global table, so that it can be available in additional AWS regions.
 
-With a global table, each replica table stores the same set of data items. DynamoDB does not support partial replication
-of only some of the items.
+With a global table, each replica table stores the same set of data items. DynamoDB does not support partial replication of only some of the items.
 
-An application can read and write data to any replica table. If your application only uses eventually consistent reads,
-and only issues reads against one AWS region, then it will work without any modification.
+An application can read and write data to any replica table. If your application only uses eventually consistent reads, and only issues reads against one AWS region, then it will work without any modification.
 
-However, if your application requires strongly consistent reads, then it must perform all of its strongly consistent
-reads and writes in the same region. DynamoDB does not support strongly consistent reads across AWS regions.
+However, if your application requires strongly consistent reads, then it must perform all of its strongly consistent reads and writes in the same region. DynamoDB does not support strongly consistent reads across AWS regions.
 
-It is important that each replica table and secondary index in your global table has identical write capacity settings
-to ensure proper replication of data.
+It is important that each replica table and secondary index in your global table has identical write capacity settings to ensure proper replication of data.
 
 **DYNAMODB AUTO SCALING**
 
@@ -977,8 +909,7 @@ Read/write capacity unit limits vary per region.
 
 **CAPACITY UNITS**
 
-One read capacity unit represents one strongly consistent read per second, or two eventually consistent reads per second
-for items up to 4KB.
+One read capacity unit represents one strongly consistent read per second, or two eventually consistent reads per second for items up to 4KB.
 
 For items larger than 4KB, DynamoDB consumes additional read capacity units.
 
@@ -986,16 +917,12 @@ One write capacity unit represents one write per second for an item up to 1KB.
 
 **CHARGES**
 
-DynamoDB charges for reading, writing, and storing data in your DynamoDB tables, along with any optional features you
-choose to enable.
+DynamoDB charges for reading, writing, and storing data in your DynamoDB tables, along with any optional features you choose to enable.
 
 There are two pricing models for DynamoDB:
 
-- **On-demand capacity mode:** DynamoDB charges you for the data reads and writes your application performs on your
-  tables. You do not need to specify how much read and write throughput you expect your application to perform because
-  DynamoDB instantly accommodates your workloads as they ramp up or down.
-- **Provisioned capacity mode:** you specify the number of reads and writes per second that you expect your application
-  to require. You can use auto scaling to automatically adjust your table’s capacity based on the specified utilization
+- **On-demand capacity mode:** DynamoDB charges you for the data reads and writes your application performs on your tables. You do not need to specify how much read and write throughput you expect your application to perform because DynamoDB instantly accommodates your workloads as they ramp up or down.
+- **Provisioned capacity mode:** you specify the number of reads and writes per second that you expect your application to require. You can use auto scaling to automatically adjust your table’s capacity based on the specified utilization
   rate to ensure application performance while reducing cost.
 
 **Additional charges include:**
@@ -1014,8 +941,7 @@ If DynamoDB can’t be used, choose Aurora because of redundancy and automatic r
 
 If Aurora can’t be used, choose Multi-AZ RDS.
 
-Frequent RDS snapshots can protect against data corruption or failure and they won’t impact performance of Multi-AZ
-deployment.
+Frequent RDS snapshots can protect against data corruption or failure and they won’t impact performance of Multi-AZ deployment.
 
 Regional replication is also an option but will not be strongly consistent.
 
@@ -1027,11 +953,9 @@ If the database runs on EC2, you have to design the HA yourself.
 
 Fully managed implementations of two popular in-memory data stores – Redis and Memcached.
 
-ElastiCache is a web service that makes it easy to deploy and run Memcached or Redis protocol- compliant server nodes in
-the cloud.
+ElastiCache is a web service that makes it easy to deploy and run Memcached or Redis protocol- compliant server nodes in the cloud.
 
-The in-memory caching provided by ElastiCache can be used to significantly improve latency and throughput for many
-read-heavy application workloads or compute-intensive workloads.
+The in-memory caching provided by ElastiCache can be used to significantly improve latency and throughput for many read-heavy application workloads or compute-intensive workloads.
 
 Best for scenarios where the DB load is based on Online Analytics Processing (OLAP) transactions.
 
@@ -1043,8 +967,7 @@ Billed by node size and hours of use.
 
 Elasticache EC2 nodes cannot be accessed from the Internet, nor can they be accessed by EC2 instances in other VPCs.
 
-Cached information may include the results of I/O-intensive database queries or the results of computationally-intensive
-calculations.
+Cached information may include the results of I/O-intensive database queries or the results of computationally-intensive calculations.
 
 Can be on-demand or reserved instances too (but not Spot instances).
 
@@ -1062,8 +985,7 @@ Subnet groups are a collection of subnets designated for your Amazon ElastiCache
 
 You cannot move an existing Amazon ElastiCache Cluster from outside VPC into a VPC.
 
-You need to configure subnet groups for Elasticache for the VPC that hosts the EC2 instances and the Elasticache
-cluster.
+You need to configure subnet groups for Elasticache for the VPC that hosts the EC2 instances and the Elasticache cluster.
 
 When not using a VPC, Amazon ElastiCache allows you to control access to your clusters through
 
@@ -1081,10 +1003,8 @@ Maintenance windows can be defined and allow software patching to occur.
 
 **There are two types of ElastiCache engine:**
 
-- Memcached – simplest model, can run large nodes with multiple cores/threads, can be scaled in and out, can cache
-  objects such as DBs.
-- Redis – complex model, supports encryption, master / slave replication, cross AZ (HA), automatic failover and
-  backup/restore.
+- Memcached – simplest model, can run large nodes with multiple cores/threads, can be scaled in and out, can cache objects such as DBs.
+- Redis – complex model, supports encryption, master / slave replication, cross AZ (HA), automatic failover and backup/restore.
 
 **USE CASES**
 
@@ -1153,8 +1073,7 @@ During backup you cannot perform CLI or API operations on the cluster.
 
 Automated backups are enabled by default (automatically deleted with Redis deletion).
 
-You can only move snapshots between regions by exporting them from Elasticache before moving between regions (can then
-populate a new cluster with data).
+You can only move snapshots between regions by exporting them from Elasticache before moving between regions (can then populate a new cluster with data).
 
 Multi-AZ is possible using read replicas in another AZ in the same region.
 
@@ -1213,8 +1132,7 @@ There is no charge for data transfer between Amazon EC2 and Amazon Elasticache w
 
 **GENERAL REDSHIFT CONCEPTS**
 
-Amazon Redshift is a fast, fully managed data warehouse that makes it simple and cost-effective to analyze all your data
-using standard SQL and existing Business Intelligence (BI) tools.
+Amazon Redshift is a fast, fully managed data warehouse that makes it simple and cost-effective to analyze all your data using standard SQL and existing Business Intelligence (BI) tools.
 
 Clustered peta-byte scale data warehouse.
 
@@ -1222,15 +1140,12 @@ RedShift is a SQL based data warehouse used for **analytics** applications.
 
 RedShift is an Online Analytics Processing (OLAP) type of DB.
 
-RedShift is used for running complex analytic queries against petabytes of structured data, using sophisticated query
-optimization, columnar storage on high-performance local disks, and massively parallel query execution.
-
+RedShift is used for running complex analytic queries against petabytes of structured data, using sophisticated query optimization, columnar storage on high-performance local disks, and massively parallel query execution.
 RedShift is ideal for **processing** large amounts of data for business intelligence.
 
 Extremely cost-effective as compared to some other on-premises data warehouse platforms.
 
-PostgreSQL compatible with JDBC and ODBC drivers available; compatible with most Business Intelligence tools out of the
-box.
+PostgreSQL compatible with JDBC and ODBC drivers available; compatible with most Business Intelligence tools out of the box. 
 
 Features parallel processing and columnar data stores which are optimized for complex queries.
 
@@ -1286,13 +1201,11 @@ unstructured data in Amazon S3, with no loading or ETL required.
 
 **AVAILABILITY AND DURABILITY**
 
-RedShift uses replication and continuous backups to enhance availability and improve durability and can automatically
-recover from component and node failures.
+RedShift uses replication and continuous backups to enhance availability and improve durability and can automatically recover from component and node failures.
 
 Only available in one AZ but you can restore snapshots into another AZ.
 
-Alternatively, you can run data warehouse clusters in multiple AZ’s by loading data into two Amazon Redshift data
-warehouse clusters in separate AZs from the same set of Amazon S3 input files.
+Alternatively, you can run data warehouse clusters in multiple AZ’s by loading data into two Amazon Redshift data warehouse clusters in separate AZs from the same set of Amazon S3 input files.
 
 Redshift replicates your data within your data warehouse cluster and continuously backs up your data to Amazon S3.
 
@@ -1318,15 +1231,13 @@ Redshift replicates your data within your data warehouse cluster and continuousl
 
 - AZ/region level disasters.
 
-For nodes failures the data warehouse cluster will be unavailable for queries and updates until a replacement node is
-provisioned and added to the DB.
+For nodes failures the data warehouse cluster will be unavailable for queries and updates until a replacement node is provisioned and added to the DB.
 
 **High availability for RedShift:**
 
 - Currently, RedShift does not support Multi-AZ deployments.
 - The best HA option is to use multi-node cluster which supports data replication and node recovery.
-- A single node RedShift cluster does not support data replication and you’ll have to restore from a snapshot on S3 if a
-  drive fails.
+- A single node RedShift cluster does not support data replication and you’ll have to restore from a snapshot on S3 if a drive fails.
 
 RedShift can asynchronously replicate your snapshots to S3 in another region for DR.
 
@@ -1334,8 +1245,7 @@ Single-node clusters do not support data replication (in a failure scenario you 
 
 Scaling requires a period of unavailability of a few minutes (typically during the maintenance window).
 
-During scaling operations RedShift moves data in parallel from the compute nodes in your existing data warehouse cluster
-to the compute nodes in your new cluster.
+During scaling operations RedShift moves data in parallel from the compute nodes in your existing data warehouse cluster to the compute nodes in your new cluster.
 
 By default, Amazon Redshift retains backups for 1 day. You can configure this to be as long as 35 days.
 
@@ -1363,23 +1273,20 @@ Charged for compute nodes hours, 1 unit per hour (only compute node, not leader 
 
 Backup storage – storage on S3.
 
-Data transfer – no charge for data transfer between RedShift and S3 within a region but for other scenarios you may pay
-charges.
+Data transfer – no charge for data transfer between RedShift and S3 within a region but for other scenarios you may pay charges.
 
 ### Database Quiz Questions
 
 Answers and explanations are provided below after the last question in this section.
 
-**Question 1: An organization is migrating their relational databases to the AWS Cloud. They require full operating
-system access to install custom operational toolsets. Which AWS service should they use to host their databases?**
+**Question 1: An organization is migrating their relational databases to the AWS Cloud. They require full operating system access to install custom operational toolsets. Which AWS service should they use to host their databases?**
 
 1. Amazon EC2
 2. Amazon RDS
 3. Amazon DynamoDB
 4. Amazon ElastiCache
 
-**Question 2: An organization is migrating databases into the AWS Cloud. They require a managed service for their MySQL
-database and need automatic failover to a secondary database. Which solution should they use?**
+**Question 2: An organization is migrating databases into the AWS Cloud. They require a managed service for their MySQL database and need automatic failover to a secondary database. Which solution should they use?**
 
 1. Amazon RDS with Read Replicas
 2. Amazon RDS with Multi-AZ
@@ -1394,41 +1301,34 @@ Amazon RDS database?**
 3. Take an encrypted snapshot of the DB instance and create a new database instance from the snapshot
 4. Create a new encrypted RDS database and migrate the data across
 
-**Question 4: An Amazon RDS database is experiencing heavy demand and is slowing down. Most database calls are reads.
-What is the simplest way to scale the database without downtime?**
+**Question 4: An Amazon RDS database is experiencing heavy demand and is slowing down. Most database calls are reads.  What is the simplest way to scale the database without downtime?**
 
 1. Create a Read Replica
 2. Change to an instance type with more resources
 3. Offload data to DynamoDB
 
-**Question 5: A new application requires a database that can allow writes to DB instances in multiple availability zones
-with read after write consistency. Which solution meets these requirements?**
+**Question 5: A new application requires a database that can allow writes to DB instances in multiple availability zones with read after write consistency. Which solution meets these requirements?**
 
 1. Amazon Aurora Global Database
 2. Amazon Aurora Replicas
 3. Amazon Aurora Cross-Region Replicas
 4. Amazon Aurora Multi-Master
 
-**Question 6: A customer needs a schema-less database that can seamlessly scale. Which AWS database service would you
-recommend?**
+**Question 6: A customer needs a schema-less database that can seamlessly scale. Which AWS database service would you recommend?**
 
 1. Amazon DynamoDB
-
-
 2. Amazon ElastiCache
 3. Amazon RDS
 4. Amazon Aurora
 
-**Question 7: Which DynamoDB feature integrates with AWS Lambda to automatically execute functions in response to table
-updates?**
+**Question 7: Which DynamoDB feature integrates with AWS Lambda to automatically execute functions in response to table updates?**
 
 1. DynamoDB Global Tables
 2. DynamoDB Auto Scaling
 3. DynamoDB Streams
 4. DynamoDB DAX
 
-**Question 8: You need to implement an in-memory caching layer in front of an Amazon RDS database. The caching layer
-should allow encryption and replication. Which solution meets these requirements?**
+**Question 8: You need to implement an in-memory caching layer in front of an Amazon RDS database. The caching layer should allow encryption and replication. Which solution meets these requirements?**
 
 1. Amazon ElastiCache Memcached
 2. Amazon ElastiCache Redis
@@ -1453,12 +1353,10 @@ should allow encryption and replication. Which solution meets these requirements
 **Explanation:**
 
 ```
-1 is correct. If you need to access the underlying operating system you must use Amazon EC2 for
-a relational database.
+1 is correct. If you need to access the underlying operating system you must use Amazon EC2 for a relational database.
 2 is incorrect. You do not get access to the underlying operating system with Amazon RDS.
 3 is incorrect. Amazon DynamoDB is not a relational database; it is a NoSQL type of database.
-4 is incorrect. Amazon ElastiCache is an in-memory caching database, it is typically placed in front
-of other databases. It also does not provide access to the underlying operating system.
+4 is incorrect. Amazon ElastiCache is an in-memory caching database, it is typically placed in front of other databases. It also does not provide access to the underlying operating system.
 ```
 
 **Question 2, Answer: 2**

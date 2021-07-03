@@ -1,4 +1,3 @@
-
 ## STORAGE
 
 ### Amazon S3

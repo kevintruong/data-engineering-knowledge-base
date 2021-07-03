@@ -50,11 +50,9 @@ Users pay $0.50 per 1 million Amazon SNS Requests, $0.06 per 100,000 notificatio
 
 **GENERAL SQS CONCEPTS**
 
-Amazon Simple Queue Service (Amazon SQS) is a web service that gives you access to message
-queues that store messages waiting to be processed.
+Amazon Simple Queue Service (Amazon SQS) is a web service that gives you access to message queues that store messages waiting to be processed.
 
-SQS offers a reliable, highly-scalable, hosted queue for storing messages in transit between
-computers.
+SQS offers a reliable, highly-scalable, hosted queue for storing messages in transit between computers.
 
 SQS is used for distributed/decoupled applications.
 
@@ -68,20 +66,19 @@ Messages are 256KB in size.
 
 Messages can be kept in the queue from 1 minute to 14 days (default is 4 days).
 
-The visibility timeout is the amount of time a message is invisible in the queue after a reader picks
-up the message.
+The visibility timeout is the amount of time a message is invisible in the queue after a reader picks up the message.
 
 If a job is processed within the visibility timeout the message will be deleted.
 
-If a job is not processed within the visibility timeout the message will become visible again (could be
-delivered twice).
+If a job is not processed within the visibility timeout the message will become visible again (could be delivered twice).
 
 The maximum visibility timeout for an Amazon SQS message is 12 hours.
 
 An Amazon SQS message can contain up to 10 metadata attributes.
 
-**The table below compares solution requirements that are more suitable for Amazon Kinesis Data
-Streams and Amazon SQS:**
+**The table below compares solution requirements that are more suitable for Amazon Kinesis Data Streams and Amazon SQS:**
+
+//TODO 
 
 **POLLING**
 
@@ -122,7 +119,6 @@ FIFO (first-in-first-out) queues preserve the exact order in which messages are 
 If you use a FIFO queue, you don’t have to place sequencing information in your message.
 
 FIFO queues provide exactly-once processing, which means that each message is delivered once and remains available until a consumer processes it and deletes it.
-
 
 **LIMITS**
 
@@ -236,8 +232,7 @@ Amazon MQ provides cost-efficient and flexible messaging capacity – you pay fo
 
 Amazon MQ manages the administration and maintenance of ActiveMQ brokers and automatically provisions infrastructure for high availability.
 
-With Amazon MQ, you can use the AWS Management Console, AWS CloudFormation, the Command Line Interface (CLI), or simple API calls to launch a production-ready message broker in
-minutes.
+With Amazon MQ, you can use the AWS Management Console, AWS CloudFormation, the Command Line Interface (CLI), or simple API calls to launch a production-ready message broker in minutes.
 
 It’s a managed implementation of Apache ActiveMQ.
 
@@ -277,7 +272,6 @@ You can quickly build and run state machines to execute the steps of your applic
 2. Start an execution to visualize and verify the steps of your application are operating as intended. The console highlights the real-time status of each step and provides a detailed history of every execution.
 3. AWS Step Functions operates and scales the steps of your application and underlying compute for you to help ensure your application executes reliably under increasing demand.
 
-
 Managed workflow and orchestration platform.
 
 Scalable and highly available.
@@ -296,30 +290,15 @@ Detailed logs of each step execution.
 
 **Benefits and Features:**
 
-- **Built-in error handling –** AWS Step Functions tracks the state of each step, so you can
-    automatically retry failed or timed-out tasks, catch specific errors, and recover gracefully,
-    whether the task takes seconds or months to complete.
-- **Automatic Scaling –** AWS Step Functions automatically scales the operations and underlying
-    compute to run the steps of your application for you in response to changing workloads.
-    Step Functions scales automatically to help ensure the performance of your application
-    workflow remains consistently high as the frequency of requests increases.
-- **Pay per use –** With AWS Step Functions, you pay only for the transition from one step of
-    your application workflow to the next, called a state transition. Billing is metered by state
-    transition, regardless of how long each state persists (up to one year).
-- **Execution event history –** AWS Step Functions creates a detailed event log for every
-    execution, so when things do go wrong, you can quickly identify not only where, but why.
-    All of the execution history is available visually and programmatically to quickly
-    troubleshoot and remediate failures.
-- **High availability –** AWS Step Functions has built-in fault tolerance. Step Functions maintains
-    service capacity across multiple Availability Zones in each region to help protect application
-    workflows against individual machine or data center facility failures. There are no
-    maintenance windows or scheduled downtimes.
-- **Administrative security –** AWS Step Functions is integrated with AWS Identity and Access
-    Management (IAM). IAM policies can be used to control access to the Step Functions APIs.
-
+- **Built-in error handling –** AWS Step Functions tracks the state of each step, so you can automatically retry failed or timed-out tasks, catch specific errors, and recover gracefully, whether the task takes seconds or months to complete.
+- **Automatic Scaling –** AWS Step Functions automatically scales the operations and underlying compute to run the steps of your application for you in response to changing workloads.  Step Functions scales automatically to help ensure the performance of your application workflow remains consistently high as the frequency of requests increases.
+- **Pay per use –** With AWS Step Functions, you pay only for the transition from one step of your application workflow to the next, called a state transition. Billing is metered by state transition, regardless of how long each state persists (up to one year).
+- **Execution event history –** AWS Step Functions creates a detailed event log for every execution, so when things do go wrong, you can quickly identify not only where, but why.  All of the execution history is available visually and programmatically to quickly troubleshoot and remediate failures.
+- **High availability –** AWS Step Functions has built-in fault tolerance. Step Functions maintains service capacity across multiple Availability Zones in each region to help protect application workflows against individual machine or data center facility failures. There are no maintenance windows or scheduled downtimes.
+- **Administrative security –** AWS Step Functions is integrated with AWS Identity and Access Management (IAM). IAM policies can be used to control access to the Step Functions APIs.
 The following table describes **related services and typical use cases** for them:
 
-
+//TODO 
 
 ### Application Integration Quiz Questions
 
@@ -384,17 +363,12 @@ D. FIFO queues
 A client is in the design phase of developing an application that will process orders for their online ticketing system. The application will use a number of front-end EC2 instances that pick-up orders and place them in a queue for processing by another set of back-end EC2 instances. The client will have multiple options for customers to choose the level of service they want to pay for.
 
 The client has asked how he can design the application to process the orders in a prioritized way based on the level of service the customer has chosen?
+
 ```
-A. Create multiple SQS queues, configure the front-end application to place orders onto a
-specific queue based on the level of service requested and configure the back-end instances
-to sequentially poll the queues in order of priority
-B. Create a combination of FIFO queues and Standard queues and configure the applications to
-place messages into the relevant queue based on priority
-C. Create a single SQS queue, configure the front-end application to place orders on the queue
-in order of priority and configure the back-end instances to poll the queue and pick up
-messages in the order they are presented
-D. Create multiple SQS queues, configure exactly-once processing and set the maximum
-visibility timeout to 12 hours
+A. Create multiple SQS queues, configure the front-end application to place orders onto a specific queue based on the level of service requested and configure the back-end instances to sequentially poll the queues in order of priority
+B. Create a combination of FIFO queues and Standard queues and configure the applications to place messages into the relevant queue based on priority
+C. Create a single SQS queue, configure the front-end application to place orders on the queue in order of priority and configure the back-end instances to poll the queue and pick up messages in the order they are presented
+D. Create multiple SQS queues, configure exactly-once processing and set the maximum visibility timeout to 12 hours
 ```
 
 **APPLICATION INTEGRATION - ANSWERS**
