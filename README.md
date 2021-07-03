@@ -60,7 +60,12 @@ Questions sample:
 #itself_tag1 #itself_tag2 #itself_tag3  //attribute/catalog of the question
 ```
 
-each question will content 2 tag lines: 
+there have two options here: 
+
+- Inline tagging: Local tags 
+- Schema file tagging: Global tags for each quiz collection file, apply for all question on the quiz collection file
+
+Each question will content 2 tag lines: 
 
 - Tags address level: to identify the question belong to what group for easy to graph between question and knowledge
 - Free style tag: for tagging only, attribute of question. 
@@ -145,4 +150,45 @@ This domain makes up 18% of the exam and includes the following objectives:
 **What you need to know**
 
 A relatively small but still important area of the exam requires architects to consider cost- effectiveness when deploying application on AWS. You need to understand the various cost models of compute and storage services, what you pay for and what the best choices would be given a specific scenario.
+
+## What do I want ? 
+
+a course study with well structure hierarchy base on unit-chaper-exercise-difficulty ? 
+
+![img.png](assets/study_course_hierarchy.png)
+
+But also have another graph linked network using tags/hashtags : 
+
+for AWS solution architecture study course, we need including some tags: 
+
+- Test domain tag for each quiz questions:
+  Domain 1,2,3,4 follow defined above
+```
+#domain1 #domain2 #domain3 #domain4
+```  
+
+- Question relate to what unit/topic: 
+```
+#ec2 #elb
+```
+- The difficult level of question
+`#easy #hard #normal`
+
+by hashtags/tag we can define really dynamic test for simulate aws certificate test. 
+
+for each domain: we have ratio: 30% - 24% -28% - 18%. 
+We create simple query to create test:
+
+`from quiz_test_table select question which domain == domain_1 ... other filter here`
+
+And also easy to create a quiz test for each unit/section
+
+`from quiz_test_table select question which question.tags like "ec2"... other filter here` 
+by this way, we can create a test which wide domain test level  
+
+there have two steps on lession/unit test: 
+- 1 components relative only for learning: which the kind, focus on question relate on current learning session/unit 
+- Review test but focus on components: wide level , relative to the current lession but also reference to other lesion. wide domain test level 
+
+
 

@@ -2,8 +2,7 @@
 
 ### Amazon CloudWatch
 
-Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run
-on AWS.
+Amazon CloudWatch is a monitoring service for AWS cloud resources and the applications you run on AWS.
 
 CloudWatch vs CloudTrail:
 
@@ -25,33 +24,22 @@ Monitor application performance.
 
 Monitor operational health.
 
-CloudWatch is accessed via API, command-line interface, AWS SDKs, and the AWS Management
-Console.
+CloudWatch is accessed via API, command-line interface, AWS SDKs, and the AWS Management Console.
 
 CloudWatch integrates with IAM.
 
 **CloudWatch Logs:**
 
-- Amazon CloudWatch Logs lets you monitor and troubleshoot your systems and applications
-
-
-```
-using your existing system, application and custom log files.
-```
-- You can use Amazon CloudWatch Logs to monitor, store, and access your log files from
-    Amazon Elastic Compute Cloud (Amazon EC2) instances, AWS CloudTrail, Route 53, and
-    other sources.
-- CloudWatch Logs can be used for real time application and system monitoring as well as
-    long term log retention.
+- Amazon CloudWatch Logs lets you monitor and troubleshoot your systems and applications using your existing system, application and custom log files.
+- You can use Amazon CloudWatch Logs to monitor, store, and access your log files from Amazon Elastic Compute Cloud (Amazon EC2) instances, AWS CloudTrail, Route 53, and other sources.
+- CloudWatch Logs can be used for real time application and system monitoring as well as long term log retention.
 - CloudWatch Logs keeps logs indefinitely by default.
 - CloudTrail logs can be sent to CloudWatch Logs for real-time monitoring.
-- CloudWatch Logs metric filters can evaluate CloudTrail logs for specific terms, phrases or
-    values.
+- CloudWatch Logs metric filters can evaluate CloudTrail logs for specific terms, phrases or values.
 
 **CloudWatch retains metric data as follows:**
 
-- Data points with a period of less than 60 seconds are available for 3 hours. These data
-    points are high-resolution custom metrics.
+- Data points with a period of less than 60 seconds are available for 3 hours. These data points are high-resolution custom metrics.
 - Data points with a period of 60 seconds (1 minute) are available for 15 days.
 - Data points with a period of 300 seconds (5 minute) are available for 63 days.
 - Data points with a period of 3600 seconds (1 hour) are available for 455 days (15 months).
@@ -72,14 +60,12 @@ API history enables security analysis, resource change tracking, and compliance 
 
 **Logs API calls made via:**
 
-
 - AWS Management Console.
 - AWS SDKs.
 - Command line tools.
 - Higher-level AWS services (such as CloudFormation).
 
-**CloudTrail records account activity and service events from most AWS services and logs the
-following records:**
+**CloudTrail records account activity and service events from most AWS services and logs the following records:**
 
 - The identity of the API caller.
 - The time of the API call.
@@ -93,12 +79,8 @@ Trails can be enabled per region or a trail can be applied to all regions.
 
 **Trails can be configured to log data events and management events:**
 
-- **Data events:** These events provide insight into the resource operations performed on or
-    within a resource. These are also known as data plane operations.
-- **Management events:** Management events provide insight into management operations
-    that are performed on resources in your AWS account. These are also known as control
-    plane operations. Management events can also include non-API events that occur in your
-    account.
+- **Data events:** These events provide insight into the resource operations performed on or within a resource. These are also known as data plane operations.
+- **Management events:** Management events provide insight into management operations that are performed on resources in your AWS account. These are also known as control plane operations. Management events can also include non-API events that occur in your account.
 
 CloudTrail log files are encrypted using S3 Server Side Encryption (SSE).
 
@@ -110,28 +92,19 @@ A single KMS key can be used to encrypt log files for trails applied to all regi
 
 1. Turn on CloudTrail in the paying account.
 2. Create a bucket policy that allows cross-account access.
-3. Turn on CloudTrail in the other accounts and use the bucket in the paying account.
+3. Turn on CloudTrail in the other accounts and use the bucket in the paying account.  You can integrate CloudTrail with CloudWatch Logs to deliver data events captured by CloudTrail to a CloudWatch Logs log stream.
 
-You can integrate CloudTrail with CloudWatch Logs to deliver data events captured by CloudTrail to
-a CloudWatch Logs log stream.
-
-CloudTrail log file integrity validation feature allows you to determine whether a CloudTrail log file
-was unchanged, deleted, or modified since CloudTrail delivered it to the specified Amazon S3
-bucket.
+CloudTrail log file integrity validation feature allows you to determine whether a CloudTrail log file was unchanged, deleted, or modified since CloudTrail delivered it to the specified Amazon S3 bucket.
 
 ### AWS OpsWorks
 
-AWS OpsWorks is a configuration management service that provides managed instances of Chef
-and Puppet two very popular automation platforms.
+AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet two very popular automation platforms.
 
 Automates how applications are configured, deployed and managed.
 
+Provide configuration management to deploy code, automate tasks, configure instances, perform upgrades etc.
 
-Provide configuration management to deploy code, automate tasks, configure instances, perform
-upgrades etc.
-
-OpsWorks lets you use Chef and Puppet to automate how servers are configured, deployed, and
-managed across your Amazon EC2 instances or on-premises compute environments.
+OpsWorks lets you use Chef and Puppet to automate how servers are configured, deployed, and managed across your Amazon EC2 instances or on-premises compute environments.
 
 OpsWorks is an automation platform that transforms infrastructure into code.
 
@@ -144,45 +117,33 @@ OpsWorks is an automation platform that transforms infrastructure into code.
 - Layers represent different components of the application delivery hierarchy.
 - EC2 instances, RDS instances, and ELBS are examples of Layers.
 
-OpsWorks is a global service. But when you create a stack, you must specify a region and that stack
-can only control resources in that region.
+OpsWorks is a global service. But when you create a stack, you must specify a region and that stack can only control resources in that region.
 
-There are three offerings: OpsWorks for Chef Automate, OpsWorks for Puppet Enterprise, and
-OpsWorks Stacks.
+There are three offerings: OpsWorks for Chef Automate, OpsWorks for Puppet Enterprise, and OpsWorks Stacks.
 
 **AWS OpsWorks for Chef Automate**
 
-- A fully-managed configuration management service that hosts Chef Automate, a suite of
-    automation tools from Chef for configuration management, compliance and security, and
-    continuous deployment.
-- Completely compatible with tooling and cookbooks from the Chef community and
-    automatically registers new nodes with your Chef server.
+- A fully-managed configuration management service that hosts Chef Automate, a suite of automation tools from Chef for configuration management, compliance and security, and continuous deployment.
+- Completely compatible with tooling and cookbooks from the Chef community and automatically registers new nodes with your Chef server.
 - Chef server stores recipes and configuration data.
 - Chef client (node) is installed on each server.
 
 **AWS OpsWorks for Puppet Enterprise**
 
-- A fully-managed configuration management service that hosts Puppet Enterprise, a set of
-    automation tools from Puppet for infrastructure and application management.
+- A fully-managed configuration management service that hosts Puppet Enterprise, a set of automation tools from Puppet for infrastructure and application management.
 
 **AWS OpsWorks Stacks**
 
-- An application and server management service that allows you to model your application as
-    a stack containing different layers, such as load balancing, database, and application server.
-- OpsWorks Stacks is an AWS creation and uses and embedded Chef Solo client installed on
-    EC2 instances to run Chef recipes.
+- An application and server management service that allows you to model your application as a stack containing different layers, such as load balancing, database, and application server.
+- OpsWorks Stacks is an AWS creation and uses and embedded Chef Solo client installed on EC2 instances to run Chef recipes.
 
 OpsWorks Stacks supports EC2 instances and on-premise servers as well as an agent.
 
 ### AWS CloudFormation
 
-AWS CloudFormation is a service that gives developers and businesses an easy way to create a
-collection of related AWS resources and provision them in an orderly and predictable fashion.
+AWS CloudFormation is a service that gives developers and businesses an easy way to create a collection of related AWS resources and provision them in an orderly and predictable fashion.
 
-AWS CloudFormation provides a common language for you to describe and provision all the
-
-
-infrastructure resources in your cloud environment.
+AWS CloudFormation provides a common language for you to describe and provision all the infrastructure resources in your cloud environment.
 
 CloudFormation can be used to provision a broad range of AWS resources.
 
@@ -190,13 +151,10 @@ Think of CloudFormation as deploying infrastructure as code.
 
 Elastic Beanstalk is more focused on deploying applications on EC2 (PaaS).
 
-CloudFormation can deploy Elastic Beanstalk-hosted applications however the reverse is not
-possible.
+CloudFormation can deploy Elastic Beanstalk-hosted applications however the reverse is not possible.
 
 Logical IDs are used to reference resources within the template.
-
-Physical IDs identify resources outside of AWS CloudFormation templates, but only after the
-resources have been created.
+Physical IDs identify resources outside of AWS CloudFormation templates, but only after the resources have been created.
 
 Concept of templates, stacks and change sets:
 
@@ -218,16 +176,15 @@ Concept of templates, stacks and change sets:
 
 **Template elements**
 
-```
 Mandatory:
-```
+
 - File format and version
 - List of resources and associated configuration values
+
 **Not mandatory:**
+
 - Template parameters (limited to 60)
 - Output values (limited to 60)
-
-
 - List of data tables
 
 Puppet and Chef integration is supported.
@@ -253,41 +210,25 @@ Route 53 is supported.
 
 **Updating stacks:**
 
-- AWS CloudFormation provides two methods for updating stacks: direct update or creating
-    and executing change sets.
-- When you directly update a stack, you submit changes and AWS CloudFormation
-    immediately deploys them.
+- AWS CloudFormation provides two methods for updating stacks: direct update or creating and executing change sets.
+- When you directly update a stack, you submit changes and AWS CloudFormation immediately deploys them.
 - Use direct updates when you want to quickly deploy your updates.
-- With change sets, you can preview the changes AWS CloudFormation will make to your
-    stack, and then decide whether to apply those changes.
+- With change sets, you can preview the changes AWS CloudFormation will make to your stack, and then decide whether to apply those changes.
 
 **StackSets**
 
-- AWS CloudFormation StackSets extends the functionality of stacks by enabling you to
-    create, update, or delete stacks across multiple accounts and regions with a single
-    operation.
-- Using an administrator account, you define and manage an AWS CloudFormation template,
-    and use the template as the basis for provisioning stacks into selected target accounts
-    across specified regions.
+- AWS CloudFormation StackSets extends the functionality of stacks by enabling you to create, update, or delete stacks across multiple accounts and regions with a single operation.
+- Using an administrator account, you define and manage an AWS CloudFormation template, and use the template as the basis for provisioning stacks into selected target accounts across specified regions.
 - An administrator account is the AWS account in which you create stack sets.
-- A stack set is managed by signing in to the AWS administrator account in which it was
-    created.
-- A target account is the account into which you create, update, or delete one or more stacks
-    in your stack set.
+- A stack set is managed by signing in to the AWS administrator account in which it was created.
+- A target account is the account into which you create, update, or delete one or more stacks in your stack set.
 
-Before you can use a stack set to create stacks in a target account, you must set up a trust
-relationship between the administrator and target accounts.
+Before you can use a stack set to create stacks in a target account, you must set up a trust relationship between the administrator and target accounts.
 
 **Best Practices**
 
-- AWS provides Python “helper scripts” which can help you install software and start services
-    on your EC2 instances.
-- Use CloudFormation to make changes to your landscape rather than going directly into the
-
-
-```
-resources.
-```
+- AWS provides Python “helper scripts” which can help you install software and start services on your EC2 instances.
+- Use CloudFormation to make changes to your landscape rather than going directly into the resources.
 - Make use of Change Sets to identify potential trouble spots in your updates.
 - Use Stack Policies to explicitly protect sensitive portions of your stack.
 - Use a version control system such as CodeCommit or GitHub to track changes to templates.
@@ -295,40 +236,30 @@ resources.
 **Charges**
 
 - There is no additional charge for AWS CloudFormation.
-- You pay for AWS resources (such as Amazon EC2 instances, Elastic Load Balancing load
-    balancers, etc.) created using AWS CloudFormation in the same manner as if you created
-    them manually.
-- You only pay for what you use, as you use it; there are no minimum fees and no required
-    upfront commitments.
+- You pay for AWS resources (such as Amazon EC2 instances, Elastic Load Balancing load balancers, etc.) created using AWS CloudFormation in the same manner as if you created them manually.
+- You only pay for what you use, as you use it; there are no minimum fees and no required upfront commitments.
 
 ### AWS Config
 
 **GENERAL**
 
-AWS Config is a fully managed service that provides you with an AWS resource inventory,
-configuration history, and configuration change notifications to enable security and governance.
+AWS Config is a fully managed service that provides you with an AWS resource inventory, configuration history, and configuration change notifications to enable security and governance.
 
-With AWS Config you can discover existing AWS resources, export a complete inventory of your
-AWS resources with all configuration details, and determine how a resource was configured at any
-point in time.
+With AWS Config you can discover existing AWS resources, export a complete inventory of your AWS resources with all configuration details, and determine how a resource was configured at any point in time.
 
-These capabilities enable compliance auditing, security analysis, resource change tracking, and
-troubleshooting.
+These capabilities enable compliance auditing, security analysis, resource change tracking, and troubleshooting.
 
 Allow you to assess, audit and evaluate configurations of your AWS resources.
 
 Very useful for Configuration Management as part of an ITIL program.
 
-Creates a baseline of various configuration settings and files and can then track variations against
-that baseline.
+Creates a baseline of various configuration settings and files and can then track variations against that baseline.
 
 **AWS CONFIG VS CLOUDTRAIL**
 
-AWS CloudTrail records user API activity on your account and allows you to access information
-about this activity.
+AWS CloudTrail records user API activity on your account and allows you to access information about this activity.
 
-AWS Config records point-in-time configuration details for your AWS resources as Configuration
-Items (CIs).
+AWS Config records point-in-time configuration details for your AWS resources as Configuration Items (CIs).
 
 You can use an AWS Config CI to answer “What did my AWS resource look like?” at a point in time.
 
@@ -336,13 +267,9 @@ You can use AWS CloudTrail to answer “Who made an API call to modify this reso
 
 **CONFIG RULES**
 
-A Config Rule represents desired configurations for a resource and is evaluated against
-configuration changes on the relevant resources, as recorded by AWS Config.
+A Config Rule represents desired configurations for a resource and is evaluated against configuration changes on the relevant resources, as recorded by AWS Config.
 
-AWS Config Rules can check resources for certain desired conditions and if violations are found the
-
-
-resources are flagged as “noncompliant”.
+AWS Config Rules can check resources for certain desired conditions and if violations are found the resources are flagged as “noncompliant”.
 
 **Examples of Config Rules:**
 
@@ -352,88 +279,61 @@ resources are flagged as “noncompliant”.
 
 **CONFIGURATION ITEMS**
 
-A Configuration Item (CI) is the configuration of a resource at a given point-in-time. A CI consists of
-5 sections:
+A Configuration Item (CI) is the configuration of a resource at a given point-in-time. A CI consists of 5 sections:
 
-1. Basic information about the resource that is common across different resource types (e.g.,
-    Amazon Resource Names, tags).
+1. Basic information about the resource that is common across different resource types (e.g., Amazon Resource Names, tags).
 2. Configuration data specific to the resource (e.g., EC2 instance type).
-3. Map of relationships with other resources (e.g., EC2::Volume vol-3434df43 is “attached to
-    instance” EC2 Instance i-3432ee3a).
+3. Map of relationships with other resources (e.g., EC2::Volume vol-3434df43 is “attached to instance” EC2 Instance i-3432ee3a).
 4. AWS CloudTrail event IDs that are related to this state.
-5. Metadata that helps you identify information about the CI, such as the version of this CI,
-    and when this CI was captured.
+5. Metadata that helps you identify information about the CI, such as the version of this CI, and when this CI was captured.
 
 **CHARGES**
 
-With AWS Config, you are charged based on the number configuration items (CIs) recorded for
-supported resources in your AWS account.
+With AWS Config, you are charged based on the number configuration items (CIs) recorded for supported resources in your AWS account.
 
-AWS Config creates a configuration item whenever it detects a change to a resource type that it is
-recording.
+AWS Config creates a configuration item whenever it detects a change to a resource type that it is recording.
 
 ### AWS Systems Manager
 
-AWS Systems Manager allows you to centralize operational data from multiple AWS services and
-automate tasks across your AWS resources.
+AWS Systems Manager allows you to centralize operational data from multiple AWS services and automate tasks across your AWS resources.
 
-You can create logical groups of resources such as applications, different layers of an application
-stack, or production versus development environments.
+You can create logical groups of resources such as applications, different layers of an application stack, or production versus development environments.
 
-With Systems Manager, you can select a resource group and view its recent API activity, resource
-configuration changes, related notifications, operational alerts, software inventory, and patch
-compliance status.
+With Systems Manager, you can select a resource group and view its recent API activity, resource configuration changes, related notifications, operational alerts, software inventory, and patch compliance status.
 
-You can also take action on each resource group depending on your operational needs.
-
-Systems Manager provides a central place to view and manage your AWS resources, so you can
-have complete visibility and control over your operations.
+You can also take action on each resource group depending on your operational needs.  Systems Manager provides a central place to view and manage your AWS resources, so you can have complete visibility and control over your operations.
 
 Centralized console and toolset for a wide variety of system management tasks.
 
 Designed for managing a large fleet of systems – tens or hundreds.
 
 
-SSM Agent enables System Manager features and supports all OSs supported by OS as well as back
-to Windows Server 2003 and Raspbian.
+SSM Agent enables System Manager features and supports all OSs supported by OS as well as back to Windows Server 2003 and Raspbian.
 
 SSM Agent installed by default on recent AWS-provided base AMIs for Linux and Windows.
 
 Manages AWS-based and on-premises based systems via the agent.
 
-The AWS Systems Manager console integrates with AWS Resource Groups, and it offers grouping
-capabilities in addition to other native integrations.
+The AWS Systems Manager console integrates with AWS Resource Groups, and it offers grouping capabilities in addition to other native integrations.
 
 **Systems Manager Inventory:**
 
-- AWS Systems Manager collects information about your instances and the software installed
-    on them, helping you to understand your system configurations and installed applications.
-- You can collect data about applications, files, network configurations, Windows services,
-    registries, server roles, updates, and any other system properties.
-- The gathered data enables you to manage application assets, track licenses, monitor file
-    integrity, discover applications not installed by a traditional installer, and more.
+- AWS Systems Manager collects information about your instances and the software installed on them, helping you to understand your system configurations and installed applications.
+- You can collect data about applications, files, network configurations, Windows services, registries, server roles, updates, and any other system properties.
+- The gathered data enables you to manage application assets, track licenses, monitor file integrity, discover applications not installed by a traditional installer, and more.
 
 **Configuration Compliance:**
 
-- AWS Systems Manager lets you scan your managed instances for patch compliance and
-    configuration inconsistencies.
-- You can collect and aggregate data from multiple AWS accounts and Regions, and then drill
-    down into specific resources that aren’t compliant.
-- By default, AWS Systems Manager displays data about patching and associations. You can
-    also customize the service and create your own compliance types based on your
-    requirements.
+- AWS Systems Manager lets you scan your managed instances for patch compliance and configuration inconsistencies.
+- You can collect and aggregate data from multiple AWS accounts and Regions, and then drill down into specific resources that aren’t compliant.
+- By default, AWS Systems Manager displays data about patching and associations. You can also customize the service and create your own compliance types based on your requirements.
 
 **Automation:**
 
-- AWS Systems Manager allows you to safely automate common and repetitive IT operations
-    and management tasks across AWS resources.
-- With Systems Manager, you can create JSON documents that specify a specific list of tasks
-    or use community published documents.
-- These documents can be executed directly through the AWS Management Console, CLIs,
-    and SDKs, scheduled in a maintenance window, or triggered based on changes to AWS
-    resources through Amazon CloudWatch Events.
-- You can track the execution of each step in the documents as well as require approvals for
-    each step.
+- AWS Systems Manager allows you to safely automate common and repetitive IT operations and management tasks across AWS resources.
+- With Systems Manager, you can create JSON documents that specify a specific list of tasks or use community published documents.
+- These documents can be executed directly through the AWS Management Console, CLIs, and SDKs, scheduled in a maintenance window, or triggered based on changes to AWS resources through Amazon CloudWatch Events.
+- You can track the execution of each step in the documents as well as require approvals for each step.
 - You can also incrementally roll out changes and automatically halt when errors occur.
 
 **Run Command:**
@@ -445,76 +345,44 @@ capabilities in addition to other native integrations.
 
 **Session Manager:**
 
-- AWS Systems Manager provides you safe, secure remote management of your instances at
-    scale without logging into your servers, replacing the need for bastion hosts, SSH, or remote
-
-
-```
-PowerShell.
-```
-- It provides a simple way of automating common administrative tasks across groups of
-    instances such as registry edits, user management, and software and patch installations.
-- Through integration with AWS Identity and Access Management (IAM), you can apply
-    granular permissions to control the actions users can perform on instances.
-- All actions taken with Systems Manager are recorded by AWS CloudTrail, allowing you to
-    audit changes throughout your environment.
+- AWS Systems Manager provides you safe, secure remote management of your instances at scale without logging into your servers, replacing the need for bastion hosts, SSH, or remote PowerShell.
+- It provides a simple way of automating common administrative tasks across groups of instances such as registry edits, user management, and software and patch installations.
+- Through integration with AWS Identity and Access Management (IAM), you can apply granular permissions to control the actions users can perform on instances.
+- All actions taken with Systems Manager are recorded by AWS CloudTrail, allowing you to audit changes throughout your environment.
 
 **Patch Manager:**
 
-- AWS Systems Manager helps you select and deploy operating system and software patches
-    automatically across large groups of Amazon EC2 or on-premises instances.
-- Through patch baselines, you can set rules to auto-approve select categories of patches to
-    be installed, such as operating system or high severity patches, and you can specify a list of
-    patches that override these rules and are automatically approved or rejected.
-- You can also schedule maintenance windows for your patches so that they are only applied
-    during preset times.
-- Systems Manager helps ensure that your software is up-to-date and meets your compliance
-    policies.
+- AWS Systems Manager helps you select and deploy operating system and software patches automatically across large groups of Amazon EC2 or on-premises instances.
+- Through patch baselines, you can set rules to auto-approve select categories of patches to be installed, such as operating system or high severity patches, and you can specify a list of patches that override these rules and are automatically approved or rejected.
+- You can also schedule maintenance windows for your patches so that they are only applied during preset times.
+- Systems Manager helps ensure that your software is up-to-date and meets your compliance policies.
 
 **Maintenance Windows:**
 
 - AWS Systems Manager lets you schedule windows of time to run administrative and
     maintenance tasks across your instances.
-- This ensures that you can select a convenient and safe time to install patches and updates
-    or make other configuration changes, improving the availability and reliability of your
-    services and applications.
+- This ensures that you can select a convenient and safe time to install patches and updates or make other configuration changes, improving the availability and reliability of your services and applications.
 
 **Distributor:**
 
-- Distributor is an AWS Systems Manager feature that enables you to securely store and
-    distribute software packages in your organization.
-- You can use Distributor with existing Systems Manager features like Run Command and
-    State Manager to control the lifecycle of the packages running on your instances.
+- Distributor is an AWS Systems Manager feature that enables you to securely store and distribute software packages in your organization.
+- You can use Distributor with existing Systems Manager features like Run Command and State Manager to control the lifecycle of the packages running on your instances.
 
 **State Manager:**
 
-- AWS Systems Manager provides configuration management, which helps you maintain
-    consistent configuration of your Amazon EC2 or on-premises instances.
-- With Systems Manager, you can control configuration details such as server configurations,
-    anti-virus definitions, firewall settings, and more.
-- You can define configuration policies for your servers through the AWS Management
-    Console or use existing scripts, PowerShell modules, or Ansible playbooks directly from
-    GitHub or Amazon S3 buckets.
-- Systems Manager automatically applies your configurations across your instances at a time
-    and frequency that you define.
-- You can query Systems Manager at any time to view the status of your instance
-    configurations, giving you on-demand visibility into your compliance status.
+- AWS Systems Manager provides configuration management, which helps you maintain consistent configuration of your Amazon EC2 or on-premises instances.
+- With Systems Manager, you can control configuration details such as server configurations, anti-virus definitions, firewall settings, and more.
+- You can define configuration policies for your servers through the AWS Management Console or use existing scripts, PowerShell modules, or Ansible playbooks directly from GitHub or Amazon S3 buckets.
+- Systems Manager automatically applies your configurations across your instances at a time and frequency that you define.
+- You can query Systems Manager at any time to view the status of your instance configurations, giving you on-demand visibility into your compliance status.
 
 **Parameter Store:**
 
-
-- AWS Systems Manager provides a centralized store to manage your configuration data,
-    whether plain-text data such as database strings or secrets such as passwords.
-- This allows you to separate your secrets and configuration data from your code. Parameters
-    can be tagged and organized into hierarchies, helping you manage parameters more easily.
-- For example, you can use the same parameter name, “db-string”, with a different
-    hierarchical path, “dev/db-string” or “prod/db-string”, to store different values.
-- Systems Manager is integrated with AWS Key Management Service (KMS), allowing you to
-    automatically encrypt the data you store.
-- You can also control user and resource access to parameters using AWS Identity and Access
-    Management (IAM). Parameters can be referenced through other AWS services, such as
-    Amazon Elastic Container Service, AWS Lambda, and AWS CloudFormation.
-
+- AWS Systems Manager provides a centralized store to manage your configuration data, whether plain-text data such as database strings or secrets such as passwords.
+- This allows you to separate your secrets and configuration data from your code. Parameters can be tagged and organized into hierarchies, helping you manage parameters more easily.
+- For example, you can use the same parameter name, “db-string”, with a different hierarchical path, “dev/db-string” or “prod/db-string”, to store different values.
+- Systems Manager is integrated with AWS Key Management Service (KMS), allowing you to automatically encrypt the data you store.
+- You can also control user and resource access to parameters using AWS Identity and Access Management (IAM). Parameters can be referenced through other AWS services, such as Amazon Elastic Container Service, AWS Lambda, and AWS CloudFormation.
 
 ### Management Tools Quiz Questions
 
@@ -522,25 +390,18 @@ Answers and explanations are provided below after the last question in this sect
 
 **Question 1:**
 
-You are a Solutions Architect at Digital Cloud Training. A client from a large multinational
-corporation is working on a deployment of a significant amount of resources into AWS. The client
-would like to be able to deploy resources across multiple AWS accounts and regions using a single
-toolset and template. You have been asked to suggest a toolset that can provide this functionality?
+You are a Solutions Architect at Digital Cloud Training. A client from a large multinational corporation is working on a deployment of a significant amount of resources into AWS. The client would like to be able to deploy resources across multiple AWS accounts and regions using a single toolset and template. You have been asked to suggest a toolset that can provide this functionality?
 
 ```
-A. Use a CloudFormation template that creates a stack and specify the logical IDs of each
-account and region
-B. Use a CloudFormation StackSet and specify the target accounts and regions in which the
-stacks will be created
-C. Use a third-party product such as Terraform that has support for multiple AWS accounts and
-regions
+A. Use a CloudFormation template that creates a stack and specify the logical IDs of each account and region
+B. Use a CloudFormation StackSet and specify the target accounts and regions in which the stacks will be created
+C. Use a third-party product such as Terraform that has support for multiple AWS accounts and regions
 D. This cannot be done, use separate CloudFormation templates per AWS account and region
 ```
+
 **Question 2:**
 
-A Solutions Architect needs to monitor application logs and receive a notification whenever a
-specific number of occurrences of certain HTTP status code errors occur. Which tool should the
-Architect use?
+A Solutions Architect needs to monitor application logs and receive a notification whenever a specific number of occurrences of certain HTTP status code errors occur. Which tool should the Architect use?
 
 ```
 A. CloudWatch Events
@@ -550,32 +411,20 @@ D. CloudWatch Metrics
 ```
 **Question 3:**
 
-A Solutions Architect is designing the system monitoring and deployment layers of a serverless
-application. The system monitoring layer will manage system visibility through recording logs and
-metrics and the deployment layer will deploy the application stack and manage workload changes
-through a release management process.
+A Solutions Architect is designing the system monitoring and deployment layers of a serverless application. The system monitoring layer will manage system visibility through recording logs and metrics and the deployment layer will deploy the application stack and manage workload changes through a release management process.
 
-The Architect needs to select the most appropriate AWS services for these functions. Which
-services and frameworks should be used for the system monitoring and deployment layers? (choose
-2)
+The Architect needs to select the most appropriate AWS services for these functions. Which services and frameworks should be used for the system monitoring and deployment layers? (choose 2)
 
 ```
 A. Use AWS X-Ray to package, test, and deploy the serverless application stack
-B. Use Amazon CloudTrail for consolidating system and application logs and monitoring
-custom metrics
+B. Use Amazon CloudTrail for consolidating system and application logs and monitoring custom metrics
 C. Use AWS Lambda to package, test, and deploy the serverless application stack
 D. Use AWS SAM to package, test, and deploy the serverless application stack
-E. Use Amazon CloudWatch for consolidating system and application logs and monitoring
-```
+E. Use Amazon CloudWatch for consolidating system and application logs and monitoring custom metrics
 
-```
-custom metrics
-```
 **Question 4:**
 
-A systems integration consultancy regularly deploys and manages multi-tiered web services for
-customers on AWS. The SysOps team are facing challenges in tracking changes that are made to the
-web services and rolling back when problems occur.
+A systems integration consultancy regularly deploys and manages multi-tiered web services for customers on AWS. The SysOps team are facing challenges in tracking changes that are made to the web services and rolling back when problems occur.
 
 Which of the approaches below would BEST assist the SysOps team?
 
@@ -585,10 +434,10 @@ B. Use CodeDeploy to manage version control for the web services
 C. Use Trusted Advisor to record updates made to the web services
 D. Use CloudFormation templates to deploy and manage the web services
 ```
+
 **Question 5:**
 
-An event in CloudTrail is the record of an activity in an AWS account. What are the two types of
-events that can be logged in CloudTrail? (choose 2)
+An event in CloudTrail is the record of an activity in an AWS account. What are the two types of events that can be logged in CloudTrail? (choose 2)
 
 ```
 A. System Events which are also known as instance level operations
@@ -599,10 +448,7 @@ E. API events which are also known as CloudWatch events
 ```
 **Question 6:**
 
-Your company currently uses Puppet Enterprise for infrastructure and application management.
-You are looking to move some of your infrastructure onto AWS and would like to continue to use
-the same tools in the cloud. What AWS service provides a fully managed configuration management
-service that is compatible with Puppet Enterprise?
+Your company currently uses Puppet Enterprise for infrastructure and application management.  You are looking to move some of your infrastructure onto AWS and would like to continue to use the same tools in the cloud. What AWS service provides a fully managed configuration management service that is compatible with Puppet Enterprise?
 
 ```
 A. Elastic Beanstalk
@@ -610,24 +456,17 @@ B. CloudFormation
 C. OpsWorks
 D. CloudTrail
 ```
+
 **Question 7:**
 
-The operations team in your company are looking for a method to automatically respond to failed
-system status check alarms that are being received from an EC2 instance. The system in question is
-experiencing intermittent problems with its operating system software.
+The operations team in your company are looking for a method to automatically respond to failed system status check alarms that are being received from an EC2 instance. The system in question is experiencing intermittent problems with its operating system software.
 
-Which two steps will help you to automate the resolution of the operating system software issues?
-(choose 2)
+Which two steps will help you to automate the resolution of the operating system software issues?  (choose 2)
 
-```
 A. Create a CloudWatch alarm that monitors the “StatusCheckFailed_System” metric
 B. Create a CloudWatch alarm that monitors the “StatusCheckFailed_Instance” metric
-```
-
 C. Configure an EC2 action that recovers the instance
-
 D. Configure an EC2 action that terminates the instance
-
 E. Configure an EC2 action that reboots the instance
 
 
@@ -638,122 +477,86 @@ E. Configure an EC2 action that reboots the instance
 Explanation:
 
 ```
-AWS CloudFormation StackSets extends the functionality of stacks by enabling you to create,
-update, or delete stacks across multiple accounts and regions with a single operation.
-Using an administrator account, you define and manage an AWS CloudFormation template, and
-use the template as the basis for provisioning stacks into selected target accounts across
-specified regions. An administrator account is the AWS account in which you create stack sets.
-A stack set is managed by signing in to the AWS administrator account in which it was created. A
-target account is the account into which you create, update, or delete one or more stacks in your
-stack set.
-Before you can use a stack set to create stacks in a target account, you must set up a trust
-relationship between the administrator and target accounts.
-A regular CloudFormation template cannot be used across regions and accounts. You would
+AWS CloudFormation StackSets extends the functionality of stacks by enabling you to create, update, or delete stacks across multiple accounts and regions with a single operation.  Using an administrator account, you define and manage an AWS CloudFormation template, and use the template as the basis for provisioning stacks into selected target accounts across specified regions. An administrator account is the AWS account in which you create stack sets.
+
+A stack set is managed by signing in to the AWS administrator account in which it was created. A target account is the account into which you create, update, or delete one or more stacks in your stack set.
+
+Before you can use a stack set to create stacks in a target account, you must set up a trust relationship between the administrator and target accounts.  A regular CloudFormation template cannot be used across regions and accounts. You would
 need to create copies of the template and then manage updates.
-You do not need to use a third-party product such as Terraform as this functionality can be
-delivered through native AWS technology.
+
+You do not need to use a third-party product such as Terraform as this functionality can be delivered through native AWS technology.
 ```
+
 **Question 2 answer: B**
 
 Explanation:
 
 ```
-You can use CloudWatch Logs to monitor applications and systems using log data. For example,
-CloudWatch Logs can track the number of errors that occur in your application logs and send you
-a notification whenever the rate of errors exceeds a threshold you specify. This is the best tool
-for this requirement.
-Amazon CloudWatch Events delivers a near real-time stream of system events that describe
-changes in Amazon Web Services (AWS) resources. Though you can generate custom application-
-level events and publish them to CloudWatch Events this is not the best tool for monitoring
-application logs.
-CloudTrail is used for monitoring API activity on your account, not for monitoring application
-logs.
-CloudWatch Metrics are the fundamental concept in CloudWatch. A metric represents a time-
-ordered set of data points that are published to CloudWatch. You cannot use a metric alone; it is
-used when setting up monitoring for any service in CloudWatch.
+You can use CloudWatch Logs to monitor applications and systems using log data. For example, CloudWatch Logs can track the number of errors that occur in your application logs and send you a notification whenever the rate of errors exceeds a threshold you specify. This is the best tool for this requirement.
+
+Amazon CloudWatch Events delivers a near real-time stream of system events that describe changes in Amazon Web Services (AWS) resources. Though you can generate custom application- level events and publish them to CloudWatch Events this is not the best tool for monitoring application logs.
+
+CloudTrail is used for monitoring API activity on your account, not for monitoring application logs.
+
+CloudWatch Metrics are the fundamental concept in CloudWatch. A metric represents a time- ordered set of data points that are published to CloudWatch. You cannot use a metric alone; it is used when setting up monitoring for any service in CloudWatch.
 ```
+
 **Question 3 answer: D,E**
 
 Explanation:
 
 ```
-AWS Serverless Application Model (AWS SAM) is an extension of AWS CloudFormation that is
-used to package, test, and deploy serverless applications.
-With Amazon CloudWatch, you can access system metrics on all the AWS services you use,
-consolidate system and application level logs, and create business key performance indicators
-```
+AWS Serverless Application Model (AWS SAM) is an extension of AWS CloudFormation that is used to package, test, and deploy serverless applications.
 
-```
-(KPIs) as custom metrics for your specific needs.
-AWS Lambda is used for executing your code as functions, it is not used for packaging, testing
-and deployment. AWS Lambda is used with AWS SAM.
-AWS X-Ray lets you analyze and debug serverless applications by providing distributed tracing
-and service maps to easily identify performance bottlenecks by visualizing a request end-to-end.
+With Amazon CloudWatch, you can access system metrics on all the AWS services you use, consolidate system and application level logs, and create business key performance indicators (KPIs) as custom metrics for your specific needs.
+
+AWS Lambda is used for executing your code as functions, it is not used for packaging, testing and deployment. AWS Lambda is used with AWS SAM. 
+
+AWS X-Ray lets you analyze and debug serverless applications by providing distributed tracing and service maps to easily identify performance bottlenecks by visualizing a request end-to-end.
 ```
 **Question 4 answer: D**
 
 Explanation:
 
 ```
-When you provision your infrastructure with AWS CloudFormation, the AWS CloudFormation
-template describes exactly what resources are provisioned and their settings. Because these
-templates are text files, you simply track differences in your templates to track changes to your
-infrastructure, similar to the way developers control revisions to source code. For example, you
-can use a version control system with your templates so that you know exactly what changes
-were made, who made them, and when. If at any point you need to reverse changes to your
-infrastructure, you can use a previous version of your template.
-AWS Systems Manager gives you visibility and control of your infrastructure on AWS. Systems
-Manager provides a unified user interface so you can view operational data from multiple AWS
-services and allows you to automate operational tasks across your AWS resources. However,
-CloudFormation would be the preferred method of maintaining the state of the overall
-architecture.
-AWS CodeDeploy is a deployment service that automates application deployments to Amazon
-EC2 instances, on-premises instances, or serverless Lambda function.
-AWS Trusted Advisor is an online resource to help you reduce cost, increase performance, and
-improve security by optimizing your AWS environment, Trusted Advisor provides real time
-guidance to help you provision your resources following AWS best practices.
+When you provision your infrastructure with AWS CloudFormation, the AWS CloudFormation template describes exactly what resources are provisioned and their settings. Because these templates are text files, you simply track differences in your templates to track changes to your infrastructure, similar to the way developers control revisions to source code. For example, you can use a version control system with your templates so that you know exactly what changes were made, who made them, and when. If at any point you need to reverse changes to your infrastructure, you can use a previous version of your template.
+
+AWS Systems Manager gives you visibility and control of your infrastructure on AWS. Systems Manager provides a unified user interface so you can view operational data from multiple AWS services and allows you to automate operational tasks across your AWS resources. However, CloudFormation would be the preferred method of maintaining the state of the overall architecture.
+
+AWS CodeDeploy is a deployment service that automates application deployments to Amazon EC2 instances, on-premises instances, or serverless Lambda function.
+AWS Trusted Advisor is an online resource to help you reduce cost, increase performance, and improve security by optimizing your AWS environment, Trusted Advisor provides real time guidance to help you provision your resources following AWS best practices.
 ```
+
 **Question 5 answer: B,D**
 
 Explanation:
 
 ```
 Trails can be configured to log Data events and Management events:
+
+- **Data events:** These events provide insight into the resource operations performed on or within a resource. These are also known as data plane operations
+- **Management events:** Management events provide insight into management operations that are performed on resources in your AWS account. These are also known as control plane operations. Management events can also include non-API events that occur in your account
+
 ```
-- **Data events:** These events provide insight into the resource operations performed on or
-    within a resource. These are also known as data plane operations
-- **Management events:** Management events provide insight into management operations
-    that are performed on resources in your AWS account. These are also known as control
-    plane operations. Management events can also include non-API events that occur in your
-    account
 
 **Question 6 answer: C**
 
 Explanation:
 
 ```
-The only service that would allow you to continue to use the same tools is OpsWorks. AWS
-OpsWorks is a configuration management service that provides managed instances of Chef and
-Puppet. OpsWorks lets you use Chef and Puppet to automate how servers are configured,
-deployed, and managed across your Amazon EC2 instances or on-premises compute
+The only service that would allow you to continue to use the same tools is OpsWorks. AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet. OpsWorks lets you use Chef and Puppet to automate how servers are configured, deployed, and managed across your Amazon EC2 instances or on-premises compute environments.
 ```
 
-```
-environments.
-```
 **Question 7 answer: B,E**
 
 Explanation:
 
 ```
-EC2 status checks are performed every minute and each returns a pass or a fail status. If all
-checks pass, the overall status of the instance is OK. If one or more checks fail, the overall status
-is impaired.
-System status checks detect (StatusCheckFailed_System) problems with your instance that
-require AWS involvement to repair whereas Instance status checks (StatusCheckFailed_Instance)
-detect problems that require your involvement to repair.
-The action to recover the instance is only supported on specific instance types and can be used
-only with StatusCheckFailed_System.
-Configuring an action to terminate the instance would not help resolve system software issues as
-the instance would be terminated.
+EC2 status checks are performed every minute and each returns a pass or a fail status. If all checks pass, the overall status of the instance is OK. If one or more checks fail, the overall status is impaired.
+
+System status checks detect (StatusCheckFailed_System) problems with your instance that require AWS involvement to repair whereas Instance status checks (StatusCheckFailed_Instance) detect problems that require your involvement to repair.
+
+The action to recover the instance is only supported on specific instance types and can be used only with StatusCheckFailed_System.
+
+Configuring an action to terminate the instance would not help resolve system software issues as the instance would be terminated.
 ```

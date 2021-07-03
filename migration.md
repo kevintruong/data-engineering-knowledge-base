@@ -32,9 +32,7 @@ Snowball Edge (100TB) comes with onboard storage and compute capabilities.
 
 Snowmobile – exabyte scale with up to 100PB per Snowmobile.
 
-AWS Import/export is when you send your own disks into AWS – this is being deprecated in favour
-of Snowball.
-
+AWS Import/export is when you send your own disks into AWS – this is being deprecated in favour of Snowball.
 
 ### AWS Database Migration Service
 
