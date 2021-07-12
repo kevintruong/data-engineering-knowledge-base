@@ -186,9 +186,23 @@ And also easy to create a quiz test for each unit/section
 `from quiz_test_table select question which question.tags like "ec2"... other filter here` 
 by this way, we can create a test which wide domain test level  
 
-there have two steps on lession/unit test: 
+There have two steps on lession/unit test: 
+
 - 1 components relative only for learning: which the kind, focus on question relate on current learning session/unit 
-- Review test but focus on components: wide level , relative to the current lession but also reference to other lesion. wide domain test level 
+- Review test but focus on components: wide level , relative to the current lesion but also reference to other lesion. wide domain test level 
 
+### Global and local hashtags 
 
+- Using schema to declare about global hashtags 
+- Combine file hierarchy and tags model ?
 
+Need a de-coupling design between using schema file with inline local hashtags on each deck file *.md 
+
+```yaml
+type: noatcards
+contents:
+  - file: ./Chapter_1_Reliable,_Scalable_and_Maintainable_Ap.md
+quizzes: 
+  - file: ./01_aws_compute_quiz.md
+    tags: ["compute"] // global tags 
+```

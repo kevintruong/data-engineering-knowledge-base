@@ -1,4 +1,7 @@
-type: noatcards
-contents:
-  - file: ./Chapter_1_Reliable,_Scalable_and_Maintainable_Ap.md
-    quiz:
+version: 1
+schemas: 
+  type: noatcards
+  title: AWS Solution Architecture Training Note
+  contents:
+    - file: 01_compute/01_1_ec2.md
+      quiz:

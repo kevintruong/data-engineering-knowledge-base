@@ -8,8 +8,7 @@ Amazon WorkSpaces is a managed desktop computing service running on the AWS clou
 WorkSpaces allows customers to easily provision cloud-based desktops that allow end-users to
 access documents and applications.
 
-Supported client-side devices include Windows and Mac computers, Chromebooks, iPads, Fire
-tablets, Android tablets, and Chrome and Firefox web browsers.
+Supported client-side devices include Windows and Mac computers, Chromebooks, iPads, Fire tablets, Android tablets, and Chrome and Firefox web browsers.
 
 WorkSpaces offers bundles that come with a Windows 7 or Windows 10 desktop experience,
 powered by Windows Server 2008 R2 and Windows Server 2016 respectively.
