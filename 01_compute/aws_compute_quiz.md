@@ -1,8 +1,6 @@
 # Compute Quiz Questions
 
-Answers and explanations are provided below after the last question in this section.
-
-## **Question 1: What do you need to securely connect using SSH to an EC2 instance launched from the Amazon Linux 2 AMI?**
+## **Quiz: What do you need to securely connect using SSH to an EC2 instance launched from the Amazon Linux 2 AMI?**
 
 <!-- #ec2_keypair -->
 
@@ -13,30 +11,29 @@ Answers and explanations are provided below after the last question in this sect
 
 ----
 
-**Question 1, Answer: a Key Pair **
+**Question 1 Answer: a Key Pair **
 
 **Explanation:**
 
 ```
-- A signed cookie is incorrect. Signed cookies are not an authentication method for EC2.
+- A signed cookie is incorrect. Signed cookies are not an authentication method for EC- [ ]
 - An access key ID and secret access key is incorrect. An access key ID and secret access key are used for programmatic access to AWS services, not for securely connecting to Linux instances over SSH. Make sure you know the difference between these two concepts.
 - A key pair is correct. Key pairs are used to securely connect to EC2 instances. A key pair consists of a public key that AWS stores, and a private key file that you store. For Linux AMIs, the private key file allows you to securely SSH (secure shell) into your instance.
 - A password is incorrect. You do not need a password to connect to instances launched from the Amazon Linux 2 AMI.
 ```
 
-
-## **Question 2: What can you use to run a script at startup on an Amazon EC2 Linux instance?**
+## **Quiz: What can you use to run a script at startup on an Amazon EC2 Linux instance?**
 
 <!-- #ec2_metadata #ec2_userdata -->
 
-1. User data
-2. Metadata
-3. AWS Batch
-4. AWS Config
+- [x] User data
+- [ ] Metadata
+- [ ] AWS Batch
+- [ ] AWS Config
 
 ----
 
-**Question 2, Answer: 1**
+**Answer: 1**
 
 **Explanation:**
 
@@ -47,19 +44,18 @@ Answers and explanations are provided below after the last question in this sect
 4 is incorrect. AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
 ```
 
-
-## **Question 3: Which EC2 pricing model would you use for a short-term requirement that needs to complete over a weekend?**
+## **Quiz: Which EC2 pricing model would you use for a short-term requirement that needs to complete over a weekend?**
 
 <!-- #ec2_instance_type #ec2_reserved #ec2_delicated_host -->
 
-1. Reserved Instance
-2. Spot Instance
-3. Dedicated Instance
-4. On-Demand Instance
+- [ ] Reserved Instance
+- [ ] Spot Instance
+- [ ] Dedicated Instance
+- [x] On-Demand Instance
 
 ----
 
-**Question 3, Answer: 4**
+**Answer: 4**
 
 **Explanation:**
 
@@ -70,19 +66,18 @@ Answers and explanations are provided below after the last question in this sect
 4 is correct. On-demand instances are ideal for short-term or unpredictable workloads. You don’t get a discount, but you do have more flexibility with no commitments.
 ```
 
-
-## **Question 4: An organization uses an application that uses per-socket licensing and they need full control over the placement of their EC2 instances on underlying hardware. What should they use?**
+## **Quiz: An organization uses an application that uses per-socket licensing and they need full control over the placement of their EC2 instances on underlying hardware. What should they use?**
 
 <!-- #ec2_delicated_host #ec2_delicated_host #ec2_reserved #ec2_instance_type -->
 
-1. Dedicated instances
-2. Dedicated hosts
-3. Spot instances
-4. Reserved instances
+- [ ] Dedicated instances
+- [x] Dedicated hosts
+- [ ] Spot instances
+- [ ] Reserved instances
 
 ----
 
-**Question 4, Answer: 2**
+**Answer: 2**
 
 **Explanation:**
 
@@ -93,19 +88,18 @@ Answers and explanations are provided below after the last question in this sect
 4 is incorrect. With Reserved instances you do not have control of instance placement on underlying hardware.
 ```
 
-
-## **Question 5: What type of storage is suitable for a use case that requires extremely high- performance local disks that do not need to be persistent?**
+## **Quiz: What type of storage is suitable for a use case that requires extremely high- performance local disks that do not need to be persistent?**
 
 <!-- #ebs #snapshots #s3 #instance_store -->
 
-1. Elastic Block Store (EBS)
-2. Snapshots
-3. Instance Store
-4. Amazon S3
+- [ ] Elastic Block Store (EBS)
+- [ ] Snapshots
+- [x] Instance Store
+- [ ] Amazon S3
 
 ----
 
-**Question 5, Answer: 3**
+**Answer: 3**
 
 **Explanation:**
 
@@ -116,17 +110,17 @@ Answers and explanations are provided below after the last question in this sect
 4 is incorrect. Amazon S3 is an object storage system. It is not a local disk nor is it non-persistent.
 ```
 
-## **Question 6: Which type of network adapter should be used for High Performance Computing (HPC) uses cases that include tightly coupled applications?**
+## **Quiz: Which type of network adapter should be used for High Performance Computing (HPC) uses cases that include tightly coupled applications?**
 
 <!-- #efa #eni #ena -->
 
-1. Elastic Fabric Adapter (EFA)
-2. Elastic Network Interface (ENI)
-3. Elastic Network Adapter (ENA)
+- [x] Elastic Fabric Adapter (EFA)
+- [ ] Elastic Network Interface (ENI)
+- [ ] Elastic Network Adapter (ENA)
 
 ----
 
-**Question 6, Answer: 1**
+**Answer: 1**
 
 **Explanation:**
 
@@ -136,19 +130,18 @@ Answers and explanations are provided below after the last question in this sect
 3 is incorrect. ENAs are good for use cases that require higher bandwidth and lower inter- instance latency.
 ```
 
-
-## **Question 7: An Architect would like to use an Elastic Load Balancer to forward traffic to different back-end applications for https://dctlabs.com/orders and https://dctlabs.com/account. Which type of ELB should be used?**
+## **Quiz: An Architect would like to use an Elastic Load Balancer to forward traffic to different back-end applications for https://dctlabs.com/orders and https://dctlabs.com/account. Which type of ELB should be used?**
 
 <!-- #alb #nlb #clb -->
 
-1. Application Load Balancer with path-based routing
-2. Application Load Balancer with host-based routing
-3. Network Load Balancer with TCP port-based routing
-4. Classic Load Balancer with Layer 7 routing
+- [x] Application Load Balancer with path-based routing
+- [ ] Application Load Balancer with host-based routing
+- [ ] Network Load Balancer with TCP port-based routing
+- [ ] Classic Load Balancer with Layer 7 routing
 
 ----
 
-**Question 7, Answer: 1**
+**Answer: 1**
 
 **Explanation:**
 
@@ -161,14 +154,14 @@ Answers and explanations are provided below after the last question in this sect
 
 **Question 8: How can a systems administrator copy an EBS volume from the us-west-1a availability zone to an instance in the us-west-1b availability zone?**
 
-1. Create a snapshot of the EBS volume in us-west-1a. Create a new volume in us-west-2b from the snapshot
-2. Create a new EBS volume attached to the instance in us-west-2b. Attach the EBS volume to the instance in us-west-1b and copy data between volumes
+- [x] Create a snapshot of the EBS volume in us-west-1a. Create a new volume in us-west-2b from the snapshot
+- [ ] Create a new EBS volume attached to the instance in us-west-2b. Attach the EBS volume to the instance in us-west-1b and copy data between volumes
 
 <!-- #ebs #snapshots  -->
 
 ----
 
-**Question 8, Answer: 1**
+**Answer: 1**
 
 **Explanation:**
 
@@ -177,16 +170,16 @@ Answers and explanations are provided below after the last question in this sect
 2 is incorrect. You cannot attach an EBS volume to an instance in a different AZ. 
 ```
 
-## **Question 9: Which type of data volume provides very high performance and is ideal for storing data which is either replicated between EC2 instances or is only temporary and can be lost?**
+## **Quiz: Which type of data volume provides very high performance and is ideal for storing data which is either replicated between EC2 instances or is only temporary and can be lost?**
 
-1. Elastic Block Store (EBS)
-2. Instance Store
+- [ ] Elastic Block Store (EBS)
+- [x] Instance Store
 
 <!-- #ebs #instance_store -->
 
 ----
 
-**Question 9, Answer: 2**
+**Answer: 2**
 
 **Explanation:**
 
@@ -195,19 +188,18 @@ Answers and explanations are provided below after the last question in this sect
 2 is correct. This is a good use case for Instance Store storage. It can also be cost-effective as it comes with the price of the EC2 instance.
 ```
 
-## **Question 10: The development department in your organization need to quickly access a platform for running Docker containers. The platform service should be fully managed. Which AWS service should you provision for them?**
-
-1. Amazon Elastic Container Service (ECS) with the EC2 launch type
-2. Amazon Elastic Container Service (ECS) with the Fargate launch type
-3. Amazon Elastic Kubernetes Service (EKS)
-4. Amazon Elastic Container Registry (ECR)
+## **Quiz: The development department in your organization need to quickly access a platform for running Docker containers. The platform service should be fully managed. Which AWS service should you provision for them?**
 
 <!-- #ecr #eks #ecs #fargate -->
 
+- [ ] Amazon Elastic Container Service (ECS) with the EC2 launch type
+- [x] Amazon Elastic Container Service (ECS) with the Fargate launch type
+- [ ] Amazon Elastic Kubernetes Service (EKS)
+- [ ] Amazon Elastic Container Registry (ECR)
+
 ----
 
-**Question 10, Answer: 2**
-
+**Answer: 2**
 
 **Explanation:**
 
@@ -218,17 +210,17 @@ Answers and explanations are provided below after the last question in this sect
 4 is incorrect. ECR is a registry for storing container images.
 ```
 
-## **Question 11: How can auto scaling be implemented for the ECS cluster instances?** 
+## **Quiz: How can auto scaling be implemented for the ECS cluster instances?**
 
-1. This is not possible, you can only auto scale tasks using services
-2. Using a Capacity Provider that is associated with an Auto Scaling Group (ASG)
-3. Using AWS Auto Scaling for Amazon ECS
+- [ ] This is not possible, you can only auto scale tasks using services
+- [x] Using a Capacity Provider that is associated with an Auto Scaling Group (ASG)
+- [ ] Using AWS Auto Scaling for Amazon ECS
 
 <!-- #auto_scaling #ecs #asg -->
 
 ----
 
-**Question 11, Answer: 2**
+**Answer: 2**
 
 **Explanation:**
 
@@ -238,18 +230,18 @@ Answers and explanations are provided below after the last question in this sect
 3 is incorrect. AWS Auto Scaling for Amazon ECS is not something that exists.
 ```
 
-## **Question 12: You have some code that you would like to run occasionally and need to minimize costs. The completion time is typically under 10 minutes. Which solution is cost-effective and operationally efficient?**
+## **Quiz: You have some code that you would like to run occasionally and need to minimize costs. The completion time is typically under 10 minutes. Which solution is cost-effective and operationally efficient?**
 
-1. Run the code on an Amazon EC2 instance
-2. Run the code on an Amazon ECS task
-3. Run the code using AWS Batch
-4. Run the code using an AWS Lambda function
+- [ ] Run the code on an Amazon EC2 instance
+- [ ] Run the code on an Amazon ECS task
+- [ ] Run the code using AWS Batch
+- [x] Run the code using an AWS Lambda function
 
 <!-- #lambda #ec2 #aws_batch #ecs -->
 
 ---- 
 
-**Question 12, Answer: 4**
+**Answer: 4**
 
 **Explanation:**
 
@@ -260,17 +252,17 @@ Answers and explanations are provided below after the last question in this sect
 4 is correct. This is the most cost-effective and operationally effective option. Remember that the maximum execution time is 900 seconds (15 minutes) so you are well within that timeframe here.
 ```
 
-## **Question 13: Which of the following listener / protocol combinations is INCORRECT?** 
+## **Quiz: Which of the following listener / protocol combinations is INCORRECT?**
 
-1. Application Load Balancer TCP and HTTP/HTTPS
-2. Classic Load Balancer TCP and HTTP/HTTPS
-3. Network Load Balancer TCP
+- [x] Application Load Balancer TCP and HTTP/HTTPS
+- [ ] Classic Load Balancer TCP and HTTP/HTTPS
+- [ ] Network Load Balancer TCP
 
 <!-- #alb #clb #nlb -->
 
 ----
 
-**Question 13, Answer: 1**
+**Answer: 1**
 
 **Explanation:**
 
@@ -280,16 +272,16 @@ Answers and explanations are provided below after the last question in this sect
 3 is incorrect. This is a correct combination of listener / protocol.
 ```
 
-## **Question 14: Which type of scaling is provided by Amazon EC2 Auto Scaling?**
+## **Quiz: Which type of scaling is provided by Amazon EC2 Auto Scaling?**
 
-1. Vertical
-2. Horizontal
+- [ ] Vertical
+- [x] Horizontal
 
 <!-- #auto_scaling  -->
 
 ----
 
-**Question 14, Answer: 2**
+**Answer: 2**
 
 **Explanation:**
 
