@@ -1,6 +1,4 @@
-version: 1
-schemas:
-  type: noatcards
-  title: AWS Solution Architecture Training Note
-  contents:
-    - file: 01_compute/01_ec2.md
+type: noatcards
+title: AWS Solution Architecture Training Note
+contents:
+  - file: 01_compute/01_ec2.md
