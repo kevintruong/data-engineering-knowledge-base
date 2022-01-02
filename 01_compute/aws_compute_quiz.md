@@ -1,4 +1,12 @@
-# Compute Quiz Questions
+---
+title: Quiz Elastic Compute Cloud EC2 hash_tag:
+
+- ec2
+- compute
+
+---
+
+# EC2 Compute Quiz Questions
 
 ## **Quiz: What do you need to securely connect using SSH to an EC2 instance launched from the Amazon Linux 2 AMI?**
 
@@ -56,19 +64,19 @@
 ----
 
 **Answer: 4**
-
+On-Demand Instance
 **Explanation:**
 
 ```
-1 is incorrect. Reserved instances require a commitment over 1 or 3 years.
-2 is incorrect. Spot instances are good for cost-sensitive workloads that can afford to be interrupted. This workload must complete so Spot instances would not be ideal.
-3 is incorrect. Dedicated Instances are Amazon EC2 instances that run in a VPC on hardware that's dedicated to a single customer. This would be more expensive and there is no need for dedicated hardware in this case.
-4 is correct. On-demand instances are ideal for short-term or unpredictable workloads. You don’t get a discount, but you do have more flexibility with no commitments.
+- Reserved Instance is incorrect. Reserved instances require a commitment over 1 or 3 years.
+- Spot Instance is incorrect. Spot instances are good for cost-sensitive workloads that can afford to be interrupted. This workload must complete so Spot instances would not be ideal.
+- Dedicated Instance is incorrect. Dedicated Instances are Amazon EC2 instances that run in a VPC on hardware that's dedicated to a single customer. This would be more expensive and there is no need for dedicated hardware in this case.
+- On-Demand Instance is correct. On-demand instances are ideal for short-term or unpredictable workloads. You don’t get a discount, but you do have more flexibility with no commitments.
 ```
 
 ## **Quiz: An organization uses an application that uses per-socket licensing and they need full control over the placement of their EC2 instances on underlying hardware. What should they use?**
 
-<!-- #ec2_delicated_host #ec2_delicated_host #ec2_reserved #ec2_instance_type -->
+<!-- #ec2_delicated_host #ec2_reserved #ec2_instance_type -->
 
 - [ ] Dedicated instances
 - [x] Dedicated hosts
@@ -82,10 +90,10 @@
 **Explanation:**
 
 ```
-1 is incorrect. Dedicated instances provide dedicated hardware, but you don’t get visibility of sockets, cores, or targeted instance placement.
-2 is correct. Dedicated hosts provide dedicated hardware and they give you full visibility of sockets and cores and targeted instance placement.
-3 is incorrect. With Spot instances you do not have control of instance placement on underlying hardware.
-4 is incorrect. With Reserved instances you do not have control of instance placement on underlying hardware.
+- Dedicated instances is incorrect. Dedicated instances provide dedicated hardware, but you don’t get visibility of sockets, cores, or targeted instance placement.
+- Dedicated hosts is correct. Dedicated hosts provide dedicated hardware and they give you full visibility of sockets and cores and targeted instance placement.
+- Spot instances is incorrect. With Spot instances you do not have control of instance placement on underlying hardware.
+- Reserved instances is incorrect. With Reserved instances you do not have control of instance placement on underlying hardware.
 ```
 
 ## **Quiz: What type of storage is suitable for a use case that requires extremely high- performance local disks that do not need to be persistent?**
@@ -99,15 +107,17 @@
 
 ----
 
-**Answer: 3**
+**Answer:**
+
+Instance Store
 
 **Explanation:**
 
 ```
-1 is incorrect. EBS volumes are persistent. You can get high performance, but they are network attached disks, not local disks.
-2 is incorrect. Snapshots are used for taking a backup of EBS volumes.
-3 is correct. Instance store volumes are ephemeral (non-persistent) local disks that offer very high performance.
-4 is incorrect. Amazon S3 is an object storage system. It is not a local disk nor is it non-persistent.
+Elastic Block Store (EBS) is incorrect. EBS volumes are persistent. You can get high performance, but they are network attached disks, not local disks.
+Snapshots is incorrect. Snapshots are used for taking a backup of EBS volumes.
+Instance Store is correct. Instance store volumes are ephemeral (non-persistent) local disks that offer very high performance.
+Amazon S3 is incorrect. Amazon S3 is an object storage system. It is not a local disk nor is it non-persistent.
 ```
 
 ## **Quiz: Which type of network adapter should be used for High Performance Computing (HPC) uses cases that include tightly coupled applications?**
@@ -142,22 +152,22 @@
 ----
 
 **Answer: 1**
-
+Application Load Balancer with path-based routing
 **Explanation:**
 
 ```
-1 is correct. To forward based on the path (e.g. /orders or /account) you can use the ALB with path-based routing.
-2 is incorrect. Host-based routing uses the host name (e.g. dctlabs.com or amazon.com) rather than the path (e.g. /orders or /account).
-3 is incorrect. The NLB can forward based on different ports/listeners. However all of this traffic will be coming on the single port for HTTPS (443).
-4 is incorrect. The CLB is a layer 7 router but there is not concepts of path-based routing. 
+Application Load Balancer with path-based routing is correct. To forward based on the path (e.g. /orders or /account) you can use the ALB with path-based routing.
+Application Load Balancer with host-based routing is incorrect. Host-based routing uses the host name (e.g. dctlabs.com or amazon.com) rather than the path (e.g. /orders or /account).
+Network Load Balancer with TCP port-based routing is incorrect. The NLB can forward based on different ports/listeners. However all of this traffic will be coming on the single port for HTTPS (443).
+Classic Load Balancer with Layer 7 routing is incorrect. The CLB is a layer 7 router but there is not concepts of path-based routing. 
 ```
 
-**Question 8: How can a systems administrator copy an EBS volume from the us-west-1a availability zone to an instance in the us-west-1b availability zone?**
+## **Quiz: How can a systems administrator copy an EBS volume from the us-west-1a availability zone to an instance in the us-west-1b availability zone?**
+
+<!-- #ebs #snapshots  -->
 
 - [x] Create a snapshot of the EBS volume in us-west-1a. Create a new volume in us-west-2b from the snapshot
 - [ ] Create a new EBS volume attached to the instance in us-west-2b. Attach the EBS volume to the instance in us-west-1b and copy data between volumes
-
-<!-- #ebs #snapshots  -->
 
 ----
 
@@ -172,20 +182,22 @@
 
 ## **Quiz: Which type of data volume provides very high performance and is ideal for storing data which is either replicated between EC2 instances or is only temporary and can be lost?**
 
+<!-- #ebs #instance_store -->
+
 - [ ] Elastic Block Store (EBS)
 - [x] Instance Store
 
-<!-- #ebs #instance_store -->
-
 ----
 
-**Answer: 2**
+**Answer: **
+
+Elastic Block Store (EBS)
 
 **Explanation:**
 
 ```
-1 is incorrect. EBS is persistent storage and though it provides high performance it may not be the best solution for data that is replicated or can be lost.
-2 is correct. This is a good use case for Instance Store storage. It can also be cost-effective as it comes with the price of the EC2 instance.
+- Elastic Block Storage (EBS) incorrect. EBS is persistent storage and though it provides high performance it may not be the best solution for data that is replicated or can be lost.
+- Instance Storeis correct. This is a good use case for Instance Store storage. It can also be cost-effective as it comes with the price of the EC2 instance.
 ```
 
 ## **Quiz: The development department in your organization need to quickly access a platform for running Docker containers. The platform service should be fully managed. Which AWS service should you provision for them?**
@@ -201,13 +213,15 @@
 
 **Answer: 2**
 
+Amazon Elastic Container Service (ECS) with the Fargate launch type
+
 **Explanation:**
 
 ```
-1 is incorrect. The EC2 launch type is not a fully managed service.
-2 is correct. The Fargate launch type is a fully managed service.
-3 is incorrect. EKS is a managed service running the Kubernetes control plane. There are no specific requirements here for using Kubernetes so this is not the best option for quickly creating a platform for the developers.
-4 is incorrect. ECR is a registry for storing container images.
+Amazon Elastic Container Service (ECS) with the EC2 launch type is incorrect. The EC2 launch type is not a fully managed service.
+Amazon Elastic Container Service (ECS) with the Fargate launch type is correct. The Fargate launch type is a fully managed service.
+Amazon Elastic Kubernetes Service (EKS) is incorrect. EKS is a managed service running the Kubernetes control plane. There are no specific requirements here for using Kubernetes so this is not the best option for quickly creating a platform for the developers.
+Amazon Elastic Container Registry (ECR) is incorrect. ECR is a registry for storing container images.
 ```
 
 ## **Quiz: How can auto scaling be implemented for the ECS cluster instances?**
