@@ -1,48 +1,28 @@
 {
   "version": 1,
-  "schemas": {
-    "type": "noatcards",
-    "title": "AWS Solution Architecture Training", // L1 (root)
+  "type": "noatcards",
+  "course": {
+    // L1 (root)
+    "title": "AWS Solution Architecture Association Training",
     "contents": [
       {
-        "chapter": "01_compute", //L2
-//        "sessions": [
-//          {
-//            "session": "01_compute/1_ec2.md", // L3
-//            "test": {
-//              "hashtags": ["#ec2"]
-//            }
-//          },
-//          {
-//            "session": "01_compute/02_elb.md",
-//            //          add more attributes here
-//            "test": {
-//              "hashtags": ["#elb"]
-//            }
-//          }
-//        ],
-        // chapter will using all hashtags test from its sessions
-        //        to generate a wide range (chapter level) verify
-      },
-      {
-        "chapter": "Storage",
-        "sessions": [
+        "unit": "Compute",
+        "tags": [
+          "compute",
+          "ec2"
+        ],
+        "chapters": [
           {
-            "session": "02_storage/whatever.md",
-            "test": {
-              "hashtags": ["#whatever"]
-            }
+            "chapter": "01_compute/1_ec2.md",
+            // L3
+          },
+          {
+            "chapter": "01_compute/02_elb.md",
           }
-        ]
-      }
-    ],
-    "quiz_collections": [
-      {
-        "file": "01_aws_compute_quiz.md"
+        ],
       },
-      {
-        "file": ""
-      }
+    ],
+    "resource": [
     ]
   }
 }

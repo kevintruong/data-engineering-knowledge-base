@@ -83,8 +83,7 @@ Kinesis Data Streams **stores data** for later processing by applications (key d
 
 - Producers continually push data to Kinesis Data Streams.
 - Consumers process the data in real time.
-- Consumers can store their results using an AWS service such as Amazon DynamoDB,
-    Amazon Redshift, or Amazon S3.
+- Consumers can store their results using an AWS service such as Amazon DynamoDB, Amazon Redshift, or Amazon S3.
 - Kinesis Streams applications are consumers that run on EC2 instances.
 - Shards are uniquely identified groups or data records in a stream.
 - Records are the data units stored in a Kinesis Stream.
