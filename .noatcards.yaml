@@ -1,12 +1,4 @@
-{
-  "type":"noatcards"
-  "course":{
-
-  }
-}
 type: noatcards
-course: AWS Solution Architecture Training Note
+title: AWS Solution Architecture Training Note
 contents:
-  - units:
-      -
-  - : 01_compute/01_ec2.md
+  - file: 01_compute/01_ec2.md

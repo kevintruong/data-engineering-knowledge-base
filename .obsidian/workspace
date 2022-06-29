@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "0060b9043b0a3632",
+    "type": "split",
+    "children": [
+      {
+        "id": "8605fdc60cd85b3a",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2782d2521cf68081",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f244921b739c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5de8bfc12b9c51f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "99f7b2fd07a56a20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370
+  },
+  "right": {
+    "id": "f2829be25feaab28",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0d5ee6e937abbc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dad71e32e862add",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0c5dcb2ebd67313",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "1634fde36d6b0339",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "16876c1d0d602386",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "65abd8ea600b0287",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "86bbf4282918682e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "07fe100ce0419562",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa96467183ae0d51",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357
+  },
+  "active": "8605fdc60cd85b3a",
+  "lastOpenFiles": [
+    "01_compute/EC2/EC2.md",
+    "01_compute/EC2/Elastic Network Interfaces.md",
+    "01_compute/Elastic Compute Cloud EC2.md",
+    "01_compute/EC2/EC2 instance types.md",
+    "01_compute/EC2/EC2 BILLING AND PROVISIONING.md",
+    "01_compute/EC2/EC2 RI instance billing.md",
+    "same of EC2.md",
+    "01_compute/EC2/EC2 IP Addresses.md",
+    "CONTAINER.md",
+    "07_media_serviceis.md"
+  ]
+}

@@ -1,80 +1,10 @@
-## MIGRATION
+## AWS MIGRATION SERVICE
 
-### AWS Snowball
+[[AWS Snowball]]
 
-**GENERAL**
+[[The SnowBall Family]]
 
-Petabyte scale data transport solution for transferring data into or out of AWS.
-
-Uses a secure storage device for physical transportation.
-
-AWS Snowball Client is software that is installed on a local computer and is used to identify,
-compress, encrypt, and transfer data.
-
-Uses 256 - bit encryption (managed with the AWS KMS) and tamper-resistant enclosures with TPM.
-
-Snowball must be ordered from and returned to the same region.
-
-To speed up data transfer it is recommended to run simultaneous instances of the AWS Snowball
-Client in multiple terminals and transfer small files as batches.
-
-Snowball can import to S3 or export from S3.
-
-**THE SNOWBALL FAMILY**
-
-Several services are offered in the Snowball family.
-
-The table below describes these at a high-level:
-
-Snowball (80TB) (50TB model available only in the USA).
-
-Snowball Edge (100TB) comes with onboard storage and compute capabilities.
-
-Snowmobile – exabyte scale with up to 100PB per Snowmobile.
-
-AWS Import/export is when you send your own disks into AWS – this is being deprecated in favour of Snowball.
-
-### AWS Database Migration Service
-
-AWS Database Migration Service helps you migrate databases to AWS quickly and securely.
-
-The source database remains fully operational during the migration, minimizing downtime to
-applications that rely on the database.
-
-The AWS Database Migration Service can migrate your data to and from most widely used
-commercial and open-source databases.
-
-Supported migration paths include:
-
-- On-premises and EC2 databases to Amazon RDS or Amazon Aurora.
-- Homogeneous migrations such as Oracle to Oracle.
-- Heterogeneous migrations between different database platforms, such as Oracle or
-    Microsoft SQL Server to Amazon Aurora.
-
-With AWS Database Migration Service, you can continuously replicate your data with high
-availability and consolidate databases into a petabyte-scale data warehouse by streaming data to
-Amazon Redshift and Amazon S3.
-
-When migrating databases to Amazon Aurora, Amazon Redshift, Amazon DynamoDB or Amazon
-DocumentDB (with MongoDB compatibility) you can use DMS free for six months.
-
-Use along with the Schema Conversion Tool (SCT) to migrate databases to AWS RDS or EC2-based
-databases.
-
-The source database remains fully operational during the migration, minimizing downtime to
-applications that rely on the database.
-
-The AWS Database Migration Service can migrate your data to and from most widely used
-commercial and open-source databases.
-
-Schema Conversion Tool can copy database schemas for homogenous migrations (same database)
-and convert schemas for heterogeneous migrations (different database).
-
-DMS is used for smaller, simpler conversions and also supports MongoDB and DynamoDB.
-
-SCT is used for larger, more complex datasets like data warehouses.
-
-DMS has replication functions for on-premise to AWS or to Snowball or S3.
+[[AWS Database Migration Service]]
 
 ### AWS DataSync
 
