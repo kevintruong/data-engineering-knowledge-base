@@ -16,15 +16,15 @@
   "dendronNoteField": "up",
   "dvWaitTime": 5000,
   "enableAlphaSort": true,
-  "enableRelationSuggestor": false,
+  "enableRelationSuggestor": true,
   "fieldSuggestor": true,
   "filterImpliedSiblingsOfDifferentTypes": false,
   "jugglLayout": "hierarchy",
   "limitWriteBCCheckboxes": [],
   "CHECKBOX_STATES_OVERWRITTEN": false,
   "gridDefaultDepth": 25,
-  "gridHeatmap": false,
-  "heatmapColour": " #7f6df2",
+  "gridHeatmap": true,
+  "heatmapColour": " #4695da",
   "hierarchyNotes": [
     ""
   ],
@@ -36,12 +36,12 @@
   "namingSystemRegex": "",
   "namingSystemSplit": ".",
   "namingSystemEndsWithDelimiter": false,
-  "refreshOnNoteChange": true,
+  "refreshOnNoteChange": false,
   "useAllMetadata": true,
   "openMatrixOnLoad": true,
-  "openDuckOnLoad": false,
+  "openDuckOnLoad": true,
   "openDownOnLoad": true,
-  "parseJugglLinksWithoutJuggl": false,
+  "parseJugglLinksWithoutJuggl": true,
   "showNameOrType": true,
   "showRelationType": true,
   "regexNoteField": "",
@@ -50,7 +50,7 @@
   "showAllPathsIfNoneToIndexNote": false,
   "showAllAliases": true,
   "showBCs": true,
-  "showBCsInEditLPMode": false,
+  "showBCsInEditLPMode": true,
   "showRefreshNotice": false,
   "showImpliedRelations": true,
   "showTrail": true,
@@ -115,12 +115,12 @@
   "impliedRelations": {
     "siblingIdentity": false,
     "sameParentIsSibling": true,
-    "siblingsSiblingIsSibling": false,
-    "siblingsParentIsParent": false,
-    "parentsSiblingsIsParents": false,
+    "siblingsSiblingIsSibling": true,
+    "siblingsParentIsParent": true,
+    "parentsSiblingsIsParents": true,
     "parentsParentsIsParent": false,
-    "cousinsIsSibling": false
+    "cousinsIsSibling": true
   },
-  "refreshOnNoteSave": true,
-  "showUpInJuggl": false
+  "refreshOnNoteSave": false,
+  "showUpInJuggl": true
 }

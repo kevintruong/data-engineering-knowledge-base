@@ -1,0 +1,174 @@
+{
+  "splitDirection": "vertical",
+  "typedLinkPrefix": "-",
+  "useImgServer": false,
+  "imgServerPort": 3837,
+  "debug": false,
+  "globalStyleGroups": [
+    {
+      "filter": "class:dangling",
+      "color": "#961717",
+      "shape": "star",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": false,
+      "size": 3.512353515625
+    },
+    {
+      "filter": "class:file -class:image",
+      "color": "rgba(85, 162, 214, 0.733)",
+      "shape": "ellipse",
+      "icon": {
+        "name": "No icon",
+        "path": "",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1
+    },
+    {
+      "filter": "tag:#quiz",
+      "color": "#0089BA",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Head Question",
+        "path": "M13 3C9.23 3 6.19 5.95 6 9.66L4.08 12.19C3.84 12.5 4.08 13 4.5 13H6V16C6 17.11 6.89 18 8 18H9V21H16V16.31C18.37 15.19 20 12.8 20 10C20 6.14 16.88 3 13 3M14 14H12V12H14V14M15.75 8.81C15.46 9.21 15.09 9.5 14.64 9.74C14.39 9.9 14.22 10.07 14.13 10.26C14.04 10.44 14 10.69 14 11H12C12 10.5 12.11 10.08 12.31 9.82C12.5 9.55 12.85 9.25 13.36 8.91C13.62 8.75 13.83 8.55 13.97 8.32C14.13 8.09 14.2 7.82 14.2 7.5C14.2 7.2 14.12 6.94 13.94 6.75C13.76 6.57 13.5 6.47 13.19 6.47C12.93 6.47 12.71 6.55 12.53 6.7C12.35 6.86 12.26 7.09 12.25 7.39H10.32L10.31 7.36C10.3 6.57 10.56 6 11.08 5.59C11.62 5.2 12.32 5 13.19 5C14.12 5 14.85 5.23 15.38 5.68C15.92 6.13 16.19 6.74 16.19 7.5C16.19 8 16.04 8.41 15.75 8.81Z",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 2.19797318892045
+    },
+    {
+      "filter": "tag:#topic",
+      "color": "black",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Led On",
+        "path": "M11,0V4H13V0H11M18.3,2.29L15.24,5.29L16.64,6.71L19.7,3.71L18.3,2.29M5.71,2.29L4.29,3.71L7.29,6.71L8.71,5.29L5.71,2.29M12,6A4,4 0 0,0 8,10V16H6V18H9V23H11V18H13V23H15V18H18V16H16V10A4,4 0 0,0 12,6M2,9V11H6V9H2M18,9V11H22V9H18Z",
+        "color": "#dd6464"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 3.56379350142045
+    },
+    {
+      "filter": "tag:#compute",
+      "color": "black",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Laptop",
+        "path": "M4,6H20V16H4M20,18A2,2 0 0,0 22,16V6C22,4.89 21.1,4 20,4H4C2.89,4 2,4.89 2,6V16A2,2 0 0,0 4,18H0V20H24V18H20Z",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 1
+    },
+    {
+      "filter": "tag:#quiz_collection",
+      "color": "black",
+      "shape": "ellipse",
+      "icon": {
+        "name": "Cloud Question",
+        "path": "M19.35,10.03C18.67,6.59 15.64,4 12,4C9.11,4 6.6,5.64 5.35,8.03C2.34,8.36 0,10.9 0,14A6,6 0 0,0 6,20H19A5,5 0 0,0 24,15C24,12.36 21.95,10.22 19.35,10.03M13,17H11V15H13V17M14.8,11.82C14.5,12.21 14.13,12.5 13.67,12.75C13.41,12.91 13.24,13.07 13.15,13.26C13.06,13.45 13,13.69 13,14H11C11,13.45 11.11,13.08 11.3,12.82C11.5,12.56 11.85,12.25 12.37,11.91C12.63,11.75 12.84,11.56 13,11.32C13.15,11.09 13.23,10.81 13.23,10.5C13.23,10.18 13.14,9.94 12.96,9.76C12.78,9.56 12.5,9.47 12.2,9.47C11.93,9.47 11.71,9.55 11.5,9.7C11.35,9.85 11.25,10.08 11.25,10.39H9.28C9.23,9.64 9.5,9 10.06,8.59C10.6,8.2 11.31,8 12.2,8C13.14,8 13.89,8.23 14.43,8.68C14.97,9.13 15.24,9.75 15.24,10.5C15.24,11 15.09,11.41 14.8,11.82Z",
+        "color": "white"
+      },
+      "showInPane": true,
+      "show": true,
+      "size": 3.27732599431818
+    }
+  ],
+  "globalGraphRibbon": true,
+  "graphSettings": {
+    "animateLayout": true,
+    "autoAddNodes": true,
+    "autoExpand": false,
+    "autoZoom": false,
+    "coreStore": "Obsidian",
+    "expandInitial": true,
+    "fdgdLayout": "d3-force",
+    "filter": "",
+    "height": "100%",
+    "hoverEdges": true,
+    "layout": "force-directed",
+    "limit": 10000,
+    "mergeEdges": true,
+    "metaKeyHover": false,
+    "mode": "workspace",
+    "navigator": false,
+    "openWithShift": false,
+    "readContent": true,
+    "styleGroups": [],
+    "toolbar": true,
+    "width": "100%",
+    "zoomSpeed": 0.6
+  },
+  "embedSettings": {
+    "animateLayout": true,
+    "autoAddNodes": false,
+    "autoExpand": false,
+    "autoZoom": false,
+    "coreStore": "Obsidian",
+    "expandInitial": true,
+    "fdgdLayout": "d3-force",
+    "filter": "",
+    "height": "400px",
+    "hoverEdges": true,
+    "layout": "force-directed",
+    "limit": 1000,
+    "mergeEdges": true,
+    "metaKeyHover": false,
+    "mode": "local",
+    "navigator": false,
+    "openWithShift": false,
+    "readContent": true,
+    "styleGroups": [],
+    "toolbar": false,
+    "width": "100%",
+    "zoomSpeed": 0.6
+  },
+  "globalGraphSettings": {
+    "animateLayout": true,
+    "autoAddNodes": true,
+    "autoExpand": false,
+    "autoZoom": false,
+    "coreStore": "Obsidian",
+    "expandInitial": false,
+    "fdgdLayout": "d3-force",
+    "filter": "-class:dangling -class:file",
+    "height": "100%",
+    "width": "100%",
+    "limit": 10000,
+    "hoverEdges": true,
+    "layout": {
+      "name": "cola",
+      "animate": "end",
+      "refresh": 2,
+      "maxSimulationTime": 1500,
+      "ungrabifyWhileSimulating": false,
+      "fit": false,
+      "padding": 30,
+      "nodeDimensionsIncludeLabels": true,
+      "randomize": false,
+      "avoidOverlap": true,
+      "handleDisconnected": true,
+      "convergenceThreshold": 0.01,
+      "nodeSpacing": 10
+    },
+    "mergeEdges": true,
+    "metaKeyHover": false,
+    "mode": "workspace",
+    "navigator": false,
+    "openWithShift": false,
+    "readContent": false,
+    "styleGroups": [],
+    "toolbar": true,
+    "zoomSpeed": 0.6
+  }
+}

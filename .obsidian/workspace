@@ -4,13 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "8605fdc60cd85b3a",
+        "id": "727876769fd4b557",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "aws/aws-sa-training/01_compute/EC2/EC2 RI Attributes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "aa872090338ff967",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "aws/aws-sa-training/01_compute/EC2/quiz/What can you use to run a script at startup on an Amazon EC2 Linux instance?.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -38,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Tenancy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -51,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370
+    "width": 572
   },
   "right": {
     "id": "f2829be25feaab28",
@@ -67,30 +81,15 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "aws/aws-sa-training/01_compute/EC2/EC2 RI Attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "c0c5dcb2ebd67313",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "1634fde36d6b0339",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
             }
           },
           {
@@ -118,39 +117,71 @@
             }
           },
           {
-            "id": "07fe100ce0419562",
+            "id": "6bac80aab49a4896",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "juggl_nodes",
               "state": {}
             }
           },
           {
-            "id": "fa96467183ae0d51",
+            "id": "5710e2f5d86f5b68",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9639fcdde3aa335",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5bd2005490c7df6",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "63cb3d3efd397cc4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "503f20c0d69476c1",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 357
+    "width": 664
   },
-  "active": "8605fdc60cd85b3a",
+  "active": "727876769fd4b557",
   "lastOpenFiles": [
-    "01_compute/EC2/EC2.md",
-    "01_compute/EC2/Elastic Network Interfaces.md",
-    "01_compute/Elastic Compute Cloud EC2.md",
-    "01_compute/EC2/EC2 instance types.md",
-    "01_compute/EC2/EC2 BILLING AND PROVISIONING.md",
-    "01_compute/EC2/EC2 RI instance billing.md",
-    "same of EC2.md",
-    "01_compute/EC2/EC2 IP Addresses.md",
-    "CONTAINER.md",
-    "07_media_serviceis.md"
+    "aws/aws-sa-training/01_compute/EC2/EC2 RI Attributes.md",
+    "aws/aws-sa-training/01_compute/EC2/EC2 NETWORKING.md",
+    "aws/aws-sa-training/AWS Migration service.md",
+    "aws/aws-sa-training/AWS Snowball.md",
+    "aws/aws-sa-training/aws-solution-architecture-note.md",
+    "aws/aws-sa-training/01_compute/04_ecs.md",
+    "aws/aws-sa-training/01_compute/EC2/quiz/What can you use to run a script at startup on an Amazon EC2 Linux instance?.md",
+    "aws/aws-sa-training/01_compute/EC2/quiz/What do you need to securely connect using SSH to an EC2 instance launched from the Amazon Linux 2 AMI.md",
+    "aws/aws-sa-training/The SnowBall Family.md",
+    "aws/aws-sa-training/01_compute/EC2/Options when launching EC2 Instances.md"
   ]
 }

@@ -1,7 +1,8 @@
 [
-  "juggl",
   "dataview",
-  "excalibrain",
   "obsidian-excalidraw-plugin",
-  "breadcrumbs"
+  "juggl",
+  "breadcrumbs",
+  "obsidian-git",
+  "note-refactor-obsidian"
 ]

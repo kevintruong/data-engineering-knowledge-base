@@ -1,2 +1,21 @@
 
 /* For a full overview of styling options, see https://js.cytoscape.org/#style */
+edge.inline {
+   label: data(context);
+   text-opacity: 0.8;
+   font-size: 2;
+   text-wrap: ellipsis;
+   text-max-width: 100px;
+}
+
+edge[edgeCount] {
+    width: mapData(edgeCount, 1, 15, 0.5, 3);
+	line-opacity: mapData(edgeCount, 1, 15, 0.5, 0.9);
+}
+
+edge.inline {
+   label:data(context);
+   text-wrap: wrap;
+   text-max-width: 250px;
+   text-overflow-wrap: anywhere;
+}
