@@ -7,8 +7,12 @@
         "id": "6685149090b56889",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "aws/aws-sa-training/99 Quiz/aws-solution-architecture-practice-quiz.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "aws/aws-sa-training/99 Quiz/aws-solution-architecture-practice-quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +161,15 @@
   },
   "active": "6685149090b56889",
   "lastOpenFiles": [
+    "aws/aws-sa-training/99 Quiz/aws-solution-architecture-practice-quiz.md",
+    "aws/aws-sa-training/06 Management Tools/quiz/Management Tools Quiz Questions.md",
+    "aws/aws-sa-training/05 Networking And Content Delivery/Networking and Content Delivery.md",
+    "aws/aws-sa-training/05 Networking And Content Delivery/quiz/Networking & Content Delivery Quiz Questions.md",
+    "aws/aws-sa-training/01 Compute Service/Elastic Block Store EBS/Elastic Block Store EBS.md",
     "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/assets/ecs_ec2_fargate_lauch_type.png",
     "Untitled 1.md",
     "Untitled.md",
     "04_ecs.md",
-    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/Tasks.md",
-    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/LIMITS.md",
-    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/Container Images.md",
-    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/AWS Elastic Container Registry (ECR).md",
-    "aws/aws-sa-training/01 Compute Service/aws_compute_quiz.md",
-    "aws/aws-sa-training/01 Compute Service/Elastic Compute Cloud EC2/Elastic Compute Cloud EC2.md"
+    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/Tasks.md"
   ]
 }
