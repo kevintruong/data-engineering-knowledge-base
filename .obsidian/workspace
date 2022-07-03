@@ -6,13 +6,11 @@
       {
         "id": "e09bd5bbcba0fc29",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "aws/aws-sa-training/02_storage/AWS S3/Amazon S3.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
         }
       },
       {
@@ -21,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aws/aws-sa-training/02_storage/AWS FSx/Amazon FSx.md",
+            "file": "aws/aws-sa-training/03_aws_database.md",
             "mode": "source",
             "source": false
           }
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/aws-sa-training/02_storage/AWS S3/Amazon S3.md",
+                "file": "aws/aws-sa-training/03_aws_database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,17 +193,17 @@
     "direction": "horizontal",
     "width": 664
   },
-  "active": "e09bd5bbcba0fc29",
+  "active": "67a706f48cef1cb3",
   "lastOpenFiles": [
+    "aws/aws-sa-training/03_aws_database.md",
+    "aws/aws-sa-training/02_storage/AWS FSx/Amazon FSx.md",
     "aws/aws-sa-training/02_storage/AWS S3/Amazon S3.md",
     "aws/aws-sa-training/02_storage/AWS S3/Bucket naming.md",
     "aws/aws-sa-training/02_storage/AWS S3/AWS Storage Service.md",
-    "aws/aws-sa-training/02_storage/AWS FSx/Amazon FSx.md",
     "aws/aws-sa-training/02_storage/AWS Storage Gateway/AWS Storage Gateway.md",
     "aws/aws-sa-training/02_storage/AWS EFS/Amazon EFS.md",
     "aws/aws-sa-training/02_storage/AWS S3/S3 Buckets.md",
     "aws/aws-sa-training/02_storage/AWS S3/S3 Object.md",
-    "aws/aws-sa-training/02_storage/AWS S3/Files are stored in buckets.md",
-    "aws/aws-sa-training/02_storage/AWS S3/S3 Access To Buckets And Objects Granting.md"
+    "aws/aws-sa-training/02_storage/AWS S3/Files are stored in buckets.md"
   ]
 }
