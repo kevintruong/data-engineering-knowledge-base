@@ -2,7 +2,7 @@
   "includeFirstLineAsNoteHeading": true,
   "excludeFirstLineInNote": false,
   "headingFormat": "###",
-  "newFileLocation": 0,
+  "newFileLocation": 1,
   "customFolder": "",
   "fileNamePrefix": "",
   "transcludeByDefault": false,

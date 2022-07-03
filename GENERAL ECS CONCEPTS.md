@@ -21,3 +21,8 @@ The ALB supports a target group that contains a set of instance ports. You can s
 ECS provides Blox, a collection of open source projects for container management and orchestration. Blox makes it easy to consume events from Amazon ECS, store the cluster state locally and query the local data store through APIs.
 
 You can use any AMI that meets the Amazon ECS AMI specification.
+
+---- 
+#ecs 
+
+- up:: [[Elastic Container Service (ECS)]]

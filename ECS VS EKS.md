@@ -5,3 +5,7 @@ Amazon also provide the Elastic Container Service for Kubernetes (Amazon EKS) wh
 The table below describes some of the differences between these services to help you understand when you might choose one over the other:
 
 ![img.png](assets/ecs_vs_eks.png)
+
+---- 
+
+- up:: [[Elastic Container Service (ECS)]]
