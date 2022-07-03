@@ -1,4 +1,4 @@
-### **SECURITY/SLA**
+### Security and SLA
 
 EC2 instances use an IAM role to access ECS.
 

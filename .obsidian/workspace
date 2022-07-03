@@ -4,49 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e09bd5bbcba0fc29",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "juggl_view",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "67a706f48cef1cb3",
+        "id": "6685149090b56889",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "aws/aws-sa-training/03_aws_database.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "7d4df00e830444ec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "aws/aws-sa-training/02_storage/AWS Storage Gateway/AWS Storage Gateway.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9d6d242ba9aea69c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "aws/aws-sa-training/02_storage/AWS EFS/Amazon EFS.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -103,13 +65,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/aws-sa-training/03_aws_database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -193,17 +154,17 @@
     "direction": "horizontal",
     "width": 664
   },
-  "active": "67a706f48cef1cb3",
+  "active": "6685149090b56889",
   "lastOpenFiles": [
-    "aws/aws-sa-training/03_aws_database.md",
-    "aws/aws-sa-training/02_storage/AWS FSx/Amazon FSx.md",
-    "aws/aws-sa-training/02_storage/AWS S3/Amazon S3.md",
-    "aws/aws-sa-training/02_storage/AWS S3/Bucket naming.md",
-    "aws/aws-sa-training/02_storage/AWS S3/AWS Storage Service.md",
-    "aws/aws-sa-training/02_storage/AWS Storage Gateway/AWS Storage Gateway.md",
-    "aws/aws-sa-training/02_storage/AWS EFS/Amazon EFS.md",
-    "aws/aws-sa-training/02_storage/AWS S3/S3 Buckets.md",
-    "aws/aws-sa-training/02_storage/AWS S3/S3 Object.md",
-    "aws/aws-sa-training/02_storage/AWS S3/Files are stored in buckets.md"
+    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/assets/ecs_ec2_fargate_lauch_type.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "04_ecs.md",
+    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/Tasks.md",
+    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/LIMITS.md",
+    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/Container Images.md",
+    "aws/aws-sa-training/01 Compute Service/Elastic Container Service ECS/AWS Elastic Container Registry (ECR).md",
+    "aws/aws-sa-training/01 Compute Service/aws_compute_quiz.md",
+    "aws/aws-sa-training/01 Compute Service/Elastic Compute Cloud EC2/Elastic Compute Cloud EC2.md"
   ]
 }

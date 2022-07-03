@@ -7,7 +7,7 @@ date created: 2022-07-03 10:13
 [[GENERAL ECS CONCEPTS]]
 
 [[ECS VS EKS]]
-[[LAUNCH TYPES]]
+[[ECS Lauch Types]]
 [[Fargate Launch Type]]
 [[EC2 Launch Type]]
 
@@ -18,15 +18,15 @@ The following table provides an overview of some of the terminology used with Am
 TODO
 
 [[Container Images]]
-[[TASKS]]
+[[Tasks]]
 [[CLUSTERS]]
 [[SERVICE SCHEDULER]]
 [[CUSTOM SCHEDULER]]
 [[ECS CONTAINER AGENT]]
-[[AUTO SCALING]]
+[[ECS Auto Scaling]]
 [[Service Auto Scaling]]
 [[Amazon ECS Service Auto Scaling supports the following types of scaling policies]]
 [[Cluster Auto Scaling]]
 [[SECURITYSLA]]
 [[LIMITS]]
-[[PRICING]]
+[[ECS Pricing]]

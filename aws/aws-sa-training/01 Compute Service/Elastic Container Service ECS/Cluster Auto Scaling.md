@@ -10,3 +10,6 @@ When you associate an ECS Capacity Provider with an ASG and add the Capacity Pro
 
 1. **Managed scaling** , with an automatically-created scaling policy on your ASG, and a new scaling metric (Capacity Provider Reservation) that the scaling policy uses; and
 2. **Managed instance termination protection** , which enables container-aware termination of instances in the ASG when scale-in happens.
+
+---- 
+- up:: [[ECS Auto Scaling]]

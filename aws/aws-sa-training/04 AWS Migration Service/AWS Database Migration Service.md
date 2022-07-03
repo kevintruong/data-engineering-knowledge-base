@@ -1,4 +1,3 @@
-up:: [[AWS Migration service]]
 ### AWS Database Migration Service
 
 AWS Database Migration Service helps you migrate databases to AWS quickly and securely.
@@ -37,3 +36,8 @@ DMS is used for smaller, simpler conversions and also supports MongoDB and Dynam
 SCT is used for larger, more complex datasets like data warehouses.
 
 DMS has replication functions for on-premise to AWS or to Snowball or S3.
+
+
+----
+
+- up:: [[AWS Migration service]]

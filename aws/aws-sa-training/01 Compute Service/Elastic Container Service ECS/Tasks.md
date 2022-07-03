@@ -2,7 +2,7 @@
 date created: 2022-07-03 09:59
 ---
 
-### **TASKS**
+### **Tasks**
 
 A task definition is required to run Docker containers in Amazon ECS.
 
