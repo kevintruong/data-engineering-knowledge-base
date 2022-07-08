@@ -67,5 +67,14 @@
       ],
       "key": "O"
     }
-  ]
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "graph:open": []
 }

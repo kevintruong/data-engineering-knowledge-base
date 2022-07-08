@@ -1,3 +1,7 @@
+---
+date created: 2022-07-05 23:30
+---
+
 ## WELCOME
 
 Thanks for purchasing these training notes for the **AWS Certified Solutions Architect Associate**
@@ -27,130 +31,130 @@ To test your understanding, we have added **80 quiz questions** that you will fi
 
 Check out the excellent reviews from our many students who passed their AWS exam with an average passing score of over 850 :
 
-*****
+---
 
 _A wide collection of the important concepts that one needs to know to pass the AWS Certified Solutions Architect Associate exam. This was my go-to resource as I was preparing for my exam._
 
-*****
+---
 
 _This is a terrific book to review what you need to know for the certification exam of AWS Solutions Architect – Associate. It succinctly presents all the important points of every subject in that arena._
 
-*****
+---
 
 _The material includes tons of facts and explanations of the exam objectives. Very well organized and it comes with some practice tests that simulate real-world scenarios._
 
-*****
+---
 
 _The book is a very concise collection of the important facts one needs to know to pass the AWS Certified Solutions Architect Associate exam. It was my go-to resource during my final phase of preparing for the exam – which I easily passed._
 
-*****
+---
 
 _The quick notes on what you need to pass. Also, I passed and it was one of the tools I used to get certified. All the screen time it was time to give my eyes a break._
 
 ## TABLE OF CONTENTS
 
 - [WELCOME](#welcome)
-    - [About these Training Notes](#about-these-training-notes)
-    - [What do other Students say?](#what-do-other-students-say)
+  - [About these Training Notes](#about-these-training-notes)
+  - [What do other Students say?](#what-do-other-students-say)
 - [TABLE OF CONTENTS](#table-of-contents)
 - [GETTING STARTED](#getting-started)
-    - [Your Pathway to Success](#your-pathway-to-success)
-    - [Support & Feedback](#support--feedback)
-    - [Join the AWS Community](#join-the-aws-community)
-    - [Connect with Neal on Social Media](#connect-with-neal-on-social-media)
+  - [Your Pathway to Success](#your-pathway-to-success)
+  - [Support & Feedback](#support--feedback)
+  - [Join the AWS Community](#join-the-aws-community)
+  - [Connect with Neal on Social Media](#connect-with-neal-on-social-media)
 - [HOW TO BEST PREPARE FOR YOUR EXAM](#how-to-best-prepare-for-your-exam)
-    - [The 2020 SAA-C02 Exam Version](#the-2020-saa-c02-exam-version)
-    - [Domains, Objectives and Examples](#domains-objectives-and-examples)
+  - [The 2020 SAA-C02 Exam Version](#the-2020-saa-c02-exam-version)
+  - [Domains, Objectives and Examples](#domains-objectives-and-examples)
 - [COMPUTE](#compute)
-    - [Amazon EC2](#amazon-ec2)
-        - [AMAZON MACHINE IMAGES](#amazon-machine-images)
-    - [Amazon EBS](#amazon-ebs)
-    - [Elastic Load Balancing](#elastic-load-balancing)
-    - [AWS Auto Scaling](#aws-auto-scaling)
-    - [Amazon ECS](#amazon-ecs)
-    - [AWS Lambda](#aws-lambda)
-    - [AWS Elastic Beanstalk](#aws-elastic-beanstalk)
-    - [Compute Quiz Questions](#compute-quiz-questions)
+  - [Amazon EC2](#amazon-ec2)
+    - [AMAZON MACHINE IMAGES](#amazon-machine-images)
+  - [Amazon EBS](#amazon-ebs)
+  - [Elastic Load Balancing](#elastic-load-balancing)
+  - [AWS Auto Scaling](#aws-auto-scaling)
+  - [Amazon ECS](#amazon-ecs)
+  - [AWS Lambda](#aws-lambda)
+  - [AWS Elastic Beanstalk](#aws-elastic-beanstalk)
+  - [Compute Quiz Questions](#compute-quiz-questions)
 - [STORAGE](#storage)
-    - [Amazon S3](#amazon-s3)
-    - [S3 performance guidelines](#s3-performance-guidelines)
-    - [Glacier](#glacier)
-    - [Amazon EFS](#amazon-efs)
-    - [AWS Storage Gateway](#aws-storage-gateway)
-    - [Amazon fsx](#amazon-fsx)
-    - [Storage Quiz Questions](#storage-quiz-questions)
+  - [Amazon S3](#amazon-s3)
+  - [S3 performance guidelines](#s3-performance-guidelines)
+  - [Glacier](#glacier)
+  - [Amazon EFS](#amazon-efs)
+  - [AWS Storage Gateway](#aws-storage-gateway)
+  - [Amazon fsx](#amazon-fsx)
+  - [Storage Quiz Questions](#storage-quiz-questions)
 - [AWS DATABASE](#aws-database)
-    - [Amazon RDS](#amazon-rds)
-    - [Amazon Aurora](#amazon-aurora)
-    - [Amazon DynamoDB](#amazon-dynamodb)
-    - [Amazon ElastiCache](#amazon-elasticache)
-    - [Amazon RedShift](#amazon-redshift)
-    - [Database Quiz Questions](#database-quiz-questions)
+  - [Amazon RDS](#amazon-rds)
+  - [Amazon Aurora](#amazon-aurora)
+  - [Amazon DynamoDB](#amazon-dynamodb)
+  - [Amazon ElastiCache](#amazon-elasticache)
+  - [Amazon RedShift](#amazon-redshift)
+  - [Database Quiz Questions](#database-quiz-questions)
 - [MIGRATION](#migration)
-    - [AWS Snowball](#aws-snowball)
-    - [AWS Database Migration Service](#aws-database-migration-service)
-    - [AWS DataSync](#aws-datasync)
-    - [Migration Quiz Question](#migration-quiz-question)
+  - [AWS Snowball](#aws-snowball)
+  - [AWS Database Migration Service](#aws-database-migration-service)
+  - [AWS DataSync](#aws-datasync)
+  - [Migration Quiz Question](#migration-quiz-question)
 - [NETWORKING AND CONTENT DELIVERY](#networking-and-content-delivery)
-    - [Amazon VPC](#amazon-vpc)
-    - [Amazon CloudFront](#amazon-cloudfront)
-    - [Amazon Route](#amazon-route)
-    - [AWS Global Accelerator](#aws-global-accelerator)
-    - [Amazon API Gateway](#amazon-api-gateway)
-    - [AWS Direct Connect](#aws-direct-connect)
-    - [Networking & Content Delivery Quiz Questions](#networking--content-delivery-quiz-questions)
+  - [Amazon VPC](#amazon-vpc)
+  - [Amazon CloudFront](#amazon-cloudfront)
+  - [Amazon Route](#amazon-route)
+  - [AWS Global Accelerator](#aws-global-accelerator)
+  - [Amazon API Gateway](#amazon-api-gateway)
+  - [AWS Direct Connect](#aws-direct-connect)
+  - [Networking & Content Delivery Quiz Questions](#networking--content-delivery-quiz-questions)
 - [MANAGEMENT TOOLS](#management-tools)
-    - [Amazon CloudWatch](#amazon-cloudwatch)
-    - [AWS CloudTrail](#aws-cloudtrail)
-    - [AWS OpsWorks](#aws-opsworks)
-    - [AWS CloudFormation](#aws-cloudformation)
-    - [AWS Config](#aws-config)
-    - [AWS Systems Manager](#aws-systems-manager)
-    - [Management Tools Quiz Questions](#management-tools-quiz-questions)
+  - [Amazon CloudWatch](#amazon-cloudwatch)
+  - [AWS CloudTrail](#aws-cloudtrail)
+  - [AWS OpsWorks](#aws-opsworks)
+  - [AWS CloudFormation](#aws-cloudformation)
+  - [AWS Config](#aws-config)
+  - [AWS Systems Manager](#aws-systems-manager)
+  - [Management Tools Quiz Questions](#management-tools-quiz-questions)
 - [MEDIA SERVICES](#media-services)
-    - [Amazon Elastic Transcoder](#amazon-elastic-transcoder)
-    - [Media Services Quiz Questions](#media-services-quiz-questions)
+  - [Amazon Elastic Transcoder](#amazon-elastic-transcoder)
+  - [Media Services Quiz Questions](#media-services-quiz-questions)
 - [ANALYTICS](#analytics)
-    - [Amazon EMR](#amazon-emr)
-    - [Amazon Kinesis](#amazon-kinesis)
-    - [Amazon Athena](#amazon-athena)
-    - [AWS Glue](#aws-glue)
-    - [Analytics Quiz Questions](#analytics-quiz-questions)
+  - [Amazon EMR](#amazon-emr)
+  - [Amazon Kinesis](#amazon-kinesis)
+  - [Amazon Athena](#amazon-athena)
+  - [AWS Glue](#aws-glue)
+  - [Analytics Quiz Questions](#analytics-quiz-questions)
 - [AWS SECURITY, IDENTITY & COMPLIANCE](#aws-security-identity--compliance)
-    - [AWS IAM](#aws-iam)
-    - [AWS Accounts](#aws-accounts)
-    - [AWS Resource access manager](#aws-resource-access-manager)
-    - [Resource Groups](#resource-groups)
-    - [AWS Directory Service](#aws-directory-service)
-    - [AWS Key Management Store (KMS)](#aws-key-management-store-kms)
-    - [AWS CloudHSM](#aws-cloudhsm)
-    - [Amazon Cognito](#amazon-cognito)
-    - [AWS WAF and Shield](#aws-waf-and-shield)
-    - [Security, Identity & Compliance Quiz Questions](#security-identity--compliance-quiz-questions)
+  - [AWS IAM](#aws-iam)
+  - [AWS Accounts](#aws-accounts)
+  - [AWS Resource access manager](#aws-resource-access-manager)
+  - [Resource Groups](#resource-groups)
+  - [AWS Directory Service](#aws-directory-service)
+  - [AWS Key Management Store (KMS)](#aws-key-management-store-kms)
+  - [AWS CloudHSM](#aws-cloudhsm)
+  - [Amazon Cognito](#amazon-cognito)
+  - [AWS WAF and Shield](#aws-waf-and-shield)
+  - [Security, Identity & Compliance Quiz Questions](#security-identity--compliance-quiz-questions)
 - [APPLICATION INTEGRATION](#application-integration)
-    - [Amazon SNS](#amazon-sns)
-    - [Amazon SQS](#amazon-sqs)
-    - [Amazon Simple Workflow Service (SWF)](#amazon-simple-workflow-service-swf)
-    - [Amazon MQ](#amazon-mq)
-    - [AWS Step Functions](#aws-step-functions)
-    - [Application Integration Quiz Questions](#application-integration-quiz-questions)
+  - [Amazon SNS](#amazon-sns)
+  - [Amazon SQS](#amazon-sqs)
+  - [Amazon Simple Workflow Service (SWF)](#amazon-simple-workflow-service-swf)
+  - [Amazon MQ](#amazon-mq)
+  - [AWS Step Functions](#aws-step-functions)
+  - [Application Integration Quiz Questions](#application-integration-quiz-questions)
 - [AWS DESKTOP & APP STREAMING](#aws-desktop--app-streaming)
-    - [Amazon Workspaces](#amazon-workspaces)
+  - [Amazon Workspaces](#amazon-workspaces)
 - [CONCLUSION](#conclusion)
-    - [Before taking the AWS Exam](#before-taking-the-aws-exam)
-    - [Reach out and Connect](#reach-out-and-connect)
+  - [Before taking the AWS Exam](#before-taking-the-aws-exam)
+  - [Reach out and Connect](#reach-out-and-connect)
 - [OTHER BOOKS & COURSES BY NEAL DAVIS](#other-books--courses-by-neal-davis)
-    - [Courses for the AWS Certified Cloud Practitioner](#courses-for-the-aws-certified-cloud-practitioner)
-    - [Courses for the AWS Certified Solutions Architect Associate](#courses-for-the-aws-certified-solutions-architect-associate)
-    - [Courses for the AWS Certified Developer Associate](#courses-for-the-aws-certified-developer-associate)
-    - [Courses for the AWS Certified SysOps Administrator Associate](#courses-for-the-aws-certified-sysops-administrator-associate)
+  - [Courses for the AWS Certified Cloud Practitioner](#courses-for-the-aws-certified-cloud-practitioner)
+  - [Courses for the AWS Certified Solutions Architect Associate](#courses-for-the-aws-certified-solutions-architect-associate)
+  - [Courses for the AWS Certified Developer Associate](#courses-for-the-aws-certified-developer-associate)
+  - [Courses for the AWS Certified SysOps Administrator Associate](#courses-for-the-aws-certified-sysops-administrator-associate)
 - [ABOUT THE AUTHOR](#about-the-author)
 
 ## GETTING STARTED
 
 ### Your Pathway to Success
 
-So, you’re excited to get started with the AWS Certified Solutions Architect Associate certification and wondering what resources are out there to help you. Let’s start with the free options. Visit https://digitalcloud.training/amazon-aws-free-certification-training-solutions-architect for links to various free resources including sample practice questions, blog articles, video tutorials and AWS documentation.
+So, you’re excited to get started with the AWS Certified Solutions Architect Associate certification and wondering what resources are out there to help you. Let’s start with the free options. Visit <https://digitalcloud.training/amazon-aws-free-certification-training-solutions-architect> for links to various free resources including sample practice questions, blog articles, video tutorials and AWS documentation.
 
 For the full training experience though, your best bet are the following training courses:
 
@@ -158,13 +162,13 @@ For the full training experience though, your best bet are the following trainin
 
 To get you started, we’d suggest first enrolling in the on-demand AWS Certified Solutions Architect Associate Video Course from Digital Cloud Training to familiarize yourself with the AWS platform before returning to the Training Notes to get a more detailed understanding of the AWS services.
 
-For more information, visit: https://digitalcloud.training/aws-certified-solutions-architect-associate- hands-on-course-saa-c
+For more information, visit: <https://digitalcloud.training/aws-certified-solutions-architect-associate-> hands-on-course-saa-c
 
 **Step 2: Practice Exam Course with online Exam Simulator (**
 
 **Practice Questions)**
 
-To assess where you are at on your AWS journey, we recommend taking the AWS Certified Solutions Architect Associate Practice Exams on the Digital Cloud Training website. The **online exam simulator** with over **500 unique questions** will help you identify your strengths and weaknesses. These practice tests are designed to reflect the difficulty of the AWS exam and are the closest to the real exam experience available. To learn more, visit https://digitalcloud.training/aws-certified- solutions-architect-associate-practice-tests-saa-c
+To assess where you are at on your AWS journey, we recommend taking the AWS Certified Solutions Architect Associate Practice Exams on the Digital Cloud Training website. The **online exam simulator** with over **500 unique questions** will help you identify your strengths and weaknesses. These practice tests are designed to reflect the difficulty of the AWS exam and are the closest to the real exam experience available. To learn more, visit <https://digitalcloud.training/aws-certified-> solutions-architect-associate-practice-tests-saa-c
 
 Our online Practice Exams are delivered in 4 different variations:
 
@@ -183,23 +187,23 @@ As a final step, use these training notes to focus your study on the knowledge a
 
 ### Support & Feedback
 
-We want you to get great value from these training resources. If for any reason you are not 100% satisfied, please contact us at support@digitalcloud.training. We promise to address all questions and concerns, typically within 24hrs. We really want you to have a 5 - star learning experience!
+We want you to get great value from these training resources. If for any reason you are not 100% satisfied, please contact us at <support@digitalcloud.training>. We promise to address all questions and concerns, typically within 24hrs. We really want you to have a 5 - star learning experience!
 
-The AWS platform is evolving quickly, and the exam tracks these changes with a typical lag of around 6 months. We are therefore reliant on student feedback to keep track of what is appearing in the exam. If there are any topics in your exam that weren't covered in our training resources, please provide us with feedback using this form https://digitalcloud.training/student-feedback. We appreciate any feedback that will help us further improve our AWS training resources.
+The AWS platform is evolving quickly, and the exam tracks these changes with a typical lag of around 6 months. We are therefore reliant on student feedback to keep track of what is appearing in the exam. If there are any topics in your exam that weren't covered in our training resources, please provide us with feedback using this form <https://digitalcloud.training/student-feedback>. We appreciate any feedback that will help us further improve our AWS training resources.
 
 ### Join the AWS Community
 
 Our private Facebook group is a great place to ask questions and share knowledge and exam tips with the AWS community. Join the AWS Certification QA group on Facebook and share your exam
 
-feedback with the AWS community: https://www.facebook.com/groups/awscertificationqa
+feedback with the AWS community: <https://www.facebook.com/groups/awscertificationqa>
 
 To join the discussion about all things related to Amazon Web Services on Slack, visit:
-[http://digitalcloud.training/slack](http://digitalcloud.training/slack) for instructions.
+<http://digitalcloud.training/slack> for instructions.
 
 ### Connect with Neal on Social Media
 
 To learn more about the different ways of connecting with Neal, visit:
-https://digitalcloud.training/neal-davis
+<https://digitalcloud.training/neal-davis>
 
 ```
 digitalcloud.training/n eal-davis
@@ -261,19 +265,11 @@ You will find there are often multiple correct answers and you must select the a
 ### Domains, Objectives and Examples
 
 The knowledge required is organized into four test “domains”. Within each test domain, there are several objectives that broadly describe the knowledge and experience required to pass the exam.
-
-**Test Domain 1: Design Resilient Architectures**
-
-This domain makes up 30% of the exam and includes the following four objectives:
-
-1.1 Design a multi-tier architecture solution.
-
-1.2 Design highly available and/or fault-tolerant architectures.
-
-1.3 Design decoupling mechanisms using AWS services.
-
-1.4 Choose appropriate resilient storage.
-
+kj
+[[Domain 1 Design Resilient Architectures]]
+[[Domain 2 Design High-Performing Architectures]]
+[[Domain 3 Design Secure Applications and Architectures]]
+[[Domain 4 Design Cost-Optimized Architectures]]
 **What you need to know**
 
 You need to understand the various block, file and object storage technologies such as Amazon EBS, Instance Store, Amazon EFS, Amazon S3, and Amazon FSx and know their use cases.
@@ -454,22 +450,22 @@ The exam covers a broad set of technologies. It’s vital to ensure you are arme
 
 AWS certification exams such as the Solutions Architect Associate test your hands-on knowledge and experience with the AWS platform. It's therefore super important to have some practical experience before you sit the exam.
 
-Our AWS Certified Solutions Architect Associate Hands-On Labs course provides a practical approach to learning. Through over 28 hours of on demand video training you will learn how to architect and build solutions on Amazon Web Services. By the end of the course, you will have developed a strong experience-based skillset. This is the best way to gain hands-on skills and will give you an edge on the day of your exam. To learn more, visit https://digitalcloud.training/aws-
+Our AWS Certified Solutions Architect Associate Hands-On Labs course provides a practical approach to learning. Through over 28 hours of on demand video training you will learn how to architect and build solutions on Amazon Web Services. By the end of the course, you will have developed a strong experience-based skillset. This is the best way to gain hands-on skills and will give you an edge on the day of your exam. To learn more, visit <https://digitalcloud.training/aws->
 certified-solutions-architect-associate-hands-on-course-saa-c02/.
 
 **Assess your exam readiness with Practice Exams**
 
-The Digital Cloud Training practice questions are the closest to the actual exam and the only exam- difficulty questions on the market. If you can pass these mock exams, you’re well set to ace the real thing. To learn more, visit https://digitalcloud.training/aws-certified-solutions-architect-associate-
+The Digital Cloud Training practice questions are the closest to the actual exam and the only exam- difficulty questions on the market. If you can pass these mock exams, you’re well set to ace the real thing. To learn more, visit <https://digitalcloud.training/aws-certified-solutions-architect-associate->
 practice-tests-saa-c02.
 
 ### Reach out and Connect
 
-The AWS platform is evolving quickly, and the exam tracks these changes with a typical lag of around 6 months. We are therefore reliant on student feedback to keep track of what is appearing in the exam. If there are any topics in your exam that weren't covered in our training resources, please provide us with feedback using this form https://digitalcloud.training/student-feedback. We appreciate your feedback that will help us further improve our AWS training resources.
+The AWS platform is evolving quickly, and the exam tracks these changes with a typical lag of around 6 months. We are therefore reliant on student feedback to keep track of what is appearing in the exam. If there are any topics in your exam that weren't covered in our training resources, please provide us with feedback using this form <https://digitalcloud.training/student-feedback>. We appreciate your feedback that will help us further improve our AWS training resources.
 
 To discuss any exam-specific questions you may have, please join the discussion on Slack. Visit
-[http://digitalcloud.training/slack](http://digitalcloud.training/slack) for instructions.
+<http://digitalcloud.training/slack> for instructions.
 
-Also, remember to join our private Facebook group to ask questions and share your knowledge with the AWS community: https://www.facebook.com/groups/awscertificationqa
+Also, remember to join our private Facebook group to ask questions and share your knowledge with the AWS community: <https://www.facebook.com/groups/awscertificationqa>
 
 ```
 Best wishes for your AWS certification journey!
@@ -822,7 +818,7 @@ With Digital Cloud Training, you get access to highly experienced staff who supp
 
 **CONNECT WITH NEAL ON SOCIAL MEDIA**
 
-All Links available on https://digitalcloud.training/neal-davis
+All Links available on <https://digitalcloud.training/neal-davis>
 
 ```
 digitalcloud.training/neal-davis

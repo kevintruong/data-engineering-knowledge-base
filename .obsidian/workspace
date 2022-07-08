@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "830609101330e427",
+        "id": "f0086d4e7c6cbfde",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,8 +36,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tenancy",
-                "matchingCase": false,
+                "query": "tag:#pricing",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572
+    "width": 460
   },
   "right": {
     "id": "f2829be25feaab28",
@@ -149,22 +149,95 @@
           }
         ],
         "currentTab": 9
+      },
+      {
+        "id": "42853a9b019e9023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb5d39a20391d679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/aws-sa-training/99 Quiz/Domain 4 Design Cost-Optimized Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ad7f352beff85d16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "442ee9daa758b7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/aws-sa-training/99 Quiz/Domain 3 Design Secure Applications and Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a7f55dd2744931d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea247e55389432aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/aws-sa-training/99 Quiz/Domain 2 Design High-Performing Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1542e3e52d005fad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0997cb61f062714c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aws/aws-sa-training/99 Quiz/Domain 1 Design Resilient Architectures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 664
+    "width": 664,
+    "collapsed": true
   },
-  "active": "830609101330e427",
+  "active": "f0086d4e7c6cbfde",
   "lastOpenFiles": [
-    "aws/aws-sa-training/aws-solution-architecture-note.md",
-    "aws/aws-sa-training/img.png",
-    "aws/aws-sa-training/ENHANCED NETWORKING – ELASTIC NETWORK ADAPTER (ENA).md",
-    "aws/aws-sa-training/CONTAINER.md",
-    "aws/aws-sa-training/01 Compute Service/Elastic Compute Cloud EC2/AMAZON MACHINE IMAGES (AMI).md",
-    "aws/aws-sa-training/99 Quiz/aws-solution-architecture-practice-quiz.md",
-    "aws/aws-sa-training/06 Management Tools/quiz/Management Tools Quiz Questions.md",
-    "aws/aws-sa-training/05 Networking And Content Delivery/Networking and Content Delivery.md",
-    "aws/aws-sa-training/05 Networking And Content Delivery/quiz/Networking & Content Delivery Quiz Questions.md",
-    "aws/aws-sa-training/01 Compute Service/Elastic Block Store EBS/Elastic Block Store EBS.md"
+    "Excalidraw/Drawing 2022-07-07 15.33.17.excalidraw.md",
+    "Excalidraw/data-engineering-lifecycle.excalidraw.md",
+    "aws/aws-sa-training/99 Quiz/Quiz 2.md",
+    "aws/aws-sa-training/99 Quiz/Quiz 9.md",
+    "aws/aws-sa-training/99 Quiz/Quiz 17.md",
+    "aws/aws-sa-training/01 Compute Service/Elastic Compute Cloud EC2/EC2 Metadata and User Data.md",
+    "aws/aws-sa-training/99 Quiz/Quiz 10.md",
+    "aws/aws-sa-training/99 Quiz/Quiz 8.md",
+    "aws/aws-sa-training/99 Quiz/Quiz 5.md",
+    "aws/aws-sa-training/99 Quiz/Quiz 1.md"
   ]
 }
