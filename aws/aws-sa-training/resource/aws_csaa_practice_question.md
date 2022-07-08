@@ -1,1246 +1,8 @@
-## Welcome
+## Quiz collection
 
-Congratulations, you have just gained access to the highest quality practice tests for the AWS Solutions Architect
-Associate Certification Exam. These practice tests will prepare you thoroughly for the real exam so that you get to pass
-with flying colors.
+### Set 1
 
-There are **6 practice exams with 65 questions** each and each set of practice exams includes questions from the four
-domains of the latest **SAA-C02** exam. All **390 practice questions** were designed to reflect the difficulty of the
-real AWS exam. With these Practice Tests, you'll know when you are ready to pass your AWS Solutions Architect Associate
-exam first time! We recommend re-taking these practice tests until you consistently score 80% or higher - that’s when
-you’re ready to sit the exam and achieve a great score!
-
-If you want easy to pass questions, then these Practice Tests are not for you! Our students love these high- quality
-practice tests because they **match the level of difficulty and exam pattern** of the actual certification exam and help
-them understand the AWS concepts. Students who have recently passed the SAA-C02 exam confirm that these AWS practice
-questions are the most similar to the real exam.
-
-I hope you get great value from this resource that has been well received by our pool of over 25 0,000 students. Through
-diligent study of these questions, you will be in the perfect position to ace your AWS Certified Solutions Architect
-Associate exam first time.
-
-Wishing you all the best with your AWS Certification exam.
-
-Neal Davis
-
-**Founder of Digital Cloud Training**
-
-## Table of Contents
-
-## TABLE OF CONTENTS
-
-- Welcome
-- Table of Contents
-- Getting Started
-    - How to best use this Resource
-    - Key Training Advice
-    - Your Pathway to Success
-    - Contact, Feedback & Sharing
-    - Connect with the AWS Community
-    - Connect with Neal on Social Media
-- Set 1: Practice Questions only
-- Set 1: Practice Questions, Answers & Explanations
-- Set 2: Practice Questions only
-- Set 2: Practice Questions, Answers & Explanations
-- Set 3: Practice Questions only
-- Set 3: Practice Questions, Answers & Explanations
-- Set 4: Practice Questions only
-- Set 4: Practice Questions, Answers & Explanations
-- Set 5: Practice Questions only
-- Set 5: Practice Questions, Answers & Explanations
-- Set 6: Practice Questions only
-- Set 6: Practice Questions, Answers & Explanations
-- Conclusion
-    - Reach Out and Connect
-- Other Books and Courses by Neal Davis
-    - Courses for the AWS Certified Cloud Practitioner
-    - Courses for the AWS Certified Solutions Architect Associate
-    - Courses for the AWS Certified Developer Associate
-    - Courses for the AWS Certified SysOps Administrator Associate
-- About the Author
-
-## Getting Started
-
-### How to best use this Resource
-
-We have organized the 390 practice questions into 6 sets and each set is repeated once without answers and explanations
-and once with answers and explanations. This allows you to choose from two methods of preparation.
-
-**1. Exam simulation**
-
-To simulate the exam experience, use the “PRACTICE QUESTIONS ONLY” sets. Grab a pen and paper to record your answers for
-all 65 questions. After completing each set, check your answers using the “PRACTICE QUESTIONS, ANSWERS & EXPLANATIONS”
-section.
-
-To calculate your total score, sum up the number of correct answers and multiply them by 1.54 (weighting out of 100%) to
-get your percentage score out of 100%. For example, if you got 50 questions right, the calculation would be 50 x 1.54 =
-77%. The pass mark of the official AWS exam is 72%.
-
-**2. Training mode**
-
-To use the practice questions as a learning tool, use the “PRACTICE QUESTIONS, ANSWERS & EXPLANATIONS” sets to view the
-answers and read the in-depth explanations as you move through the questions.
-
-### Key Training Advice
-
-**AIM FOR A MINIMUM SCORE OF 80%** : Although the actual AWS exam has a pass mark of 72%, we recommend that you
-repeatedly retake our AWS practice exams until you consistently score 80% or higher. We encourage you to put in the work
-and study the explanations in detail. Once you achieve the recommended score in the practice tests - you are ready to
-sit the exam and achieve a great score!
-
-**FAMILIARIZE YOURSELF WITH THE QUESTION STYLE** : Using our AWS practice exams helps you gain experience with the test
-question format and exam approach for the latest SAA-C02 exam. You'll become intimately familiar with how the questions
-in the real AWS exam are structured and will be adequately prepared for the real AWS exam experience.
-
-**DEEPEN YOUR KNOWLEDGE** : Please note that though we match the AWS exam pattern, our AWS practice exams are NOT brain
-dumps. Don’t expect to pass the real AWS certification exam by simply memorizing answers. Instead, we encourage you to
-use these practice tests to deepen your knowledge. This is your best chance to successfully pass your exam - no matter
-what questions you are presented with.
-
-### Your Pathway to Success
-
-**Instructor-led Video Course**
-
-To get you started, we'd suggest first enrolling in the online instructor-led AWS Certified Solutions Architect
-Associate Video Course from Digital Cloud Training to familiarize yourself with the AWS platform before assessing your
-exam readiness with these practice exams.
-
-**Online practice exam simulator**
-
-If you are looking for more practice questions online, enroll in the practice exam course from Digital Cloud Training.
-Our online Practice Exams are delivered in 4 different variations:
-
-- **Exam Mode**
-
-In exam simulation mode, you complete one full-length practice exam and answer all 65 questions within the allotted
-time. You are then presented with a pass / fail score report showing your overall score and performance in each
-knowledge area to identify your strengths and weaknesses.
-
-- **Training Mode**
-
-When taking the practice exam in training mode, you will be shown the answers and explanations for every question after
-clicking “check”. Upon completion of the exam, the score report will show your overall score and performance in each
-knowledge area.
-
-- **Knowledge Reviews**
-
-Now that you have identified your strengths and weaknesses, you get to dive deep into specific areas with our knowledge
-reviews. You are presented with a series of questions focused on a specific topic. There is no time limit and you can
-view the answer to each question as you go through them.
-
-- **Final Exam Simulator**
-
-The exam simulator randomly selects 65 questions from our pool of over 500 unique questions – mimicking the real AWS
-exam environment. The practice exam has the same format, style, time limit and passing score as the real AWS exam
-
-To learn more, visit https://digitalcloud.training/aws-certified-solutions-architect-associate-hands-on-course-
-saa-c
-
-**Training Notes**
-
-Use the Training Notes for the AWS Certified Solutions Architect Associate from Digital Cloud Training to get a more
-detailed understanding of the AWS services and focus your study on the knowledge areas where you need to most. Deep dive
-into the SAA-C0 2 exam objectives with 3 00 pages of detailed facts, tables and diagrams to shortcut your time to
-success.
-
-To learn more, visit https://learn.digitalcloud.training/order_step/checkout-csaa-tn
-
-### Contact, Feedback & Sharing
-
-We want you to get great value from these training resources. If for any reason you are not 100% satisfied, please
-contact us at support@digitalcloud.training. We promise to address all questions and concerns, typically within 24hrs.
-We really want you to have a 5-star learning experience!
-
-The AWS platform is evolving quickly, and the exam tracks these changes with a typical lag of around 6 months. We are
-therefore reliant on student feedback to keep track of what is appearing in the exam. If there are any topics in your
-exam that weren't covered in our training resources, please provide us with feedback using this
-form https://digitalcloud.training/student-feedback/. We appreciate any feedback that will help us further improve our
-AWS training resources.
-
-### Connect with the AWS Community
-
-Our private Facebook group is a great place to ask questions and share knowledge and exam tips with the AWS community.
-Join the AWS Certification QA group on Facebook and share your exam feedback with the AWS
-community: https://www.facebook.com/groups/awscertificationqa
-
-To join the discussion about all things related to Amazon Web Services on Slack, visit:
-[http://digitalcloud.training/slack](http://digitalcloud.training/slack) for instructions.
-
-### Connect with Neal on Social Media
-
-To learn about the different ways of connecting with Neal, visit: https://digitalcloud.training/neal-davis
-
-digitalcloud.training/neal-davis
-
-(^)
-youtube.com/c/digitalcloudtraining facebook.com/digitalcloudtraining Twitter @nealkdavis linkedin.com/in/nealkdavis
-Instagram @digitalcloudtraining
-
-## Set 1: Practice Questions only
-
-### Question 1
-
-**An application is being created that will use Amazon EC2 instances to generate and store data. Another set of EC2
-instances will then analyze and modify the data. Storage requirements will be significant and will continue to grow over
-time. The application architects require a storage solution.**
-
-**Which actions would meet these needs?**
-
-1: Store the data in an Amazon EBS volume. Mount the EBS volume on the application instances
-
-2: Store the data in an Amazon EFS filesystem. Mount the file system on the application instances
-
-3: Store the data in Amazon S3 Glacier. Update the vault policy to allow access to the application instances
-
-4: Store the data in AWS Storage Gateway. Setup AWS Direct Connect between the Gateway appliance and the EC2 instances
-
-### Question 2
-
-**A company hosts a multiplayer game on AWS. The application uses Amazon EC2 instances in a single Availability Zone and
-users connect over Layer 4. Solutions Architect has been tasked with making the architecture highly available and also
-more cost-effective.**
-
-**How can the solutions architect best meet these requirements? (Select TWO)**
-
-1: Configure an Auto Scaling group to add or remove instances in the Availability Zone automatically
-
-2: Increase the number of instances and use smaller EC2 instance types
-
-3: Configure a Network Load Balancer in front of the EC2 instances
-
-4: Configure an Application Load Balancer in front of the EC2 instances
-
-5: Configure an Auto Scaling group to add or remove instances in multiple Availability Zones automatically
-
-### Question 3
-
-**A company delivers content to subscribers distributed globally from an application running on AWS. The application
-uses a fleet of Amazon EC2 instance in a private subnet behind an Application Load Balancer
-(ALB). Due to an update in copyright restrictions, it is necessary to block access for specific countries.**
-
-**What is the EASIEST method to meet this requirement?**
-
-1: Modify the ALB security group to deny incoming traffic from blocked countries
-
-2: Modify the security group for EC2 instances to deny incoming traffic from blocked countries
-
-3: Use Amazon CloudFront to serve the application and deny access to blocked countries
-
-4: Use a network ACL to block the IP address ranges associated with the specific countries
-
-### Question 4
-
-**A company stores important data in an Amazon S3 bucket. A solutions architect needs to ensure that data can be
-recovered in case of accidental deletion.**
-
-**Which action will accomplish this?**
-
-1: Enable Amazon S3 versioning
-
-2: Enable Amazon S3 Intelligent-Tiering
-
-3: Enable an Amazon S3 lifecycle policy
-
-4: Enable Amazon S3 cross-Region replication
-
-### Question 5
-
-**A company is migrating from an on-premises infrastructure to the AWS Cloud. One of the company's applications stores
-files on a Windows file server farm that uses Distributed File System Replication (DFSR)
-to keep data in sync. A solutions architect needs to replace the file server farm.**
-
-**Which service should the solutions architect use?**
-
-1: Amazon EFS
-
-2: Amazon FSx
-
-3: Amazon S
-
-4: AWS Storage Gateway
-
-### Question 6
-
-**A website runs on Amazon EC2 instances in an Auto Scaling group behind an Application Load Balancer (ALB)
-which serves as an origin for an Amazon CloudFront distribution. An AWS WAF is being used to protect against SQL
-injection attacks. A review of security logs revealed an external malicious IP that needs to be blocked from accessing
-the website.**
-
-**What should a solutions architect do to protect the application?**
-
-1: Modify the network ACL on the CloudFront distribution to add a deny rule for the malicious IP address
-
-2: Modify the configuration of AWS WAF to add an IP match condition to block the malicious IP address
-
-3: Modify the network ACL for the EC2 instances in the target groups behind the ALB to deny the malicious IP address
-
-4: Modify the security groups for the EC2 instances in the target groups behind the ALB to deny the malicious IP address
-
-### Question 7
-
-**An ecommerce website runs on Amazon EC2 instances behind an Application Load Balancer (ALB). The application is
-stateless and elastic and scales from a minimum of 10 instances, up to a maximum of 200 instances. For at least 80% of
-the time at least 40 instances are required.**
-
-**Which solution should be used to minimize costs?**
-
-1: Purchase Reserved Instances to cover 200 instances
-
-2: Purchase Reserved Instances to cover 80 instances. Use Spot Instances to cover the remaining instances
-
-3: Purchase On-Demand Instances to cover 40 instances. Use Spot Instances to cover the remaining instances
-
-4: Purchase Reserved Instances to cover 40 instances. Use On-Demand and Spot Instances to cover the remaining instances
-
-### Question 8
-
-**A solutions architect is creating a system that will run analytics on financial data for 4 hours a night, 5 days a
-week. The analysis is expected to run for the same duration and cannot be interrupted once it is started. The system
-will be required for a minimum of 1 year.**
-
-**Which type of Amazon EC2 instances should be used to reduce the cost of the system?**
-
-1: Spot Instances
-
-2: On-Demand Instances
-
-3: Standard Reserved Instances
-
-4: Scheduled Reserved Instances
-
-### Question 9
-
-**A solutions architect needs to backup some application log files from an online ecommerce store to Amazon S3. It is
-unknown how often the logs will be accessed or which logs will be accessed the most. The solutions architect must keep
-costs as low as possible by using the appropriate S3 storage class.**
-
-**Which S3 storage class should be implemented to meet these requirements?**
-
-1: S3 Glacier
-
-2: S3 Intelligent-Tiering
-
-3: S3 Standard-Infrequent Access (S3 Standard-IA)
-
-4: S3 One Zone-Infrequent Access (S3 One Zone-IA)
-
-### Question 10
-
-**A solutions architect is designing a new service that will use an Amazon API Gateway API on the frontend. The service
-will need to persist data in a backend database using key-value requests. Initially, the data requirements will be
-around 1 GB and future growth is unknown. Requests can range from 0 to over 800 requests per second.**
-
-**Which combination of AWS services would meet these requirements? (Select TWO)**
-
-1: AWS Fargate
-
-2: AWS Lambda
-
-3 : Amazon DynamoDB
-
-4: Amazon EC2 Auto Scaling
-
-5: Amazon RDS
-
-### Question 11
-
-**A company's application is running on Amazon EC2 instances in a single Region. In the event of a disaster, a solutions
-architect needs to ensure that the resources can also be deployed to a second Region.**
-
-**Which combination of actions should the solutions architect take to accomplish this? (Select TWO)**
-
-1: Detach a volume on an EC2 instance and copy it to an Amazon S3 bucket in the second Region
-
-2: Launch a new EC2 instance from an Amazon Machine Image (AMI) in the second Region
-
-3: Launch a new EC2 instance in the second Region and copy a volume from Amazon S3 to the new instance
-
-4: Copy an Amazon Machine Image (AMI) of an EC2 instance and specify the second Region for the destination
-
-5: Copy an Amazon Elastic Block Store (Amazon EBS) volume from Amazon S3 and launch an EC2 instance in the second Region
-using that EBS volume
-
-### Question 12
-
-**A solutions architect is creating a document submission application for a school. The application will use an Amazon
-S3 bucket for storage. The solution must prevent accidental deletion of the documents and ensure that all versions of
-the documents are available. Users must be able to upload and modify the documents.**
-
-**Which combination of actions should be taken to meet these requirements? (Select TWO)**
-
-1: Set read-only permissions on the bucket
-
-2: Enable versioning on the bucket
-
-3: Attach an IAM policy to the bucket
-
-4: Enable MFA Delete on the bucket
-
-5: Encrypt the bucket using AWS SSE-S
-
-### Question 13
-
-**A solutions architect is designing an application on AWS. The compute layer will run in parallel across EC instances.
-The compute layer should scale based on the number of jobs to be processed. The compute layer is stateless. The
-solutions architect must ensure that the application is loosely coupled and the job items are durably stored.**
-
-**Which design should the solutions architect use?**
-
-1: Create an Amazon SNS topic to send the jobs that need to be processed. Create an Amazon EC2 Auto Scaling group for
-the compute application. Set the scaling policy for the Auto Scaling group to add and remove nodes based on CPU usage
-
-2: Create an Amazon SQS queue to hold the jobs that need to be processed. Create an Amazon EC2 Auto Scaling group for
-the compute application. Set the scaling policy for the Auto Scaling group to add and remove nodes based on network
-usage
-
-3: Create an Amazon SQS queue to hold the jobs that needs to be processed. Create an Amazon EC2 Auto Scaling group for
-the compute application. Set the scaling policy for the Auto Scaling group to add and remove nodes based on the number
-of items in the SQS queue
-
-4: Create an Amazon SNS topic to send the jobs that need to be processed. Create an Amazon EC2 Auto Scaling group for
-the compute application. Set the scaling policy for the Auto Scaling group to add and remove nodes based on the number
-of messages published to the SNS topic
-
-### Question 14
-
-**A team are planning to run analytics jobs on log files each day and require a storage solution. The size and number of
-logs is unknown and data will persist for 24 hours only.**
-
-**What is the MOST cost-effective solution?**
-
-1: Amazon S3 Glacier Deep Archive
-
-2: Amazon S3 Standard
-
-3: Amazon S3 Intelligent-Tiering
-
-4: Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
-
-### Question 15
-
-**A company runs a web application that serves weather updates. The application runs on a fleet of Amazon EC2 instances
-in a Multi-AZ Auto scaling group behind an Application Load Balancer (ALB). The instances store data in an Amazon Aurora
-database. A solutions architect needs to make the application more resilient to sporadic increases in request rates.**
-
-**Which architecture should the solutions architect implement? (Select TWO)**
-
-1: Add and AWS WAF in front of the ALB
-
-2: Add Amazon Aurora Replicas
-
-3: Add an AWS Transit Gateway to the Availability Zones
-
-4: Add an AWS Global Accelerator endpoint
-
-5: Add an Amazon CloudFront distribution in front of the ALB
-
-### Question 16
-
-**An Amazon VPC contains several Amazon EC2 instances. The instances need to make API calls to Amazon DynamoDB. A
-solutions architect needs to ensure that the API calls do not traverse the internet.**
-
-**How can this be accomplished? (Select TWO)**
-
-1: Create a route table entry for the endpoint
-
-2: Create a gateway endpoint for DynamoDB
-
-3: Create a new DynamoDB table that uses the endpoint
-
-4: Create an ENI for the endpoint in each of the subnets of the VPC
-
-5: Create a VPC peering connection between the VPC and DynamoDB
-
-### Question 17
-
-**A solutions architect is designing the infrastructure to run an application on Amazon EC2 instances. The application
-requires high availability and must dynamically scale based on demand to be cost efficient.**
-
-**What should the solutions architect do to meet these requirements?**
-
-1: Configure an Application Load Balancer in front of an Auto Scaling group to deploy instances to multiple Regions
-
-2: Configure an Amazon CloudFront distribution in front of an Auto Scaling group to deploy instances to multiple Regions
-
-3: Configure an Application Load Balancer in front of an Auto Scaling group to deploy instances to multiple Availability
-Zones
-
-4: Configure an Amazon API Gateway API in front of an Auto Scaling group to deploy instances to multiple Availability
-Zones
-
-### Question 18
-
-**A retail company with many stores and warehouses is implementing IoT sensors to gather monitoring data from devices in
-each location. The data will be sent to AWS in real time. A solutions architect must provide a solution for ensuring
-events are received in order for each device and ensure that data is saved for future processing.**
-
-**Which solution would be MOST efficient?**
-
-1: Use Amazon Kinesis Data Streams for real-time events with a partition key for each device. Use Amazon Kinesis Data
-Firehose to save data to Amazon S
-
-2: Use Amazon Kinesis Data Streams for real-time events with a shard for each device. Use Amazon Kinesis Data Firehose
-to save data to Amazon EBS
-
-3: Use an Amazon SQS FIFO queue for real-time events with one queue for each device. Trigger an AWS Lambda function for
-the SQS queue to save data to Amazon EFS
-
-4: Use an Amazon SQS standard queue for real-time events with one queue for each device. Trigger an AWS Lambda function
-from the SQS queue to save data to Amazon S
-
-### Question 19
-
-**An organization want to share regular updates about their charitable work using static webpages. The pages are
-expected to generate a large amount of views from around the world. The files are stored in an Amazon S3 bucket. A
-solutions architect has been asked to design an efficient and effective solution.**
-
-**Which action should the solutions architect take to accomplish this?**
-
-1: Generate presigned URLs for the files
-
-2: Use cross-Region replication to all Regions
-
-3: Use the geoproximity feature of Amazon Route 53
-
-4: Use Amazon CloudFront with the S3 bucket as its origin
-
-### Question 20
-
-**An insurance company has a web application that serves users in the United Kingdom and Australia. The application
-includes a database tier using a MySQL database hosted in eu-west-2. The web tier runs from eu- west-2 and
-ap-southeast-2. Amazon Route 53 geoproximity routing is used to direct users to the closest web tier. It has been noted
-that Australian users receive slow response times to queries.**
-
-**Which changes should be made to the database tier to improve performance?**
-
-1: Migrate the database to Amazon RDS for MySQL. Configure Multi-AZ in the Australian Region
-
-2: Migrate the database to Amazon DynamoDB. Use DynamoDB global tables to enable replication to additional Regions
-
-3: Deploy MySQL instances in each Region. Deploy an Application Load Balancer in front of MySQL to reduce the load on
-the primary instance
-
-4: Migrate the database to an Amazon Aurora global database in MySQL compatibility mode. Configure read replicas in
-ap-southeast- 2
-
-### Question 21
-
-**A web application runs in public and private subnets. The application architecture consists of a web tier and database
-tier running on Amazon EC2 instances. Both tiers run in a single Availability Zone (AZ).**
-
-**Which combination of steps should a solutions architect take to provide high availability for this architecture? (
-Select TWO)**
-
-1: Create new public and private subnets in the same AZ for high availability
-
-2: Create an Amazon EC2 Auto Scaling group and Application Load Balancer (ALB) spanning multiple AZs
-
-3: Add the existing web application instances to an Auto Scaling group behind an Application Load Balancer
-(ALB)
-
-4: Create new public and private subnets in a new AZ. Create a database using Amazon EC2 in one AZ
-
-5: Create new public and private subnets in the same VPC, each in a new AZ. Migrate the database to an Amazon RDS
-multi-AZ deployment
-
-### Question 22
-
-**An application running on an Amazon ECS container instance using the EC2 launch type needs permissions to write data
-to Amazon DynamoDB.**
-
-**How can you assign these permissions only to the specific ECS task that is running the application?**
-
-1: Create an IAM policy with permissions to DynamoDB and attach it to the container instance
-
-2: Create an IAM policy with permissions to DynamoDB and assign It to a task using the _taskRoleArn_ parameter
-
-3: Use a security group to allow outbound connections to DynamoDB and assign it to the container instance
-
-4: Modify the _AmazonECSTaskExecutionRolePolicy_ policy to add permissions for DynamoDB
-
-### Question 23
-
-**An organization has a large amount of data on Windows (SMB) file shares in their on-premises data center. The
-organization would like to move data into Amazon S3. They would like to automate the migration of data over their AWS
-Direct Connect link.**
-
-**Which AWS service can assist them?**
-
-1: AWS Database Migration Service (DMS)
-
-2: AWS CloudFormation
-
-3: AWS Snowball
-
-4: AWS DataSync
-
-### Question 24
-
-**The database tier of a web application is running on a Windows server on-premises. The database is a Microsoft SQL
-Server database. The application owner would like to migrate the database to an Amazon RDS instance.**
-
-**How can the migration be executed with minimal administrative effort and downtime?**
-
-1: Use the AWS Server Migration Service (SMS) to migrate the server to Amazon EC2.Use AWS Database Migration Service (
-DMS) to migrate the database to RDS
-
-2: Use the AWS Database Migration Service (DMS) to directly migrate the database to RDS
-
-3: Use AWS DataSync to migrate the data from the database to Amazon S3. Use AWS Database Migration Service (DMS) to
-migrate the database to RDS
-
-4: Use the AWS Database Migration Service (DMS) to directly migrate the database to RDS. Use the Schema Conversion
-Tool (SCT) to enable conversion from Microsoft SQL Server to Amazon RDS
-
-### Question 25
-
-**A new application will run across multiple Amazon ECS tasks. Front-end application logic will process data and then
-pass that data to a back-end ECS task to perform further processing and write the data to a datastore. The Architect
-would like to reduce-interdependencies so failures do no impact other components.**
-
-**Which solution should the Architect use?**
-
-1: Create an Amazon Kinesis Firehose delivery stream and configure the front-end to add data to the stream and the
-back-end to read data from the stream
-
-2: Create an Amazon Kinesis Firehose delivery stream that delivers data to an Amazon S3 bucket, configure the front-end
-to write data to the stream and the back-end to read data from Amazon S
-
-3: Create an Amazon SQS queue that pushes messages to the back-end. Configure the front-end to add messages to the queue
-
-4: Create an Amazon SQS queue and configure the front-end to add messages to the queue and the back-end to poll the
-queue for messages
-
-### Question 26
-
-**An application receives images uploaded by customers and stores them on Amazon S3. An AWS Lambda function then
-processes the images to add graphical elements. The processed images need to be available for users to download for 30
-days, after which time they can be deleted. Processed images can be easily recreated from original images. The Original
-images need to be immediately available for 30 days and be accessible within 24 hours for another 90 days.**
-
-**Which combination of Amazon S3 storage classes is most cost-effective for the original and processed images? (Select
-TWO)**
-
-1: Store the original images in STANDARD for 30 days, transition to GLACIER for 90 days, then expire the data
-
-2: Store the original images in STANDARD_IA for 30 days and then transition to DEEP_ARCHIVE
-
-3: Store the processed images in ONEZONE_IA and then expire the data after 30 days
-
-4: Store the processed images in STANDARD and then transition to GLACIER after 30 days
-
-5: Store the original images in STANDARD for 30 days, transition to DEEP_ARCHIVE for 90 days, then expire the data
-
-### Question 27
-
-**Amazon EC2 instances in a development environment run between 9am and 5pm Monday-Friday. Production instances run
-24/7. Which pricing models should be used? (Select TWO)**
-
-1: Use Spot instances for the development environment
-
-2: Use Reserved instances for the development environment
-
-3: Use scheduled reserved instances for the development environment
-
-4: Use Reserved instances for the production environment
-
-5: Use On-Demand instances for the production environment
-
-### Question 28
-
-**An application running on Amazon EC2 needs to asynchronously invoke an AWS Lambda function to perform data processing.
-The services should be decoupled.**
-
-**Which service can be used to decouple the compute services?**
-
-1: Amazon SQS
-
-2: Amazon SNS
-
-3: Amazon MQ
-
-4: AWS Step Functions
-
-### Question 29
-
-**A manual script that runs a few times a week and completes within 10 minutes needs to be replaced with an automated
-solution. Which of the following options should an Architect use?**
-
-1: Use a cron job on an Amazon EC2 instance
-
-2: Use AWS Batch
-
-3: Use AWS Lambda
-
-4: Use AWS CloudFormation
-
-### Question 30
-
-**A company wishes to restrict access to their Amazon DynamoDB table to specific, private source IP addresses from their
-VPC. What should be done to secure access to the table?**
-
-1: Create an interface VPC endpoint in the VPC with an Elastic Network Interface (ENI)
-
-2: Create a gateway VPC endpoint and add an entry to the route table
-
-3: Create the Amazon DynamoDB table in the VPC
-
-4: Create an AWS VPN connection to the Amazon DynamoDB endpoint
-
-### Question 31
-
-**An AWS Organization has an OU with multiple member accounts in it. The company needs to restrict the ability to launch
-only specific Amazon EC2 instance types. How can this policy be applied across the accounts with the least effort?**
-
-1: Create an SCP with an allow rule that allows launching the specific instance types
-
-2: Create an SCP with a deny rule that denies all but the specific instance types
-
-3: Create an IAM policy to deny launching all but the specific instance types
-
-4: Use AWS Resource Access Manager to control which launch types can be used
-
-### Question 32
-
-**A new relational database is being deployed on AWS. The performance requirements are unknown. Which database service
-does not require you to make capacity decisions upfront?**
-
-1: Amazon DynamoDB
-
-2: Amazon Aurora Serverless
-
-3: Amazon ElastiCache
-
-4: Amazon RDS
-
-### Question 33
-
-**An Amazon RDS Read Replica is being deployed in a separate region. The master database is not encrypted but all data
-in the new region must be encrypted. How can this be achieved?**
-
-1: Enable encryption using Key Management Service (KMS) when creating the cross-region Read Replica
-
-2: Encrypt a snapshot from the master DB instance, create an encrypted cross-region Read Replica from the snapshot
-
-3: Enabled encryption on the master DB instance, then create an encrypted cross-region Read Replica
-
-4: Encrypt a snapshot from the master DB instance, create a new encrypted master DB instance, and then create an
-encrypted cross-region Read Replica
-
-### Question 34
-
-**A legacy tightly-coupled High Performance Computing (HPC) application will be migrated to AWS. Which network adapter
-type should be used?**
-
-1: Elastic Network Interface (ENI)
-
-2: Elastic Network Adapter (ENA)
-
-3: Elastic Fabric Adapter (EFA)
-
-4: Elastic IP Address
-
-### Question 35
-
-**A new application is to be published in multiple regions around the world. The Architect needs to ensure only 2 IP
-addresses need to be whitelisted. The solution should intelligently route traffic for lowest latency and provide fast
-regional failover.**
-
-**How can this be achieved?**
-
-1: Launch EC2 instances into multiple regions behind an NLB with a static IP address
-
-2: Launch EC2 instances into multiple regions behind an ALB and use a Route 53 failover routing policy
-
-3: Launch EC2 instances into multiple regions behind an NLB and use AWS Global Accelerator
-
-4: Launch EC2 instances into multiple regions behind an ALB and use Amazon CloudFront with a pair of static IP addresses
-
-### Question 36
-
-**A company is deploying a big data and analytics workload. The analytics will be run from a fleet of thousands of EC2
-instances across multiple AZs. Data needs to be stored on a shared storage layer that can be mounted and accessed
-concurrently by all EC2 instances. Latency is not a concern however extremely high throughput is required.**
-
-**What storage layer would be most suitable for this requirement?**
-
-1: Amazon EFS in General Purpose mode
-
-2: Amazon EFS in Max I/O mode
-
-3: Amazon EBS PIOPS
-
-4: Amazon S
-
-### Question 37
-
-**A Solutions Architect is designing a highly-scalable system to track records. Records must remain available for
-immediate download for three months, and then the records must be deleted.**
-
-**What’s the most appropriate decision for this use case?**
-
-1: Store the files on Amazon EBS, and create a lifecycle policy to remove the files after three months
-
-2: Store the files on Amazon Glacier, and create a lifecycle policy to remove the files after three months
-
-3: Store the files on Amazon S3, and create a lifecycle policy to remove the files after three months
-
-4: Store the files on Amazon EFS, and create a lifecycle policy to remove the files after three months
-
-### Question 38
-
-**You are a Solutions Architect at Digital Cloud Training. A large multi-national client has requested a design for a
-multi-region, multi-master database. The client has requested that the database be designed for fast, massively scaled
-applications for a global user base. The database should be a fully managed service including the replication.**
-
-**Which AWS service can deliver these requirements?**
-
-1: DynamoDB with Global Tables and Multi-Region Replication
-
-2: EC2 instances with EBS replication
-
-3: S3 with Cross Region Replication
-
-4: RDS with Multi-AZ
-
-### Question 39
-
-**Your company is starting to use AWS to host new web-based applications. A new two-tier application will be deployed
-that provides customers with access to data records. It is important that the application is highly responsive and
-retrieval times are optimized. You’re looking for a persistent data store that can provide the required performance.
-From the list below what AWS service would you recommend for this requirement?**
-
-1: RDS in a multi-AZ configuration
-
-2: ElastiCache with the Redis engine
-
-3: Kinesis Data Streams
-
-4: ElastiCache with the Memcached engine
-
-### Question 40
-
-**A Linux instance running in your VPC requires some configuration changes to be implemented locally and you need to run
-some commands. Which of the following can be used to securely access the instance?**
-
-1: SSL/TLS certificate
-
-2: Public key
-
-3: Key Pairs
-
-4: EC2 password
-
-### Question 41
-
-**A manufacturing company captures data from machines running at customer sites. Currently, thousands of machines send
-data every 5 minutes, and this is expected to grow to hundreds of thousands of machines in the near future. The data is
-logged with the intent to be analyzed in the future as needed.**
-
-**What is the SIMPLEST method to store this streaming data at scale?**
-
-1: Create an Amazon EC2 instance farm behind an ELB to store the data in Amazon EBS Cold HDD volumes
-
-2: Create an Amazon SQS queue, and have the machines write to the queue
-
-3: Create an Amazon Kinesis Firehose delivery stream to store the data in Amazon S
-
-4: Create an Auto Scaling Group of Amazon EC2 instances behind ELBs to write data into Amazon RDS
-
-### Question 42
-
-**There is a temporary need to share some video files that are stored in a private S3 bucket. The consumers do not have
-AWS accounts and you need to ensure that only authorized consumers can access the files. What is the best way to enable
-this access?**
-
-1: Enable public read access for the S3 bucket
-
-2: Use CloudFront to distribute the files using authorization hash tags
-
-3: Generate a pre-signed URL and distribute it to the consumers
-
-4: Configure an allow rule in the Security Group for the IP addresses of the consumers
-
-**4 3. Question**
-
-**A Solutions Architect needs to improve performance for a web application running on EC2 instances launched by an Auto
-Scaling group. The instances run behind an ELB Application Load Balancer. During heavy use periods the ASG doubles in
-size and analysis has shown that static content stored on the EC instances is being requested by users in a specific
-geographic location.**
-
-**How can the Solutions Architect reduce the need to scale and improve the application performance?**
-
-1: Store the contents on Amazon EFS instead of the EC2 root volume
-
-2: Implement Amazon Redshift to create a repository of the content closer to the users
-
-3: Create an Amazon CloudFront distribution for the site and redirect user traffic to the distribution
-
-4: Re-deploy the application in a new VPC that is closer to the users making the requests
-
-### Question 44
-
-A company needs to store data for 5 years. The company will need to have immediate and highly available access to the
-data at any point in time but will not require frequent access.
-
-Which lifecycle action should be taken to meet the requirements while reducing costs?
-
-1: Transition objects from Amazon S3 Standard to the GLACIER storage class
-
-2: Transition objects to expire after 5 years
-
-3: Transition objects from Amazon S3 Standard to Amazon S3 Standard-Infrequent Access (S3 Standard-IA)
-
-4: Transition objects from Amazon S3 Standard to Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
-
-### Question 45
-
-**A retail organization is deploying a new application that will read and write data to a database. The company wants to
-deploy the application in three different AWS Regions in an active-active configuration. The databases need to replicate
-to keep information in sync.**
-
-**Which solution best meets these requirements?**
-
-1: AWS Database Migration Service with change data capture
-
-2: Amazon DynamoDB with global tables
-
-3: Amazon Athena with Amazon S3 cross-region replication
-
-4: Amazon Aurora Global Database
-
-### Question 46
-
-**You are a Solutions Architect at Digital Cloud Training. One of your clients runs an application that writes data to a
-DynamoDB table. The client has asked how they can implement a function that runs code in response to item level changes
-that take place in the DynamoDB table. What would you suggest to the client?**
-
-1: Enable server access logging and create an event source mapping between AWS Lambda and the S3 bucket to which the
-logs are written
-
-2: Enable DynamoDB Streams and create an event source mapping between AWS Lambda and the relevant stream
-
-3: Create a local secondary index that records item level changes and write some custom code that responds to updates to
-the index
-
-4: Use Kinesis Data Streams and configure DynamoDB as a producer
-
-### Question 47
-
-**A recent security audit uncovered some poor deployment and configuration practices within your VPC. You need to ensure
-that applications are deployed in secure configurations.**
-
-**How can this be achieved in the most operationally efficient manner?**
-
-1: Remove the ability for staff to deploy applications
-
-2: Use CloudFormation with securely configured templates
-
-3: Manually check all application configurations before deployment
-
-4: Use AWS Inspector to apply secure configurations
-
-### Question 48
-
-**A Solutions Architect needs to transform data that is being uploaded into S3. The uploads happen sporadically and the
-transformation should be triggered by an event. The transformed data should then be loaded into a target data store.**
-
-**What services would be used to deliver this solution in the MOST cost-effective manner? (Select TWO)**
-
-1: Configure a CloudWatch alarm to send a notification to CloudFormation when data is uploaded
-
-2: Configure S3 event notifications to trigger a Lambda function when data is uploaded and use the Lambda function to
-trigger the ETL job
-
-3: Configure CloudFormation to provision a Kinesis data stream to transform the data and load it into S
-
-4: Use AWS Glue to extract, transform and load the data into the target data store
-
-5: Configure CloudFormation to provision AWS Data Pipeline to transform the data
-
-**4 9. Question**
-
-**An application you manage uses Auto Scaling and a fleet of EC2 instances. You recently noticed that Auto Scaling is
-scaling the number of instances up and down multiple times in the same hour. You need to implement a remediation to
-reduce the amount of scaling events. The remediation must be cost-effective and preserve elasticity. What design changes
-would you implement? (Select TWO)**
-
-1: Modify the CloudWatch alarm period that triggers your Auto Scaling scale down policy
-
-2: Modify the Auto Scaling group termination policy to terminate the newest instance first
-
-3: Modify the Auto Scaling group termination policy to terminate the oldest instance first
-
-4: Modify the Auto Scaling group cool-down timers
-
-5: Modify the Auto Scaling policy to use scheduled scaling actions
-
-### Question 50
-
-**An application runs on two EC2 instances in private subnets split between two AZs. The application needs to connect to
-a CRM SaaS application running on the Internet. The vendor of the SaaS application restricts authentication to a
-whitelist of source IP addresses and only 2 IP addresses can be configured per customer.**
-
-**What is the most appropriate and cost-effective solution to enable authentication to the SaaS application?**
-
-1: Use a Network Load Balancer and configure a static IP for each AZ
-
-2: Use multiple Internet-facing Application Load Balancers with Elastic IP addresses
-
-3: Configure redundant Internet Gateways and update the routing tables for each subnet
-
-4: Configure a NAT Gateway for each AZ with an Elastic IP address
-
-### Question 51
-
-**An application tier of a multi-tier web application currently hosts two web services on the same set of instances. The
-web services each listen for traffic on different ports. Which AWS service should a Solutions Architect use to route
-traffic to the service based on the incoming request path?**
-
-1: Amazon Route 53
-
-2: Amazon CloudFront
-
-3: Application Load Balancer (ALB)
-
-4: Classic Load Balancer (CLB)
-
-### Question 52
-
-**The data scientists in your company are looking for a service that can process and analyze real-time, streaming data.
-They would like to use standard SQL queries to query the streaming data.**
-
-**Which combination of AWS services would deliver these requirements?**
-
-1: DynamoDB and EMR
-
-2: Kinesis Data Streams and Kinesis Data Analytics
-
-3: ElastiCache and EMR
-
-4: Kinesis Data Streams and Kinesis Firehose
-
-### Question 53
-
-**An e-commerce application is hosted in AWS. The last time a new product was launched, the application experienced a
-performance issue due to an enormous spike in traffic. Management decided that capacity must be doubled this week after
-the product is launched.**
-
-**What is the MOST efficient way for management to ensure that capacity requirements are met?**
-
-1: Add a Step Scaling policy
-
-2: Add a Simple Scaling policy
-
-3: Add a Scheduled Scaling action
-
-4: Add Amazon EC2 Spot instances
-
-### Question 54
-
-**You need to configure an application to retain information about each user session and have decided to implement a
-layer within the application architecture to store this information.**
-
-**Which of the options below could be used? (Select TWO)**
-
-1: Sticky sessions on an Elastic Load Balancer (ELB)
-
-2: A block storage service such as Elastic Block Store (EBS)
-
-3: A workflow service such as Amazon Simple Workflow Service (SWF)
-
-4: A relational data store such as Amazon RDS
-
-5: A key/value store such as ElastiCache Redis
-
-### Question 55
-
-**An application running on an external website is attempting to initiate a request to your company’s website using API
-calls to Amazon API Gateway. A problem has been reported in which the requests are failing with an error that includes
-the following text:**
-
-**“Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource”**
-
-**You have been asked to resolve the problem, what is the most likely solution?**
-
-1: The IAM policy does not allow access to the API
-
-2: The ACL on the API needs to be updated
-
-3: The request is not secured with SSL/TLS
-
-4: Enable CORS on the APIs resources using the selected methods under the API Gateway
-
-### Question 56
-
-**A solutions Architect is designing a new workload where an AWS Lambda function will access an Amazon DynamoDB table.**
-
-**What is the MOST secure means of granting the Lambda function access to the DynamoDB table?**
-
-1: Create an identity and access management (IAM) role with the necessary permissions to access the DynamoDB table, and
-assign the role to the Lambda function
-
-2: Create a DynamoDB username and password and give them to the Developer to use in the Lambda function
-
-3: Create an identity and access management (IAM) user and create access and secret keys for the user. Give the user the
-necessary permissions to access the DynamoDB table. Have the Developer use these keys to access the resources
-
-4: Create an identity and access management (IAM) role allowing access from AWS Lambda and assign the role to the
-DynamoDB table
-
-### Question 57
-
-**You are a Solutions Architect at a media company and you need to build an application stack that can receive customer
-comments from sporting events. The application is expected to receive significant load that could scale to millions of
-messages within a short space of time following high-profile matches. As you are unsure of the load required for the
-database layer what is the most cost-effective way to ensure that the messages are not dropped?**
-
-1: Use DynamoDB and provision enough write capacity to handle the highest expected load
-
-2: Write the data to an S3 bucket, configure RDS to poll the bucket for new messages
-
-3: Create an SQS queue and modify the application to write to the SQS queue. Launch another application instance the
-polls the queue and writes messages to the database
-
-4: Use RDS Auto Scaling for the database layer which will automatically scale as required
-
-### Question 58
-
-**An organization in the health industry needs to create an application that will transmit protected health data to
-thousands of service consumers in different AWS accounts. The application servers run on EC instances in private VPC
-subnets. The routing for the application must be fault tolerant.**
-
-**What should be done to meet these requirements?**
-
-1: Create a virtual private gateway connection between each pair of service provider VPCs and service consumer VPCs
-
-2: Create a proxy server in the service provider VPC to route requests from service consumers to the application servers
-
-3: Create a VPC endpoint service and grant permissions to specific service consumers to create a connection
-
-4: Create an internal Application Load Balancer in the service provider VPC and put application servers behind it
-
-### Question 59
-
-**A Solutions Architect is developing an encryption solution. The solution requires that data keys are encrypted using
-envelope protection before they are written to disk.**
-
-**Which solution option can assist with this requirement?**
-
-1: API Gateway with STS
-
-2: IAM Access Key
-
-3: AWS Certificate Manager
-
-4: AWS KMS API
-
-### Question 60
-
-**A research company is developing a data lake solution in Amazon S3 to analyze huge datasets. The solution makes
-infrequent SQL queries only. In addition, the company wants to minimize infrastructure costs.**
-
-**Which AWS service should be used to meet these requirements?**
-
-1: Amazon Aurora
-
-2: Amazon RDS for MySQL
-
-3: Amazon Athena
-
-4: Amazon Redshift Spectrum
-
-### Question 61
-
-**Your company shares some HR videos stored in an Amazon S3 bucket via CloudFront. You need to restrict access to the
-private content so users coming from specific IP addresses can access the videos and ensure direct access via the Amazon
-S3 bucket is not possible.**
-
-**How can this be achieved?**
-
-1: Configure CloudFront to require users to access the files using signed cookies, create an origin access identity (
-OAI) and instruct users to login with the OAI
-
-2: Configure CloudFront to require users to access the files using a signed URL, create an origin access identity
-(OAI) and restrict access to the files in the Amazon S3 bucket to the OAI
-
-3: Configure CloudFront to require users to access the files using signed cookies, and move the files to an encrypted
-EBS volume
-
-4: Configure CloudFront to require users to access the files using a signed URL, and configure the S3 bucket as a
-website endpoint
-
-### Question 62
-
-**The company you work for is currently transitioning their infrastructure and applications into the AWS cloud. You are
-planning to deploy an Elastic Load Balancer (ELB) that distributes traffic for a web application running on EC2
-instances. You still have some application servers running on-premise and you would like to distribute application
-traffic across both your AWS and on-premises resources.**
-
-**How can this be achieved?**
-
-1: Provision a Direct Connect connection between your on-premises location and AWS and create a target group on an ALB
-to use IP based targets for both your EC2 instances and on-premises servers
-
-2: Provision a Direct Connect connection between your on-premises location and AWS and create a target group on an ALB
-to use Instance ID based targets for both your EC2 instances and on-premises servers
-
-3: Provision an IPSec VPN connection between your on-premises location and AWS and create a CLB that uses cross-zone
-load balancing to distributed traffic across EC2 instances and on-premises servers
-
-4: This cannot be done, ELBs are an AWS service and can only distribute traffic within the AWS cloud
-
-### Question 63
-
-**An application you are designing receives and processes files. The files are typically around 4GB in size and the
-application extracts metadata from the files which typically takes a few seconds for each file. The pattern of updates
-is highly dynamic with times of little activity and then multiple uploads within a short period of time.**
-
-**What architecture will address this workload the most cost efficiently?**
-
-1: Use a Kinesis data stream to store the file, and use Lambda for processing
-
-2: Store the file in an EBS volume which can then be accessed by another EC2 instance for processing
-
-3: Upload files into an S3 bucket, and use the Amazon S3 event notification to invoke a Lambda function to extract the
-metadata
-
-4: Place the files in an SQS queue, and use a fleet of EC2 instances to extract the metadata
-
-### Question 64
-
-**The website for a new application received around 50,000 requests each second and the company wants to use multiple
-applications to analyze the navigation patterns of the users on their website so they can personalize the user
-experience.**
-
-**What can a Solutions Architect use to collect page clicks for the website and process them sequentially for each
-user?**
-
-1: Amazon Kinesis Data Streams
-
-2: Amazon SQS FIFO queue
-
-3: AWS CloudTrail trail
-
-4: Amazon SQS standard queue
-
-### Question 65
-
-**You are building an application that will collect information about user behavior. The application will rapidly ingest
-large amounts of dynamic data and requires very low latency. The database must be scalable without incurring downtime.
-Which database would you recommend for this scenario?**
-
-1: RDS with MySQL
-
-2: DynamoDB
-
-3: RedShift
-
-4: RDS with Microsoft SQL
-
-## Set 1: Practice Questions, Answers & Explanations
-
-### Question 1
+#### Question  1
 
 **An application is being created that will use Amazon EC2 instances to generate and store data. Another set of EC2
 instances will then analyze and modify the data. Storage requirements will be significant and will continue to grow over
@@ -1340,7 +102,7 @@ https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 2
+#### Question  2
 
 **A company hosts a multiplayer game on AWS. The application uses Amazon EC2 instances in a single Availability Zone and
 users connect over Layer 4. Solutions Architect has been tasked with making the architecture highly available and also
@@ -1395,7 +157,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 3
+#### Question  3
 
 **A company delivers content to subscribers distributed globally from an application running on AWS. The application
 uses a fleet of Amazon EC2 instance in a private subnet behind an Application Load Balancer
@@ -1447,7 +209,7 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/georestrictio
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 4
+#### Question  4
 
 **A company stores important data in an Amazon S3 bucket. A solutions architect needs to ensure that data can be
 recovered in case of accidental deletion.**
@@ -1489,7 +251,7 @@ https://d0.awsstatic.com/whitepapers/protecting-s3-against-object-deletion.pdf
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 5
+#### Question  5
 
 **A company is migrating from an on-premises infrastructure to the AWS Cloud. One of the company's applications stores
 files on a Windows file server farm that uses Distributed File System Replication (DFSR)
@@ -1525,10 +287,9 @@ and Multi-AZ deployments as can be seen in the feature comparison table below.
 - INCORRECT "Amazon S3" is incorrect as this is not a suitable replacement for a Microsoft filesystem.
 
 - INCORRECT "AWS Storage Gateway" is incorrect as this service is primarily used for connecting on-premises storage to
-  cloud storage. It consists of a software device installed on-premises and can be used with SMB
-
-shares but it actually stores the data on S3. It is also used for migration. However, in this case the company need to
-replace the file server farm and Amazon FSx is the best choice for this job.
+  cloud storage. It consists of a software device installed on-premises and can be used with SMB shares but it actually
+  stores the data on S3. It is also used for migration. However, in this case the company need to replace the file
+  server farm and Amazon FSx is the best choice for this job.
 
 **References:**
 
@@ -1538,7 +299,7 @@ https://docs.aws.amazon.com/fsx/latest/WindowsGuide/high-availability-multiAZ.ht
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/
 
-### Question 6
+#### Question  6
 
 **A website runs on Amazon EC2 instances in an Auto Scaling group behind an Application Load Balancer (ALB)
 which serves as an origin for an Amazon CloudFront distribution. An AWS WAF is being used to protect against SQL
@@ -1592,7 +353,7 @@ https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statement-type-ip
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-waf-and-shield/
 
-### Question 7
+#### Question  7
 
 **An ecommerce website runs on Amazon EC2 instances behind an Application Load Balancer (ALB). The application is
 stateless and elastic and scales from a minimum of 10 instances, up to a maximum of 200 instances. For at least 80% of
@@ -1639,7 +400,7 @@ https://aws.amazon.com/ec2/pricing/reserved-instances/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 8
+#### Question  8
 
 **A solutions architect is creating a system that will run analytics on financial data for 4 hours a night, 5 days a
 week. The analysis is expected to run for the same duration and cannot be interrupted once it is started. The system
@@ -1686,7 +447,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-scheduled-instances.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 9
+#### Question  9
 
 **A solutions architect needs to backup some application log files from an online ecommerce store to Amazon S3. It is
 unknown how often the logs will be accessed or which logs will be accessed the most. The solutions architect must keep
@@ -1732,7 +493,7 @@ https://aws.amazon.com/s3/storage-classes/#Unknown_or_changing_access
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 10
+#### Question  10
 
 **A solutions architect is designing a new service that will use an Amazon API Gateway API on the frontend. The service
 will need to persist data in a backend database using key-value requests. Initially, the data requirements will be
@@ -1784,7 +545,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 11
+#### Question  11
 
 **A company's application is running on Amazon EC2 instances in a single Region. In the event of a disaster, a solutions
 architect needs to ensure that the resources can also be deployed to a second Region.**
@@ -1837,7 +598,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/CopyingAMIs.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 12
+#### Question  12
 
 **A solutions architect is creating a document submission application for a school. The application will use an Amazon
 S3 bucket for storage. The solution must prevent accidental deletion of the documents and ensure that all versions of
@@ -1889,7 +650,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingMFADelete.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 13
+#### Question  13
 
 **A solutions architect is designing an application on AWS. The compute layer will run in parallel across EC2 instances.
 The compute layer should scale based on the number of jobs to be processed. The compute layer is stateless. The
@@ -1964,7 +725,7 @@ scaling/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 14
+#### Question  14
 
 **A team are planning to run analytics jobs on log files each day and require a storage solution. The size and number of
 logs is unknown and data will persist for 24 hours only.**
@@ -2007,7 +768,7 @@ https://aws.amazon.com/s3/storage-classes/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 15
+#### Question  15
 
 **A company runs a web application that serves weather updates. The application runs on a fleet of Amazon EC2 instances
 in a Multi-AZ Auto scaling group behind an Application Load Balancer (ALB). The instances**
@@ -2062,7 +823,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 16
+#### Question  16
 
 **An Amazon VPC contains several Amazon EC2 instances. The instances need to make API calls to Amazon DynamoDB. A
 solutions architect needs to ensure that the API calls do not traverse the internet.**
@@ -2109,7 +870,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gateway.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 17
+#### Question  17
 
 **A solutions architect is designing the infrastructure to run an application on Amazon EC2 instances. The application
 requires high availability and must dynamically scale based on demand to be cost efficient.**
@@ -2201,7 +962,7 @@ scaling/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 18
+#### Question  18
 
 **A retail company with many stores and warehouses is implementing IoT sensors to gather monitoring data from devices in
 each location. The data will be sent to AWS in real time. A solutions architect must provide a solution for ensuring
@@ -2259,7 +1020,7 @@ https://docs.aws.amazon.com/streams/latest/dev/key-concepts.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
 
-### Question 19
+#### Question  19
 
 **An organization want to share regular updates about their charitable work using static webpages. The pages are
 expected to generate a large amount of views from around the world. The files are stored in an Amazon S3 bucket. A
@@ -2345,7 +1106,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-w
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 20
+#### Question  20
 
 **An insurance company has a web application that serves users in the United Kingdom and Australia. The application
 includes a database tier using a MySQL database hosted in eu-west-2. The web tier runs from eu- west-2 and
@@ -2399,7 +1160,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-datab
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
 
-### Question 21
+#### Question  21
 
 **A web application runs in public and private subnets. The application architecture consists of a web tier and database
 tier running on Amazon EC2 instances. Both tiers run in a single Availability Zone (AZ).**
@@ -2524,7 +1285,7 @@ scaling/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 22
+#### Question  22
 
 **An application running on an Amazon ECS container instance using the EC2 launch type needs permissions to write data
 to Amazon DynamoDB.**
@@ -2572,7 +1333,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
 
-### Question 23
+#### Question  23
 
 **An organization has a large amount of data on Windows (SMB) file shares in their on-premises data center. The
 organization would like to move data into Amazon S3. They would like to automate the migration of data over their AWS
@@ -2617,7 +1378,7 @@ https://aws.amazon.com/datasync/faqs/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-datasync/
 
-### Question 24
+#### Question  24
 
 **The database tier of a web application is running on a Windows server on-premises. The database is a Microsoft SQL
 Server database. The application owner would like to migrate the database to an Amazon RDS instance.**
@@ -2671,7 +1432,7 @@ https://aws.amazon.com/dms/schema-conversion-tool/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-database-
 migration-service/
 
-### Question 25
+#### Question  25
 
 **A new application will run across multiple Amazon ECS tasks. Front-end application logic will process data and then
 pass that data to a back-end ECS task to perform further processing and write the data to a datastore. The Architect
@@ -2727,7 +1488,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 26
+#### Question  26
 
 **An application receives images uploaded by customers and stores them on Amazon S3. An AWS Lambda function then
 processes the images to add graphical elements. The processed images need to be available for users to download for 30
@@ -2782,7 +1543,7 @@ https://aws.amazon.com/s3/storage-classes/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 27
+#### Question  27
 
 **Amazon EC2 instances in a development environment run between 9am and 5pm Monday-Friday. Production instances run
 24/7. Which pricing models should be used? (Select TWO)**
@@ -2830,7 +1591,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/instance-purchasing-optio
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 28
+#### Question  28
 
 **An application running on Amazon EC2 needs to asynchronously invoke an AWS Lambda function to perform data processing.
 The services should be decoupled.**
@@ -2877,7 +1638,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sns/
 
-### Question 29
+#### Question  29
 
 **A manual script that runs a few times a week and completes within 10 minutes needs to be replaced with an automated
 solution. Which of the following options should an Architect use?**
@@ -2920,7 +1681,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 30
+#### Question  30
 
 **A company wishes to restrict access to their Amazon DynamoDB table to specific, private source IP addresses from their
 VPC. What should be done to secure access to the table?**
@@ -2966,7 +1727,7 @@ https://aws.amazon.com/blogs/aws/new-vpc-endpoints-for-dynamodb/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 31
+#### Question  31
 
 **An AWS Organization has an OU with multiple member accounts in it. The company needs to restrict the ability to launch
 only specific Amazon EC2 instance types. How can this policy be applied across the accounts with the least effort?**
@@ -3060,7 +1821,7 @@ Master Account
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 organizations/
 
-### Question 32
+#### Question  32
 
 **A new relational database is being deployed on AWS. The performance requirements are unknown. Which database service
 does not require you to make capacity decisions upfront?**
@@ -3098,7 +1859,7 @@ https://aws.amazon.com/rds/aurora/serverless/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
 
-### Question 33
+#### Question  33
 
 **An Amazon RDS Read Replica is being deployed in a separate region. The master database is not encrypted but all data
 in the new region must be encrypted. How can this be achieved?**
@@ -3143,7 +1904,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 34
+#### Question  34
 
 **A legacy tightly-coupled High Performance Computing (HPC) application will be migrated to AWS. Which network adapter
 type should be used?**
@@ -3185,7 +1946,7 @@ workloads/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 35
+#### Question  35
 
 **A new application is to be published in multiple regions around the world. The Architect needs to ensure only 2 IP
 addresses need to be whitelisted. The solution should intelligently route traffic for lowest latency and provide fast
@@ -3292,7 +2053,7 @@ Static anycast IP
 addresses
 ```
 
-### Question 36
+#### Question  36
 
 **A company is deploying a big data and analytics workload. The analytics will be run from a fleet of thousands of EC2
 instances across multiple AZs. Data needs to be stored on a shared storage layer that can be mounted and accessed
@@ -3332,7 +2093,7 @@ https://docs.aws.amazon.com/efs/latest/ug/performance.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 37
+#### Question  37
 
 **A Solutions Architect is designing a highly-scalable system to track records. Records must remain available for
 immediate download for three months, and then the records must be deleted.**
@@ -3428,7 +2189,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 38
+#### Question  38
 
 **You are a Solutions Architect at Digital Cloud Training. A large multi-national client has requested a design for a
 multi-region, multi-master database. The client has requested that the database be designed for fast, massively scaled
@@ -3477,7 +2238,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GlobalTables.ht
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 39
+#### Question  39
 
 **Your company is starting to use AWS to host new web-based applications. A new two-tier application will be deployed
 that provides customers with access to data records. It is important that the application is highly responsive and
@@ -3581,7 +2342,7 @@ https://aws.amazon.com/elasticache/redis/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 elasticache/
 
-### Question 40
+#### Question  40
 
 **A Linux instance running in your VPC requires some configuration changes to be implemented locally and you need to run
 some commands. Which of the following can be used to securely access the instance?**
@@ -3627,7 +2388,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 41
+#### Question  41
 
 **A manufacturing company captures data from machines running at customer sites. Currently, thousands of machines send
 data every 5 minutes, and this is expected to grow to hundreds of thousands of machines in the near future. The data is
@@ -3673,7 +2434,7 @@ https://aws.amazon.com/kinesis/data-firehose/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
 
-### Question 42
+#### Question  42
 
 **There is a temporary need to share some video files that are stored in a private S3 bucket. The consumers do not have
 AWS accounts and you need to ensure that only authorized consumers can access the files. What is the best way to enable
@@ -3721,7 +2482,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/ShareObjectPreSignedURL.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 43
+#### Question  43
 
 **A Solutions Architect needs to improve performance for a web application running on EC2 instances launched by an Auto
 Scaling group. The instances run behind an ELB Application Load Balancer. During heavy use periods the ASG doubles in
@@ -3770,7 +2531,7 @@ https://aws.amazon.com/caching/cdn/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 44
+#### Question  44
 
 A company needs to store data for 5 years. The company will need to have immediate and highly available access to the
 data at any point in time but will not require frequent access.
@@ -3814,7 +2575,7 @@ https://aws.amazon.com/s3/storage-classes/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 45
+#### Question  45
 
 **A retail organization is deploying a new application that will read and write data to a database. The company wants to
 deploy the application in three different AWS Regions in an active-active configuration. The databases need to replicate
@@ -3862,7 +2623,7 @@ architectures/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 46
+#### Question  46
 
 **You are a Solutions Architect at Digital Cloud Training. One of your clients runs an application that writes data to a
 DynamoDB table. The client has asked how they can implement a function that runs code in response to item level changes
@@ -3919,7 +2680,7 @@ dynamodb/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 47
+#### Question  47
 
 **A recent security audit uncovered some poor deployment and configuration practices within your VPC. You need to ensure
 that applications are deployed in secure configurations.**
@@ -3964,7 +2725,7 @@ https://aws.amazon.com/cloudformation/resources/templates/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 cloudformation/
 
-### Question 48
+#### Question  48
 
 **A Solutions Architect needs to transform data that is being uploaded into S3. The uploads happen sporadically and the
 transformation should be triggered by an event. The transformed data should then be loaded into a target data store.**
@@ -4023,7 +2784,7 @@ https://aws.amazon.com/glue/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 49
+#### Question  49
 
 **An application you manage uses Auto Scaling and a fleet of EC2 instances. You recently noticed that Auto Scaling is
 scaling the number of instances up and down multiple times in the same hour. You need to implement a remediation to
@@ -4076,7 +2837,7 @@ evaluation
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 50
+#### Question  50
 
 **An application runs on two EC2 instances in private subnets split between two AZs. The application needs to connect to
 a CRM SaaS application running on the Internet. The vendor of the SaaS application restricts authentication to a
@@ -4192,7 +2953,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 51
+#### Question  51
 
 **An application tier of a multi-tier web application currently hosts two web services on the same set of instances. The
 web services each listen for traffic on different ports. Which AWS service should a Solutions Architect use to route
@@ -4239,7 +3000,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balance
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 52
+#### Question  52
 
 **The data scientists in your company are looking for a service that can process and analyze real-time, streaming data.
 They would like to use standard SQL queries to query the streaming data.**
@@ -4284,7 +3045,7 @@ https://aws.amazon.com/kinesis/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
 
-### Question 53
+#### Question  53
 
 **An e-commerce application is hosted in AWS. The last time a new product was launched, the application experienced a
 performance issue due to an enormous spike in traffic. Management decided that capacity must be doubled this week after
@@ -4371,7 +3132,7 @@ Analytics Tools
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 54
+#### Question  54
 
 **You need to configure an application to retain information about each user session and have decided to implement a
 layer within the application architecture to store this information.**
@@ -4420,7 +3181,7 @@ the web servers. You can configure sticky sessions on Amazon ELBs.
 
 https://aws.amazon.com/caching/session-management/
 
-### Question 55
+#### Question  55
 
 **An application running on an external website is attempting to initiate a request to your company’s website using API
 calls to Amazon API Gateway. A problem has been reported in which the requests are failing with an error that includes
@@ -4479,7 +3240,7 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-api-gateway/
 
-### Question 56
+#### Question  56
 
 **A solutions Architect is designing a new workload where an AWS Lambda function will access an Amazon DynamoDB table.**
 
@@ -4529,7 +3290,7 @@ amazon-dynamodb-table/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 57
+#### Question  57
 
 **You are a Solutions Architect at a media company and you need to build an application stack that can receive customer
 comments from sporting events. The application is expected to receive significant load that could scale to millions of
@@ -4588,7 +3349,7 @@ https://aws.amazon.com/sqs/faqs/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 58
+#### Question  58
 
 **An organization in the health industry needs to create an application that will transmit protected health data to
 thousands of service consumers in different AWS accounts. The application servers run on EC2 instances in private VPC
@@ -4672,7 +3433,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-service.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 59
+#### Question  59
 
 **A Solutions Architect is developing an encryption solution. The solution requires that data keys are encrypted using
 envelope protection before they are written to disk.**
@@ -4827,7 +3588,7 @@ https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html
 
 https://docs.aws.amazon.com/kms/latest/APIReference/Welcome.html
 
-### Question 60
+#### Question  60
 
 **A research company is developing a data lake solution in Amazon S3 to analyze huge datasets. The solution makes
 infrequent SQL queries only. In addition, the company wants to minimize infrastructure costs.**
@@ -4869,7 +3630,7 @@ https://docs.aws.amazon.com/athena/latest/ug/what-is.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/
 
-### Question 61
+#### Question  61
 
 **Your company shares some HR videos stored in an Amazon S3 bucket via CloudFront. You need to restrict access to the
 private content so users coming from specific IP addresses can access the videos and ensure direct access via the Amazon
@@ -4926,7 +3687,7 @@ to-s3.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 62
+#### Question  62
 
 **The company you work for is currently transitioning their infrastructure and applications into the AWS cloud. You are
 planning to deploy an Elastic Load Balancer (ELB) that distributes traffic for a web application running on EC2
@@ -5010,7 +3771,7 @@ resources/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 63
+#### Question  63
 
 **An application you are designing receives and processes files. The files are typically around 4GB in size and the
 application extracts metadata from the files which typically takes a few seconds for each file. The pattern of updates
@@ -5060,7 +3821,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 64
+#### Question  64
 
 **The website for a new application received around 50,000 requests each second and the company wants to use multiple
 applications to analyze the navigation patterns of the users on their website so they can personalize the user
@@ -5156,7 +3917,7 @@ https://aws.amazon.com/kinesis/data-streams/faqs/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
 
-### Question 65
+#### Question  65
 
 **You are building an application that will collect information about user behavior. The application will rapidly ingest
 large amounts of dynamic data and requires very low latency. The database must be scalable without incurring downtime.
@@ -5198,1091 +3959,9 @@ https://aws.amazon.com/dynamodb/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-## Set 2: Practice Questions only
+### Set 2
 
-_For training purposes_ , _go directly to Set 2 : Practice Questions, Answers & Explanations_
-
-### Question 1
-
-**A development team needs to host a website that will be accessed by other teams. The website contents consist of HTML,
-CSS, client-side JavaScript, and images. A Solutions Architect has been asked to recommend a solution for hosting the
-website.**
-
-**Which solution is the MOST cost-effective?**
-
-1: Containerize the website and host it in AWS Fargate
-
-2: Create an Amazon S3 bucket and host the website there
-
-3: Deploy a web server on an Amazon EC2 instance to host the website
-
-4: Configure an Application Load Balancer with an AWS Lambda target
-
-### Question 2
-
-**A company requires a solution to allow customers to customize images that are stored in an online catalog. The image
-customization parameters will be sent in requests to Amazon API Gateway. The customized image will then be generated
-on-demand and can be accessed online.**
-
-**The solutions architect requires a highly available solution. Which solution will be MOST cost-effective?**
-
-1: Use Amazon EC2 instances to manipulate the original images into the requested customization. Store the original and
-manipulated images in Amazon S3. Configure an Elastic Load Balancer in front of the EC2 instances
-
-2: Use AWS Lambda to manipulate the original images to the requested customization. Store the original and manipulated
-images in Amazon S3. Configure an Amazon CloudFront distribution with the S3 bucket as the origin
-
-3: Use AWS Lambda to manipulate the original images to the requested customization. Store the original images in Amazon
-S3 and the manipulated images in Amazon DynamoDB. Configure an Elastic Load Balancer in front of the Amazon EC2
-instances
-
-4: Use Amazon EC2 instances to manipulate the original images into the requested customization. Store the original
-images in Amazon S3 and the manipulated images in Amazon DynamoDB. Configure an Amazon CloudFront distribution with the
-S3 bucket as the origin
-
-### Question 3
-
-**A solutions architect is finalizing the architecture for a distributed database that will run across multiple Amazon
-EC2 instances. Data will be replicated across all instances so the loss of an instance will not cause loss of data. The
-database requires block storage with low latency and throughput that supports up to several million transactions per
-second per server.**
-
-**Which storage solution should the solutions architect use?**
-
-1: Amazon EBS
-
-2: Amazon EC2 instance store
-
-3: Amazon EFS
-
-4: Amazon S3
-
-### Question 4
-
-**A website runs on Amazon EC2 instances behind an Application Load Balancer (ALB). The website’s DNS records are hosted
-in Amazon Route 53 with the domain name pointing to the ALB. A solution is required for displaying a static error page
-if the website becomes unavailable.**
-
-**Which configuration should a solutions architect use to meet these requirements with the LEAST operational overhead?**
-
-1: Create a Route 53 alias record for an Amazon CloudFront distribution and specify the ALB as the origin. Create custom
-error pages for the distribution
-
-2: Create a Route 53 active-passive failover configuration. Create a static website using an Amazon S3 bucket that hosts
-a static error page. Configure the static website as the passive record for failover
-
-3: Create a Route 53 weighted routing policy. Create a static website using an Amazon S3 bucket that hosts a static
-error page. Configure the record for the S3 static website with a weighting of zero. When an issue occurs increase the
-weighting
-
-4: Set up a Route 53 active-active configuration with the ALB and an Amazon EC2 instance hosting a static error page as
-endpoints. Route 53 will only send requests to the instance if the health checks fail for the ALB
-
-### Question 5
-
-**A company is deploying a new web application that will run on Amazon EC2 instances in an Auto Scaling group across
-multiple Availability Zones. The application requires a shared storage solution that offers strong consistency as the
-content will be regularly updated.**
-
-**Which solution requires the LEAST amount of effort?**
-
-1: Create an Amazon S3 bucket to store the web content and use Amazon CloudFront to deliver the content
-
-2: Create an Amazon Elastic File System (Amazon EFS) file system and mount it on the individual Amazon EC2 instances
-
-3: Create a shared Amazon Block Store (Amazon EBS) volume and mount it on the individual Amazon EC2 instances
-
-4: Create a volume gateway using AWS Storage Gateway to host the data and mount it to the Auto Scaling group
-
-### Question 6
-
-**A website runs on Amazon EC2 instances behind an Application Load Balancer (ALB). The website has a mix of dynamic and
-static content. Customers around the world are reporting performance issues with the website.**
-
-**Which set of actions will improve website performance for users worldwide?**
-
-1: Create an Amazon CloudFront distribution and configure the ALB as an origin. Then update the Amazon Route 53 record
-to point to the CloudFront distribution
-
-2: Create a latency-based Amazon Route 53 record for the ALB. Then launch new EC2 instances with larger instance sizes
-and register the instances with the ALB
-
-3: Launch new EC2 instances hosting the same web application in different Regions closer to the users. Use an AWS
-Transit Gateway to connect customers to the closest region
-
-4: Migrate the website to an Amazon S3 bucket in the Regions closest to the users. Then create an Amazon Route 53
-geolocation record to point to the S3 buckets
-
-### Question 7
-
-**A web application has recently been launched on AWS. The architecture includes two tier with a web layer and a
-database later. It has been identified that the web server layer may be vulnerable to cross-site scripting (XSS)
-attacks.**
-
-**What should a solutions architect do to remediate the vulnerability?**
-
-1: Create a Classic Load Balancer. Put the web layer behind the load balancer and enable AWS WAF
-
-2: Create a Network Load Balancer. Put the web layer behind the load balancer and enable AWS WAF
-
-3: Create an Application Load Balancer. Put the web layer behind the load balancer and enable AWS WAF
-
-4 : Create an Application Load Balancer. Put the web layer behind the load balancer and use AWS Shield Standard
-
-### Question 8
-
-**A static website currently runs in a company’s on-premises data center. The company plan to migrate the website to
-AWS. The website must load quickly for global users and the solution must also be cost-effective.**
-
-**What should a solutions architect do to accomplish this?**
-
-1: Copy the website content to an Amazon S3 bucket. Configure the bucket to serve static webpage content. Replicate the
-S3 bucket to multiple AWS Regions
-
-2: Copy the website content to an Amazon S3 bucket. Configure the bucket to serve static webpage content. Configure
-Amazon CloudFront with the S3 bucket as the origin
-
-3: Copy the website content to an Amazon EC2 instance. Configure Amazon Route 53 geolocation routing policies to select
-the closest origin
-
-4: Copy the website content to multiple Amazon EC2 instances in multiple AWS Regions. Configure AWS Route 53 geolocation
-routing policies to select the closest region
-
-### Question 9
-
-**A multi-tier application runs with eight front-end web servers in an Amazon EC2 Auto Scaling group in a single
-Availability Zone behind an Application Load Balancer. A solutions architect needs to modify the infrastructure to be
-highly available without modifying the application.**
-
-**Which architecture should the solutions architect choose that provides high availability?**
-
-1: Create an Auto Scaling group that uses four instances across each of two Regions
-
-2: Modify the Auto Scaling group to use four instances across each of two Availability Zones
-
-3: Create an Auto Scaling template that can be used to quickly create more instances in another Region
-
-4: Create an Auto Scaling group that uses four instances across each of two subnets
-
-### Question 10
-
-**A company's web application is using multiple Amazon EC2 Linux instances and storing data on Amazon EBS volumes. The
-company is looking for a solution to increase the resiliency of the application in case of a failure. What should a
-solutions architect do to meet these requirements?**
-
-1: Launch the application on EC2 instances in each Availability Zone. Attach EBS volumes to each EC2 instance
-
-2: Create an Application Load Balancer with Auto Scaling groups across multiple Availability Zones. Mount an instance
-store on each EC2 instance
-
-3: Create an Application Load Balancer with Auto Scaling groups across multiple Availability Zones. Store data on Amazon
-EFS and mount a target on each instance
-
-4: Create an Application Load Balancer with Auto Scaling groups across multiple Availability Zones. Store data using
-Amazon S3 One Zone-Infrequent Access (S3 One Zone-A)
-
-### Question 11
-
-**A website runs on a Microsoft Windows server in an on-premises data center. The web server is being migrated to Amazon
-EC2 Windows instances in multiple Availability Zones on AWS. The web server currently uses data stored in an on-premises
-network-attached storage (NAS) device.**
-
-**Which replacement to the NAS file share is MOST resilient and durable?**
-
-1: Migrate the file share to Amazon EBS
-
-2: Migrate the file share to AWS Storage Gateway
-
-3: Migrate the file share to Amazon FSx for Windows File Server
-
-4 : Migrate the file share to Amazon Elastic File System (Amazon EFS)
-
-### Question 12
-
-**A company is planning a migration for a high performance computing (HPC) application and associated data from an
-on-premises data center to the AWS Cloud. The company uses tiered storage on premises with hot high-performance parallel
-storage to support the application during periodic runs of the application, and more economical cold storage to hold the
-data when the application is not actively running.**
-
-**Which combination of solutions should a solutions architect recommend to support the storage needs of the
-application? (Select TWO)**
-
-1: Amazon S3 for cold data storage
-
-2: Amazon EFS for cold data storage
-
-3: Amazon S3 for high-performance parallel storage
-
-4: Amazon FSx for Lustre for high-performance parallel storage
-
-5: Amazon FSx for Windows for high-performance parallel storage
-
-### Question 13
-
-**A web application that allows users to upload and share documents is running on a single Amazon EC2 instance with an
-Amazon EBS volume. To increase availability the architecture has been updated to use an Auto Scaling group of several
-instances across Availability Zones behind an Application Load Balancer. After the change users can only see a subset of
-the documents.**
-
-**What is the BEST method for a solutions architect to modify the solution so users can see all documents?**
-
-1: Run a script to synchronize the data between Amazon EBS volumes
-
-2: Use Sticky Sessions with the ALB to ensure users are directed to the same EC2 instance in a session
-
-3: Copy the data from all EBS volumes to Amazon EFS. Modify the application to save new documents to Amazon EFS
-
-4: Configure the Application Load Balancer to send the request to all servers. Return each document from the correct
-server
-
-### Question 14
-
-**A company runs an internal browser-based application. The application runs on Amazon EC2 instances behind an
-Application Load Balancer. The instances run in an Amazon EC2 Auto Scaling group across multiple Availability Zones. The
-Auto Scaling group scales up to 20 instances during work hours, but scales down to 2 instances overnight. Staff are
-complaining that the application is very slow when the day begins, although it runs well by midmorning.**
-
-**How should the scaling be changed to address the staff complaints and keep costs to a minimum?**
-
-1: Implement a scheduled action that sets the desired capacity to 20 shortly before the office opens
-
-2: Implement a step scaling action triggered at a lower CPU threshold, and decrease the cooldown period
-
-3: Implement a target tracking action triggered at a lower CPU threshold, and decrease the cooldown period
-
-4: Implement a scheduled action that sets the minimum and maximum capacity to 20 shortly before the office opens
-
-### Question 15
-
-**An application uses Amazon EC2 instances and an Amazon RDS MySQL database. The database is not currently encrypted. A
-solutions architect needs to apply encryption to the database for all new and existing data. How should this be
-accomplished?**
-
-1: Create an Amazon ElastiCache cluster and encrypt data using the cache nodes
-
-2: Enable encryption for the database using the API. Take a full snapshot of the database. Delete old snapshots
-
-3: Take a snapshot of the RDS instance. Create an encrypted copy of the snapshot. Restore the RDS instance from the
-encrypted snapshot
-
-4: Create an RDS read replica with encryption at rest enabled. Promote the read replica to master and switch the
-application over to the new master. Delete the old RDS instance
-
-### Question 16
-
-**A company have 500 TB of data in an on-premises file share that needs to be moved to Amazon S3 Glacier. The migration
-must not saturate the company’s low-bandwidth internet connection and the migration must be completed within a few
-weeks.**
-
-**What is the MOST cost-effective solution?**
-
-1: Create an AWS Direct Connect connection and migrate the data straight into Amazon Glacier
-
-2: Order 7 AWS Snowball appliances and select an S3 Glacier vault as the destination. Create a bucket policy to enforce
-a VPC endpoint
-
-3: Use AWS Global Accelerator to accelerate upload and optimize usage of the available bandwidth
-
-4: Order 7 AWS Snowball appliances and select an Amazon S3 bucket as the destination. Create a lifecycle policy to
-transition the S3 objects to Amazon S3 Glacier
-
-### Question 17
-
-**A company has refactored a legacy application to run as two microservices using Amazon ECS. The application processes
-data in two parts and the second part of the process takes longer than the first.**
-
-**How can a solutions architect integrate the microservices and allow them to scale independently?**
-
-1: Implement code in microservice 1 to send data to an Amazon S3 bucket. Use S3 event notifications to invoke
-microservice 2
-
-2: Implement code in microservice 1 to publish data to an Amazon SNS topic. Implement code in microservice 2 to
-subscribe to this topic
-
-3: Implement code in microservice 1 to send data to Amazon Kinesis Data Firehose. Implement code in microservice 2 to
-read from Kinesis Data Firehose
-
-4: Implement code in microservice 1 to send data to an Amazon SQS queue. Implement code in microservice 2 to process
-messages from the queue
-
-### Question 18
-
-**A solutions architect is designing a two-tier web application. The application consists of a public-facing web tier
-hosted on Amazon EC2 in public subnets. The database tier consists of Microsoft SQL Server running on Amazon EC2 in a
-private subnet. Security is a high priority for the company.**
-
-**How should security groups be configured in this situation? (Select TWO)**
-
-1: Configure the security group for the web tier to allow inbound traffic on port 443 from 0.0.0.0/0
-
-2: Configure the security group for the web tier to allow outbound traffic on port 443 from 0.0.0.0/0
-
-3: Configure the security group for the database tier to allow inbound traffic on port 1433 from the security group for
-the web tier
-
-4: Configure the security group for the database tier to allow outbound traffic on ports 443 and 1433 to the security
-group for the web tier
-
-5: Configure the security group for the database tier to allow inbound traffic on ports 443 and 1433 from the security
-group for the web tier
-
-### Question 19
-
-**A solutions architect has created a new AWS account and must secure AWS account root user access.**
-
-**Which combination of actions will accomplish this? (Select TWO)**
-
-1: Ensure the root user uses a strong password
-
-2: Enable multi-factor authentication to the root user
-
-3: Store root user access keys in an encrypted Amazon S3 bucket
-
-4: Add the root user to a group containing administrative permissions
-
-5: Delete the root user account
-
-### Question 20
-
-**A company allows its developers to attach existing IAM policies to existing IAM roles to enable faster experimentation
-and agility. However, the security operations team is concerned that the developers could attach the existing
-administrator policy, which would allow the developers to circumvent any other security policies.**
-
-**How should a solutions architect address this issue?**
-
-1: Create an Amazon SNS topic to send an alert every time a developer creates a new policy
-
-2: Use service control policies to disable IAM activity across all accounts in the organizational unit
-
-3: Prevent the developers from attaching any policies and assign all IAM duties to the security operations team
-
-4: Set an IAM permissions boundary on the developer IAM role that explicitly denies attaching the administrator policy
-
-### Question 21
-
-**A solutions architect is optimizing a website for real-time streaming and on-demand videos. The website’s users are
-located around the world and the solutions architect needs to optimize the performance for both the real-time and
-on-demand streaming.**
-
-**Which service should the solutions architect choose?**
-
-1: Amazon CloudFront
-
-2: AWS Global Accelerator
-
-3: Amazon Route 53
-
-4: Amazon S3 Transfer Acceleration
-
-### Question 22
-
-**An organization is creating a new storage solution and needs to ensure that Amazon S3 objects that are deleted are
-immediately restorable for up to 30 days. After 30 days the objects should be retained for a further 180 days and be
-restorable within 24 hours.**
-
-**The solution should be operationally simple and cost-effective. How can these requirements be achieved?
-(Select TWO)**
-
-1: Enable object versioning on the Amazon S3 bucket that will contain the objects
-
-3: Create a lifecycle rule to transition non-current versions to GLACIER after 30 days, and then expire the objects
-after 180 days
-
-3: Enable multi-factor authentication (MFA) delete protection
-
-4: Enable cross-region replication (CRR) for the Amazon S3 bucket that will contain the objects
-
-5: Create a lifecycle rule to transition non-current versions to STANDARD_IA after 30 days, and then expire the objects
-after 180 days
-
-### Question 23
-
-**Objects uploaded to Amazon S3 are initially accessed frequently for a period of 30 days. Then, objects are
-infrequently accessed for up to 90 days. After that, the objects are no longer needed.**
-
-**How should lifecycle management be configured?**
-
-1: Transition to STANDARD_IA after 30 days. After 90 days transition to GLACIER
-
-2: Transition to STANDARD_IA after 30 days. After 90 days transition to ONEZONE_IA
-
-3: Transition to ONEZONE_IA after 30 days. After 90 days expire the objects
-
-4: Transition to REDUCED_REDUNDANCY after 30 days. After 90 days expire the objects
-
-### Question 24
-
-**A company has acquired another business and needs to migrate their 50TB of data into AWS within 1 month. They also
-require a secure, reliable and private connection to the AWS cloud.**
-
-**How are these requirements best accomplished?**
-
-1: Provision an AWS Direct Connect connection and migrate the data over the link
-
-2: Migrate data using AWS Snowball. Provision an AWS VPN initially and order a Direct Connect link
-
-3: Launch a Virtual Private Gateway (VPG) and migrate the data over the AWS VPN
-
-4: Provision an AWS VPN CloudHub connection and migrate the data over redundant links
-
-### Question 25
-
-**An application on Amazon Elastic Container Service (ECS) performs data processing in two parts. The second part takes
-much longer to complete. How can an Architect decouple the data processing from the backend application component?**
-
-1: Process both parts using the same ECS task. Create an Amazon Kinesis Firehose stream
-
-2: Process each part using a separate ECS task. Create an Amazon SNS topic and send a notification when the processing
-completes
-
-3: Create an Amazon DynamoDB table and save the output of the first part to the table
-
-4: Process each part using a separate ECS task. Create an Amazon SQS queue
-
-### Question 26
-
-**An application is running on Amazon EC2 behind an Elastic Load Balancer (ELB). Content is being published using Amazon
-CloudFront and you need to restrict the ability for users to circumvent CloudFront and access the content directly
-through the ELB.**
-
-**How can you configure this solution?**
-
-1: Create an Origin Access Identity (OAI) and associate it with the distribution
-
-2: Use signed URLs or signed cookies to limit access to the content
-
-3: Use a Network ACL to restrict access to the ELB
-
-4: Create a VPC Security Group for the ELB and use AWS Lambda to automatically update the CloudFront internal service IP
-addresses when they change
-
-### Question 27
-
-**A company has divested a single business unit and needs to move the AWS account owned by the business unit to another
-AWS Organization. How can this be achieved?**
-
-1: Create a new account in the destination AWS Organization and migrate resources
-
-2: Create a new account in the destination AWS Organization and share the original resources using AWS Resource Access
-Manager
-
-3: Migrate the account using AWS CloudFormation
-
-4: Migrate the account using the AWS Organizations console
-
-### Question 28
-
-**An application running on Amazon EC2 needs to regularly download large objects from Amazon S3. How can performance be
-optimized for high-throughput use cases?**
-
-1: Issue parallel requests and use byte-range fetches
-
-2: Use Amazon S3 Transfer acceleration
-
-3: Use Amazon CloudFront to cache the content
-
-4: Use AWS Global Accelerator
-
-### Question 29
-
-**An Amazon RDS PostgreSQL database is configured as Multi-AZ. A solutions architect needs to scale read performance and
-the solution must be configured for high availability. What is the most cost-effective solution?**
-
-1: Create a read replica as a Multi-AZ DB instance
-
-2: Deploy a read replica in a different AZ to the master DB instance
-
-3: Deploy a read replica using Amazon ElastiCache
-
-4: Deploy a read replica in the same AZ as the master DB instance
-
-### Question 30
-
-**A High Performance Computing (HPC) application will be migrated to AWS. The application requires low network latency
-and high throughput between nodes and will be deployed in a single AZ.**
-
-**How should the application be deployed for best inter-node performance?**
-
-1: In a partition placement group
-
-2: In a cluster placement group
-
-3: In a spread placement group
-
-4: Behind a Network Load Balancer (NLB)
-
-### Question 31
-
-**A web application is deployed in multiple regions behind an ELB Application Load Balancer. You need deterministic
-routing to the closest region and automatic failover. Traffic should traverse the AWS global network for consistent
-performance.**
-
-**How can this be achieved?**
-
-1: Configure AWS Global Accelerator and configure the ALBs as targets
-
-2: Place an EC2 Proxy in front of the ALB and configure automatic failover
-
-3: Create a Route 53 Alias record for each ALB and configure a latency-based routing policy
-
-4: Use a CloudFront distribution with multiple custom origins in each region and configure for high availability
-
-### Question 32
-
-**You are looking for a method to distribute onboarding videos to your company’s numerous remote workers around the
-world. The training videos are located in an S3 bucket that is not publicly accessible. Which of the options below would
-allow you to share the videos?**
-
-1: Use CloudFront and set the S3 bucket as an origin
-
-2: Use a Route 53 Alias record the points to the S3 bucket
-
-3: Use ElastiCache and attach the S3 bucket as a cache origin
-
-4: Use CloudFront and use a custom origin pointing to an EC2 instance
-
-### Question 33
-
-**A client is in the design phase of developing an application that will process orders for their online ticketing
-system. The application will use a number of front-end EC2 instances that pick-up orders and place them in a queue for
-processing by another set of back-end EC2 instances. The client will have multiple options for customers to choose the
-level of service they want to pay for.**
-
-**The client has asked how he can design the application to process the orders in a prioritized way based on the level
-of service the customer has chosen?**
-
-1: Create multiple SQS queues, configure exactly-once processing and set the maximum visibility timeout to 12 hours
-
-2: Create multiple SQS queues, configure the front-end application to place orders onto a specific queue based on the
-level of service requested and configure the back-end instances to sequentially poll the queues in order of priority
-
-3: Create a combination of FIFO queues and Standard queues and configure the applications to place messages into the
-relevant queue based on priority
-
-4: Create a single SQS queue, configure the front-end application to place orders on the queue in order of priority and
-configure the back-end instances to poll the queue and pick up messages in the order they are presented
-
-### Question 34
-
-**Your company is opening a new office in the Asia Pacific region. Users in the new office will need to read data from
-an RDS database that is hosted in the U.S. To improve performance, you are planning to implement a Read Replica of the
-database in the Asia Pacific region. However, your Chief Security Officer
-(CSO) has explained to you that the company policy dictates that all data that leaves the U.S must be encrypted at rest.
-The master RDS DB is not currently encrypted.**
-
-**What options are available to you? (Select TWO)**
-
-1: You can create an encrypted Read Replica that is encrypted with the same key
-
-2: You can create an encrypted Read Replica that is encrypted with a different key
-
-3: You can enable encryption for the master DB by creating a new DB from a snapshot with encryption enabled
-
-4: You can enable encryption for the master DB through the management console
-
-5: You can use an ELB to provide an encrypted transport layer in front of the RDS DB
-
-### Question 35
-
-**A company’s Amazon EC2 instances were terminated or stopped, resulting in a loss of important data that was stored on
-attached EC2 instance stores. They want to avoid this happening in the future and need a solution that can scale as data
-volumes increase with the LEAST amount of management and configuration.**
-
-**Which storage is most appropriate?**
-
-1: Amazon EFS
-
-2: Amazon S3
-
-3: Amazon EBS
-
-4: Amazon RDS
-
-### Question 36
-
-**You would like to grant additional permissions to an individual ECS application container on an ECS cluster that you
-have deployed. You would like to do this without granting additional permissions to the other containers that are
-running on the cluster.**
-
-**How can you achieve this?**
-
-1: Create a separate Task Definition for the application container that uses a different Task Role
-
-2: In the same Task Definition, specify a separate Task Role for the application container
-
-3: Use EC2 instances instead as you can assign different IAM roles on each instance
-
-4: You cannot implement granular permissions with ECS containers
-
-### Question 37
-
-**The development team in your company has created a new application that you plan to deploy on AWS which runs multiple
-components in Docker containers. You would prefer to use AWS managed infrastructure for running the containers as you do
-not want to manage EC2 instances.**
-
-**Which of the below solution options would deliver these requirements? (Select TWO)**
-
-1: Use the Elastic Container Service (ECS) with the Fargate Launch Type
-
-2: Put your container images in a private repository
-
-3: Use the Elastic Container Service (ECS) with the EC2 Launch Type
-
-4: Use CloudFront to deploy Docker on EC2
-
-5: Put your container images in the Elastic Container Registry (ECR)
-
-### Question 38
-
-**A developer is creating a solution for a real-time bidding application for a large retail company that allows users to
-bid on items of end-of-season clothing. The application is expected to be extremely popular and the back-end DynamoDB
-database may not perform as required.**
-
-**How can the Solutions Architect enable in-memory read performance with microsecond response times for the DynamoDB
-database?**
-
-1: Enable read replicas
-
-2: Configure DynamoDB Auto Scaling
-
-3: Configure Amazon DAX
-
-4: Increase the provisioned throughput
-
-### Question 39
-
-**An application launched on Amazon EC2 instances needs to publish personally identifiable information (PII)
-about customers using Amazon SNS. The application is launched in private subnets within an Amazon VPC.**
-
-**Which is the MOST secure way to allow the application to access service endpoints in the same region?**
-
-**1: Use an Internet Gateway**
-
-2: Use AWS PrivateLink
-
-3: Use a proxy instance
-
-4: Use a NAT gateway
-
-### Question 40
-
-**A mobile client requires data from several application-layer services to populate its user interface. What can the
-application team use to decouple the client interface from the underlying services behind them?**
-
-1: AWS Device Farm
-
-2: Amazon Cognito
-
-3: Amazon API Gateway
-
-4: Application Load Balancer
-
-### Question 41
-
-**A Solutions Architect is designing a web application that runs on Amazon EC2 instances behind an Elastic Load
-Balancer. All data in transit must be encrypted.**
-
-**Which solution options meet the encryption requirement? (Select TWO)**
-
-1: Use a Network Load Balancer (NLB) with a TCP listener, then terminate SSL on EC2 instances
-
-2: Use an Application Load Balancer (ALB) with an HTTPS listener, then install SSL certificates on the ALB and EC2
-instances
-
-3: Use an Application Load Balancer (ALB) in passthrough mode, then terminate SSL on EC2 instances
-
-4: Use a Network Load Balancer (NLB) with an HTTPS listener, then install SSL certificates on the NLB and EC2 instances
-
-5: Use an Application Load Balancer (ALB) with a TCP listener, then terminate SSL on EC2 instances
-
-### Question 42
-
-**An application running video-editing software is using significant memory on an Amazon EC2 instance. How can a user
-track memory usage on the Amazon EC2 instance?**
-
-1: Install the CloudWatch agent on the EC2 instance to push memory usage to an Amazon CloudWatch custom metric
-
-2: Use an instance type that supports memory usage reporting to a metric by default
-
-3: Call Amazon CloudWatch to retrieve the memory usage metric data that exists for the EC2 instance
-
-4: Assign an IAM role to the EC2 instance with an IAM policy granting access to the desired metric
-
-### Question 43
-
-**A company hosts a popular web application that connects to an Amazon RDS MySQL DB instance running in a private VPC
-subnet that was created with default ACL settings. The web servers must be accessible only to customers on an SSL
-connection. The database should only be accessible to web servers in a public subnet.**
-
-**Which solution meets these requirements without impacting other running applications? (Select TWO)**
-
-1: Create a DB server security group that allows MySQL port 3306 inbound and specify the source as a web server security
-group
-
-2: Create a web server security group that allows HTTPS port 443 inbound traffic from Anywhere (0.0.0.0/0)
-and apply it to the web servers
-
-3: Create a network ACL on the web server's subnet, allow HTTPS port 443 inbound, and specify the source as 0.0.0.0/0
-
-4: Create a DB server security group that allows the HTTPS port 443 inbound and specify the source as a web server
-security group
-
-5: Create a network ACL on the DB subnet, allow MySQL port 3306 inbound for web servers, and deny all outbound traffic
-
-### Question 44
-
-**The security team in your company is defining new policies for enabling security analysis, resource change tracking,
-and compliance auditing. They would like to gain visibility into user activity by recording API calls made within the
-company’s AWS account. The information that is logged must be encrypted. This requirement applies to all AWS regions in
-which your company has services running.**
-
-**How will you implement this request? (Select TWO)**
-
-1: Create a CloudTrail trail in each region in which you have services
-
-2: Enable encryption with a single KMS key
-
-3: Create a CloudTrail trail and apply it to all regions
-
-4: Enable encryption with multiple KMS keys
-
-5: Use CloudWatch to monitor API calls
-
-### Question 45
-
-**An organization is migrating data to the AWS cloud. An on-premises application uses Network File System shares and
-must access the data without code changes. The data is critical and is accessed frequently.**
-
-**Which storage solution should a Solutions Architect recommend to maximize availability and durability?**
-
-1: Amazon Elastic Block Store
-
-2: Amazon Simple Storage Service
-
-3: AWS Storage Gateway – File Gateway
-
-4: Amazon Elastic File System
-
-### Question 46
-
-**A bespoke application consisting of three tiers is being deployed in a VPC. You need to create three security groups.
-You have configured the WebSG (web server) security group and now need to configure the AppSG
-(application tier) and DBSG (database tier). The application runs on port 1030 and the database runs on 3306.**
-
-**Which rules should be created according to security best practice? (Select TWO)**
-
-1: On the DBSG security group, create a custom TCP rule for TCP 3306 and configure the AppSG security group as the
-source
-
-2: On the AppSG security group, create a custom TCP rule for TCP 1030 and configure the WebSG security group as the
-source
-
-3: On the AppSG security group, create a custom TCP rule for TCP 1030 and configure the DBSG security group as the
-source
-
-4: On the DBSG security group, create a custom TCP rule for TCP 3306 and configure the WebSG security group as the
-source
-
-5: On the WebSG security group, create a custom TCP rule for TCP 1030 and configure the AppSG security group as the
-source
-
-### Question 47
-
-**A Solutions Architect needs to design a solution that will allow Website Developers to deploy static web content
-without managing server infrastructure. All web content must be accessed over HTTPS with a custom domain name. The
-solution should be scalable as the company continues to grow.**
-
-**Which of the following will provide the MOST cost-effective solution?**
-
-1: Amazon S3 with a static website
-
-2: Amazon CloudFront with an Amazon S3 bucket origin
-
-3: AWS Lambda function with Amazon API Gateway
-
-4: Amazon EC2 instance with Amazon EBS
-
-### Question 48
-
-**A Solutions Architect must design a storage solution for incoming billing reports in CSV format. The data will be
-analyzed infrequently and discarded after 30 days.**
-
-**Which combination of services will be MOST cost-effective in meeting these requirements?**
-
-1: Write the files to an S3 bucket and use Amazon Athena to query the data
-
-2: Import the logs to an Amazon Redshift cluster
-
-3: Use AWS Data Pipeline to import the logs into a DynamoDB table
-
-4: Import the logs into an RDS MySQL instance
-
-### Question 49
-
-**A Solutions Architect must design a solution that encrypts data in Amazon S3. Corporate policy mandates encryption
-keys be generated and managed on premises. Which solution should the Architect use to meet the security requirements?**
-
-1: SSE-C: Server-side encryption with customer-provided encryption keys
-
-2: SSE-S3: Server-side encryption with Amazon-managed master key
-
-3: SSE-KMS: Server-side encryption with AWS KMS managed keys
-
-4: AWS CloudHSM
-
-### Question 50
-
-**A Solutions Architect must select the most appropriate database service for two use cases. A team of data scientists
-perform complex queries on a data warehouse that take several hours to complete. Another team of scientists need to run
-fast, repeat queries and update dashboards for customer support staff.**
-
-**Which solution delivers these requirements MOST cost-effectively?**
-
-1: RedShift for both use cases
-
-2: RDS for both use cases
-
-3: RedShift for the analytics use case and ElastiCache in front of RedShift for the customer support dashboard
-
-4: RedShift for the analytics use case and RDS for the customer support dashboard
-
-### Question 51
-
-**A DynamoDB database you manage is randomly experiencing heavy read requests that are causing latency. What is the
-simplest way to alleviate the performance issues?**
-
-1: Create DynamoDB read replicas
-
-2: Enable EC2 Auto Scaling for DynamoDB
-
-3: Create an ElastiCache cluster in front of DynamoDB
-
-4: Enable DynamoDB DAX
-
-### Question 52
-
-**A customer has a production application running on Amazon EC2. The application frequently overwrites and deletes data,
-and it is essential that the application receives the most up-to-date version of the data whenever it is requested.**
-
-**Which service is most appropriate for these requirements?**
-
-1: Amazon RedShift
-
-2: Amazon S3
-
-3: AWS Storage Gateway
-
-4: Amazon RDS
-
-### Question 53
-
-**A Solutions Architect is developing a new web application on AWS that needs to be able to scale to support
-unpredictable workloads. The Architect prefers to focus on value-add activities such as software development and product
-roadmap development rather than provisioning and managing instances.**
-
-**Which solution is most appropriate for this use case?**
-
-1: Amazon API Gateway and AWS Lambda
-
-2: Elastic Load Balancing with Auto Scaling groups and Amazon EC2
-
-3: Amazon CloudFront and AWS Lambda
-
-4: Amazon API Gateway and Amazon EC2
-
-### Question 54
-
-**A client needs to implement a shared directory system. Requirements are that it should provide a hierarchical
-structure, support strong data consistency, and be accessible from multiple accounts, regions and on-premises servers
-using their AWS Direct Connect link.**
-
-**Which storage service would you recommend to the client?**
-
-1: AWS Storage Gateway
-
-2: Amazon EBS
-
-3: Amazon EFS
-
-4: Amazon S3
-
-### Question 55
-
-**A customer runs an API on their website that receives around 1,000 requests each day and has an average response time
-of 50 ms. It is currently hosted on a single c4.large EC2 instance.**
-
-**How can high availability be added to the architecture at the LOWEST cost?**
-
-1: Create an Auto Scaling group with a minimum of one instance and a maximum of two instances, then use an Application
-Load Balancer to balance the traffic
-
-2: Recreate the API using API Gateway and use AWS Lambda as the service back-end
-
-3: Create an Auto Scaling group with a maximum of two instances, then use an Application Load Balancer to balance the
-traffic
-
-4: Recreate the API using API Gateway and integrate the API with the existing back-end
-
-### Question 56
-
-**A large media site has multiple applications running on Amazon ECS. A Solutions Architect needs to use content
-metadata to route traffic to specific services.**
-
-**What is the MOST efficient method to fulfil this requirement?**
-
-1: Use an AWS Classic Load Balancer with a host-based routing rule to route traffic to the correct service
-
-2: Use the AWS CLI to update an Amazon Route 53 hosted zone to route traffic as services get updated
-
-3: Use an AWS Application Load Balancer with a path-based routing rule to route traffic to the correct service
-
-4: Use Amazon CloudFront to manage and route traffic to the correct service
-
-### Question 57
-
-**You have created a file system using Amazon Elastic File System (EFS) which will hold home directories for users. What
-else needs to be done to enable users to save files to the EFS file system?**
-
-1: Create a separate EFS file system for each user and grant read-write-execute permissions on the root directory to the
-respective user. Then mount the file system to the users’ home directory
-
-2: Modify permissions on the root directory to grant read-write-execute permissions to the users. Then create a
-subdirectory and mount it to the users’ home directory
-
-3: Instruct the users to create a subdirectory on the file system and mount the subdirectory to their home directory
-
-4: Create a subdirectory for each user and grant read-write-execute permissions to the users. Then mount the
-subdirectory to the users’ home directory
-
-### Question 58
-
-**An application that you will be deploying in your VPC requires 14 EC2 instances that must be placed on distinct
-underlying hardware to reduce the impact of the failure of a hardware node. The instances will use varying instance
-types. What configuration will cater to these requirements taking cost-effectiveness into account?**
-
-1: You cannot control which nodes your instances are placed on
-
-2: Use dedicated hosts and deploy each instance on a dedicated host
-
-3: Use a Spread Placement Group across two AZs
-
-4: Use a Cluster Placement Group within a single AZ
-
-### Question 59
-
-**A VPC has a fleet of EC2 instances running in a private subnet that need to connect to Internet-based hosts using the
-IPv6 protocol. What needs to be configured to enable this connectivity?**
-
-1: VPN CloudHub
-
-2: A NAT Gateway
-
-3: An Egress-Only Internet Gateway
-
-4: AWS Direct Connect
-
-### Question 60
-
-**An AWS workload in a VPC is running a legacy database on an Amazon EC2 instance. Data is stored on a 2000GB Amazon
-EBS (gp2) volume. At peak load times, logs show excessive wait time.**
-
-**What should be implemented to improve database performance using persistent storage?**
-
-1: Change the EC2 instance type to one with burstable performance
-
-2: Change the EC2 instance type to one with EC2 instance store volumes
-
-3: Migrate the data on the Amazon EBS volume to an SSD-backed volume
-
-4: Migrate the data on the EBS volume to provisioned IOPS SSD (io1)
-
-### Question 61
-
-**Developers regularly create and update CloudFormation stacks using API calls. For security reasons you need to ensure
-that users are restricted to a specified template. How can this be achieved?**
-
-1: Store the template on Amazon S3 and use a bucket policy to restrict access
-
-2: Create an IAM policy with a Condition: ResourceTypes parameter
-
-3: Create an IAM policy with a Condition: TemplateURL parameter
-
-4: Create an IAM policy with a Condition: StackPolicyURL parameter
-
-### Question 62
-
-**A data-processing application runs on an i3.large EC2 instance with a single 100 GB EBS gp2 volume. The application
-stores temporary data in a small database (less than 30 GB) located on the EBS root volume. The application is
-struggling to process the data fast enough, and a Solutions Architect has determined that the I/O speed of the temporary
-database is the bottleneck.**
-
-**What is the MOST cost-efficient way to improve the database response times?**
-
-1: Put the temporary database on a new 50-GB EBS io1 volume with a 3000 IOPS allocation
-
-2: Move the temporary database onto instance storage
-
-3: Put the temporary database on a new 50-GB EBS gp2 volume
-
-4: Enable EBS optimization on the instance and keep the temporary files on the existing volume
-
-### Question 63
-
-**A Solutions Architect is designing a shared service for hosting containers from several customers on Amazon ECS. These
-containers will use several AWS services. A container from one customer must not be able to access data from another
-customer.**
-
-**Which solution should the Architect use to meet the requirements?**
-
-1: IAM roles for tasks
-
-2: IAM roles for EC2 instances
-
-3: IAM Instance Profile for EC2 instances
-
-4: Network ACL
-
-### Question 64
-
-**An EC2 instance that you manage has an IAM role attached to it that provides it with access to Amazon S3 for saving
-log data to a bucket. A change in the application architecture means that you now need to provide the additional ability
-for the application to securely make API requests to Amazon API Gateway.**
-
-**Which two methods could you use to resolve this challenge? (Select TWO)**
-
-1: Delegate access to the EC2 instance from the API Gateway management console
-
-2: Create an IAM role with a policy granting permissions to Amazon API Gateway and add it to the EC2 instance as an
-additional IAM role
-
-3: You cannot modify the IAM role assigned to an EC2 instance after it has been launched. You’ll need to recreate the
-EC2 instance and assign a new IAM role
-
-4: Add an IAM policy to the existing IAM role that the EC2 instance is using granting permissions to access Amazon API
-Gateway
-
-5: Create a new IAM role with multiple IAM policies attached that grants access to Amazon S3 and Amazon API Gateway, and
-replace the existing IAM role that is attached to the EC2 instance
-
-### Question 65
-
-**An application is hosted on the U.S west coast. Users there have no problems, but users on the east coast are
-experiencing performance issues. The users have reported slow response times with the search bar autocomplete and
-display of account listings.**
-
-**How can you improve the performance for users on the east coast?**
-
-1: Host the static content in an Amazon S3 bucket and distribute it using CloudFront
-
-2: Setup cross-region replication and use Route 53 geolocation routing
-
-3: Create a DynamoDB Read Replica in the U.S east region
-
-4: Create an ElastiCache database in the U.S east region
-
-## Set 2: Practice Questions, Answers & Explanations
-
-### Question 1
+#### Question  1
 
 **A development team needs to host a website that will be accessed by other teams. The website contents consist of HTML,
 CSS, client-side JavaScript, and images. A Solutions Architect has been asked to recommend a solution for hosting the
@@ -6331,7 +4010,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 2
+#### Question  2
 
 **A company requires a solution to allow customers to customize images that are stored in an online catalog. The image
 customization parameters will be sent in requests to Amazon API Gateway. The customized image will then be generated
@@ -6396,7 +4075,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 3
+#### Question  3
 
 **A solutions architect is finalizing the architecture for a distributed database that will run across multiple Amazon
 EC2 instances. Data will be replicated across all instances so the loss of an instance will not cause loss of data. The
@@ -6447,7 +4126,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 4
+#### Question  4
 
 **A website runs on Amazon EC2 instances behind an Application Load Balancer (ALB). The website’s DNS records are hosted
 in Amazon Route 53 with the domain name pointing to the ALB. A solution is required for displaying a static error page
@@ -6510,7 +4189,7 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/custom-error-
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 5
+#### Question  5
 
 **A company is deploying a new web application that will run on Amazon EC2 instances in an Auto Scaling group across
 multiple Availability Zones. The application requires a shared storage solution that offers strong consistency as the
@@ -6558,7 +4237,7 @@ https://aws.amazon.com/efs/faq/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 6
+#### Question  6
 
 **A website runs on Amazon EC2 instances behind an Application Load Balancer (ALB). The website has a mix of dynamic and
 static content. Customers around the world are reporting performance issues with the website.**
@@ -6611,7 +4290,7 @@ https://aws.amazon.com/cloudfront/dynamic-content/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 7
+#### Question  7
 
 **A web application has recently been launched on AWS. The architecture includes two tier with a web layer and a
 database later. It has been identified that the web server layer may be vulnerable to cross-site scripting (XSS)
@@ -6660,7 +4339,7 @@ https://docs.aws.amazon.com/waf/latest/developerguide/classic-web-acl-xss-condit
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-waf-and-shield/
 
-### Question 8
+#### Question  8
 
 **A static website currently runs in a company’s on-premises data center. The company plan to migrate the website to
 AWS. The website must load quickly for global users and the solution must also be cost-effective.**
@@ -6714,7 +4393,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 9
+#### Question  9
 
 **A multi-tier application runs with eight front-end web servers in an Amazon EC2 Auto Scaling group in a single
 Availability Zone behind an Application Load Balancer. A solutions architect needs to modify the infrastructure to be
@@ -6801,7 +4480,7 @@ group
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 10
+#### Question  10
 
 **A company's web application is using multiple Amazon EC2 Linux instances and storing data on Amazon EBS volumes. The
 company is looking for a solution to increase the resiliency of the application in case of a failure. What should a
@@ -6851,7 +4530,7 @@ https://docs.aws.amazon.com/efs/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 11
+#### Question  11
 
 **A website runs on a Microsoft Windows server in an on-premises data center. The web server is being migrated to Amazon
 EC2 Windows instances in multiple Availability Zones on AWS. The web server currently uses data stored in an on-premises
@@ -6898,7 +4577,7 @@ https://aws.amazon.com/fsx/windows/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 12
+#### Question  12
 
 **A company is planning a migration for a high performance computing (HPC) application and associated data from an
 on-premises data center to the AWS Cloud. The company uses tiered storage on premises with hot high-performance parallel
@@ -7020,7 +4699,7 @@ https://aws.amazon.com/fsx/lustre/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/
 
-### Question 13
+#### Question  13
 
 ```
 EC 2 Instance
@@ -7160,7 +4839,7 @@ https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 14
+#### Question  14
 
 **A company runs an internal browser-based application. The application runs on Amazon EC2 instances behind an
 Application Load Balancer. The instances run in an Amazon EC2 Auto Scaling group across multiple Availability Zones. The
@@ -7212,7 +4891,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-target-tracking
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 15
+#### Question  15
 
 **An application uses Amazon EC2 instances and an Amazon RDS MySQL database. The database is not currently encrypted. A
 solutions architect needs to apply encryption to the database for all new and existing data. How should this be
@@ -7262,7 +4941,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/rds-encrypt-instance-mysq
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 16
+#### Question  16
 
 **A company have 500 TB of data in an on-premises file share that needs to be moved to Amazon S3 Glacier. The migration
 must not saturate the company’s low-bandwidth internet connection and the migration must be completed within a few
@@ -7312,7 +4991,7 @@ https://docs.aws.amazon.com/snowball/latest/developer-guide/specifications.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 17
+#### Question  17
 
 **A company has refactored a legacy application to run as two microservices using Amazon ECS. The application processes
 data in two parts and the second part of the process takes longer than the first.**
@@ -7363,7 +5042,7 @@ https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welco
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 18
+#### Question  18
 
 **A solutions architect is designing a two-tier web application. The application consists of a public-facing web tier
 hosted on Amazon EC2 in public subnets. The database tier consists of Microsoft SQL Server running on Amazon EC2 in a
@@ -7451,7 +5130,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 19
+#### Question  19
 
 **A solutions architect has created a new AWS account and must secure AWS account root user access.**
 
@@ -7501,7 +5180,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 20
+#### Question  20
 
 **A company allows its developers to attach existing IAM policies to existing IAM roles to enable faster experimentation
 and agility. However, the security operations team is concerned that the developers could attach the existing
@@ -7552,7 +5231,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 21
+#### Question  21
 
 **A solutions architect is optimizing a website for real-time streaming and on-demand videos. The website’s users are
 located around the world and the solutions architect needs to optimize the performance for both the real-time and
@@ -7597,7 +5276,7 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/on-demand-str
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 22
+#### Question  22
 
 **An organization is creating a new storage solution and needs to ensure that Amazon S3 objects that are deleted are
 immediately restorable for up to 30 days. After 30 days the objects should be retained for a further 180 days and be
@@ -7655,7 +5334,7 @@ https://d0.awsstatic.com/whitepapers/protecting-s3-against-object-deletion.pdf
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 23
+#### Question  23
 
 **Objects uploaded to Amazon S3 are initially accessed frequently for a period of 30 days. Then, objects are
 infrequently accessed for up to 90 days. After that, the objects are no longer needed.**
@@ -7701,7 +5380,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-con
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 24
+#### Question  24
 
 **A company has acquired another business and needs to migrate their 50TB of data into AWS within 1 month. They also
 require a secure, reliable and private connection to the AWS cloud.**
@@ -7753,7 +5432,7 @@ delivery/aws-direct-connect/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-snowball/
 
-### Question 25
+#### Question  25
 
 **An application on Amazon Elastic Container Service (ECS) performs data processing in two parts. The second part takes
 much longer to complete. How can an Architect decouple the data processing from the backend application component?**
@@ -7803,7 +5482,7 @@ integration/amazon-sqs/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 26
+#### Question  26
 
 **An application is running on Amazon EC2 behind an Elastic Load Balancer (ELB). Content is being published using Amazon
 CloudFront and you need to restrict the ability for users to circumvent CloudFront and access the content directly
@@ -7853,7 +5532,7 @@ cloudfront-and-aws-waf-by-using-aws-lambda/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 27
+#### Question  27
 
 **A company has divested a single business unit and needs to move the AWS account owned by the business unit to another
 AWS Organization. How can this be achieved?**
@@ -7896,7 +5575,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/organizations-move-accoun
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 organizations/
 
-### Question 28
+#### Question  28
 
 **An application running on Amazon EC2 needs to regularly download large objects from Amazon S3. How can performance be
 optimized for high-throughput use cases?**
@@ -7941,7 +5620,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance-design-pa
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 29
+#### Question  29
 
 **An Amazon RDS PostgreSQL database is configured as Multi-AZ. A solutions architect needs to scale read performance and
 the solution must be configured for high availability. What is the most cost-effective solution?**
@@ -7982,7 +5661,7 @@ deployments/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 30
+#### Question  30
 
 **A High Performance Computing (HPC) application will be migrated to AWS. The application requires low network latency
 and high throughput between nodes and will be deployed in a single AZ.**
@@ -8024,7 +5703,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 31
+#### Question  31
 
 **A web application is deployed in multiple regions behind an ELB Application Load Balancer. You need deterministic
 routing to the closest region and automatic failover. Traffic should traverse the AWS global network for consistent
@@ -8129,7 +5808,7 @@ Static anycast IP
 addresses
 ```
 
-### Question 32
+#### Question  32
 
 **You are looking for a method to distribute onboarding videos to your company’s numerous remote workers around the
 world. The training videos are located in an S3 bucket that is not publicly accessible. Which of the options below would
@@ -8172,7 +5851,7 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 33
+#### Question  33
 
 ```
 Amazon CloudFront
@@ -8283,7 +5962,7 @@ https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/stand
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 34
+#### Question  34
 
 **Your company is opening a new office in the Asia Pacific region. Users in the new office will need to read data from
 an RDS database that is hosted in the U.S. To improve performance, you are planning to implement a Read Replica of the
@@ -8339,7 +6018,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 35
+#### Question  35
 
 **A company’s Amazon EC2 instances were terminated or stopped, resulting in a loss of important data that was stored on
 attached EC2 instance stores. They want to avoid this happening in the future and need a solution that can scale as data
@@ -8389,7 +6068,7 @@ https://aws.amazon.com/efs/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 36
+#### Question  36
 
 **You would like to grant additional permissions to an individual ECS application container on an ECS cluster that you
 have deployed. You would like to do this without granting additional permissions to the other containers that are
@@ -8476,7 +6155,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
 
-### Question 37
+#### Question  37
 
 **The development team in your company has created a new application that you plan to deploy on AWS which runs multiple
 components in Docker containers. You would prefer to use AWS managed infrastructure for running the containers as you do
@@ -8524,7 +6203,7 @@ https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
 
-### Question 38
+#### Question  38
 
 **A developer is creating a solution for a real-time bidding application for a large retail company that allows users to
 bid on items of end-of-season clothing. The application is expected to be extremely popular and the back-end DynamoDB
@@ -8630,7 +6309,7 @@ https://aws.amazon.com/dynamodb/dax/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 39
+#### Question  39
 
 **An application launched on Amazon EC2 instances needs to publish personally identifiable information (PII)
 about customers using Amazon SNS. The application is launched in private subnets within an Amazon VPC.**
@@ -8673,7 +6352,7 @@ https://docs.aws.amazon.com/sns/latest/dg/sns-vpc-endpoint.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 40
+#### Question  40
 
 **A mobile client requires data from several application-layer services to populate its user interface. What can the
 application team use to decouple the client interface from the underlying services behind them?**
@@ -8714,7 +6393,7 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-rest-api
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-api-gateway/
 
-### Question 41
+#### Question  41
 
 **A Solutions Architect is designing a web application that runs on Amazon EC2 instances behind an Elastic Load
 Balancer. All data in transit must be encrypted.**
@@ -8836,7 +6515,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-b
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 42
+#### Question  42
 
 **An application running video-editing software is using significant memory on an Amazon EC2 instance. How can a user
 track memory usage on the Amazon EC2 instance?**
@@ -8880,7 +6559,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/mon-scripts.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
 tools/amazon-cloudwatch/
 
-### Question 43
+#### Question  43
 
 **A company hosts a popular web application that connects to an Amazon RDS MySQL DB instance running in a private VPC
 subnet that was created with default ACL settings. The web servers must be accessible only to customers on an SSL
@@ -8937,7 +6616,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 44
+#### Question  44
 
 **The security team in your company is defining new policies for enabling security analysis, resource change tracking,
 and compliance auditing. They would like to gain visibility into user activity by recording API calls made within the
@@ -8987,7 +6666,7 @@ regions.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 cloudtrail/
 
-### Question 45
+#### Question  45
 
 **An organization is migrating data to the AWS cloud. An on-premises application uses Network File System shares and
 must access the data without code changes. The data is critical and is accessed frequently.**
@@ -9032,7 +6711,7 @@ https://docs.aws.amazon.com/storagegateway/latest/userguide/CreatingAnNFSFileSha
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 46
+#### Question  46
 
 **A bespoke application consisting of three tiers is being deployed in a VPC. You need to create three security groups.
 You have configured the WebSG (web server) security group and now need to configure the AppSG
@@ -9091,7 +6770,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 47
+#### Question  47
 
 **A Solutions Architect needs to design a solution that will allow Website Developers to deploy static web content
 without managing server infrastructure. All web content must be accessed over HTTPS with a custom domain name. The
@@ -9142,7 +6821,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 48
+#### Question  48
 
 **A Solutions Architect must design a storage solution for incoming billing reports in CSV format. The data will be
 analyzed infrequently and discarded after 30 days.**
@@ -9191,7 +6870,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 49
+#### Question  49
 
 **A Solutions Architect must design a solution that encrypts data in Amazon S3. Corporate policy mandates encryption
 keys be generated and managed on premises. Which solution should the Architect use to meet the security requirements?**
@@ -9240,7 +6919,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/ServerSideEncryptionCustomerKeys
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 50
+#### Question  50
 
 **A Solutions Architect must select the most appropriate database service for two use cases. A team of data scientists
 perform complex queries on a data warehouse that take several hours to complete. Another team of scientists need to run
@@ -9288,7 +6967,7 @@ second-response-for-repeat-queries/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 redshift/
 
-### Question 51
+#### Question  51
 
 **A DynamoDB database you manage is randomly experiencing heavy read requests that are causing latency. What is the
 simplest way to alleviate the performance issues?**
@@ -9375,7 +7054,7 @@ Inbound rules:
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 52
+#### Question  52
 
 **A customer has a production application running on Amazon EC2. The application frequently overwrites and deletes data,
 and it is essential that the application receives the most up-to-date version of the data whenever it is requested.**
@@ -9415,7 +7094,7 @@ https://docs.aws.amazon.com/rds/index.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 53
+#### Question  53
 
 **A Solutions Architect is developing a new web application on AWS that needs to be able to scale to support
 unpredictable workloads. The Architect prefers to focus on value-add activities such as software development and product
@@ -9458,7 +7137,7 @@ for an example scenario that uses API Gateway and AWS Lambda with other services
 https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-
 dynamodb-cognito/
 
-### Question 54
+#### Question  54
 
 **A client needs to implement a shared directory system. Requirements are that it should provide a hierarchical
 structure, support strong data consistency, and be accessible from multiple accounts, regions and on-premises servers
@@ -9510,7 +7189,7 @@ https://aws.amazon.com/efs/features/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 55
+#### Question  55
 
 **A customer runs an API on their website that receives around 1,000 requests each day and has an average response time
 of 50 ms. It is currently hosted on a single c4.large EC2 instance.**
@@ -9561,7 +7240,7 @@ delivery/amazon-api-gateway/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 56
+#### Question  56
 
 **A large media site has multiple applications running on Amazon ECS. A Solutions Architect needs to use content
 metadata to route traffic to specific services.**
@@ -9609,7 +7288,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/application/tutorial-loa
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 57
+#### Question  57
 
 **You have created a file system using Amazon Elastic File System (EFS) which will hold home directories for users. What
 else needs to be done to enable users to save files to the EFS file system?**
@@ -9692,7 +7371,7 @@ ex-scenarios
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 58
+#### Question  58
 
 **An application that you will be deploying in your VPC requires 14 EC2 instances that must be placed on distinct
 underlying hardware to reduce the impact of the failure of a hardware node. The instances will use varying instance
@@ -9735,7 +7414,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 59
+#### Question  59
 
 **A VPC has a fleet of EC2 instances running in a private subnet that need to connect to Internet-based hosts using the
 IPv6 protocol. What needs to be configured to enable this connectivity?**
@@ -9797,7 +7476,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/egress-only-internet-gateway.ht
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 60
+#### Question  60
 
 **An AWS workload in a VPC is running a legacy database on an Amazon EC2 instance. Data is stored on a 2000GB Amazon
 EBS (gp2) volume. At peak load times, logs show excessive wait time.**
@@ -9843,7 +7522,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-performance-instan
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 61
+#### Question  61
 
 **Developers regularly create and update CloudFormation stacks using API calls. For security reasons you need to ensure
 that users are restricted to a specified template. How can this be achieved?**
@@ -9888,7 +7567,7 @@ https://aws.amazon.com/cloudformation/aws-cloudformation-templates/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 cloudformation/
 
-### Question 62
+#### Question  62
 
 **A data-processing application runs on an i3.large EC2 instance with a single 100 GB EBS gp2 volume. The application
 stores temporary data in a small database (less than 30 GB) located on the EBS root volume. The application is
@@ -9936,7 +7615,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 63
+#### Question  63
 
 **A Solutions Architect is designing a shared service for hosting containers from several customers on Amazon ECS. These
 containers will use several AWS services. A container from one customer must not be able to access data from another
@@ -10020,7 +7699,7 @@ tasks/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
 
-### Question 64
+#### Question  64
 
 **An EC2 instance that you manage has an IAM role attached to it that provides it with access to Amazon S3 for saving
 log data to a bucket. A change in the application architecture means that you now need to provide the additional ability
@@ -10078,7 +7757,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2_in
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 65
+#### Question  65
 
 **An application is hosted on the U.S west coast. Users there have no problems, but users on the east coast are
 experiencing performance issues. The users have reported slow response times with the search bar autocomplete and
@@ -10123,1072 +7802,9 @@ two/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 elasticache/
 
-## Set 3: Practice Questions only
+### Set 3
 
-_For training purposes_ , _go directly to Set 3 : Practice Questions, Answers & Explanations_
-
-### Question 1
-
-**A security officer requires that access to company financial reports is logged. The reports are stored in an Amazon S3
-bucket. Additionally, any modifications to the log files must be detected.**
-
-**Which actions should a solutions architect take?**
-
-1: Use S3 server access logging on the bucket that houses the reports with the read and write data events and the log
-file validation options enabled
-
-2: Use S3 server access logging on the bucket that houses the reports with the read and write management events and log
-file validation options enabled
-
-3: Use AWS CloudTrail to create a new trail. Configure the trail to log read and write data events on the S3 bucket that
-houses the reports. Log these events to a new bucket, and enable log file validation
-
-4: Use AWS CloudTrail to create a new trail. Configure the trail to log read and write management events on the S3
-bucket that houses the reports. Log these events to a new bucket, and enable log file validation
-
-### Question 2
-
-**A company operates a production web application that uses an Amazon RDS MySQL database. The database has automated,
-non-encrypted daily backups. To increase the security of the data, it has been recommended that encryption should be
-enabled for backups. Unencrypted backups will be destroyed after the first encrypted backup has been completed.**
-
-**What should be done to enable encryption for future backups?**
-
-1: Enable default encryption for the Amazon S3 bucket where backups are stored
-
-2: Modify the backup section of the database configuration to toggle the Enable encryption check box
-
-3: Create a snapshot of the database. Copy it to an encrypted snapshot. Restore the database from the encrypted snapshot
-
-4: Enable an encrypted read replica on RDS for MySQL. Promote the encrypted read replica to primary. Remove the original
-database instance
-
-### Question 3
-
-**A company has deployed an API in a VPC behind an internal Application Load Balancer (ALB). An application that
-consumes the API as a client is deployed in a second account in private subnets.**
-
-**Which architectural configurations will allow the API to be consumed without using the public Internet?
-(Select TWO)**
-
-1: Configure a VPC peering connection between the two VPCs. Access the API using the private address
-
-2: Configure an AWS Direct Connect connection between the two VPCs. Access the API using the private address
-
-3: Configure a ClassicLink connection for the API into the client VPC. Access the API using the ClassicLink address
-
-4: Configure a PrivateLink connection for the API into the client VPC. Access the API using the PrivateLink address
-
-5: Configure an AWS Resource Access Manager connection between the two accounts. Access the API using the private
-address
-
-### Question 4
-
-**An application runs on Amazon EC2 Linux instances. The application generates log files which are written using
-standard API calls. A storage solution is required that can be used to store the files indefinitely and must allow
-concurrent access to all files.**
-
-**Which storage service meets these requirements and is the MOST cost-effective?**
-
-1: Amazon EBS
-
-2: Amazon EFS
-
-3: Amazon EC2 instance store
-
-4: Amazon S3
-
-### Question 5
-
-**A production application runs on an Amazon RDS MySQL DB instance. A solutions architect is building a new reporting
-tool that will access the same data. The reporting tool must be highly available and not impact the performance of the
-production application.**
-
-**How can this be achieved?**
-
-1: Create a cross-region Multi-AZ deployment and create a read replica in the second region
-
-2: Create a Multi-AZ RDS Read Replica of the production RDS DB instance
-
-3: Use Amazon Data Lifecycle Manager to automatically create and manage snapshots
-
-4: Create a Single-AZ RDS Read Replica of the production RDS DB instance. Create a second Single-AZ RDS Read Replica
-from the replica
-
-### Question 6
-
-**An online store uses an Amazon Aurora database. The database is deployed as a Multi-AZ deployment. Recently, metrics
-have shown that database read requests are high and causing performance issues which result in latency for write
-requests.**
-
-**What should the solutions architect do to separate the read requests from the write requests?**
-
-1: Enable read through caching on the Amazon Aurora database
-
-2: Update the application to read from the Multi-AZ standby instance
-
-3: Create a read replica and modify the application to use the appropriate endpoint
-
-4: Create a second Amazon Aurora database and link it to the primary database as a read replica
-
-### Question 7
-
-**An application is deployed on multiple AWS regions and accessed from around the world. The application exposes static
-public IP addresses. Some users are experiencing poor performance when accessing the application over the Internet.**
-
-**What should a solutions architect recommend to reduce internet latency?**
-
-1: Set up AWS Global Accelerator and add endpoints
-
-2: Set up AWS Direct Connect locations in multiple Regions
-
-3: Set up an Amazon CloudFront distribution to access an application
-
-4: Set up an Amazon Route 53 geoproximity routing policy to route traffic
-
-### Question 8
-
-**A new application will be launched on an Amazon EC2 instance with an Elastic Block Store (EBS) volume. A solutions
-architect needs to determine the most cost-effective storage option. The application will have infrequent usage, with
-peaks of traffic for a couple of hours in the morning and evening. Disk I/O is variable with peaks of up to 3,000
-IOPS.**
-
-**Which solution should the solutions architect recommend?**
-
-1: Amazon EBS Cold HDD (sc1)
-
-2: Amazon EBS General Purpose SSD (gp2)
-
-3: Amazon EBS Provisioned IOPS SSD (io1)
-
-4: Amazon EBS Throughput Optimized HDD (st1)
-
-### Question 9
-
-**A security team wants to limit access to specific services or actions in all of the team's AWS accounts. All accounts
-belong to a large organization in AWS Organizations. The solution must be scalable and there must be a single point
-where permissions can be maintained.**
-
-**What should a solutions architect do to accomplish this?**
-
-1: Create an ACL to provide access to the services or actions
-
-2: Create a security group to allow accounts and attach it to user groups
-
-3: Create cross-account roles in each account to deny access to the services or actions
-
-4: Create a service control policy in the root organizational unit to deny access to the services or actions
-
-### Question 10
-
-**A company is planning to use Amazon S3 to store documents uploaded by its customers. The images must be encrypted at
-rest in Amazon S3. The company does not want to spend time managing and rotating the keys, but it does want to control
-who can access those keys.**
-
-**What should a solutions architect use to accomplish this?**
-
-1: Server-Side Encryption with keys stored in an S3 bucket
-
-2: Server-Side Encryption with Customer-Provided Keys (SSE-C)
-
-3: Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)
-
-4: Server-Side Encryption with AWS KMS-Managed Keys (SSE-KMS)
-
-### Question 11
-
-**A company has some statistical data stored in an Amazon RDS database. The company want to allow users to access this
-information using an API. A solutions architect must create a solution that allows sporadic access to the data, ranging
-from no requests to large bursts of traffic.**
-
-**Which solution should the solutions architect suggest?**
-
-1: Set up an Amazon API Gateway and use Amazon ECS
-
-2: Set up an Amazon API Gateway and use AWS Elastic Beanstalk
-
-3: Set up an Amazon API Gateway and use AWS Lambda functions
-
-4: Set up an Amazon API Gateway and use Amazon EC2 with Auto Scaling
-
-### Question 12
-
-**A company runs a financial application using an Amazon EC2 Auto Scaling group behind an Application Load Balancer (
-ALB). When running month-end reports on a specific day and time each month the application becomes unacceptably slow.
-Amazon CloudWatch metrics show the CPU utilization hitting 100%.**
-
-**What should a solutions architect recommend to ensure the application is able to handle the workload and avoid
-downtime?**
-
-1: Configure an Amazon CloudFront distribution in front of the ALB
-
-2: Configure an EC2 Auto Scaling simple scaling policy based on CPU utilization
-
-3: Configure an EC2 Auto Scaling scheduled scaling policy based on the monthly schedule
-
-4: Configure Amazon ElastiCache to remove some of the workload from the EC2 instances
-
-### Question 13
-
-**A solutions architect is designing a high performance computing (HPC) application using Amazon EC2 Linux instances.
-All EC2 instances need to communicate to each other with low latency and high throughput network performance.**
-
-**Which EC2 solution BEST meets these requirements?**
-
-1: Launch the EC2 instances in a cluster placement group in one Availability Zone
-
-2: Launch the EC2 instances in a spread placement group in one Availability Zone
-
-3: Launch the EC2 instances in an Auto Scaling group in two Regions. Place a Network Load Balancer in front of the
-instances
-
-4: Launch the EC2 instances in an Auto Scaling group spanning multiple Availability Zones
-
-### Question 14
-
-**A web application in a three-tier architecture runs on a fleet of Amazon EC2 instances. Performance issues have been
-reported and investigations point to insufficient swap space. The operations team requires monitoring to determine if
-this is correct.**
-
-**What should a solutions architect recommend?**
-
-1: Configure an Amazon CloudWatch SwapUsage metric dimension. Monitor the SwapUsage dimension in the EC2 metrics in
-CloudWatch
-
-2: Use EC2 metadata to collect information, then publish it to Amazon CloudWatch custom metrics. Monitor SwapUsage
-metrics in CloudWatch
-
-3: Install an Amazon CloudWatch agent on the instances. Run an appropriate script on a set schedule. Monitor
-SwapUtilization metrics in CloudWatch
-
-4: Enable detailed monitoring in the EC2 console. Create an Amazon CloudWatch SwapUtilization custom metric. Monitor
-SwapUtilization metrics in CloudWatch
-
-### Question 15
-
-**A gaming company collects real-time data and stores it in an on-premises database system. The company are migrating to
-AWS and need better performance for the database. A solutions architect has been asked to recommend an in-memory
-database that supports data replication.**
-
-**Which database should a solutions architect recommend?**
-
-1: Amazon RDS for MySQL
-
-2: Amazon RDS for PostgreSQL
-
-3: Amazon ElastiCache for Redis
-
-4: Amazon ElastiCache for Memcached
-
-### Question 16
-
-**A company has experienced malicious traffic from some suspicious IP addresses. The security team discovered the
-requests are from different IP addresses under the same CIDR range.**
-
-**What should a solutions architect recommend to the team?**
-
-1: Add a rule in the inbound table of the security group to deny the traffic from that CIDR range
-
-2: Add a rule in the outbound table of the security group to deny the traffic from that CIDR range
-
-3: Add a deny rule in the inbound table of the network ACL with a lower rule number than other rules
-
-4: Add a deny rule in the outbound table of the network ACL with a lower rule number than other rules
-
-### Question 17
-
-**A solutions architect is designing a microservices architecture. AWS Lambda will store data in an Amazon DynamoDB
-table named Orders. The solutions architect needs to apply an IAM policy to the Lambda**
-
-**function’s execution role to allow it to put, update, and delete items in the Orders table. No other actions should be
-allowed.**
-
-**Which of the following code snippets should be included in the IAM policy to fulfill this requirement whilst providing
-the LEAST privileged access?**
-
-1:
-
-```
-"Sid": "PutUpdateDeleteOnOrders",
-"Effect": "Allow",
-"Action": [
-    "dynamodb:PutItem",
-    "dynamodb:UpdateItem",
-    "dynamodb:DeleteItem"
-  ],
-"Resource": "arn:aws:dynamodb:us-east-1:227392126428:table/Orders"
-```
-
-2:
-
-```
-"Sid": "PutUpdateDeleteOnOrders",
-
-"Effect": "Allow",
-
-"Action": [
-
-"dynamodb:PutItem",
-
-"dynamodb:UpdateItem",
-
-"dynamodb:DeleteItem"
-
-],
-
-"Resource": "arn:aws:dynamodb:us-east-1:227392126428:table/*"
-``` 
-
-3:
-
-```
-"Sid": "PutUpdateDeleteOnOrders",
-
-"Effect": "Allow",
-
-"Action": "dynamodb:* ",
-
-"Resource": "arn:aws:dynamodb:us-east-1:227392126428:table/Orders"
-
-```
-
-4:
-
-```
-"Sid": "PutUpdateDeleteOnOrders",
-
-"Effect": "Deny",
-
-"Action": "dynamodb:* ",
-
-"Resource": "arn:aws:dynamodb:us-east-1:227392126428:table/Orders"
-```
-
-### Question 18
-
-**A company has created a duplicate of its environment in another AWS Region. The application is running in warm standby
-mode. There is an Application Load Balancer (ALB) in front of the application. Currently, failover is manual and
-requires updating a DNS alias record to point to the secondary ALB.**
-
-**How can a solutions architect automate the failover process?**
-
-1: Enable an ALB health check
-
-2: Enable an Amazon Route 53 health check
-
-3: Create a CNAME record on Amazon Route 53 pointing to the ALB endpoint
-
-4: Create a latency based routing policy on Amazon Route 53
-
-### Question 19
-
-**An application allows users to upload and download files. Files older than 2 years will be accessed less frequently. A
-solutions architect needs to ensure that the application can scale to any number of files while maintaining high
-availability and durability.**
-
-**Which scalable solutions should the solutions architect recommend?**
-
-1: Store the files on Amazon S3 with a lifecycle policy that moves objects older than 2 years to S3 Standard Infrequent
-Access (S3 Standard-IA)
-
-2: Store the files on Amazon Elastic File System (EFS) with a lifecycle policy that moves objects older than 2 years to
-EFS Infrequent Access (EFS IA)
-
-3: Store the files in Amazon Elastic Block Store (EBS) volumes. Schedule snapshots of the volumes. Use the snapshots to
-archive data older than 2 years
-
-4: Store the files in Amazon Elastic Block Store (EBS) volumes. Create a lifecycle policy to move files older than 2
-years to Amazon S3 Glacier
-
-### Question 20
-
-**A company is planning to migrate a large quantity of important data to Amazon S3. The data will be uploaded to a
-versioning enabled bucket in the us-west-1 Region. The solution needs to include replication of the data to another
-Region for disaster recovery purposes.**
-
-**How should a solutions architect configure the replication?**
-
-1: Create an additional S3 bucket in another Region and configure cross-Region replication
-
-2: Create an additional S3 bucket in another Region and configure cross-origin resource sharing (CORS)
-
-3: Create an additional S3 bucket with versioning in another Region and configure cross-Region replication
-
-4: Create an additional S3 bucket with versioning in another Region and configure cross-origin resource sharing
-(CORS)
-
-### Question 21
-
-**An application runs on Amazon EC2 instances across multiple Availability Zones. The instances run in an Amazon EC2
-Auto Scaling group behind an Application Load Balancer. The application performs best when the CPU utilization of the
-EC2 instances is at or near 40%.**
-
-**What should a solutions architect do to maintain the desired performance across all instances in the group?**
-
-1: Use a simple scaling policy to dynamically scale the Auto Scaling group
-
-2: Use a target tracking policy to dynamically scale the Auto Scaling group
-
-3: Use an AWS Lambda function to update the desired Auto Scaling group capacity
-
-4: Use scheduled scaling actions to scale up and scale down the Auto Scaling group
-
-### Question 22
-
-**A High Performance Computing (HPC) application needs storage that can provide 135,000 IOPS. The storage layer is
-replicated across all instances in a cluster.**
-
-**What is the optimal storage solution that provides the required performance and is cost-effective?**
-
-1: Use Amazon EBS Provisioned IOPS volume with 135,000 IOPS
-
-2: Use Amazon Instance Store
-
-3: Use Amazon S3 with byte-range fetch
-
-4: Use Amazon EC2 Enhanced Networking with an EBS HDD Throughput Optimized volume
-
-### Question 23
-
-**A high-performance file system is required for a financial modelling application. The data set will be stored on
-Amazon S3 and the storage solution must have seamless integration so objects can be accessed as files.**
-
-**Which storage solution should be used?**
-
-1: Amazon FSx for Windows File Server
-
-2: Amazon FSx for Lustre
-
-3: Amazon Elastic File System (EFS)
-
-4: Amazon Elastic Block Store (EBS)
-
-### Question 24
-
-**An application requires a MySQL database which will only be used several times a week for short periods. The database
-needs to provide automatic instantiation and scaling. Which database service is most suitable?**
-
-1: Amazon RDS MySQL
-
-2: Amazon EC2 instance with MySQL database installed
-
-3: Amazon Aurora
-
-4: Amazon Aurora Serverless
-
-### Question 25
-
-**An Architect needs to find a way to automatically and repeatably create many member accounts within an AWS
-Organization. The accounts also need to be moved into an OU and have VPCs and subnets created.**
-
-**What is the best way to achieve this?**
-
-1: Use the AWS Organizations API
-
-2: Use CloudFormation with scripts
-
-3: Use the AWS Management Console
-
-4: Use the AWS CLI
-
-### Question 26
-
-**An organization is extending a secure development environment into AWS. They have already secured the VPC including
-removing the Internet Gateway and setting up a Direct Connect connection. What else needs to be done to add
-encryption?**
-
-1: Setup a Virtual Private Gateway (VPG)
-
-2: Enable IPSec encryption on the Direct Connect connection
-
-3: Setup the Border Gateway Protocol (BGP) with encryption
-
-4: Configure an AWS Direct Connect Gateway
-
-### Question 27
-
-**A shared services VPC is being setup for use by several AWS accounts. An application needs to be securely shared from
-the shared services VPC. The solution should not allow consumers to connect to other instances in the VPC.**
-
-**How can this be setup with the least administrative effort? (Select TWO)**
-
-1: Create a Network Load Balancer (NLB)
-
-2 : Use AWS PrivateLink to expose the application as an endpoint service
-
-3: Use AWS ClassicLink to expose the application as an endpoint service
-
-4: Setup VPC peering between each AWS VPC
-
-5: Configure security groups to restrict access
-
-### Question 28
-
-**A web app allows users to upload images for viewing online. The compute layer that processes the images is behind an
-Auto Scaling group. The processing layer should be decoupled from the front end and the ASG needs to dynamically adjust
-based on the number of images being uploaded.**
-
-**How can this be achieved?**
-
-1: Create an Amazon SNS Topic to generate a notification each time a message is uploaded. Have the ASG scale based on
-the number of SNS messages
-
-2: Create a target tracking policy that keeps the ASG at 70% CPU utilization
-
-3: Create an Amazon SQS queue and custom CloudWatch metric to measure the number of messages in the queue. Configure the
-ASG to scale based on the number of messages in the queue
-
-4: Create a scheduled policy that scales the ASG at times of expected peak load
-
-### Question 29
-
-**A web application is running on a fleet of Amazon EC2 instances using an Auto Scaling Group. It is desired that the
-CPU usage in the fleet is kept at 40%.**
-
-**How should scaling be configured?**
-
-1: Use a simple scaling policy that launches instances when the average CPU hits 40%
-
-2: Use a target tracking policy that keeps the average aggregate CPU utilization at 40%
-
-3: Use a step scaling policy that uses the PercentChangeInCapacity value to adjust the group size as required
-
-4: Use a custom CloudWatch alarm to monitor CPU usage and notify the ASG using Amazon SNS
-
-### Question 30
-
-**Health related data in Amazon S3 needs to be frequently accessed for up to 90 days. After that time the data must be
-retained for compliance reasons for seven years and is rarely accessed.**
-
-**Which storage classes should be used?**
-
-1: Store data in STANDARD for 90 days then transition the data to DEEP_ARCHIVE
-
-2: Store data in INTELLIGENT_TIERING for 90 days then transition to STANDARD_IA
-
-3: Store data in STANDARD for 90 days then expire the data
-
-4: Store data in STANDARD for 90 days then transition to REDUCED_REDUNDANCY
-
-### Question 31
-
-**An e-commerce web application needs a highly scalable key-value database. Which AWS database service should be used?**
-
-1: Amazon RDS
-
-2: Amazon RedShift
-
-3: Amazon DynamoDB
-
-4: Amazon ElastiCache
-
-### Question 32
-
-**You work for Digital Cloud Training and have just created a number of IAM users in your AWS account. You need to
-ensure that the users are able to make API calls to AWS services. What else needs to be done?**
-
-1: Enable Multi-Factor Authentication for the users
-
-2: Create a set of Access Keys for the users
-
-3: Set a password for each user
-
-4: Create a group and add the users to it
-
-### Question 33
-
-**A Solutions Architect is migrating a small relational database into AWS. The database will run on an EC2 instance and
-the DB size is around 500 GB. The database is infrequently used with small amounts of requests spread across the day.
-The DB is a low priority and the Architect needs to lower the cost of the solution.**
-
-**What is the MOST cost-effective storage type?**
-
-1: Amazon EBS Provisioned IOPS SSD
-
-2: Amazon EFS
-
-3: Amazon EBS Throughput Optimized HDD
-
-4: Amazon EBS General Purpose SSD
-
-### Question 34
-
-**A Solutions Architect is designing a solution for a financial application that will receive trading data in large
-volumes. What is the best solution for ingesting and processing a very large number of data streams in near real time?**
-
-1: Amazon Redshift
-
-2: Amazon Kinesis Firehose
-
-3: Amazon EMR
-
-4: Amazon Kinesis Data Streams
-
-### Question 35
-
-**You have created an application in a VPC that uses a Network Load Balancer (NLB). The application will be offered in a
-service provider model for AWS principals in other accounts within the region to consume. Based on this model, what AWS
-service will be used to offer the service for consumption?**
-
-1: IAM Role Based Access Control
-
-2: Route 53
-
-3: VPC Endpoint Services using AWS PrivateLink
-
-4: API Gateway
-
-### Question 36
-
-**A company is migrating an on-premises 10 TB MySQL database to AWS. The company expects the database to quadruple in
-size and the business requirement is that replicate lag must be kept under 100 milliseconds.**
-
-**Which Amazon RDS engine meets these requirements?**
-
-1: Amazon Aurora
-
-2: Oracle
-
-3: Microsoft SQL Server
-
-4: MySQL
-
-### Question 37
-
-**A Solutions Architect is determining the best method for provisioning Internet connectivity for a data- processing
-application that will pull large amounts of data from an object storage system via the Internet. The solution must be
-redundant and have no constraints on bandwidth.**
-
-**Which option satisfies these requirements?**
-
-1: Deploy NAT Instances in a public subnet
-
-2: Use a NAT Gateway
-
-3: Create a VPC endpoint
-
-4: Attach an Internet Gateway
-
-### Question 38
-
-**You need a service that can provide you with control over which traffic to allow or block to your web applications by
-defining customizable web security rules. You need to block common attack patterns, such as SQL injection and cross-site
-scripting, as well as creating custom rules for your own applications.**
-
-**Which AWS service fits these requirements?**
-
-1: Security Groups
-
-2: AWS WAF
-
-3: CloudFront
-
-4: Route 53
-
-### Question 39
-
-**A Solutions Architect is designing a mobile application that will capture receipt images to track expenses. The
-Architect wants to store the images on Amazon S3. However, uploading the images through the web server will create too
-much traffic.**
-
-**What is the MOST efficient method to store images from a mobile application on Amazon S3?**
-
-1: Expand the web server fleet with Spot instances to provide the resources to handle the images
-
-2: Upload to a second bucket, and have a Lambda event copy the image to the primary bucket
-
-3: Upload to a separate Auto Scaling Group of server behind an ELB Classic Load Balancer, and have the server instances
-write to the Amazon S3 bucket
-
-4: Upload directly to S3 using a pre-signed URL
-
-### Question 40
-
-**An EC2 status check on an EBS volume is showing as** **_insufficient-data_****. What is the most likely explanation?**
-
-1: The checks have failed on the volume
-
-2: The checks may still be in progress on the volume
-
-3: The volume does not have enough data on it to check properly
-
-4: The checks require more information to be manually entered
-
-### Question 41
-
-**A Kinesis consumer application is reading at a slower rate than expected. It has been identified that multiple
-consumer applications have total reads exceeding the per-shard limits. How can this situation be resolved?**
-
-1: Increase the number of shards in the Kinesis data stream
-
-2: Implement API throttling to restrict the number of requests per-shard
-
-3: Increase the number of read transactions per shard
-
-4: Implement read throttling for the Kinesis data stream
-
-### Question 42
-
-**A Solutions Architect is designing a workload that requires a high performance object-based storage system that must
-be shared with multiple Amazon EC2 instances.**
-
-**Which AWS service delivers these requirements?**
-
-1: Amazon S3
-
-2: Amazon ElastiCache
-
-3: Amazon EFS
-
-4: Amazon EBS
-
-### Question 43
-
-**You have been asked to deploy a new High-Performance Computing (HPC) cluster. You need to create a design for the EC2
-instances that ensures close proximity, low latency and high network throughput.**
-
-**Which AWS features will help you to achieve this requirement whilst considering cost? (Select TWO)**
-
-1: Use Provisioned IOPS EBS volumes
-
-2: Launch I/O Optimized EC2 instances in one private subnet in an AZ
-
-3: Use EC2 instances with Enhanced Networking
-
-4: Use dedicated hosts
-
-5: Use Placement groups
-
-### Question 44
-
-**An issue has been reported whereby Amazon EC2 instances are not being terminated from an Auto Scaling Group behind an
-ELB when traffic volumes are low. How can this be fixed?**
-
-1: Modify the upper threshold settings on the ASG
-
-2: Modify the lower threshold settings on the ASG
-
-3: Modify the scale down increment
-
-4: Modify the scaling settings on the ELB
-
-### Question 45
-
-**Your Business Intelligence team use SQL tools to analyze data. What would be the best solution for performing queries
-on structured data that is being received at a high velocity?**
-
-1: EMR using Hive
-
-2: Kinesis Firehose with RDS
-
-3: EMR running Apache Spark
-
-4: Kinesis Firehose with RedShift
-
-### Question 46
-
-**A new security mandate requires that all personnel data held in the cloud is encrypted at rest. Which two methods
-allow you to encrypt data stored in S3 buckets at rest cost-efficiently? (Select TWO)**
-
-1: Make use of AWS S3 bucket policies to control access to the data at rest
-
-2: Use AWS S3 server-side encryption with Key Management Service keys or Customer-provided keys
-
-3: Use CloudHSM
-
-4: Encrypt the data at the source using the client's CMK keys before transferring it to S3
-
-5: Use Multipart upload with SSL
-
-### Question 47
-
-**An application stack includes an Elastic Load Balancer in a public subnet, a fleet of Amazon EC2 instances in an Auto
-Scaling Group, and an Amazon RDS MySQL cluster. Users connect to the application from the Internet. The application
-servers and database must be secure.**
-
-**What is the most appropriate architecture for the application stack?**
-
-1: Create a public subnet for the Amazon EC2 instances and a public subnet for the Amazon RDS cluster
-
-2: Create a public subnet for the Amazon EC2 instances and a private subnet for the Amazon RDS cluster
-
-3: Create a private subnet for the Amazon EC2 instances and a private subnet for the Amazon RDS cluster
-
-4: Create a private subnet for the Amazon EC2 instances and a public subnet for the Amazon RDS cluster
-
-### Question 48
-
-**An application currently stores all data on Amazon EBS volumes. All EBS volumes must be backed up durably across
-multiple Availability Zones.**
-
-**What is the MOST resilient way to back up volumes?**
-
-1: Take regular EBS snapshots
-
-2: Enable EBS volume encryption
-
-3: Mirror data across two EBS volumes
-
-4: Create a script to copy data to an EC2 instance store
-
-### Question 49
-
-**You have implemented API Gateway and enabled a cache for a specific stage. How can you control the cache to enhance
-performance and reduce load on back-end services?**
-
-1: Configure the throttling feature
-
-2: Enable bursting
-
-3: Using time-to-live (TTL) settings
-
-4: Using CloudFront controls
-
-### Question 50
-
-**The development team at your company have created a new mobile application that will be used by users to access
-confidential data. The developers have used Amazon Cognito for authentication, authorization, and user management. Due
-to the sensitivity of the data, there is a requirement to add another method of authentication in addition to a username
-and password.**
-
-**You have been asked to recommend the best solution. What is your recommendation?**
-
-1: Use multi-factor authentication (MFA) with a Cognito user pool
-
-2: Integrate a third-party identity provider (IdP)
-
-3: Enable multi-factor authentication (MFA) in IAM
-
-4: Integrate IAM with a user pool in Cognito
-
-### Question 51
-
-**A company is serving videos to their customers from us-east-1 from an Amazon S3 bucket. The company’s customers are
-located around the world and there is high demand during peak hours. Customers in Asia complain about slow download
-speeds during peak hours and customers in all locations have reported experiencing HTTP 500 errors.**
-
-**How can a Solutions Architect address the issues?**
-
-1: Use an Amazon Route 53 weighted routing policy for the CloudFront domain name to distribute GET requests between
-CloudFront and the S3 bucket
-
-2: Replicate the bucket in us-east-1 and use Amazon Route 53 failover routing to determine which bucket to serve the
-content from
-
-3: Cache the web content using Amazon CloudFront and use all Edge locations for content delivery
-
-4: Place an Amazon ElastiCache cluster in front of the S3 bucket
-
-### Question 52
-
-**There is expected to be a large increase in write intensive traffic to a website you manage that registers users onto
-an online learning program. You are concerned about writes to the database being dropped and need to come up with a
-solution to ensure this does not happen. Which of the solution options below would be the best approach to take?**
-
-1: Update the application to write data to an SQS queue and provision additional EC2 instances to process the data and
-write it to the database
-
-2: Use RDS in a multi-AZ configuration to distribute writes across AZs
-
-3: Use CloudFront to cache the writes and configure the database as a custom origin
-
-4: Update the application to write data to an S3 bucket and provision additional EC2 instances to process the data and
-write it to the database
-
-### Question 53
-
-**You are designing a solution on AWS that requires a file storage layer that can be shared between multiple EC2
-instances. The storage should be highly-available and should scale easily.**
-
-**Which AWS service can be used for this design?**
-
-1: Amazon S3
-
-2: Amazon EC2 instance store
-
-3: Amazon EFS
-
-4: Amazon EBS
-
-### Question 54
-
-**A company is generating large datasets with millions of rows that must be summarized by column. Existing business
-intelligence tools will be used to build daily reports.**
-
-**Which storage service meets the requirements?**
-
-1: Amazon DynamoDB
-
-2: Amazon RDS
-
-3: Amazon RedShift
-
-4: Amazon ElastiCache
-
-### Question 55
-
-**You need to scale read operations for your Amazon Aurora DB within a region. To increase availability you also need to
-be able to failover if the primary instance fails.**
-
-**What should you implement?**
-
-1: Aurora Replicas
-
-2: A DB cluster
-
-3: An Aurora Cluster Volume
-
-4: Aurora Global Database
-
-### Question 56
-
-**An Architect is designing a serverless application that will accept images uploaded by users from around the world.
-The application will make API calls to back-end services and save the session state data of the user to a database.**
-
-**Which combination of services would provide a solution that is cost-effective while delivering the least latency?**
-
-1: Amazon CloudFront, API Gateway, Amazon S3, AWS Lambda, DynamoDB
-
-2: Amazon CloudFront, API Gateway, Amazon S3, AWS Lambda, Amazon RDS
-
-3: Amazon S3, API Gateway, AWS Lambda, Amazon RDS
-
-4: API Gateway, Amazon S3, AWS Lambda, DynamoDB
-
-### Question 57
-
-**You are developing an application that uses Lambda functions. You need to store some sensitive data that includes
-credentials for accessing the database tier. You are planning to store this data as environment variables within Lambda.
-How can you ensure this sensitive information is properly secured?**
-
-1: This cannot be done, only the environment variables that relate to the Lambda function itself can be encrypted
-
-2: Use encryption helpers that leverage AWS Key Management Service to store the sensitive information as Ciphertext
-
-3: There is no need to make any changes as all environment variables are encrypted by default with AWS Lambda
-
-4: Store the environment variables in an encrypted DynamoDB table and configure Lambda to retrieve them as required
-
-### Question 58
-
-**You are deploying an application on Amazon EC2 that must call AWS APIs. Which method of securely passing credentials
-to the application should you use?**
-
-1: Store the API credentials on the instance using instance metadata
-
-2: Store API credentials as an object in Amazon S3
-
-3: Embed the API credentials into your application files
-
-4: Assign IAM roles to the EC2 instances
-
-### Question 59
-
-**A Solutions Architect needs to monitor application logs and receive a notification whenever a specific number of
-occurrences of certain HTTP status code errors occur. Which tool should the Architect use?**
-
-1: CloudWatch Metrics
-
-2: CloudWatch Events
-
-3: CloudTrail Trails
-
-4: CloudWatch Logs
-
-### Question 60
-
-**A Solutions Architect is designing a static website that will use the zone apex of a DNS domain (e.g. example.com).
-The Architect wants to use the Amazon Route 53 service. Which steps should the Architect take to implement a scalable
-and cost-effective solution? (Select TWO)**
-
-1: Create a Route 53 hosted zone, and set the NS records of the domain to use Route 53 name servers
-
-2: Serve the website from an Amazon S3 bucket, and map a Route 53 Alias record to the website endpoint
-
-3: Host the website on an Amazon EC2 instance, and map a Route 53 Alias record to the public IP address of the EC2
-instance
-
-4: Host the website using AWS Elastic Beanstalk, and map a Route 53 Alias record to the Beanstalk stack
-
-5: Host the website on an Amazon EC2 instance with ELB and Auto Scaling, and map a Route 53 Alias record to the ELB
-endpoint
-
-### Question 61
-
-**A Solutions Architect is designing a web page for event registrations and needs a managed service to send a text
-message to users every time users sign up for an event.**
-
-**Which AWS service should the Architect use to achieve this?**
-
-1: Amazon STS
-
-2: Amazon SQS
-
-3: AWS Lambda
-
-4: Amazon SNS
-
-### Question 62
-
-**A company runs a service on AWS to provide offsite backups for images on laptops and phones. The solution must support
-millions of customers, with thousands of images per customer. Images will be retrieved infrequently but must be
-available for retrieval immediately.**
-
-**Which is the MOST cost-effective storage option that meets these requirements?**
-
-1: Amazon Glacier with expedited retrievals
-
-2: Amazon S3 Standard-Infrequent Access
-
-3: Amazon EFS
-
-4: Amazon S3 Standard
-
-### Question 63
-
-**A Solutions Architect is designing a solution to store and archive corporate documents, and has determined that Amazon
-Glacier is the right solution. Data must be delivered within 10 minutes of a retrieval request.**
-
-**Which features in Amazon Glacier can help meet this requirement?**
-
-1: Standard retrieval
-
-2: Bulk retrieval
-
-3: Expedited retrieval
-
-4: Vault Lock
-
-### Question 64
-
-**You are planning to deploy a number of EC2 instances in your VPC. The EC2 instances will be deployed across several
-subnets and multiple AZs. What AWS feature can act as an instance-level firewall to control traffic between your EC2
-instances?**
-
-1: AWS WAF
-
-2: Security group
-
-3: Route table
-
-4: Network ACL
-
-### Question 65
-
-**A critical database runs in your VPC for which availability is a concern. Which RDS DB instance events may force the
-DB to be taken offline during a maintenance window?**
-
-1: Selecting the Multi-AZ feature
-
-2: Security patching
-
-3: Promoting a Read Replica
-
-4: Updating DB parameter groups
-
-## Set 3: Practice Questions, Answers & Explanations
-
-### Question 1
+#### Question  1
 
 **A security officer requires that access to company financial reports is logged. The reports are stored in an Amazon S3
 bucket. Additionally, any modifications to the log files must be detected.**
@@ -11257,7 +7873,7 @@ https://docs.aws.amazon.com/awscloudtrail/latest/userguide/logging-data-events-w
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 cloudtrail/
 
-### Question 2
+#### Question  2
 
 **A company operates a production web application that uses an Amazon RDS MySQL database. The database has automated,
 non-encrypted daily backups. To increase the security of the data, it has been recommended that encryption should be
@@ -11306,7 +7922,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 3
+#### Question  3
 
 **A company has deployed an API in a VPC behind an internal Application Load Balancer (ALB). An application that
 consumes the API as a client is deployed in a second account in private subnets.**
@@ -11371,7 +7987,7 @@ https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 4
+#### Question  4
 
 **An application runs on Amazon EC2 Linux instances. The application generates log files which are written using
 standard API calls. A storage solution is required that can be used to store the files indefinitely and must allow
@@ -11418,7 +8034,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 5
+#### Question  5
 
 **A production application runs on an Amazon RDS MySQL DB instance. A solutions architect is building a new reporting
 tool that will access the same data. The reporting tool must be highly available and not impact the performance of the
@@ -11464,7 +8080,7 @@ ER_MySQL.Replication.ReadReplicas.MultiAZ
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 6
+#### Question  6
 
 **An online store uses an Amazon Aurora database. The database is deployed as a Multi-AZ deployment. Recently, metrics
 have shown that database read requests are high and causing performance issues which result in latency for write
@@ -11515,7 +8131,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
 
-### Question 7
+#### Question  7
 
 **An application is deployed on multiple AWS regions and accessed from around the world. The application exposes static
 public IP addresses. Some users are experiencing poor performance when accessing the application over the Internet.**
@@ -11616,7 +8232,7 @@ https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelera
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/aws-global-accelerator/
 
-### Question 8
+#### Question  8
 
 **A new application will be launched on an Amazon EC2 instance with an Elastic Block Store (EBS) volume. A solutions
 architect needs to determine the most cost-effective storage option. The application will have infrequent usage, with
@@ -11710,7 +8326,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 9
+#### Question  9
 
 **A security team wants to limit access to specific services or actions in all of the team's AWS accounts. All accounts
 belong to a large organization in AWS Organizations. The solution must be scalable and there must be a single point
@@ -11798,7 +8414,7 @@ https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 organizations/
 
-### Question 10
+#### Question  10
 
 **A company is planning to use Amazon S3 to store documents uploaded by its customers. The images must be encrypted at
 rest in Amazon S3. The company does not want to spend time managing and rotating the keys, but it does want to control
@@ -11853,7 +8469,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-kms/
 
-### Question 11
+#### Question  11
 
 **A company has some statistical data stored in an Amazon RDS database. The company want to allow users to access this
 information using an API. A solutions architect must create a solution that allows sporadic access to the data, ranging
@@ -11896,7 +8512,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/invocation-scaling.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 12
+#### Question  12
 
 **A company runs a financial application using an Amazon EC2 Auto Scaling group behind an Application Load Balancer (
 ALB). When running month-end reports on a specific day and time each month the application becomes unacceptably slow.
@@ -11944,7 +8560,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/schedule_time.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 13
+#### Question  13
 
 **A solutions architect is designing a high performance computing (HPC) application using Amazon EC2 Linux instances.
 All EC2 instances need to communicate to each other with low latency and high throughput network performance.**
@@ -12001,7 +8617,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 14
+#### Question  14
 
 **A web application in a three-tier architecture runs on a fleet of Amazon EC2 instances. Performance issues have been
 reported and investigations point to insufficient swap space. The operations team requires monitoring to determine if
@@ -12056,7 +8672,7 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Install-CloudWatc
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
 tools/amazon-cloudwatch/
 
-### Question 15
+#### Question  15
 
 **A gaming company collects real-time data and stores it in an on-premises database system. The company are migrating to
 AWS and need better performance for the database. A solutions architect has been asked to recommend an in-memory
@@ -12122,7 +8738,7 @@ https://aws.amazon.com/elasticache/redis/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 elasticache/
 
-### Question 16
+#### Question  16
 
 **A company has experienced malicious traffic from some suspicious IP addresses. The security team discovered the
 requests are from different IP addresses under the same CIDR range.**
@@ -12225,7 +8841,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 17
+#### Question  17
 
 **A solutions architect is designing a microservices architecture. AWS Lambda will store data in an Amazon DynamoDB
 table named Orders. The solutions architect needs to apply an IAM policy to the Lambda function’s execution role to
@@ -12368,7 +8984,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.htm
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 18
+#### Question  18
 
 **A company has created a duplicate of its environment in another AWS Region. The application is running in warm standby
 mode. There is an Application Load Balancer (ALB) in front of the application. Currently, failover is manual and
@@ -12423,7 +9039,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/route- 53 - dns-health-ch
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-route-53/
 
-### Question 19
+#### Question  19
 
 **An application allows users to upload and download files. Files older than 2 years will be accessed less frequently. A
 solutions architect needs to ensure that the application can scale to any number of files while maintaining high
@@ -12512,7 +9128,7 @@ https://aws.amazon.com/s3/storage-classes/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 20
+#### Question  20
 
 **A company is planning to migrate a large quantity of important data to Amazon S3. The data will be uploaded to a
 versioning enabled bucket in the us-west-1 Region. The solution needs to include replication of the data to another
@@ -12557,7 +9173,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/replication.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 21
+#### Question  21
 
 **An application runs on Amazon EC2 instances across multiple Availability Zones. The instances run in an Amazon EC2
 Auto Scaling group behind an Application Load Balancer. The application performs best when the CPU utilization of the
@@ -12605,7 +9221,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-target-tracking
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 22
+#### Question  22
 
 **A High Performance Computing (HPC) application needs storage that can provide 135,000 IOPS. The storage layer is
 replicated across all instances in a cluster.**
@@ -12653,7 +9269,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 23
+#### Question  23
 
 **A high-performance file system is required for a financial modelling application. The data set will be stored on
 Amazon S3 and the storage solution must have seamless integration so objects can be accessed as files.**
@@ -12697,7 +9313,7 @@ https://aws.amazon.com/fsx/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/
 
-### Question 24
+#### Question  24
 
 **An application requires a MySQL database which will only be used several times a week for short periods. The database
 needs to provide automatic instantiation and scaling. Which database service is most suitable?**
@@ -12787,7 +9403,7 @@ https://aws.amazon.com/rds/aurora/serverless/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
 
-### Question 25
+#### Question  25
 
 **An Architect needs to find a way to automatically and repeatably create many member accounts within an AWS
 Organization. The accounts also need to be moved into an OU and have VPCs and subnets created.**
@@ -12830,7 +9446,7 @@ creation/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 organizations/
 
-### Question 26
+#### Question  26
 
 **An organization is extending a secure development environment into AWS. They have already secured the VPC including
 removing the Internet Gateway and setting up a Direct Connect connection. What else needs to be done to add
@@ -12876,7 +9492,7 @@ https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gatewa
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 27
+#### Question  27
 
 **A shared services VPC is being setup for use by several AWS accounts. An application needs to be securely shared from
 the shared services VPC. The solution should not allow consumers to connect to other instances in the VPC.**
@@ -12932,7 +9548,7 @@ https://d1.awsstatic.com/whitepapers/aws-privatelink.pdf
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 28
+#### Question  28
 
 **A web app allows users to upload images for viewing online. The compute layer that processes the images is behind an
 Auto Scaling group. The processing layer should be decoupled from the front end and the ASG needs to dynamically adjust
@@ -13037,7 +9653,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 29
+#### Question  29
 
 **A web application is running on a fleet of Amazon EC2 instances using an Auto Scaling Group. It is desired that the
 CPU usage in the fleet is kept at 40%.**
@@ -13086,7 +9702,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-simple-step.htm
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 30
+#### Question  30
 
 **Health related data in Amazon S3 needs to be frequently accessed for up to 90 days. After that time the data must be
 retained for compliance reasons for seven years and is rarely accessed.**
@@ -13127,7 +9743,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-con
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 31
+#### Question  31
 
 **An e-commerce web application needs a highly scalable key-value database. Which AWS database service should be used?**
 
@@ -13168,7 +9784,7 @@ https://aws.amazon.com/nosql/key-value/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 32
+#### Question  32
 
 **You work for Digital Cloud Training and have just created a number of IAM users in your AWS account. You need to
 ensure that the users are able to make API calls to AWS services. What else needs to be done?**
@@ -13211,7 +9827,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 33
+#### Question  33
 
 **A Solutions Architect is migrating a small relational database into AWS. The database will run on an EC2 instance and
 the DB size is around 500 GB. The database is infrequently used with small amounts of**
@@ -13256,7 +9872,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 34
+#### Question  34
 
 **A Solutions Architect is designing a solution for a financial application that will receive trading data in large
 volumes. What is the best solution for ingesting and processing a very large number of data streams in near real time?**
@@ -13295,7 +9911,7 @@ https://docs.aws.amazon.com/streams/latest/dev/introduction.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
 
-### Question 35
+#### Question  35
 
 **You have created an application in a VPC that uses a Network Load Balancer (NLB). The application will be offered in a
 service provider model for AWS principals in other accounts within the region to consume. Based on this model, what AWS
@@ -13336,7 +9952,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-service.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 36
+#### Question  36
 
 **A company is migrating an on-premises 10 TB MySQL database to AWS. The company expects the database to quadruple in
 size and the business requirement is that replicate lag must be kept under 100 milliseconds.**
@@ -13387,7 +10003,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_Limits.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 37
+#### Question  37
 
 **A Solutions Architect is determining the best method for provisioning Internet connectivity for a data- processing
 application that will pull large amounts of data from an object storage system via the Internet. The solution must be
@@ -13435,7 +10051,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 38
+#### Question  38
 
 **You need a service that can provide you with control over which traffic to allow or block to your web applications by
 defining customizable web security rules. You need to block common attack patterns, such as SQL injection and cross-site
@@ -13481,7 +10097,7 @@ https://aws.amazon.com/waf/details/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-waf-and-shield/
 
-### Question 39
+#### Question  39
 
 **A Solutions Architect is designing a mobile application that will capture receipt images to track expenses. The
 Architect wants to store the images on Amazon S3. However, uploading the images through the web server will create too
@@ -13526,7 +10142,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 40
+#### Question  40
 
 **An EC2 status check on an EBS volume is showing as** **_insufficient-data_****. What is the most likely explanation?**
 
@@ -13565,7 +10181,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeVolumeStatus.
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 41
+#### Question  41
 
 **A Kinesis consumer application is reading at a slower rate than expected. It has been identified that multiple
 consumer applications have total reads exceeding the per-shard limits. How can this situation be resolved?**
@@ -13610,7 +10226,7 @@ https://docs.aws.amazon.com/streams/latest/dev/kinesis-record-processor-addition
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
 
-### Question 42
+#### Question  42
 
 **A Solutions Architect is designing a workload that requires a high performance object-based storage system that must
 be shared with multiple Amazon EC2 instances.**
@@ -13648,7 +10264,7 @@ https://aws.amazon.com/s3/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 43
+#### Question  43
 
 **You have been asked to deploy a new High-Performance Computing (HPC) cluster. You need to create a design for the EC2
 instances that ensures close proximity, low latency and high network throughput.**
@@ -13708,7 +10324,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 44
+#### Question  44
 
 **An issue has been reported whereby Amazon EC2 instances are not being terminated from an Auto Scaling Group behind an
 ELB when traffic volumes are low. How can this be fixed?**
@@ -13751,7 +10367,7 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-cfg-autoscal
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 45
+#### Question  45
 
 **Your Business Intelligence team use SQL tools to analyze data. What would be the best solution for performing queries
 on structured data that is being received at a high velocity?**
@@ -13792,7 +10408,7 @@ https://aws.amazon.com/kinesis/data-firehose/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
 
-### Question 46
+#### Question  46
 
 **A new security mandate requires that all personnel data held in the cloud is encrypted at rest. Which two methods
 allow you to encrypt data stored in S3 buckets at rest cost-efficiently? (Select TWO)**
@@ -13843,7 +10459,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 47
+#### Question  47
 
 **An application stack includes an Elastic Load Balancer in a public subnet, a fleet of Amazon EC2 instances in an Auto
 Scaling Group, and an Amazon RDS MySQL cluster. Users connect to the application from the Internet. The application
@@ -13893,7 +10509,7 @@ l#USER_VPC.Subnets
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 48
+#### Question  48
 
 **An application currently stores all data on Amazon EBS volumes. All EBS volumes must be backed up durably across
 multiple Availability Zones.**
@@ -13937,7 +10553,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 49
+#### Question  49
 
 **You have implemented API Gateway and enabled a cache for a specific stage. How can you control the cache to enhance
 performance and reduce load on back-end services?**
@@ -13981,7 +10597,7 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-api-gateway/
 
-### Question 50
+#### Question  50
 
 **The development team at your company have created a new mobile application that will be used by users to access
 confidential data. The developers have used Amazon Cognito for authentication, authorization, and user management. Due
@@ -14058,7 +10674,7 @@ https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-settings-mfa
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/amazon-cognito/
 
-### Question 51
+#### Question  51
 
 **A company is serving videos to their customers from us-east-1 from an Amazon S3 bucket. The company’s customers are
 located around the world and there is high demand during peak hours. Customers in Asia complain about slow download
@@ -14109,7 +10725,7 @@ https://aws.amazon.com/cloudfront/features/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 52
+#### Question  52
 
 **There is expected to be a large increase in write intensive traffic to a website you manage that registers users onto
 an online learning program. You are concerned about writes to the database being dropped and need to come up with a
@@ -14156,7 +10772,7 @@ https://aws.amazon.com/sqs/features/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 53
+#### Question  53
 
 **You are designing a solution on AWS that requires a file storage layer that can be shared between multiple EC2
 instances. The storage should be highly-available and should scale easily.**
@@ -14233,7 +10849,7 @@ https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 54
+#### Question  54
 
 **A company is generating large datasets with millions of rows that must be summarized by column. Existing business
 intelligence tools will be used to build daily reports.**
@@ -14320,7 +10936,7 @@ https://docs.aws.amazon.com/redshift/index.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 redshift/
 
-### Question 55
+#### Question  55
 
 **You need to scale read operations for your Amazon Aurora DB within a region. To increase availability you also need to
 be able to failover if the primary instance fails.**
@@ -14371,7 +10987,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
 
-### Question 56
+#### Question  56
 
 **An Architect is designing a serverless application that will accept images uploaded by users from around the world.
 The application will make API calls to back-end services and save the session state data of the user to a database.**
@@ -14461,7 +11077,7 @@ https://aws.amazon.com/blogs/aws/amazon-cloudfront-content-uploads-post-put-othe
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 57
+#### Question  57
 
 **You are developing an application that uses Lambda functions. You need to store some sensitive data that includes
 credentials for accessing the database tier. You are planning to store this data as environment variables within Lambda.
@@ -14511,7 +11127,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/env_variables.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 58
+#### Question  58
 
 **You are deploying an application on Amazon EC2 that must call AWS APIs. Which method of securely passing credentials
 to the application should you use?**
@@ -14561,7 +11177,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.htm
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 59
+#### Question  59
 
 **A Solutions Architect needs to monitor application logs and receive a notification whenever a specific number of
 occurrences of certain HTTP status code errors occur. Which tool should the Architect use?**
@@ -14604,7 +11220,7 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.ht
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
 tools/amazon-cloudwatch/
 
-### Question 60
+#### Question  60
 
 **A Solutions Architect is designing a static website that will use the zone apex of a DNS domain (e.g. example.com).
 The Architect wants to use the Amazon Route 53 service. Which steps should the Architect take to implement a scalable
@@ -14654,7 +11270,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-w
 
 https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html
 
-### Question 61
+#### Question  61
 
 **A Solutions Architect is designing a web page for event registrations and needs a managed service to send a text
 message to users every time users sign up for an event.**
@@ -14754,7 +11370,7 @@ https://docs.aws.amazon.com/sns/latest/dg/welcome.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sns/
 
-### Question 62
+#### Question  62
 
 **A company runs a service on AWS to provide offsite backups for images on laptops and phones. The solution must support
 millions of customers, with thousands of images per customer. Images will be retrieved infrequently but must be
@@ -14806,7 +11422,7 @@ https://aws.amazon.com/s3/storage-classes/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 63
+#### Question  63
 
 **A Solutions Architect is designing a solution to store and archive corporate documents, and has determined that Amazon
 Glacier is the right solution. Data must be delivered within 10 minutes of a retrieval request.**
@@ -14856,7 +11472,7 @@ https://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 64
+#### Question  64
 
 **You are planning to deploy a number of EC2 instances in your VPC. The EC2 instances will be deployed across several
 subnets and multiple AZs. What AWS feature can act as an instance-level firewall to control traffic between your EC2
@@ -14896,7 +11512,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 65
+#### Question  65
 
 **A critical database runs in your VPC for which availability is a concern. Which RDS DB instance events may force the
 DB to be taken offline during a maintenance window?**
@@ -14941,1033 +11557,9 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-## Set 4: Practice Questions only
+### Set 4
 
-_For training purposes_ , _go directly to Set 4: Practice Questions, Answers & Explanations_
-
-### Question 1
-
-**A company is deploying an Amazon ElastiCache for Redis cluster. To enhance security a password should be required to
-access the database. What should the solutions architect use?**
-
-1: AWS Directory Service
-
-2: AWS IAM Policy
-
-3: Redis AUTH command
-
-4: VPC Security Group
-
-### Question 2
-
-**To increase performance and redundancy for an application a company has decided to run multiple implementations in
-different AWS Regions behind network load balancers. The company currently advertise the application using two public IP
-addresses from separate /24 address ranges and would prefer not to change these. Users should be directed to the closest
-available application endpoint.**
-
-**Which actions should a solutions architect take? (Select TWO)**
-
-1: Create an Amazon Route 53 geolocation based routing policy
-
-2: Create an AWS Global Accelerator and attach endpoints in each AWS Region
-
-3: Assign new static anycast IP addresses and modify any existing pointers
-
-4: Migrate both public IP addresses to the AWS Global Accelerator
-
-5: Create PTR records to map existing public IP addresses to an Alias
-
-### Question 3
-
-**Three Amazon VPCs are used by a company in the same region. The company has two AWS Direct Connect connections to two
-separate company offices and wishes to share these with all three VPCs. A Solutions Architect has created an AWS Direct
-Connect gateway. How can the required connectivity be configured?**
-
-1: Associate the Direct Connect gateway to a transit gateway
-
-2: Associate the Direct Connect gateway to a virtual private gateway in each VPC
-
-3: Create a VPC peering connection between the VPCs and route entries for the Direct Connect Gateway
-
-4: Create a transit virtual interface between the Direct Connect gateway and each VPC
-
-### Question 4
-
-**A retail organization sends coupons out twice a week and this results in a predictable surge in sales traffic. The
-application runs on Amazon EC2 instances behind an Elastic Load Balancer. The organization is looking for ways to reduce
-cost without impacting performance or reliability. How can they achieve this goal?**
-
-1: Purchase scheduled reserved instances
-
-2: Use a mixture of spot instances and on demand instances
-
-3: Increase the instance size of the existing EC2 instances
-
-4: Purchase Amazon EC2 dedicated hosts
-
-### Question 5
-
-**Over 500 TB of data must be analyzed using standard SQL business intelligence tools. The dataset consists of a
-combination of structured data and unstructured data. The unstructured data is small and stored on Amazon S3. Which AWS
-services are most suitable for performing analytics on the data?**
-
-1: Amazon RDS MariaDB with Amazon Athena
-
-2: Amazon DynamoDB with Amazon DynamoDB Accelerator (DAX)
-
-3: Amazon ElastiCache for Redis with cluster mode enabled
-
-4: Amazon Redshift with Amazon Redshift Spectrum
-
-### Question 6
-
-**An application is being monitored using Amazon GuardDuty. A Solutions Architect needs to be notified by email of
-medium to high severity events. How can this be achieved?**
-
-1: Configure an Amazon CloudWatch alarm that triggers based on a GuardDuty metric
-
-2: Create an Amazon CloudWatch events rule that triggers an Amazon SNS topic
-
-3: Create an Amazon CloudWatch Logs rule that triggers an AWS Lambda function
-
-4: Configure an Amazon CloudTrail alarm the triggers based on GuardDuty API activity
-
-### Question 7
-
-**A company is migrating a decoupled application to AWS. The application uses a message broker based on the MQTT
-protocol. The application will be migrated to Amazon EC2 instances and the solution for the message broker must not
-require rewriting application code.**
-
-**Which AWS service can be used for the migrated message broker?**
-
-1: Amazon SQS
-
-2: Amazon SNS
-
-3: Amazon MQ
-
-4: AWS Step Functions
-
-### Question 8
-
-**A HR application stores employment records on Amazon S3. Regulations mandate the records are retained for seven years.
-Once created the records are accessed infrequently for the first three months and then must be available within 10
-minutes if required thereafter.**
-
-**Which lifecycle action meets the requirements whilst MINIMIZING cost?**
-
-1: Store the data in S3 Standard for 3 months, then transition to S3 Glacier
-
-2: Store the data in S3 Standard-IA for 3 months, then transition to S3 Glacier
-
-3: Store the data in S3 Standard for 3 months, then transition to S3 Standard-IA
-
-4: Store the data in S3 Intelligent Tiering for 3 months, then transition to S3 Standard-IA
-
-### Question 9
-
-**A highly elastic application consists of three tiers. The application tier runs in an Auto Scaling group and processes
-data and writes it to an Amazon RDS MySQL database. The Solutions Architect wants to restrict access to the database
-tier to only accept traffic from the instances in the application tier. However, instances in the application tier are
-being constantly launched and terminated.**
-
-**How can the Solutions Architect configure secure access to the database tier?**
-
-1: Configure the database security group to allow traffic only from the application security group
-
-2: Configure the database security group to allow traffic only from port 3306
-
-3: Configure a Network ACL on the database subnet to deny all traffic to ports other than 3306
-
-4: Configure a Network ACL on the database subnet to allow all traffic from the application subnet
-
-### Question 10
-
-**A Solutions Architect is rearchitecting an application with decoupling. The application will send batches of up to
-1000 messages per second that must be received in the correct order by the consumers.**
-
-**Which action should the Solutions Architect take?**
-
-1: Create an Amazon SQS Standard queue
-
-2: Create an Amazon SNS topic
-
-3: Create an Amazon SQS FIFO queue
-
-4: Create an AWS Step Functions state machine
-
-### Question 11
-
-**A Solutions Architect is designing an application that consists of AWS Lambda and Amazon RDS Aurora MySQL. The Lambda
-function must use database credentials to authenticate to MySQL and security policy mandates that these credentials must
-not be stored in the function code.**
-
-**How can the Solutions Architect securely store the database credentials and make them available to the function?**
-
-1: Store the credentials in AWS Key Management Service and use environment variables in the function code pointing to
-KMS
-
-2: Store the credentials in Systems Manager Parameter Store and update the function code and execution role
-
-3: Use the AWSAuthenticationPlugin and associate an IAM user account in the MySQL database
-
-4: Create an IAM policy and store the credentials in the policy. Attach the policy to the Lambda function execution role
-
-### Question 12
-
-**A company are finalizing their disaster recovery plan. A limited set of core services will be replicated to the DR
-site ready to seamlessly take over the in the event of a disaster. All other services will be switched off.**
-
-**Which DR strategy is the company using?**
-
-1: Backup and restore
-
-2: Pilot light
-
-3: Warm standby
-
-4: Multi-site
-
-### Question 13
-
-**An application that runs a computational fluid dynamics workload uses a tightly-coupled HPC architecture that uses the
-MPI protocol and runs across many nodes. A service-managed deployment is required to minimize operational overhead.**
-
-**Which deployment option is MOST suitable for provisioning and managing the resources required for this use case?**
-
-1: Use Amazon EC2 Auto Scaling to deploy instances in multiple subnets
-
-2: Use AWS CloudFormation to deploy a Cluster Placement Group on EC2
-
-3: Use AWS Batch to deploy a multi-node parallel job
-
-4: Use AWS Elastic Beanstalk to provision and manage the EC2 instances
-
-### Question 14
-
-**A Solutions Architect is designing an application that will run on an Amazon EC2 instance. The application must
-asynchronously invoke and AWS Lambda function to analyze thousands of .CSV files. The services should be decoupled.**
-
-**Which service can be used to decouple the compute services?**
-
-1: Amazon SQS
-
-2: Amazon SNS
-
-3: Amazon Kinesis
-
-4: Amazon OpsWorks
-
-### Question 15
-
-**A large MongoDB database running on-premises must be migrated to Amazon DynamoDB within the next few weeks. The
-database is too large to migrate over the company’s limited internet bandwidth so an alternative solution must be used.
-What should a Solutions Architect recommend?**
-
-1: Setup an AWS Direct Connect and migrate the database to Amazon DynamoDB using the AWS Database Migration Service (
-DMS)
-
-2: Use the Schema Conversion Tool (SCT) to extract and load the data to an AWS Snowball Edge device. Use the AWS
-Database Migration Service (DMS) to migrate the data to Amazon DynamoDB
-
-3: Enable compression on the MongoDB database and use the AWS Database Migration Service (DMS) to directly migrate the
-database to Amazon DynamoDB
-
-4: Use the AWS Database Migration Service (DMS) to extract and load the data to an AWS Snowball Edge device. Complete
-the migration to Amazon DynamoDB using AWS DMS in the AWS Cloud
-
-### Question 16
-
-**Every time an item in an Amazon DynamoDB table is modified a record must be retained for compliance reasons. What is
-the most efficient solution to recording this information?**
-
-1: Enable Amazon CloudWatch Logs. Configure an AWS Lambda function to monitor the log files and record deleted item data
-to an Amazon S3 bucket
-
-2: Enable DynamoDB Streams. Configure an AWS Lambda function to poll the stream and record the modified item data to an
-Amazon S3 bucket
-
-3: Enable Amazon CloudTrail. Configure an Amazon EC2 instance to monitor activity in the CloudTrail log files and record
-changed items in another DynamoDB table
-
-4: Enable DynamoDB Global Tables. Enable DynamoDB streams on the multi-region table and save the output directly to an
-Amazon S3 bucket
-
-### Question 17
-
-**An application in a private subnet needs to query data in an Amazon DynamoDB table. Use of the DynamoDB public
-endpoints must be avoided. What is the most EFFICIENT and secure method of enabling access to the table?**
-
-1: Create an interface VPC endpoint in the VPC with an Elastic Network Interface (ENI)
-
-2: Create a gateway VPC endpoint and add an entry to the route table
-
-3: Create a private Amazon DynamoDB endpoint and connect to it using an AWS VPN
-
-4: Create a software VPN between DynamoDB and the application in the private subnet
-
-### Question 18
-
-**A Solutions Architect needs to select a low-cost, short-term option for adding resilience to an AWS Direct Connect
-connection. What is the MOST cost-effective solution to provide a backup for the Direct Connect connection?**
-
-1: Implement a second AWS Direct Connection
-
-2: Implement an IPSec VPN connection and use the same BGP prefix
-
-3: Configure AWS Transit Gateway with an IPSec VPN backup
-
-4: Configure an IPSec VPN connection over the Direct Connect link
-
-### Question 19
-
-**The disk configuration for an Amazon EC2 instance must be finalized. The instance will be running an application that
-requires heavy read/write IOPS. A single volume is required that is 500 GiB in size and needs to support 20,000 IOPS.**
-
-**What EBS volume type should be selected?**
-
-1: EBS General Purpose SSD
-
-2: EBS Provisioned IOPS SSD
-
-3: EBS General Purpose SSD in a RAID 1 configuration
-
-4: EBS Throughput Optimized HDD
-
-### Question 20
-
-**A new application you are designing will store data in an Amazon Aurora MySQL DB. You are looking for a way to enable
-inter-region disaster recovery capabilities with fast replication and fast failover. Which of the following options is
-the BEST solution?**
-
-1: Use Amazon Aurora Global Database
-
-2: Enable Multi-AZ for the Aurora DB
-
-3 : Create an EBS backup of the Aurora volumes and use cross-region replication to copy the snapshot
-
-4: Create a cross-region Aurora Read Replica
-
-### Question 21
-
-**A Solutions Architect regularly launches EC2 instances manually from the console and wants to streamline the process
-to reduce administrative overhead. Which feature of EC2 enables storing of settings such as AMI ID, instance type, key
-pairs and Security Groups?**
-
-1: Placement Groups
-
-2: Launch Templates
-
-3: Run Command
-
-4: Launch Configurations
-
-### Question 22
-
-**You recently noticed that your Network Load Balancer (NLB) in one of your VPCs is not distributing traffic evenly
-between EC2 instances in your AZs. There are an odd number of EC2 instances spread across two AZs. The NLB is configured
-with a TCP listener on port 80 and is using active health checks.**
-
-**What is the most likely problem?**
-
-1: There is no HTTP listener
-
-2: Health checks are failing in one AZ due to latency
-
-3: NLB can only load balance within a single AZ
-
-4: Cross-zone load balancing is disabled
-
-### Question 23
-
-**A Solutions Architect is creating a design for a multi-tiered serverless application. Which two services form the
-application facing services from the AWS serverless infrastructure? (Select TWO)**
-
-1: API Gateway
-
-2: AWS Cognito
-
-3: AWS Lambda
-
-4: Amazon ECS
-
-5: Elastic Load Balancer
-
-### Question 24
-
-**A Solutions Architect attempted to restart a stopped EC2 instance and it immediately changed from a pending state to a
-terminated state. What are the most likely explanations? (Select TWO)**
-
-1: You've reached your EBS volume limit
-
-2: An EBS snapshot is corrupt
-
-3: AWS does not currently have enough available On-Demand capacity to service your request
-
-4: You have reached the limit on the number of instances that you can launch in a region
-
-5: The AMI is unsupported
-
-### Question 25
-
-**One of the applications you manage on RDS uses the MySQL DB and has been suffering from performance issues. You would
-like to setup a reporting process that will perform queries on the database but you’re concerned that the extra load
-will further impact the performance of the DB and may lead to poor customer experience.**
-
-**What would be the best course of action to take so you can implement the reporting process?**
-
-1: Configure Multi-AZ to setup a secondary database instance in another region
-
-2: Deploy a Read Replica to setup a secondary read-only database instance
-
-3: Deploy a Read Replica to setup a secondary read and write database instance
-
-4: Configure Multi-AZ to setup a secondary database instance in another Availability Zone
-
-### Question 26
-
-**A Solutions Architect is building a new Amazon Elastic Container Service (ECS) cluster. The ECS instances are running
-the EC2 launch type and load balancing is required to distribute connections to the tasks. It is required that the
-mapping of ports is performed dynamically and connections are routed to different groups of servers based on the path in
-the URL.**
-
-**Which AWS service should the Solutions Architect choose to fulfil these requirements?**
-
-1: An Amazon ECS Service
-
-2: Application Load Balancer
-
-3: Network Load Balancer
-
-4: Classic Load Balancer
-
-### Question 27
-
-**A Solutions Architect needs to connect from an office location to a Linux instance that is running in a public subnet
-in an Amazon VPC using the Internet. Which of the following items are required to enable this access? (Select TWO)**
-
-1: A bastion host
-
-2: A NAT Gateway
-
-3: A Public or Elastic IP address on the EC2 instance
-
-4: An Internet Gateway attached to the VPC and route table attached to the public subnet pointing to it
-
-5: An IPSec VPN
-
-### Question 28
-
-**An Auto Scaling Group is unable to respond quickly enough to load changes resulting in lost messages from another
-application tier. The messages are typically around 128KB in size.**
-
-**What is the best design option to prevent the messages from being lost?**
-
-1: Store the messages on Amazon S3
-
-2: Launch an Elastic Load Balancer
-
-3: Store the messages on an SQS queue
-
-4: Use larger EC2 instance sizes
-
-### Question 29
-
-**A Solutions Architect needs to run a production batch process quickly that will use several EC2 instances. The process
-cannot be interrupted and must be completed within a short time period.**
-
-**What is likely to be the MOST cost-effective choice of EC2 instance type to use for this requirement?**
-
-1: Reserved instances
-
-2: Spot instances
-
-3: Flexible instances
-
-4: On-demand instances
-
-### Question 30
-
-**A Solutions Architect would like to implement a method of automating the creation, retention, and deletion of backups
-for the Amazon EBS volumes in an Amazon VPC. What is the easiest way to automate these tasks using AWS tools?**
-
-1: Configure EBS volume replication to create a backup on Amazon S3
-
-2: Use the EBS Data Lifecycle Manager (DLM) to manage snapshots of the volumes
-
-3: Create a scheduled job and run the AWS CLI command “create-backup” to take backups of the EBS volumes
-
-4: Create a scheduled job and run the AWS CLI command “create-snapshot” to take backups of the EBS volumes
-
-### Question 31
-
-**A mobile app uploads usage information to a database. Amazon Cognito is being used for authentication, authorization
-and user management and users sign-in with Facebook IDs.**
-
-**In order to securely store data in DynamoDB, the design should use temporary AWS credentials. What feature of Amazon
-Cognito is used to obtain temporary credentials to access AWS services?**
-
-1: User Pools
-
-2: Identity Pools
-
-3: Key Pairs
-
-4: SAML Identity Providers
-
-### Question 32
-
-**A website uses web servers behind an Internet-facing Elastic Load Balancer. What record set should be created to point
-the customer’s DNS zone apex record at the ELB?**
-
-1: Create a PTR record pointing to the DNS name of the load balancer
-
-2: Create an A record pointing to the DNS name of the load balancer
-
-3: Create a CNAME record that is an Alias, and select the ELB DNS as a target
-
-4: Create an A record that is an Alias, and select the ELB DNS as a target
-
-### Question 33
-
-**A Solutions Architect has been assigned the task of moving some sensitive documents into the AWS cloud. The security
-of the documents must be maintained.**
-
-**Which AWS features can help ensure that the sensitive documents cannot be read even if they are compromised? (Select
-TWO)**
-
-1: AWS IAM Access Policy
-
-2: Amazon S3 Server-Side Encryption
-
-3: Amazon EBS snapshots
-
-4: Amazon S3 cross region replication
-
-5: Amazon EBS encryption with Customer Managed Keys
-
-### Question 34
-
-**A membership website has become quite popular and is gaining members quickly. The website currently runs on Amazon EC2
-instances with one web server instance and one database instance running MySQL. A Solutions Architect is concerned about
-the lack of high-availability in the current architecture.**
-
-**What can the Solutions Architect do to easily enable high availability without making major changes to the
-architecture?**
-
-1: Create a Read Replica in another availability zone
-
-2: Enable Multi-AZ for the MySQL instance
-
-3: Install MySQL on an EC2 instance in the same availability zone and enable replication
-
-4: Install MySQL on an EC2 instance in another availability zone and enable replication
-
-### Question 35
-
-**A Solutions Architect has setup a VPC with a public subnet and a VPN-only subnet. The public subnet is associated with
-a custom route table that has a route to an Internet Gateway. The VPN-only subnet is associated with the main route
-table and has a route to a virtual private gateway.**
-
-**The Architect has created a new subnet in the VPC and launched an EC2 instance in it. However, the instance cannot
-connect to the Internet. What is the MOST likely reason?**
-
-1: The subnet has been automatically associated with the main route table which does not have a route to the Internet
-
-2: The new subnet has not been associated with a route table
-
-3: The Internet Gateway is experiencing connectivity problems
-
-4: There is no NAT Gateway available in the new subnet so Internet connectivity is not possible
-
-### Question 36
-
-**A customer has a public-facing web application hosted on a single Amazon Elastic Compute Cloud (EC2)
-instance serving videos directly from an Amazon S3 bucket. Which of the following will restrict third parties from
-directly accessing the video assets in the bucket?**
-
-1: Launch the website Amazon EC2 instance using an IAM role that is authorized to access the videos
-
-2: Restrict access to the bucket to the public CIDR range of the company locations
-
-3: Use a bucket policy to only allow referrals from the main website URL
-
-4: Use a bucket policy to only allow the public IP address of the Amazon EC2 instance hosting the customer website
-
-### Question 37
-
-**A Solutions Architect is creating an AWS CloudFormation template that will provision a new EC2 instance and new EBS
-volume. What must be specified to associate the block store with the instance?**
-
-1: Both the EC2 physical ID and the EBS physical ID
-
-2: The EC2 physical ID
-
-3: Both the EC2 logical ID and the EBS logical ID
-
-4: The EC2 logical ID
-
-### Question 38
-
-**An application stores encrypted data in Amazon S3 buckets. A Solutions Architect needs to be able to query the
-encrypted data using SQL queries and write the encrypted results back the S3 bucket. As the data is sensitive
-fine-grained control must be implemented over access to the S3 bucket.**
-
-**What combination of services represent the BEST options support these requirements? (Select TWO)**
-
-1: Use AWS Glue to extract the data, analyze it, and load it back to the S3 bucket
-
-2: Use bucket ACLs to restrict access to the bucket
-
-3: Use IAM policies to restrict access to the bucket
-
-4: Use Athena for querying the data and writing the results back to the bucket
-
-5: Use the AWS KMS API to query the encrypted data, and the S3 API for writing the results
-
-### Question 39
-
-**A Solutions Architect works for a systems integrator running a platform that stores medical records. The government
-security policy mandates that patient data that contains personally identifiable information
-(PII) must be encrypted at all times, both at rest and in transit. Amazon S3 is used to back up data into the AWS
-cloud.**
-
-**How can the Solutions Architect ensure the medical records are properly secured? (Select TWO)**
-
-1: Before uploading the data to S3 over HTTPS, encrypt the data locally using your own encryption keys
-
-2: Enable Server Side Encryption with S3 managed keys on an S3 bucket using AES- 128
-
-3: Attach an encrypted EBS volume to an EC2 instance
-
-4: Enable Server Side Encryption with S3 managed keys on an S3 bucket using AES- 256
-
-5: Upload the data using CloudFront with an EC2 origin
-
-### Question 40
-
-**A Solutions Architect is considering the best approach to enabling Internet access for EC2 instances in a private
-subnet. What advantages do NAT Gateways have over NAT Instances? (Select TWO)**
-
-1: Can be assigned to security groups
-
-2: Can be used as a bastion host
-
-3: Managed for you by AWS
-
-4: Highly available within each AZ
-
-5: Can be scaled up manually
-
-### Question 41
-
-**A Solutions Architect must design a solution for providing single sign-on to existing staff in a company. The staff
-manage on-premise web applications and also need access to the AWS management console to manage resources in the AWS
-cloud.**
-
-**Which combination of services are BEST suited to delivering these requirements?**
-
-1: Use IAM and Amazon Cognito
-
-2: Use your on-premise LDAP directory with IAM
-
-3: Use the AWS Secure Token Service (STS) and SAML
-
-4: Use IAM and MFA
-
-### Question 42
-
-**A Solutions Architect is designing a three-tier web application that includes an Auto Scaling group of Amazon EC2
-Instances running behind an Elastic Load Balancer. The security team requires that all web servers must be accessible
-only through the Elastic Load Balancer and that none of the web servers are directly accessible from the Internet.**
-
-**How should the Architect meet these requirements?**
-
-1: Create an Amazon CloudFront distribution in front of the Elastic Load Balancer
-
-2: Configure the web servers' security group to deny traffic from the Internet
-
-3: Configure the web tier security group to allow only traffic from the Elastic Load Balancer
-
-4: Install a Load Balancer on an Amazon EC2 instance
-
-### Question 43
-
-**A Solutions Architect is creating a URL that lets users who sign in to the organization’s network securely access the
-AWS Management Console. The URL will include a sign-in token that authenticates the user to AWS. Microsoft Active
-Directory Federation Services is being used as the identity provider (IdP).**
-
-**Which of the steps below will the Solutions Architect need to include when developing the custom identity broker? (
-Select TWO)**
-
-1: Call the AWS federation endpoint and supply the temporary security credentials to request a sign-in token
-
-2: Call the AWS Security Token Service (AWS STS) AssumeRole or GetFederationToken API operations to obtain temporary
-security credentials for the user
-
-3: Assume an IAM Role through the console or programmatically with the AWS CLI, Tools for Windows PowerShell or API
-
-4: Generate a pre-signed URL programmatically using the AWS SDK for Java or the AWS SDK for .NET
-
-5: Delegate access to the IdP through the "Configure Provider" wizard in the IAM console
-
-### Question 44
-
-**Some Amazon ECS containers are running on a cluster using the EC2 launch type. The current configuration uses the
-container instance’s IAM roles for assigning permissions to the containerized applications.**
-
-**A Solutions Architect needs to implement more granular permissions so that some applications can be assigned more
-restrictive permissions. How can this be achieved?**
-
-1: This cannot be changed as IAM roles can only be linked to container instances
-
-2: This can be achieved using IAM roles for tasks, and splitting the containers according to the permissions required to
-different task definition profiles
-
-3: This can be achieved by configuring a resource-based policy for each application
-
-4: This can only be achieved using the Fargate launch type
-
-### Question 45
-
-**An application uses a combination of Reserved and On-Demand instances to handle typical load. The application involves
-performing analytics on a set of data. A Solutions Architect needs to temporarily deploy a large number of EC2
-instances. The instances must be available for a short period of time until the analytics job is completed.**
-
-**If job completion is not time-critical, what is likely to be the MOST cost-effective choice of EC2 instance type to
-use for this requirement?**
-
-1: Use Spot instances
-
-2: Use dedicated hosts
-
-3: Use On-Demand instances
-
-4: Use Reserved instances
-
-### Question 46
-
-**There is a problem with an EC2 instance that was launched by Amazon EC2 Auto Scaling. The EC2 status checks have
-reported that the instance is “Impaired”. What action will EC2 Auto Scaling take?**
-
-1: Auto Scaling will perform Availability Zone rebalancing
-
-2: It will wait a few minutes for the instance to recover and if it does not it will mark the instance for termination,
-terminate it, and then launch a replacement
-
-3: Auto Scaling performs its own status checks and does not integrate with EC2 status checks
-
-4: It will launch a new instance immediately and then mark the impaired one for replacement
-
-### Question 47
-
-**A pharmaceutical company uses a strict process for release automation that involves building and testing services in 3
-separate VPCs. A peering topology is configured with VPC-A peered with VPC-B and VPC-B peered with VPC-C. The
-development team wants to modify the process so that they can release code directly from VPC-A to VPC-C.**
-
-**How can this be accomplished?**
-
-1: Update VPC-Bs route table with peering targets for VPC-A and VPC-C and enable route propagation
-
-2: Create a new VPC peering connection between VPC-A and VPC-C
-
-3: Update the CIDR blocks to match to enable inter-VPC routing
-
-4: Update VPC-As route table with an entry using the VPC peering as a target
-
-### Question 48
-
-**A Solutions Architect needs to work programmatically with IAM. Which feature of IAM allows direct access to the IAM
-web service using HTTPS to call service actions and what is the method of authentication that must be used? (Select
-TWO)**
-
-1: OpenID Connect
-
-2: Query API
-
-3: API Gateway
-
-4: Access key ID and secret access key
-
-5: IAM role
-
-### Question 49
-
-**The Systems Administrators in a company currently use Chef for configuration management of on-premise servers. Which
-AWS service can a Solutions Architect use that will provide a fully-managed configuration management service that will
-enable the use of existing Chef cookbooks?**
-
-1: Elastic Beanstalk
-
-2: CloudFormation
-
-3: OpsWorks for Chef Automate
-
-4: Opsworks Stacks
-
-### Question 50
-
-**An Amazon RDS Multi-AZ deployment is running in an Amazon VPC. An outage occurs in the availability zone of the
-primary RDS database instance. What actions will take place in this circumstance? (Select TWO)**
-
-1: The failover mechanism automatically changes the DNS record of the DB instance to point to the standby DB instance
-
-2: A failover will take place once the connection draining timer has expired
-
-3: A manual failover of the DB instance will need to be initiated using Reboot with failover
-
-4: The primary DB instance will switch over automatically to the standby replica
-
-5: Due to the loss of network connectivity the process to switch to the standby replica cannot take place
-
-### Question 51
-
-**A Solutions Architect is designing a web-facing application. The application will run on Amazon EC2 instances behind
-Elastic Load Balancers in multiple regions in an active/passive configuration. The website address the application runs
-on is example.com. AWS Route 53 will be used to perform DNS resolution for the application.**
-
-**How should the Solutions Architect configure AWS Route 53 in this scenario based on AWS best practices?
-(Select TWO)**
-
-1: Use a Failover Routing Policy
-
-2: Set Evaluate Target Health to “No” for the primary
-
-3: Use a Weighted Routing Policy
-
-4: Connect the ELBs using Alias records
-
-5: Connect the ELBs using CNAME records
-
-### Question 52
-
-**A Solutions Architect is designing a new retail website for a high-profile company. The company has previously been
-the victim of targeted distributed denial-of-service (DDoS) attacks and has requested that the design includes
-mitigation techniques.**
-
-**Which of the following are the BEST techniques to help ensure the availability of the services is not compromised in
-an attack? (Select TWO)**
-
-1: Configure Auto Scaling with a high maximum number of instances to ensure it can scale accordingly
-
-2: Use CloudFront for distributing both static and dynamic content
-
-3: Use Spot instances to reduce the cost impact in case of attack
-
-4: Use encryption on your EBS volumes
-
-5: Use Placement Groups to ensure high bandwidth and low latency
-
-### Question 53
-
-**An application running on Amazon EC2 requires an EBS volume for saving structured data. The application vendor
-suggests that the performance of the disk should be up to 3 IOPS per GB. The capacity is expected to grow to 2 TB.**
-
-**Taking into account cost effectiveness, which EBS volume type should be used?**
-
-1: Throughput Optimized HDD (ST1)
-
-2: General Purpose (GP2)
-
-3: Provisioned IOPS (Io1)
-
-4: Cold HDD (SC1)
-
-### Question 54
-
-**An application in an Amazon VPC uses an Auto Scaling Group that spans 3 AZs and there are currently 4 Amazon EC2
-instances running in the group. What actions will Auto Scaling take, by default, if it needs to terminate an EC2
-instance?**
-
-1: Randomly select one of the 3 AZs, and then terminate an instance in that AZ
-
-2: Terminate the instance with the least active network connections. If multiple instances meet this criterion, one will
-be randomly selected
-
-3: Send an SNS notification, if configured to do so
-
-4: Wait for the cooldown period and then terminate the instance that has been running the longest
-
-5: Terminate an instance in the AZ which currently has 2 running EC2 instances
-
-### Question 55
-
-**Several environments are being created in a single Amazon VPC. The Solutions Architect needs to implement a system of
-categorization that allows for identification of Amazon EC2 resources by business unit, owner, or environment.**
-
-**Which AWS feature can be used?**
-
-1: Parameters
-
-2: Metadata
-
-3: Custom filters
-
-4: Tags
-
-### Question 56
-
-**An organization has a data lake on Amazon S3 and needs to find a solution for performing in-place queries of the data
-assets in the data lake. The requirement is to perform both data discovery and SQL querying, and complex queries from a
-large number of concurrent users using BI tools.**
-
-**What is the BEST combination of AWS services to use in this situation? (Select TWO)**
-
-1: RedShift Spectrum for the complex queries
-
-2: Amazon Athena for the ad hoc SQL querying
-
-3: AWS Glue for the ad hoc SQL querying
-
-4: AWS Lambda for the complex queries
-
-5: Amazon Kinesis for the complex queries
-
-### Question 57
-
-**When using throttling controls with API Gateway what happens when request submissions exceed the steady-state request
-rate and burst limits?**
-
-1: API Gateway fails the limit-exceeding requests and returns “429 Too Many Requests” error responses to the client
-
-2: The requests will be buffered in a cache until the load reduces
-
-3: API Gateway drops the requests and does not return a response to the client
-
-4: API Gateway fails the limit-exceeding requests and returns “500 Internal Server Error” error responses to the client
-
-### Question 58
-
-**A Solutions Architect created a new VPC and setup an Auto Scaling Group to maintain a desired count of 2 Amazon EC2
-instances. The security team has requested that the EC2 instances be located in a private subnet. To distribute load, an
-Internet-facing Application Load Balancer (ALB) is also required.**
-
-**With the security team’s requirements in mind, what else needs to be done to get this configuration to work? (Select
-TWO)**
-
-1: Attach an Internet Gateway to the private subnets
-
-2: Associate the public subnets with the ALB
-
-3: Add an Elastic IP address to each EC2 instance in the private subnet
-
-4: Add a NAT gateway to the private subnet
-
-5: For each private subnet create a corresponding public subnet in the same AZ
-
-### Question 59
-
-**An application running AWS uses an Elastic Load Balancer (ELB) to distribute connections between EC2 instances. A
-Solutions Architect needs to record information on the requester, IP, and request type for connections made to the ELB.
-Additionally, the Architect will also need to perform some analysis on the log files.**
-
-**Which AWS services and configuration options can be used to collect and then analyze the logs? (Select TWO)**
-
-1: Use EMR for analyzing the log files
-
-2: Update the application to use DynamoDB for storing log files
-
-3: Use Elastic Transcoder to analyze the log files
-
-4: Enable Access Logs on the ELB and store the log files on S3
-
-5: Enable Access Logs on the EC2 instances and store the log files on S3
-
-### Question 60
-
-**A Solutions Architect would like to store a backup of an Amazon EBS volume on Amazon S3. What is the easiest way of
-achieving this?**
-
-1: Use SWF to automatically create a backup of your EBS volumes and then upload them to an S3 bucket
-
-2: You don’t need to do anything, EBS volumes are automatically backed up by default
-
-3: Write a custom script to automatically copy your data to an S3 bucket
-
-4: Create a snapshot of the volume
-
-### Question 61
-
-**An application will gather data from a website hosted on an EC2 instance and write the data to an S3 bucket. The
-application will use API calls to interact with the EC2 instance and S3 bucket.**
-
-**Which Amazon S3 access control method will be the MOST operationally efficient? (Select TWO)**
-
-1: Create a bucket policy
-
-2: Grant programmatic access
-
-3: Use key pairs
-
-4: Grant AWS Management Console access
-
-5: Create an IAM policy
-
-### Question 62
-
-**An Amazon CloudWatch alarm recently notified a Solutions Architect that the load on an Amazon DynamoDB table is
-getting close to the provisioned capacity for writes. The DynamoDB table is part of a two-tier customer-facing
-application and is configured using provisioned capacity.**
-
-**What will happen if the limit for the provisioned capacity for writes is reached?**
-
-1: The requests will be throttled, and fail with an HTTP 503 code (Service Unavailable)
-
-2: DynamoDB scales automatically so there’s no need to worry
-
-3: The requests will be throttled, and fail with an HTTP 400 code (Bad Request) and a
-ProvisionedThroughputExceededException
-
-4: The requests will succeed, and an HTTP 200 status code will be returned
-
-### Question 63
-
-**A Solutions Architect is creating the business process workflows associated with an order fulfilment system. What AWS
-service can assist with coordinating tasks across distributed application components?**
-
-1: AWS STS
-
-2: Amazon SQS
-
-3: Amazon SWF
-
-4: Amazon SNS
-
-### Question 64
-
-**An EC2 instance in an Auto Scaling group is having some issues that are causing it to launch new instances based on
-the dynamic scaling policy. A Solutions Architect needs to troubleshoot the EC2 instance and prevent the Auto Scaling
-group from launching new instances temporarily.**
-
-**What is the best method to accomplish this? (Select TWO)**
-
-1: Remove the EC2 instance from the Target Group
-
-2: Disable the launch configuration associated with the EC2 instance
-
-3: Place the EC2 instance that is experiencing issues into the Standby state
-
-4: Suspend the scaling processes responsible for launching new instances
-
-5: Disable the dynamic scaling policy
-
-### Question 65
-
-**An Amazon VPC has been deployed with private and public subnets. A MySQL database server running on an Amazon EC2
-instance will soon be launched. According to AWS best practice, which subnet should the database server be launched
-into?**
-
-1: It doesn’t matter
-
-2: The private subnet
-
-3: The public subnet
-
-4: The subnet that is mapped to the primary AZ in the region
-
-## Set 4: Practice Questions, Answers & Explanations
-
-### Question 1
+#### Question  1
 
 **A company is deploying an Amazon ElastiCache for Redis cluster. To enhance security a password should be required to
 access the database. What should the solutions architect use?**
@@ -16011,7 +11603,7 @@ https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/auth.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 elasticache/
 
-### Question 2
+#### Question  2
 
 **To increase performance and redundancy for an application a company has decided to run multiple implementations in
 different AWS Regions behind network load balancers. The company currently advertise the application using two public IP
@@ -16063,7 +11655,7 @@ https://aws.amazon.com/global-accelerator/features/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/aws-global-accelerator/
 
-### Question 3
+#### Question  3
 
 **Three Amazon VPCs are used by a company in the same region. The company has two AWS Direct Connect connections to two
 separate company offices and wishes to share these with all three VPCs. A Solutions Architect has created an AWS Direct
@@ -16163,7 +11755,7 @@ https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gatewa
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/aws-direct-connect/
 
-### Question 4
+#### Question  4
 
 **A retail organization sends coupons out twice a week and this results in a predictable surge in sales traffic. The
 application runs on Amazon EC2 instances behind an Elastic Load Balancer. The organization is looking for ways to reduce
@@ -16211,7 +11803,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-scheduled-instances.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 5
+#### Question  5
 
 **Over 500 TB of data must be analyzed using standard SQL business intelligence tools. The dataset consists of a
 combination of structured data and unstructured data. The unstructured data is small and stored on Amazon S3. Which AWS
@@ -16263,7 +11855,7 @@ https://docs.aws.amazon.com/redshift/latest/dg/c-using-spectrum.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 redshift/
 
-### Question 6
+#### Question  6
 
 **An application is being monitored using Amazon GuardDuty. A Solutions Architect needs to be notified by email of
 medium to high severity events. How can this be achieved?**
@@ -16358,7 +11950,7 @@ https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings_cloudwatch.ht
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
 tools/amazon-cloudwatch/
 
-### Question 7
+#### Question  7
 
 **A company is migrating a decoupled application to AWS. The application uses a message broker based on the MQTT
 protocol. The application will be migrated to Amazon EC2 instances and the solution for the message broker must not
@@ -16401,7 +11993,7 @@ https://aws.amazon.com/amazon-mq/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-mq/
 
-### Question 8
+#### Question  8
 
 **A HR application stores employment records on Amazon S3. Regulations mandate the records are retained for seven years.
 Once created the records are accessed infrequently for the first three months and then must be available within 10
@@ -16449,7 +12041,7 @@ downloading-an-archive-two-steps-retrieval-options
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 9
+#### Question  9
 
 **A highly elastic application consists of three tiers. The application tier runs in an Auto Scaling group and processes
 data and writes it to an Amazon RDS MySQL database. The Solutions Architect wants to restrict access to the database
@@ -16495,7 +12087,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 10
+#### Question  10
 
 **A Solutions Architect is rearchitecting an application with decoupling. The application will send batches of up to
 1000 messages per second that must be received in the correct order by the consumers.**
@@ -16536,7 +12128,7 @@ https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-q
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 11
+#### Question  11
 
 **A Solutions Architect is designing an application that consists of AWS Lambda and Amazon RDS Aurora MySQL. The Lambda
 function must use database credentials to authenticate to MySQL and security policy mandates that these credentials must
@@ -16599,7 +12191,7 @@ connection string
 
 https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html
 
-### Question 12
+#### Question  12
 
 **A company are finalizing their disaster recovery plan. A limited set of core services will be replicated to the DR
 site ready to seamlessly take over the in the event of a disaster. All other services will be switched off.**
@@ -16643,7 +12235,7 @@ environment around the critical core.
 
 https://aws.amazon.com/blogs/publicsector/rapidly-recover-mission-critical-systems-in-a-disaster/
 
-### Question 13
+#### Question  13
 
 **An application that runs a computational fluid dynamics workload uses a tightly-coupled HPC architecture that uses the
 MPI protocol and runs across many nodes. A service-managed deployment is required to minimize operational overhead.**
@@ -16692,7 +12284,7 @@ https://d1.awsstatic.com/whitepapers/architecture/AWS-HPC-Lens.pdf
 
 https://docs.aws.amazon.com/batch/latest/userguide/multi-node-parallel-jobs.html
 
-### Question 14
+#### Question  14
 
 **A Solutions Architect is designing an application that will run on an Amazon EC2 instance. The application must
 asynchronously invoke and AWS Lambda function to analyze thousands of .CSV files. The services should be decoupled.**
@@ -16737,7 +12329,7 @@ integration/amazon-sns/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 15
+#### Question  15
 
 **A large MongoDB database running on-premises must be migrated to Amazon DynamoDB within the next few weeks. The
 database is too large to migrate over the company’s limited internet bandwidth so an alternative solution must be used.
@@ -16796,7 +12388,7 @@ https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.DynamoDB.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-database-
 migration-service/
 
-### Question 16
+#### Question  16
 
 **Every time an item in an Amazon DynamoDB table is modified a record must be retained for compliance reasons. What is
 the most efficient solution to recording this information?**
@@ -16876,7 +12468,7 @@ AWS Lambda Amazon CloudWatch
 4
 ```
 
-### Question 17
+#### Question  17
 
 **An application in a private subnet needs to query data in an Amazon DynamoDB table. Use of the DynamoDB public
 endpoints must be avoided. What is the most EFFICIENT and secure method of enabling access to the table?**
@@ -16925,7 +12517,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 18
+#### Question  18
 
 **A Solutions Architect needs to select a low-cost, short-term option for adding resilience to an AWS Direct Connect
 connection. What is the MOST cost-effective solution to provide a backup for the Direct Connect connection?**
@@ -16968,7 +12560,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/configure-vpn-backup-dx/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/aws-direct-connect/
 
-### Question 19
+#### Question  19
 
 **The disk configuration for an Amazon EC2 instance must be finalized. The instance will be running an application that
 requires heavy read/write IOPS. A single volume is required that is 500 GiB in size and needs to support 20,000 IOPS.**
@@ -17033,7 +12625,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 20
+#### Question  20
 
 **A new application you are designing will store data in an Amazon Aurora MySQL DB. You are looking for a way to enable
 inter-region disaster recovery capabilities with fast replication and fast failover. Which of the following options is
@@ -17080,7 +12672,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Replication.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 21
+#### Question  21
 
 **A Solutions Architect regularly launches EC2 instances manually from the console and wants to streamline the process
 to reduce administrative overhead. Which feature of EC2 enables storing of settings such as AMI ID, instance type, key
@@ -17181,7 +12773,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-templates.html
 
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-templates.html
 
-### Question 22
+#### Question  22
 
 **You recently noticed that your Network Load Balancer (NLB) in one of your VPCs is not distributing traffic evenly
 between EC2 instances in your AZs. There are an odd number of EC2 instances spread across two AZs. The NLB is configured
@@ -17286,7 +12878,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-lo
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 23
+#### Question  23
 
 **A Solutions Architect is creating a design for a multi-tiered serverless application. Which two services form the
 application facing services from the AWS serverless infrastructure? (Select TWO)**
@@ -17327,7 +12919,7 @@ https://aws.amazon.com/serverless/
 
 https://aws.amazon.com/serverless/
 
-### Question 24
+#### Question  24
 
 **A Solutions Architect attempted to restart a stopped EC2 instance and it immediately changed from a pending state to a
 terminated state. What are the most likely explanations? (Select TWO)**
@@ -17377,7 +12969,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/troubleshooting-launch.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 25
+#### Question  25
 
 **One of the applications you manage on RDS uses the MySQL DB and has been suffering from performance issues. You would
 like to setup a reporting process that will perform queries on the database but you’re concerned that the extra load
@@ -17423,7 +13015,7 @@ https://aws.amazon.com/rds/features/read-replicas/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 26
+#### Question  26
 
 **A Solutions Architect is building a new Amazon Elastic Container Service (ECS) cluster. The ECS instances are running
 the EC2 launch type and load balancing is required to distribute connections to the tasks. It is required that the
@@ -17499,7 +13091,7 @@ Instance 1 Instance 2 Instance 3 Instance 4
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 27
+#### Question  27
 
 **A Solutions Architect needs to connect from an office location to a Linux instance that is running in a public subnet
 in an Amazon VPC using the Internet. Which of the following items are required to enable this access? (Select TWO)**
@@ -17546,7 +13138,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 28
+#### Question  28
 
 **An Auto Scaling Group is unable to respond quickly enough to load changes resulting in lost messages from another
 application tier. The messages are typically around 128KB in size.**
@@ -17596,7 +13188,7 @@ https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welco
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 29
+#### Question  29
 
 **A Solutions Architect needs to run a production batch process quickly that will use several EC2 instances. The process
 cannot be interrupted and must be completed within a short time period.**
@@ -17673,7 +13265,7 @@ https://aws.amazon.com/ec2/pricing/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 30
+#### Question  30
 
 **A Solutions Architect would like to implement a method of automating the creation, retention, and deletion of backups
 for the Amazon EBS volumes in an Amazon VPC. What is the easiest way to automate these tasks using AWS tools?**
@@ -17717,7 +13309,7 @@ https://docs.aws.amazon.com/cli/latest/reference/ec2/create-snapshot.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 31
+#### Question  31
 
 **A mobile app uploads usage information to a database. Amazon Cognito is being used for authentication, authorization
 and user management and users sign-in with Facebook IDs.**
@@ -17762,7 +13354,7 @@ https://docs.aws.amazon.com/cognito/latest/developerguide/identity-pools.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 32
+#### Question  32
 
 1:
 
@@ -17810,7 +13402,7 @@ https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/ResourceRecordTypes.ht
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-route-53/
 
-### Question 33
+#### Question  33
 
 **A Solutions Architect has been assigned the task of moving some sensitive documents into the AWS cloud. The security
 of the documents must be maintained.**
@@ -17866,7 +13458,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 34
+#### Question  34
 
 **A membership website has become quite popular and is gaining members quickly. The website currently runs on Amazon EC2
 instances with one web server instance and one database instance running MySQL. A Solutions Architect is concerned about
@@ -17914,7 +13506,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 35
+#### Question  35
 
 **A Solutions Architect has setup a VPC with a public subnet and a VPN-only subnet. The public subnet is associated with
 a custom route table that has a route to an Internet Gateway. The VPN-only subnet is associated with the main route
@@ -17960,7 +13552,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 36
+#### Question  36
 
 **A customer has a public-facing web application hosted on a single Amazon Elastic Compute Cloud (EC2)
 instance serving videos directly from an Amazon S3 bucket. Which of the following will restrict third parties from
@@ -18008,7 +13600,7 @@ use-case- 4
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 37
+#### Question  37
 
 **A Solutions Architect is creating an AWS CloudFormation template that will provision a new EC2 instance and new EBS
 volume. What must be specified to associate the block store with the instance?**
@@ -18054,7 +13646,7 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/resources-section
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 cloudformation/
 
-### Question 38
+#### Question  38
 
 **An application stores encrypted data in Amazon S3 buckets. A Solutions Architect needs to be able to query the
 encrypted data using SQL queries and write the encrypted results back the S3 bucket. As the data is sensitive
@@ -18103,7 +13695,7 @@ https://aws.amazon.com/athena/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 39
+#### Question  39
 
 **A Solutions Architect works for a systems integrator running a platform that stores medical records. The government
 security policy mandates that patient data that contains personally identifiable information
@@ -18157,7 +13749,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 40
+#### Question  40
 
 **A Solutions Architect is considering the best approach to enabling Internet access for EC2 instances in a private
 subnet. What advantages do NAT Gateways have over NAT Instances? (Select TWO)**
@@ -18202,7 +13794,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 41
+#### Question  41
 
 **A Solutions Architect must design a solution for providing single sign-on to existing staff in a company. The staff
 manage on-premise web applications and also need access to the AWS management console to manage resources in the AWS
@@ -18250,7 +13842,7 @@ https://aws.amazon.com/identity/federation/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 42
+#### Question  42
 
 **A Solutions Architect is designing a three-tier web application that includes an Auto Scaling group of Amazon EC2
 Instances running behind an Elastic Load Balancer. The security team requires that all web servers must be accessible
@@ -18301,7 +13893,7 @@ groups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 43
+#### Question  43
 
 **A Solutions Architect is creating a URL that lets users who sign in to the organization’s network securely access the
 AWS Management Console. The URL will include a sign-in token that authenticates the user to AWS. Microsoft Active
@@ -18365,7 +13957,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-conso
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 44
+#### Question  44
 
 **Some Amazon ECS containers are running on a cluster using the EC2 launch type. The current configuration uses the
 container instance’s IAM roles for assigning permissions to the containerized applications.**
@@ -18412,7 +14004,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-wor
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
 
-### Question 45
+#### Question  45
 
 **An application uses a combination of Reserved and On-Demand instances to handle typical load. The application involves
 performing analytics on a set of data. A Solutions Architect needs to temporarily deploy a large number of EC2
@@ -18461,7 +14053,7 @@ https://aws.amazon.com/ec2/pricing/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 46
+#### Question  46
 
 **There is a problem with an EC2 instance that was launched by Amazon EC2 Auto Scaling. The EC2 status checks have
 reported that the instance is “Impaired”. What action will EC2 Auto Scaling take?**
@@ -18506,7 +14098,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/auto-scaling-terminate-in
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 47
+#### Question  47
 
 **A pharmaceutical company uses a strict process for release automation that involves building and testing services in 3
 separate VPCs. A peering topology is configured with VPC-A peered with VPC-B and VPC-B peered with VPC-C. The
@@ -18557,7 +14149,7 @@ https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 48
+#### Question  48
 
 **A Solutions Architect needs to work programmatically with IAM. Which feature of IAM allows direct access to the IAM
 web service using HTTPS to call service actions and what is the method of authentication that must be used? (Select
@@ -18600,7 +14192,7 @@ https://docs.aws.amazon.com/IAM/latest/APIReference/iam-api.pdf
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 49
+#### Question  49
 
 **The Systems Administrators in a company currently use Chef for configuration management of on-premise servers. Which
 AWS service can a Solutions Architect use that will provide a fully-managed configuration management service that will
@@ -18644,7 +14236,7 @@ https://aws.amazon.com/opsworks/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 opsworks/
 
-### Question 50
+#### Question  50
 
 **An Amazon RDS Multi-AZ deployment is running in an Amazon VPC. An outage occurs in the availability zone of the
 primary RDS database instance. What actions will take place in this circumstance? (Select TWO)**
@@ -18699,7 +14291,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 51
+#### Question  51
 
 **A Solutions Architect is designing a web-facing application. The application will run on Amazon EC2 instances behind
 Elastic Load Balancers in multiple regions in an active/passive configuration. The website address the application runs
@@ -18752,7 +14344,7 @@ https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#ro
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-route-53/
 
-### Question 52
+#### Question  52
 
 **A Solutions Architect is designing a new retail website for a high-profile company. The company has previously been
 the victim of targeted distributed denial-of-service (DDoS) attacks and has requested that the design includes
@@ -18809,7 +14401,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.Scenarios.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 53
+#### Question  53
 
 **An application running on Amazon EC2 requires an EBS volume for saving structured data. The application vendor
 suggests that the performance of the disk should be up to 3 IOPS per GB. The capacity is expected to grow to 2 TB.**
@@ -18855,7 +14447,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html?icmpid=d
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 54
+#### Question  54
 
 **An application in an Amazon VPC uses an Auto Scaling Group that spans 3 AZs and there are currently 4 Amazon EC2
 instances running in the group. What actions will Auto Scaling take, by default, if it needs to terminate an EC2
@@ -18911,7 +14503,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.ht
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 55
+#### Question  55
 
 **Several environments are being created in a single Amazon VPC. The Solutions Architect needs to implement a system of
 categorization that allows for identification of Amazon EC2 resources by business unit, owner, or environment.**
@@ -18951,7 +14543,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 56
+#### Question  56
 
 **An organization has a data lake on Amazon S3 and needs to find a solution for performing in-place queries of the data
 assets in the data lake. The requirement is to perform both data discovery and SQL querying, and complex queries from a
@@ -19008,7 +14600,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 redshift/
 
-### Question 57
+#### Question  57
 
 **When using throttling controls with API Gateway what happens when request submissions exceed the steady-state request
 rate and burst limits?**
@@ -19053,7 +14645,7 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-api-gateway/
 
-### Question 58
+#### Question  58
 
 **A Solutions Architect created a new VPC and setup an Auto Scaling Group to maintain a desired count of 2 Amazon EC2
 instances. The security team has requested that the EC2 instances be located in a private subnet. To distribute load, an
@@ -19102,7 +14694,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/public-load-balancer-priv
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 59
+#### Question  59
 
 **An application running AWS uses an Elastic Load Balancer (ELB) to distribute connections between EC2 instances. A
 Solutions Architect needs to record information on the requester, IP, and request type for connections made to the ELB.
@@ -19160,7 +14752,7 @@ balancing/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-emr/
 
-### Question 60
+#### Question  60
 
 **A Solutions Architect would like to store a backup of an Amazon EBS volume on Amazon S3. What is the easiest way of
 achieving this?**
@@ -19200,7 +14792,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 61
+#### Question  61
 
 **An application will gather data from a website hosted on an EC2 instance and write the data to an S3 bucket. The
 application will use API calls to interact with the EC2 instance and S3 bucket.**
@@ -19249,7 +14841,7 @@ compliance/aws-iam/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 62
+#### Question  62
 
 **An Amazon CloudWatch alarm recently notified a Solutions Architect that the load on an Amazon DynamoDB table is
 getting close to the provisioned capacity for writes. The DynamoDB table is part of a two-tier customer-facing
@@ -19297,7 +14889,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.Err
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 63
+#### Question  63
 
 **A Solutions Architect is creating the business process workflows associated with an order fulfilment system. What AWS
 service can assist with coordinating tasks across distributed application components?**
@@ -19338,7 +14930,7 @@ https://aws.amazon.com/swf/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-swf/
 
-### Question 64
+#### Question  64
 
 **An EC2 instance in an Auto Scaling group is having some issues that are causing it to launch new instances based on
 the dynamic scaling policy. A Solutions Architect needs to troubleshoot the EC2 instance and prevent the Auto Scaling
@@ -19393,7 +14985,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-suspend-resume-processe
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 65
+#### Question  65
 
 **An Amazon VPC has been deployed with private and public subnets. A MySQL database server running on an Amazon EC2
 instance will soon be launched. According to AWS best practice, which subnet should the database server be launched
@@ -19433,1029 +15025,9 @@ https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-## Set 5: Practice Questions only
+### Set 5
 
-_For training purposes_ , _go directly to Set 5: Practice Questions, Answers & Explanations_
-
-### Question 1
-
-**A Solutions Architect has deployed an API using Amazon API Gateway and created usage plans and API keys for several
-customers. Requests from one particular customer have been excessive and the solutions architect needs to limit the rate
-of requests. Other customers should not be affected. How should the solutions architect proceed?**
-
-1: Configure a server-side throttling limit
-
-2: Configure the per-method throttling limits
-
-3: Configure per-client throttling limits
-
-4: Configure the account-level throttling limits
-
-### Question 2
-
-**A Solutions Architect is deploying a high performance computing (HPC) application on Amazon EC2 instances. The
-application requires extremely low inter-instance latency. How should the instances be deployed for BEST performance?**
-
-1: Use an instance with enhanced networking and deploy the instances in a partition placement group
-
-2: Use an Elastic Fabric Adapter (EFA) and deploy instances in a cluster placement group
-
-3: Add multiple Elastic Network Adapters (ENAs) to each instance and create a NIC team
-
-4: Use an EBS-optimized instance with 10 Gigabit networking and deploy to a single subnet
-
-### Question 3
-
-**A company has deployed an API using Amazon API Gateway. There are many repeat requests and a solutions architect has
-been asked to implement measures to reduce request latency and the number of calls to the Amazon EC2 endpoint.**
-
-**How can this be most easily achieved?**
-
-1: Create a cache for a stage and configure a TTL
-
-2: Create a cache for a method and configure a TTL
-
-3: Configure an edge-optimized endpoint with CloudFront
-
-4: Configure a private endpoint place ElastiCache in front
-
-### Question 4
-
-**A Solutions Architect is designing a migration strategy for a company moving to the AWS Cloud. The company use a
-shared Microsoft filesystem that uses Distributed File System Namespaces (DFSN). What will be the MOST suitable
-migration strategy for the filesystem?**
-
-1: Use the AWS Server Migration Service to migrate to an Amazon S3 bucket
-
-2: Use the AWS Server Migration Service to migrate to Amazon FSx for Lustre
-
-3: Use AWS DataSync to migrate to an Amazon EFS filesystem
-
-4: Use AWS DataSync to migrate to Amazon FSx for Windows File Server
-
-### Question 5
-
-**An Amazon ElastiCache for Redis cluster runs across multiple Availability Zones. A solutions architect is concerned
-about the security of sensitive data as it is replicated between nodes. How can the solutions architect protect the
-sensitive data?**
-
-1: Issue a Redis AUTH command
-
-2: Enable in-transit encryption
-
-3: Enable at-rest encryption
-
-4: Set up MFA and API logging
-
-### Question 6
-
-**A company runs an application on-premises that must consume a REST API running on Amazon API Gateway. The company has
-an AWS Direct Connect connection to their Amazon VPC. The solutions architect wants all API calls to use private
-addressing only and avoid the internet. How can this be achieved?**
-
-1: Use a transit virtual interface and an AWS VPN to create a secure tunnel to Amazon API Gateway
-
-2: Use a private virtual interface and create a VPC Endpoint for Amazon API Gateway
-
-3: Use a hosted virtual interface and create a VPC Endpoint for Amazon API Gateway
-
-4: Use a public virtual interface and an AWS VPN to create a secure tunnel to Amazon API Gateway
-
-### Question 7
-
-**A company has an eCommerce application that runs from multiple AWS Regions. Each region has a separate database
-running on Amazon EC2 instances. The company plans to consolidate the data to a columnar database and run analytics
-queries. Which approach should the company take?**
-
-1: Run an AWS Batch job to copy and process the data into a columnar Amazon RDS database. Use Amazon Athena to analyze
-the data
-
-2: Use the COPY command to load data into an Amazon RedShift data warehouse and run the analytics queries there
-
-3: Launch Amazon Kinesis Data Streams producers to load data into a Kinesis Data stream. Use Kinesis Data Analytics to
-analyze the data
-
-4: Create an AWS Lambda function that copies the data onto Amazon S3. Use Amazon S3 Select to query the data
-
-### Question 8
-
-**There has been an increase in traffic to an application that writes data to an Amazon DynamoDB database. Thousands of
-random tables reads occur per second and low-latency is required. What can a Solutions Architect do to improve
-performance for the reads without negatively impacting the rest of the application?**
-
-1: Increase the number of Amazon DynamoDB write capacity units
-
-2: Add an Amazon SQS queue to decouple the requests
-
-3: Use Amazon DynamoDB Accelerator to cache the reads
-
-4: Use an Amazon Kinesis Data Stream to decouple requests
-
-### Question 9
-
-**A Solutions Architect must enable an application to download software updates from the internet. The application runs
-on a series of EC2 instances in an Auto Scaling group running in a private subnet. The solution must involve minimal
-ongoing systems management effort. How should the Solutions Architect proceed?**
-
-1: Implement a NAT gateway
-
-2: Launch a NAT instance
-
-3: Create a Virtual Private Gateway
-
-4: Attach Elastic IP addresses
-
-### Question 10
-
-**A Solutions Architect manages multiple Amazon RDS MySQL databases. To improve security, the Solutions Architect wants
-to enable secure user access with short-lived credentials. How can these requirements be met?**
-
-1: Configure the MySQL databases to use the AWS Security Token Service (STS)
-
-2: Configure the application to use the AUTH command to send a unique password
-
-3: Create the MySQL user accounts to use the AWSAuthenticationPlugin with IAM
-
-4: Configure the MySQL databases to use AWS KMS data encryption keys
-
-### Question 11
-
-**An application running a private subnet of an Amazon VPC must have outbound internet access for downloading updates.
-The Solutions Architect does not want the application exposed to inbound connection attempts. Which steps should be
-taken?**
-
-1: Create a NAT gateway but do not create attach an internet gateway to the VPC
-
-2: Attach an internet gateway to the private subnet and create a NAT gateway
-
-3: Attach an internet gateway to the VPC but do not create a NAT gateway
-
-4: Create a NAT gateway and attach an internet gateway to the VPC
-
-### Question 12
-
-**An application has been migrated from on-premises to an Amazon EC2 instance. The migration has failed to an unknown
-dependency that the application must communicate with an on-premises server using private IP addresses.**
-
-**Which action should a solutions architect take to quickly provision the necessary connectivity?**
-
-### Question 1
-
-1: Setup an AWS Direct Connect connection
-
-2: Configure a Virtual Private Gateway
-
-3: Create an Amazon CloudFront distribution
-
-4: Create an AWS Transit Gateway
-
-### Question 13
-
-**A company runs an API on a Linux server in their on-premises data center. The company are planning to migrate the API
-to the AWS cloud. The company require a highly available, scalable and cost-effective solution. What should a Solutions
-Architect recommend?**
-
-1: Migrate the API to Amazon API Gateway and migrate the backend to Amazon EC2
-
-2: Migrate the API server to Amazon EC2 instances in an Auto Scaling group and attach an Application Load Balancer
-
-3: Migrate the API to Amazon API Gateway and use AWS Lambda as the backend
-
-4: Migrate the API to Amazon CloudFront and use AWS Lambda as the origin
-
-### Question 14
-
-**An application that is being installed on an Amazon EC2 instance requires a persistent block storage volume. The data
-must be encrypted at rest and regular volume-level backups must be automated.**
-
-**Which solution options should be used?**
-
-1: Use an encrypted Amazon EBS volume and use Data Lifecycle Manager to automate snapshots
-
-2: Use an encrypted Amazon EFS filesystem and use an Amazon CloudWatch Events rule to start a backup copy of data using
-AWS Lambda
-
-3: Use server-side encryption on an Amazon S3 bucket and use Cross-Region-Replication to backup on a schedule
-
-4: Use an encrypted Amazon EC2 instance store and copy the data to another EC2 instance using a cron job and a batch
-script
-
-### Question 15
-
-**A company has several AWS accounts each with multiple Amazon VPCs. The company must establish routing between all
-private subnets. The architecture should be simple and allow transitive routing to occur.**
-
-**How should the network connectivity be configured?**
-
-1: Create a transitive VPC peering connection between each Amazon VPC and configure route tables
-
-2: Create an AWS Transit Gateway and share it with each account using AWS Resource Access Manager
-
-3: Create an AWS Managed VPN between each Amazon VPC and configure route tables
-
-4: Create a hub-and-spoke topology with AWS App Mesh and use AWS Resource Access Manager to share route tables
-
-### Question 16
-
-**An organization is planning their disaster recovery solution. They would like to keep their core business critical
-systems running in the cloud. Other services can be replicated but switched off.**
-
-**Which DR strategy should a Solutions Architect recommend?**
-
-1: Backup and restore
-
-2: Pilot light
-
-3: Warm standby
-
-4: Multi-site
-
-### Question 17
-
-**An application analyzes images of people that are uploaded to an Amazon S3 bucket. The application determines
-demographic data which is then saved to a .CSV file in another S3 bucket. The data must be encrypted at rest and then
-queried using SQL. The solution should be fully serverless.**
-
-**Which actions should a Solutions Architect take to encrypt and query the data?**
-
-1: Use Amazon S3 server-side encryption and use Amazon RedShift Spectrum to query the data
-
-2: Use AWS KMS encryption keys for the S3 bucket and use Amazon Athena to query the data
-
-3: Use AWS KMS encryption keys for the S3 bucket and use Amazon Kinesis Data Analytics to query the data
-
-4: Use Amazon S3 server-side encryption and Amazon QuickSight to query the data
-
-### Question 18
-
-**A large quantity of data is stored on a NAS device on-premises and accessed using the SMB protocol. The company
-require a managed service for hosting the filesystem and a tool to automate the migration.**
-
-**Which actions should a Solutions Architect take?**
-
-1: Migrate the data to Amazon EFS using the AWS Server Migration Service (SMS)
-
-2: Migrate the data to Amazon FSx for Lustre using AWS DataSync
-
-3: Migrate the data to Amazon FSx for Windows File Server using AWS DataSync
-
-4: Migrate the data to Amazon S3 using and AWS Snowball Edge device
-
-### Question 19
-
-**The database layer of an on-premises web application is being migrated to AWS. The database uses a multi- threaded,
-in-memory caching layer to improve performance for repeated queries. Which service would be the most suitable
-replacement for the database cache?**
-
-1: Amazon ElastiCache Redis
-
-2: Amazon DynamoDB DAX
-
-3: Amazon ElastiCache Memcached
-
-4: Amazon RDS MySQL
-
-### Question 20
-
-**A Solutions Architect is designing an application for processing and extracting data from log files. The log files are
-generated by an application and the number and frequency of updates varies. The files are up to 1 GB in size and
-processing will take around 40 seconds for each file.**
-
-**Which solution is the most cost-effective?**
-
-1: Write the log files to an Amazon EC2 instance with an attached EBS volume. After processing, save the files to an
-Amazon S3 bucket
-
-2: Write the log files to an Amazon SQS queue. Use AWS Lambda to process the files from the queue and save to an Amazon
-S3 bucket
-
-3: Write the log files to an Amazon S3 bucket. Create an event notification to invoke an Amazon ECS task to process the
-files and save to an Amazon S3 bucket
-
-4: Write the log files to an Amazon S3 bucket. Create an event notification to invoke an AWS Lambda function that will
-process the files
-
-### Question 21
-
-**A large multinational retail company has a presence in AWS in multiple regions. The company has established a new
-office and needs to implement a high-bandwidth, low-latency connection to multiple VPCs in multiple regions within the
-same account. The VPCs each have unique CIDR ranges.**
-
-**What would be the optimum solution design using AWS technology? (Select TWO)**
-
-1: Configure AWS VPN CloudHub
-
-2: Create a Direct Connect gateway, and create private VIFs to each region
-
-3: Provision an MPLS network
-
-4: Implement Direct Connect connections to each AWS region
-
-5: Implement a Direct Connect connection to the closest AWS region
-
-### Question 22
-
-**A Solutions Architect is creating a design for a two-tier application with a MySQL RDS back-end. The performance
-requirements of the database tier are hard to quantify until the application is running and the Architect is concerned
-about right-sizing the database.**
-
-**What methods of scaling are possible after the MySQL RDS database is deployed? (Select TWO)**
-
-1: Vertical scaling for read and write by choosing a larger instance size
-
-2: Horizontal scaling for write capacity by enabling Multi-AZ
-
-3: Vertical scaling for read and write by using Transfer Acceleration
-
-4: Horizontal scaling for read and write by enabling Multi-Master RDS DB
-
-5: Horizontal scaling for read capacity by creating a read-replica
-
-### Question 23
-
-**An application is running on EC2 instances in a private subnet of an Amazon VPC. A Solutions Architect would like to
-connect the application to Amazon API Gateway. For security reasons, it is necessary to ensure that no traffic traverses
-the Internet and to ensure all traffic uses private IP addresses only.**
-
-**How can this be achieved?**
-
-1: Create a NAT gateway
-
-2: Create a public VIF on a Direct Connect connection
-
-3: Create a private API using an interface VPC endpoint
-
-4: Add the API gateway to the subnet the EC2 instances are located in
-
-### Question 24
-
-**An application stack is being created which needs a message bus to decouple the application components from each
-other. The application will generate up to 300 messages per second without using batching. A Solutions Architect needs
-to ensure that a message is delivered only once and duplicates are not introduced into the queue. It is not necessary to
-maintain the order of the messages.**
-
-**Which SQS queue type should be used?**
-
-1: Standard queues
-
-2: Long polling queues
-
-3: FIFO queues
-
-4: Auto Scaling queues
-
-### Question 25
-
-**A Solutions Architect is attempting to clean up unused EBS volumes and snapshots to save some space and cost. How many
-of the most recent snapshots of an EBS volume need to be maintained to guarantee that you can recreate the full EBS
-volume from the snapshot?**
-
-1: You must retain all snapshots as the process is incremental and therefore data is required from each snapshot
-
-2: Two snapshots, the oldest and most recent snapshots
-
-3: The oldest snapshot, as this references data in all other snapshots
-
-4: Only the most recent snapshot. Snapshots are incremental, but the deletion process will ensure that no data is lost
-
-### Question 26
-
-**A Python application is currently running on Amazon ECS containers using the Fargate launch type. An ALB has been
-created with a Target Group that routes incoming connections to the ECS-based application. The application will be used
-by consumers who will authenticate using federated OIDC compliant Identity Providers such as Google and Facebook. The
-users must be securely authenticated on the front-end before they access the secured portions of the application.**
-
-**How can this be configured using an ALB?**
-
-1: The only option is to use SAML with Amazon Cognito on the ALB
-
-2: This can be done on the ALB by creating an authentication action on a listener rule that configures an Amazon Cognito
-user pool with the social IdP
-
-3: This cannot be done on an ALB; you’ll need to authenticate users on the back-end with AWS Single Sign-On
-(SSO) integration
-
-4: This cannot be done on an ALB; you’ll need to use another layer in front of the ALB
-
-### Question 27
-
-**A Solutions Architect is creating a solution for an application that must be deployed on Amazon EC2 hosts that are
-dedicated to the client. Instance placement must be automatic and billing should be per instance.**
-
-**Which type of EC2 deployment model should be used?**
-
-1: Reserved Instance
-
-2: Dedicated Instance
-
-3: Dedicated Host
-
-4: Cluster Placement Group
-
-### Question 28
-
-**There is new requirement for a database that will store a large number of records for an online store. You are
-evaluating the use of DynamoDB. Which of the following are AWS best practices for DynamoDB? (Select TWO)**
-
-1: Use separate local secondary indexes for each item
-
-2: Store objects larger than 400KB in S3 and use pointers in DynamoDB
-
-3: Store more frequently and less frequently accessed data in separate tables
-
-4: Use for BLOB data use cases
-
-5: Use large files
-
-### Question 29
-
-**A Solutions Architect needs to migrate an Oracle database running on RDS onto Amazon RedShift to improve performance
-and reduce cost. What combination of tasks using AWS services should be followed to execute the migration? (Select
-TWO)**
-
-1: Migrate the database using the AWS Database Migration Service (DMS)
-
-2: Convert the schema using the AWS Schema Conversion Tool
-
-3: Take a snapshot of the Oracle database and restore the snapshot onto RedShift
-
-4: Configure API Gateway to extract, transform and load the data into RedShift
-
-5: Enable log shipping from the Oracle database to RedShift
-
-### Question 30
-
-**A client has made some updates to their web application. The application uses an Auto Scaling Group to maintain a
-group of several EC2 instances. The application has been modified and a new AMI must be used for launching any new
-instances.**
-
-**What does a Solutions Architect need to do to add the new AMI?**
-
-1: Create a new target group that uses a new launch configuration with the new AMI
-
-2: Modify the existing launch configuration to add the new AMI
-
-3: Suspend Auto Scaling and replace the existing AMI
-
-4: Create a new launch configuration that uses the AMI and update the ASG to use the new launch configuration
-
-### Question 31
-
-**A Solutions Architect regularly deploys and manages infrastructure services for customers on AWS. The SysOps team are
-facing challenges in tracking changes that are made to the infrastructure services and rolling back when problems
-occur.**
-
-**How can a Solutions Architect BEST assist the SysOps team?**
-
-1: Use AWS Systems Manager to manage all updates to the infrastructure services
-
-2: Use CodeDeploy to manage version control for the infrastructure services
-
-3: Use CloudFormation templates to deploy and manage the infrastructure services
-
-4: Use Trusted Advisor to record updates made to the infrastructure services
-
-### Question 32
-
-**A Solutions Architect is designing the compute layer of a serverless application. The compute layer will manage
-requests from external systems, orchestrate serverless workflows, and execute the business logic.**
-
-**The Architect needs to select the most appropriate AWS services for these functions. Which services should be used for
-the compute layer? (Select TWO)**
-
-1: Use Amazon ECS for executing the business logic
-
-2: Use AWS CloudFormation for orchestrating serverless workflows
-
-3: Use AWS Step Functions for orchestrating serverless workflows
-
-4: Use AWS Elastic Beanstalk for executing the business logic
-
-5: Use Amazon API Gateway with AWS Lambda for executing the business logic
-
-### Question 33
-
-**An application running in an on-premise data center writes data to a MySQL database. A Solutions Architect is
-re-architecting the application and plans to move the database layer into the AWS cloud on Amazon RDS. The application
-layer will run in the on-premise data center.**
-
-**What must be done to connect the application to the RDS database via the Internet? (Select TWO)**
-
-1: Configure a NAT Gateway and attach the RDS database
-
-2: Choose to make the RDS instance publicly accessible and place it in a public subnet
-
-3: Select a public IP within the DB subnet group to assign to the RDS instance
-
-4: Create a security group allowing access from the on-premise public IP to the RDS instance and assign to the RDS
-instance
-
-5: Create a DB subnet group that is publicly accessible
-
-### Question 34
-
-**A Solutions Architect is conducting an audit and needs to query several properties of EC2 instances in a VPC. Which
-two methods are available for accessing and querying the properties of an EC2 instance such as instance ID, public keys
-and network interfaces? (Select TWO)**
-
-1: Use the EC2 Config service
-
-2: Run the command “curl [http://169.254.169.254/latest/meta-data/”](http://169.254.169.254/latest/meta-data/”)
-
-3: Download and run the Instance Metadata Query Tool
-
-4: Run the command
-“curl [http://169.254.169.254/latest/dynamic/instance-identity/”](http://169.254.169.254/latest/dynamic/instance-identity/”)
-
-5: Use the Batch command
-
-### Question 35
-
-**Encrypted Amazon Elastic Block Store (EBS) volumes are attached to some Amazon EC2 instances. Which statements are
-correct about using encryption with Amazon EBS volumes? (Select TWO)**
-
-1: Data is only encrypted at rest
-
-2: Encryption is supported on all Amazon EBS volume types
-
-3: Data in transit between an instance and an encrypted volume is also encrypted
-
-4: Volumes created from encrypted snapshots are unencrypted
-
-5: You cannot mix encrypted with unencrypted volumes on an instance
-
-### Question 36
-
-**An operations team would like to be notified if an RDS database exceeds certain metric thresholds. How can a Solutions
-Architect automate this process for the operations team?**
-
-1: Create a CloudWatch alarm and associate an SQS queue with it that delivers a message to SES
-
-2: Setup an RDS alarm and associate an SNS topic with it that sends an email
-
-3: Create a CloudTrail alarm and configure a notification event to send an SMS
-
-4: Create a CloudWatch alarm and associate an SNS topic with it that sends an email notification
-
-### Question 37
-
-**An Amazon VPC contains a mixture of Amazon EC2 instances in production and non-production environments. A Solutions
-Architect needs to devise a way to segregate access permissions to different sets of users for instances in different
-environments.**
-
-**How can this be achieved? (Select TWO)**
-
-1: Attach an Identity Provider (IdP) and delegate access to the instances to the relevant groups
-
-2: Create an IAM policy that grants access to any instances with the specific tag and attach to the users and groups
-
-3: Create an IAM policy with a conditional statement that matches the environment variables
-
-4: Add an environment variable to the instances using user data
-
-5: Add a specific tag to the instances you want to grant the users or groups access to
-
-### Question 38
-
-**A customer runs an application on-premise that stores large media files. The data is mounted to different servers
-using either the SMB or NFS protocols. The customer is having issues with scaling the storage infrastructure on-premise
-and is looking for a way to offload the data set into the cloud whilst retaining a local cache for frequently accessed
-content.**
-
-**Which of the following is the best solution?**
-
-1: Use the AWS Storage Gateway File Gateway
-
-2: Use the AWS Storage Gateway Volume Gateway in cached volume mode
-
-3: Create a script that migrates infrequently used data to S3 using multi-part upload
-
-4: Establish a VPN and use the Elastic File System (EFS)
-
-### Question 39
-
-**A client has requested a design for a fault tolerant database that can failover between AZs. You have decided to use
-RDS in a multi-AZ configuration. What type of replication will the primary database use to replicate to the standby
-instance?**
-
-1: Continuous replication
-
-2: Asynchronous replication
-
-3: Scheduled replication
-
-4: Synchronous replication
-
-### Question 40
-
-**A Solutions Architect needs a storage solution for a fleet of Linux web application servers. The solution should
-provide a file system interface and be able to support millions of files. Which AWS service should the Architect
-choose?**
-
-1: Amazon ElastiCache
-
-2: Amazon EBS
-
-3: Amazon EFS
-
-4: Amazon S3
-
-### Question 41
-
-**A Solutions Architect is creating an application design with several components that will be publicly addressable. The
-Architect would like to use Alias records. Using Route 53 Alias records what targets can you specify? (Select TWO)**
-
-1: CloudFront distribution
-
-2: ElastiCache cluster
-
-3: EFS filesystems
-
-4: Elastic Beanstalk environment
-
-5: On-premise web server
-
-### Question 42
-
-**A new financial platform has been re-architected to use Docker containers in a micro-services architecture. The new
-architecture will be implemented on AWS and a Solutions Architect must recommend the solution configuration. For
-operational reasons, it will be necessary to access the operating system of the instances on which the containers run.**
-
-**Which solution delivery option should the Architect select?**
-
-1: ECS with the EC2 launch type
-
-2: EKS with Kubernetes managed infrastructure
-
-3: ECS with the Fargate launch type
-
-4: ECS with a default cluster
-
-### Question 43
-
-**A new application runs on Amazon EC2 instances and uses API Gateway and AWS Lambda. The company is planning on running
-an advertising campaign that will likely result in significant hits to the application after each ad is run.**
-
-**A Solutions Architect is concerned about the impact this may have on the application and would like to put in place
-some controls to limit the number of requests per second that hit the application.**
-
-**What controls should the Solutions Architect implement?**
-
-1: Implement throttling rules on the API Gateway
-
-2: Enable caching on the API Gateway and specify a size in gigabytes
-
-3: Enable Lambda continuous scaling
-
-4: API Gateway and Lambda scale automatically to handle any load so there’s no need to implement controls
-
-### Question 44
-
-**A Solutions Architect has deployed a number of AWS resources using CloudFormation. Some changes must be made to a
-couple of resources within the stack. Due to recent failed updates, the Solutions Architect is a little concerned about
-the effects that implementing updates to the resources might have on other resources in the stack.**
-
-**What is the easiest way to proceed cautiously?**
-
-1: Create and execute a change set
-
-2: Use OpsWorks to manage the configuration changes
-
-3: Use a direct update
-
-4: Deploy a new stack to test the changes
-
-### Question 45
-
-**A company has over 2000 users and is planning to migrate data into the AWS Cloud. Some of the data is user’s home
-folders on an existing file share and the plan is to move this data to Amazon S3. Each user will have a folder in a
-shared bucket under the folder structure:** **_bucket_** **/home/%username%.**
-
-**What steps should a Solutions Architect take to ensure that each user can access their own home folder and no one
-else’s? (Select TWO)**
-
-1: Create a bucket policy that applies access permissions based on username
-
-2: Create an IAM policy that applies folder-level permissions
-
-3: Create an IAM policy that applies object-level S3 ACLs
-
-4: Attach an S3 ACL sub-resource that grants access based on the %username% variable
-
-5: Create an IAM group and attach the IAM policy, add IAM users to the group
-
-### Question 46
-
-**An event in CloudTrail is the record of an activity in an AWS account. What are the two types of events that can be
-logged in CloudTrail? (Select TWO)**
-
-1: Platform Events which are also known as hardware level operations
-
-2: Data Events which are also known as data plane operations
-
-3: System Events which are also known as instance level operations
-
-4: Control Events which are also known as data plane operations
-
-5: Management Events which are also known as control plane operations
-
-### Question 47
-
-**A Solutions Architect is writing some code that uses an AWS Lambda function and would like to enable the function to
-connect to an Amazon ElastiCache cluster within an Amazon VPC in the same AWS account. What VPC-specific information
-must be included in the function to enable this configuration? (Select TWO)**
-
-1: VPC Subnet IDs
-
-2: VPC Logical IDs
-
-3: VPC Peering IDs
-
-4: VPC Security Group IDs
-
-5: VPC Route Table IDs
-
-### Question 48
-
-**A Solutions Architect created a new subnet in an Amazon VPC and launched an Amazon EC2 instance into it. The Solutions
-Architect needs to directly access the EC2 instance from the Internet and cannot connect. Which steps should be
-undertaken to troubleshoot the issue? (Select TWO)**
-
-1: Check that the instance has a public IP address
-
-2: Check that there is a NAT Gateway configured for the subnet
-
-3: Check that Security Group has a rule for outbound traffic
-
-4: Check that the route table associated with the subnet has an entry for an Internet Gateway
-
-5: Check that you can ping the instance from another subnet
-
-### Question 49
-
-**A Solutions Architect just completed the implementation of a 2-tier web application for a client. The application uses
-Amazon EC2 instances, Amazon ELB and Auto Scaling across two subnets. After deployment the Solutions Architect noticed
-that only one subnet has EC2 instances running in it. What might be the cause of this situation?**
-
-1: The ELB is configured as an internal-only load balancer
-
-2: The Auto Scaling Group has not been configured with multiple subnets
-
-3: Cross-zone load balancing is not enabled on the ELB
-
-4: The AMI is missing from the ASG’s launch configuration
-
-### Question 50
-
-**A Solutions Architect is designing the messaging and streaming layers of a serverless application. The messaging layer
-will manage communications between components and the streaming layer will manage real-time analysis and processing of
-streaming data.**
-
-**The Architect needs to select the most appropriate AWS services for these functions. Which services should be used for
-the messaging and streaming layers? (Select TWO)**
-
-1: Use Amazon Kinesis for collecting, processing and analyzing real-time streaming data
-
-2: Use Amazon SWF for providing a fully managed messaging service
-
-3: Use Amazon SNS for providing a fully managed messaging service
-
-4: Use Amazon EMR for collecting, processing and analyzing real-time streaming data
-
-5: Use AWS CloudTrail for collecting, processing and analyzing real-time streaming data
-
-### Question 51
-
-**An existing Auto Scaling group is running with eight Amazon EC2 instances. A Solutions Architect has attached an
-Elastic Load Balancer (ELB) to the Auto Scaling group by connecting a Target Group. The ELB is in the same region and
-already has ten EC2 instances running in the Target Group.**
-
-**When attempting to attach the ELB the request immediately fails, what is the MOST likely cause?**
-
-1: Adding the 10 EC2 instances to the ASG would exceed the maximum capacity configured
-
-2: One or more of the instances are unhealthy
-
-3: ASGs cannot be edited once defined, you would need to recreate it
-
-4: You cannot attach running EC2 instances to an ASG
-
-### Question 52
-
-**The AWS Acceptable Use Policy describes permitted and prohibited behavior on AWS and includes descriptions of
-prohibited security violations and network abuse. According to the policy, what is AWS’s position on penetration
-testing?**
-
-1: AWS do not allow any form of penetration testing
-
-2: AWS allow penetration testing by customers on their own VPC resources
-
-3: AWS allow penetration for some resources without prior authorization
-
-4: AWS allow penetration testing for all resources
-
-### Question 53
-
-**An application regularly uploads files from an Amazon EC2 instance to an Amazon S3 bucket. The files can be a couple
-of gigabytes in size and sometimes the uploads are slower than desired. What method can be used to increase throughput
-and reduce upload times?**
-
-1: Turn off versioning on the destination bucket
-
-2: Randomize the object names when uploading
-
-3: Use Amazon S3 multipart upload
-
-4: Upload the files using the S3 Copy SDK or REST API
-
-### Question 54
-
-**A three-tier web application that is deployed in an Amazon VPC has been experiencing heavy load on the database layer.
-The database layer uses an Amazon RDS MySQL instance in a multi-AZ configuration. Customers have been complaining about
-poor response times. During troubleshooting it has been noted that the database layer is experiencing high read
-contention during peak hours of the day.**
-
-**What are two possible options that could be used to offload some of the read traffic from the database to resolve the
-performance issues? (Select TWO)**
-
-1: Add RDS read replicas in each AZ
-
-2: Use an ELB to distribute load between RDS instances
-
-3: Migrate to DynamoDB
-
-4: Use a larger RDS instance size
-
-5: Deploy ElastiCache in each AZ
-
-### Question 55
-
-**A Solutions Architect is creating a multi-tier application that includes loosely-coupled, distributed application
-components and needs to determine a method of sending notifications instantaneously. Using Amazon SNS which transport
-protocols are supported? (Select TWO)**
-
-1: Amazon SWF
-
-2: FTP
-
-3: HTTPS
-
-4: AWS Lambda
-
-5: Email-JSON
-
-### Question 56
-
-**A manager is concerned that the default service limits my soon be reached for several AWS services. Which AWS tool can
-a Solutions Architect use to display current usage and limits?**
-
-1: AWS Systems Manager
-
-2: AWS Trusted Advisor
-
-3: AWS Dashboard
-
-4: Amazon CloudWatch
-
-### Question 57
-
-**A company has multiple AWS accounts for several environments (Prod, Dev, Test etc.). A Solutions Architect would like
-to copy an Amazon EBS snapshot from DEV to PROD. The snapshot is from an EBS volume that was encrypted with a custom
-key.**
-
-**What steps must be performed to share the encrypted EBS snapshot with the Prod account? (Select TWO)**
-
-1: Share the custom key used to encrypt the volume
-
-2: Make a copy of the EBS volume and unencrypt the data in the process
-
-3: Create a snapshot of the unencrypted volume and share it with the Prod account
-
-4: Modify the permissions on the encrypted snapshot to share it with the Prod account
-
-5: Use CloudHSM to distribute the encryption keys use to encrypt the volume
-
-### Question 58
-
-**An application you manage runs a number of components using a micro-services architecture. Several ECS container
-instances in your ECS cluster are displaying as disconnected. The ECS instances were created from the Amazon
-ECS-Optimized AMI. What steps might you take to troubleshoot the issue? (Select TWO)**
-
-1: Verify that the instances have the correct IAM group applied
-
-2: Verify that the container instances have the container agent installed
-
-3: Verify that the IAM instance profile has the necessary permissions
-
-4: Verify that the container agent is running on the container instances
-
-5: Verify that the container instances are using the Fargate launch type
-
-### Question 59
-
-**The application development team in a company have created a new application written in .NET. A Solutions Architect is
-looking for a way to easily deploy the application whilst maintaining full control of the underlying resources.**
-
-**Which PaaS service provided by AWS would BEST suit this requirement?**
-
-1: CloudFront
-
-2: Elastic Beanstalk
-
-3: EC2 Placement Groups
-
-4: CloudFormation
-
-### Question 60
-
-**A Solutions Architect is building a small web application running on Amazon EC2 that will be serving static content.
-The user base is spread out globally and speed is important. Which AWS service can deliver the best user experience
-cost-effectively and reduce the load on the web server?**
-
-1: Amazon RedShift
-
-2: Amazon S3
-
-3: Amazon CloudFront
-
-4: Amazon EBS volume
-
-### Question 61
-
-**Amazon CloudWatch is being used to monitor the performance of AWS Lambda. Which metrics does Lambda track? (Select
-TWO)**
-
-1: Total number of requests
-
-2: Latency per request
-
-3: Number of users
-
-4: Total number of connections
-
-5: Total number of transactions
-
-### Question 62
-
-**An Amazon EC2 instance running a video on demand web application has been experiencing high CPU utilization. A
-Solutions Architect needs to take steps to reduce the impact on the EC2 instance and improve performance for consumers.
-Which of the steps below would help?**
-
-1: Use ElastiCache as the web front-end and forward connections to EC2 for cache misses
-
-2: Create a CloudFront distribution and configure a custom origin pointing at the EC2 instance
-
-3: Create an ELB and place it in front of the EC2 instance
-
-4: Create a CloudFront RTMP distribution and point it at the EC2 instance
-
-### Question 63
-
-**A Solutions Architect needs to create a file system that can be concurrently accessed by multiple Amazon EC2 instances
-across multiple availability zones. The file system needs to support high throughput and the ability to burst. As the
-data that will be stored on the file system will be sensitive, it must be encrypted at rest and in transit.**
-
-**Which storage solution should the Solutions Architect use for the shared file system?**
-
-1: Add EBS volumes to each EC2 instance and configure data replication
-
-2: Use the Elastic Block Store (EBS) and mount the file system at the block level
-
-3: Use the Elastic File System (EFS) and mount the file system using NFS
-
-4: Add EBS volumes to each EC2 instance and use an ELB to distribute data evenly between the volumes
-
-### Question 64
-
-**A new department will begin using AWS services an AWS account and a Solutions Architect needs to create an
-authentication and authorization strategy. Select the correct statements regarding IAM groups? (Select TWO)**
-
-1: IAM groups can be used to assign permissions to users
-
-2: IAM groups can be nested up to 4 levels
-
-3: IAM groups can be used to group EC2 instances
-
-4: IAM groups can temporarily assume a role to take on permissions for a specific task
-
-5: An IAM group is not an identity and cannot be identified as a principal in an IAM policy
-
-### Question 65
-
-**The development team in a media organization is moving their SDLC processes into the AWS Cloud. Which AWS service can
-a Solutions Architect recommend that is primarily used for software version control?**
-
-1: CloudHSM
-
-2: CodeStar
-
-3: CodeCommit
-
-4: Step Functions
-
-## Set 5: Practice Questions, Answers & Explanations
-
-### Question 1
+#### Question  1
 
 **A Solutions Architect has deployed an API using Amazon API Gateway and created usage plans and API keys for several
 customers. Requests from one particular customer have been excessive and the solutions architect needs to limit the rate
@@ -20573,7 +15145,7 @@ Basic Users
 API Key
 ```
 
-### Question 2
+#### Question  2
 
 **A Solutions Architect is deploying a high performance computing (HPC) application on Amazon EC2 instances. The
 application requires extremely low inter-instance latency. How should the instances be deployed for BEST performance?**
@@ -20623,7 +15195,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/efa.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 3
+#### Question  3
 
 **A company has deployed an API using Amazon API Gateway. There are many repeat requests and a solutions architect has
 been asked to implement measures to reduce request latency and the number of calls to the Amazon EC2 endpoint.**
@@ -20702,7 +15274,7 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-api-gateway/
 
-### Question 4
+#### Question  4
 
 **A Solutions Architect is designing a migration strategy for a company moving to the AWS Cloud. The company use a
 shared Microsoft filesystem that uses Distributed File System Namespaces (DFSN). What will be the MOST suitable
@@ -20745,7 +15317,7 @@ https://docs.aws.amazon.com/fsx/latest/WindowsGuide/migrate-files-fsx.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/
 
-### Question 5
+#### Question  5
 
 **An Amazon ElastiCache for Redis cluster runs across multiple Availability Zones. A solutions architect is concerned
 about the security of sensitive data as it is replicated between nodes. How can the solutions architect protect the
@@ -20796,7 +15368,7 @@ https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/at-rest-encryption.h
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 elasticache/
 
-### Question 6
+#### Question  6
 
 **A company runs an application on-premises that must consume a REST API running on Amazon API Gateway. The company has
 an AWS Direct Connect connection to their Amazon VPC. The solutions architect wants all API calls to use private
@@ -20842,7 +15414,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 7
+#### Question  7
 
 **A company has an eCommerce application that runs from multiple AWS Regions. Each region has a separate database
 running on Amazon EC2 instances. The company plans to consolidate the data to a columnar database and run analytics
@@ -20894,7 +15466,7 @@ https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-remote-hosts.ht
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 redshift/
 
-### Question 8
+#### Question  8
 
 **There has been an increase in traffic to an application that writes data to an Amazon DynamoDB database. Thousands of
 random tables reads occur per second and low-latency is required. What can a Solutions Architect do to improve
@@ -20945,7 +15517,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 9
+#### Question  9
 
 **A Solutions Architect must enable an application to download software updates from the internet. The application runs
 on a series of EC2 instances in an Auto Scaling group running in a private subnet. The solution must involve minimal
@@ -20986,7 +15558,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 10
+#### Question  10
 
 **A Solutions Architect manages multiple Amazon RDS MySQL databases. To improve security, the Solutions Architect wants
 to enable secure user access with short-lived credentials. How can these requirements be met?**
@@ -21033,7 +15605,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.DB
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 11
+#### Question  11
 
 **An application running a private subnet of an Amazon VPC must have outbound internet access for downloading updates.
 The Solutions Architect does not want the application exposed to inbound connection attempts. Which steps should be
@@ -21078,7 +15650,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 12
+#### Question  12
 
 ```
 Region
@@ -21147,7 +15719,7 @@ dependency that the application must communicate with an on-premises server usin
 
 **Which action should a solutions architect take to quickly provision the necessary connectivity?**
 
-### Question 1
+#### Question  1
 
 1: Setup an AWS Direct Connect connection
 
@@ -21184,7 +15756,7 @@ https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 13
+#### Question  13
 
 **A company runs an API on a Linux server in their on-premises data center. The company are planning to migrate the API
 to the AWS cloud. The company require a highly available, scalable and cost-effective solution. What should a Solutions
@@ -21271,7 +15843,7 @@ integration.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 14
+#### Question  14
 
 **An application that is being installed on an Amazon EC2 instance requires a persistent block storage volume. The data
 must be encrypted at rest and regular volume-level backups must be automated.**
@@ -21386,7 +15958,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 15
+#### Question  15
 
 **A company has several AWS accounts each with multiple Amazon VPCs. The company must establish routing between all
 private subnets. The architecture should be simple and allow transitive routing to occur.**
@@ -21430,7 +16002,7 @@ https://aws.amazon.com/blogs/aws/new-use-an-aws-transit-gateway-to-simplify-your
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 16
+#### Question  16
 
 **An organization is planning their disaster recovery solution. They would like to keep their core business critical
 systems running in the cloud. Other services can be replicated but switched off.**
@@ -21470,7 +16042,7 @@ systems, you can fully duplicate these systems on AWS and have them always on.
 
 https://aws.amazon.com/blogs/publicsector/rapidly-recover-mission-critical-systems-in-a-disaster/
 
-### Question 17
+#### Question  17
 
 **An application analyzes images of people that are uploaded to an Amazon S3 bucket. The application determines
 demographic data which is then saved to a .CSV file in another S3 bucket. The data must be encrypted at rest and then
@@ -21515,7 +16087,7 @@ https://aws.amazon.com/athena/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/
 
-### Question 18
+#### Question  18
 
 **A large quantity of data is stored on a NAS device on-premises and accessed using the SMB protocol. The company
 require a managed service for hosting the filesystem and a tool to automate the migration.**
@@ -21566,7 +16138,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-datasync/
 
-### Question 19
+#### Question  19
 
 **The database layer of an on-premises web application is being migrated to AWS. The database uses a multi- threaded,
 in-memory caching layer to improve performance for repeated queries. Which service would be the most suitable
@@ -21646,7 +16218,7 @@ https://aws.amazon.com/elasticache/redis-vs-memcached/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 elasticache/
 
-### Question 20
+#### Question  20
 
 **A Solutions Architect is designing an application for processing and extracting data from log files. The log files are
 generated by an application and the number and frequency of updates varies. The files are up to 1 GB in size and
@@ -21701,7 +16273,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 21
+#### Question  21
 
 **A large multinational retail company has a presence in AWS in multiple regions. The company has established a new
 office and needs to implement a high-bandwidth, low-latency connection to multiple VPCs in multiple regions within the
@@ -21800,7 +16372,7 @@ https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gatewa
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/aws-direct-connect/
 
-### Question 22
+#### Question  22
 
 **A Solutions Architect is creating a design for a two-tier application with a MySQL RDS back-end. The performance
 requirements of the database tier are hard to quantify until the application is running and the Architect is concerned
@@ -21847,7 +16419,7 @@ https://aws.amazon.com/blogs/database/scaling-your-amazon-rds-instance-verticall
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 23
+#### Question  23
 
 **An application is running on EC2 instances in a private subnet of an Amazon VPC. A Solutions Architect would like to
 connect the application to Amazon API Gateway. For security reasons, it is necessary to ensure that no traffic traverses
@@ -21893,7 +16465,7 @@ https://aws.amazon.com/blogs/compute/introducing-amazon-api-gateway-private-endp
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 24
+#### Question  24
 
 **An application stack is being created which needs a message bus to decouple the application components from each
 other. The application will generate up to 300 messages per second without using batching. A Solutions Architect needs
@@ -21943,7 +16515,7 @@ https://aws.amazon.com/sqs/features/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 25
+#### Question  25
 
 **A Solutions Architect is attempting to clean up unused EBS volumes and snapshots to save some space and cost. How many
 of the most recent snapshots of an EBS volume need to be maintained to guarantee that you can recreate the full EBS
@@ -21986,7 +16558,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-deleting-snapshot.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 26
+#### Question  26
 
 **A Python application is currently running on Amazon ECS containers using the Fargate launch type. An ALB has been
 created with a Target Group that routes incoming connections to the ECS-based application. The application will be used
@@ -22035,7 +16607,7 @@ https://aws.amazon.com/blogs/aws/built-in-authentication-in-alb/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 27
+#### Question  27
 
 **A Solutions Architect is creating a solution for an application that must be deployed on Amazon EC2 hosts that are
 dedicated to the client. Instance placement must be automatic and billing should be per instance.**
@@ -22081,7 +16653,7 @@ https://aws.amazon.com/ec2/pricing/dedicated-instances/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 28
+#### Question  28
 
 **There is new requirement for a database that will store a large number of records for an online store. You are
 evaluating the use of DynamoDB. Which of the following are AWS best practices for DynamoDB? (Select TWO)**
@@ -22130,7 +16702,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 29
+#### Question  29
 
 **A Solutions Architect needs to migrate an Oracle database running on RDS onto Amazon RedShift to improve performance
 and reduce cost. What combination of tasks using AWS services should be followed to execute the migration? (Select
@@ -22171,7 +16743,7 @@ AWS DMS)
 
 https://aws.amazon.com/getting-started/projects/migrate-oracle-to-amazon-redshift/
 
-### Question 30
+#### Question  30
 
 **A client has made some updates to their web application. The application uses an Auto Scaling Group to maintain a
 group of several EC2 instances. The application has been modified and a new AMI must be used for launching any new
@@ -22218,7 +16790,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchConfiguration.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 31
+#### Question  31
 
 **A Solutions Architect regularly deploys and manages infrastructure services for customers on AWS. The SysOps team are
 facing challenges in tracking changes that are made to the infrastructure services and rolling back when problems
@@ -22274,7 +16846,7 @@ https://aws.amazon.com/cloudformation/resources/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 32
+#### Question  32
 
 **A Solutions Architect is designing the compute layer of a serverless application. The compute layer will manage
 requests from external systems, orchestrate serverless workflows, and execute the business logic.**
@@ -22325,7 +16897,7 @@ https://aws.amazon.com/step-functions/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-api-gateway/
 
-### Question 33
+#### Question  33
 
 **An application running in an on-premise data center writes data to a MySQL database. A Solutions Architect is
 re-architecting the application and plans to move the database layer into the AWS cloud on Amazon RDS. The application
@@ -22376,7 +16948,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.Scenarios.html#U
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 34
+#### Question  34
 
 **A Solutions Architect is conducting an audit and needs to query several properties of EC2 instances in a VPC. Which
 two methods are available for accessing and querying the properties of an EC2 instance such as instance ID, public keys
@@ -22427,7 +16999,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 35
+#### Question  35
 
 **Encrypted Amazon Elastic Block Store (EBS) volumes are attached to some Amazon EC2 instances. Which statements are
 correct about using encryption with Amazon EBS volumes? (Select TWO)**
@@ -22475,7 +17047,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 36
+#### Question  36
 
 **An operations team would like to be notified if an RDS database exceeds certain metric thresholds. How can a Solutions
 Architect automate this process for the operations team?**
@@ -22520,7 +17092,7 @@ https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEma
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
 tools/amazon-cloudwatch/
 
-### Question 37
+#### Question  37
 
 **An Amazon VPC contains a mixture of Amazon EC2 instances in production and non-production environments. A Solutions
 Architect needs to devise a way to segregate access permissions to different sets of users for instances in different
@@ -22566,7 +17138,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/iam-ec2-resource-tags/
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html
 
-### Question 38
+#### Question  38
 
 **A customer runs an application on-premise that stores large media files. The data is mounted to different servers
 using either the SMB or NFS protocols. The customer is having issues with scaling the storage infrastructure on-premise
@@ -22616,7 +17188,7 @@ https://aws.amazon.com/storagegateway/file/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/aws-storage-
 gateway/
 
-### Question 39
+#### Question  39
 
 **A client has requested a design for a fault tolerant database that can failover between AZs. You have decided to use
 RDS in a multi-AZ configuration. What type of replication will the primary database use to replicate to the standby
@@ -22702,7 +17274,7 @@ https://aws.amazon.com/rds/features/multi-az/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 40
+#### Question  40
 
 **A Solutions Architect needs a storage solution for a fleet of Linux web application servers. The solution should
 provide a file system interface and be able to support millions of files. Which AWS service should the Architect
@@ -22786,7 +17358,7 @@ https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 41
+#### Question  41
 
 **A Solutions Architect is creating an application design with several components that will be publicly addressable. The
 Architect would like to use Alias records. Using Route 53 Alias records what targets can you specify? (Select TWO)**
@@ -22833,7 +17405,7 @@ alias.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-route-53/
 
-### Question 42
+#### Question  42
 
 **A new financial platform has been re-architected to use Docker containers in a micro-services architecture. The new
 architecture will be implemented on AWS and a Solutions Architect must recommend the solution configuration. For
@@ -22880,7 +17452,7 @@ https://aws.amazon.com/ecs/features/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
 
-### Question 43
+#### Question  43
 
 **A new application runs on Amazon EC2 instances and uses API Gateway and AWS Lambda. The company is planning on running
 an advertising campaign that will likely result in significant hits to the application after each ad is run.**
@@ -22928,7 +17500,7 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-api-gateway/
 
-### Question 44
+#### Question  44
 
 **A Solutions Architect has deployed a number of AWS resources using CloudFormation. Some changes must be made to a
 couple of resources within the stack. Due to recent failed updates, the Solutions Architect is a little concerned about
@@ -22974,7 +17546,7 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-updatin
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 cloudformation/
 
-### Question 45
+#### Question  45
 
 **A company has over 2000 users and is planning to migrate data into the AWS Cloud. Some of the data is user’s home
 folders on an existing file share and the plan is to move this data to Amazon S3. Each user will have a folder in a
@@ -23023,7 +17595,7 @@ amazon-s3-bucket/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 46
+#### Question  46
 
 **An event in CloudTrail is the record of an activity in an AWS account. What are the two types of events that can be
 logged in CloudTrail? (Select TWO)**
@@ -23073,7 +17645,7 @@ cloudtrail.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
 cloudtrail/
 
-### Question 47
+#### Question  47
 
 **A Solutions Architect is writing some code that uses an AWS Lambda function and would like to enable the function to
 connect to an Amazon ElastiCache cluster within an Amazon VPC in the same AWS account. What VPC-specific information
@@ -23117,7 +17689,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/vpc.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 48
+#### Question  48
 
 **A Solutions Architect created a new subnet in an Amazon VPC and launched an Amazon EC2 instance into it. The Solutions
 Architect needs to directly access the EC2 instance from the Internet and cannot connect. Which steps should be
@@ -23169,7 +17741,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario2.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 49
+#### Question  49
 
 **A Solutions Architect just completed the implementation of a 2-tier web application for a client. The application uses
 Amazon EC2 instances, Amazon ELB and Auto Scaling across two subnets. After deployment the Solutions Architect noticed
@@ -23212,7 +17784,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/asg-in-vpc.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 50
+#### Question  50
 
 **A Solutions Architect is designing the messaging and streaming layers of a serverless application. The messaging layer
 will manage communications between components and the streaming layer will manage real-time analysis and processing of
@@ -23268,7 +17840,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sns/
 
-### Question 51
+#### Question  51
 
 **An existing Auto Scaling group is running with eight Amazon EC2 instances. A Solutions Architect has attached an
 Elastic Load Balancer (ELB) to the Auto Scaling group by connecting a Target Group. The ELB is in the same region and
@@ -23314,7 +17886,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/attach-load-balancer-asg.h
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 52
+#### Question  52
 
 **The AWS Acceptable Use Policy describes permitted and prohibited behavior on AWS and includes descriptions of
 prohibited security violations and network abuse. According to the policy, what is AWS’s position on penetration
@@ -23351,7 +17923,7 @@ https://aws.amazon.com/security/penetration-testing/
 
 https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/cloud-security/
 
-### Question 53
+#### Question  53
 
 **An application regularly uploads files from an Amazon EC2 instance to an Amazon S3 bucket. The files can be a couple
 of gigabytes in size and sometimes the uploads are slower than desired. What method can be used to increase throughput
@@ -23392,7 +17964,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/mpuoverview.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 54
+#### Question  54
 
 **A three-tier web application that is deployed in an Amazon VPC has been experiencing heavy load on the database layer.
 The database layer uses an Amazon RDS MySQL instance in a multi-AZ configuration. Customers have been complaining about
@@ -23450,7 +18022,7 @@ elasticache/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 55
+#### Question  55
 
 **A Solutions Architect is creating a multi-tier application that includes loosely-coupled, distributed application
 components and needs to determine a method of sending notifications instantaneously. Using Amazon SNS which transport
@@ -23499,7 +18071,7 @@ https://aws.amazon.com/sns/faqs/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sns/
 
-### Question 56
+#### Question  56
 
 **A manager is concerned that the default service limits my soon be reached for several AWS services. Which AWS tool can
 a Solutions Architect use to display current usage and limits?**
@@ -23540,7 +18112,7 @@ https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
 
 https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
 
-### Question 57
+#### Question  57
 
 **A company has multiple AWS accounts for several environments (Prod, Dev, Test etc.). A Solutions Architect would like
 to copy an Amazon EBS snapshot from DEV to PROD. The snapshot is from an EBS volume that was encrypted with a custom
@@ -23590,7 +18162,7 @@ https://aws.amazon.com/blogs/aws/new-cross-account-copying-of-encrypted-ebs-snap
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 58
+#### Question  58
 
 **An application you manage runs a number of components using a micro-services architecture. Several ECS container
 instances in your ECS cluster are displaying as disconnected. The ECS instances were created from the Amazon
@@ -23645,7 +18217,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/ecs-agent-disconnected/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
 
-### Question 59
+#### Question  59
 
 **The application development team in a company have created a new application written in .NET. A Solutions Architect is
 looking for a way to easily deploy the application whilst maintaining full control of the underlying resources.**
@@ -23688,7 +18260,7 @@ https://aws.amazon.com/elasticbeanstalk/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-elastic-
 beanstalk/
 
-### Question 60
+#### Question  60
 
 **A Solutions Architect is building a small web application running on Amazon EC2 that will be serving static content.
 The user base is spread out globally and speed is important. Which AWS service can deliver the best user experience
@@ -23727,7 +18299,7 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 61
+#### Question  61
 
 **Amazon CloudWatch is being used to monitor the performance of AWS Lambda. Which metrics does Lambda track? (Select
 TWO)**
@@ -23768,7 +18340,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/monitoring-metrics.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 62
+#### Question  62
 
 **An Amazon EC2 instance running a video on demand web application has been experiencing high CPU utilization. A
 Solutions Architect needs to take steps to reduce the impact on the EC2 instance and improve performance for consumers.
@@ -23814,7 +18386,7 @@ https://docs.aws.amazon.com/cloudfront/latest/APIReference/API_Origin.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 63
+#### Question  63
 
 **A Solutions Architect needs to create a file system that can be concurrently accessed by multiple Amazon EC2 instances
 across multiple availability zones. The file system needs to support high throughput and the ability to burst. As the
@@ -23860,7 +18432,7 @@ https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 64
+#### Question  64
 
 **A new department will begin using AWS services an AWS account and a Solutions Architect needs to create an
 authentication and authorization strategy. Select the correct statements regarding IAM groups? (Select TWO)**
@@ -23912,7 +18484,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 65
+#### Question  65
 
 **The development team in a media organization is moving their SDLC processes into the AWS Cloud. Which AWS service can
 a Solutions Architect recommend that is primarily used for software version control?**
@@ -23949,1034 +18521,9 @@ from source code to binaries, and it works seamlessly with your existing Git too
 
 https://aws.amazon.com/codecommit/
 
-## Set 6: Practice Questions only
+### Set 6
 
-_For training purposes_ , _go directly to Set 6: Practice Questions, Answers & Explanations_
-
-### Question 1
-
-**A company runs a streaming media service and the content is stored on Amazon S3. The media catalog server pulls
-updated content from S3 and can issue over 1 million read operations per second for short periods. Latency must be kept
-under 5ms for these updates. Which solution will provide the BEST performance for the media catalog updates?**
-
-1: Update the application code to use an Amazon ElastiCache for Redis cluster
-
-2: Implement Amazon CloudFront and cache the content at Edge Locations
-
-3: Update the application code to use an Amazon DynamoDB Accelerator cluster
-
-4: Implement an Instance store volume on the media catalog server
-
-### Question 2
-
-**Three AWS accounts are owned by the same company but in different regions. Account Z has two AWS Direct Connect
-connections to two separate company offices. Accounts A and B require the ability to route across account Z’s Direct
-Connect connections to each company office. A Solutions Architect has created an AWS Direct Connect gateway in account
-Z.**
-
-**How can the required connectivity be configured?**
-
-1: Associate the Direct Connect gateway to a transit gateway in each region
-
-2: Associate the Direct Connect gateway to a virtual private gateway in account A and B
-
-3: Create a VPC Endpoint to the Direct Connect gateway in account A and B
-
-4: Create a PrivateLink connection in Account Z and ENIs in accounts A and B
-
-### Question 3
-
-**A tool needs to analyze data stored in an Amazon S3 bucket. Processing the data takes a few seconds and results are
-then written to another S3 bucket. Less than 256 MB of memory is needed to run the process. What would be the MOST
-cost-effective compute solutions for this use case?**
-
-1: AWS Fargate tasks
-
-2: AWS Lambda functions
-
-3: Amazon EC2 spot instances
-
-4: Amazon Elastic Beanstalk
-
-### Question 4
-
-**An application makes calls to a REST API running on Amazon EC2 instances behind an Application Load Balancer (ALB).
-Most API calls complete quickly. However, a single endpoint is making API calls that require much longer to complete and
-this is introducing overall latency into the system. What steps can a Solutions Architect take to minimize the effects
-of the long-running API calls?**
-
-1: Change the EC2 instance to one with enhanced networking to reduce latency
-
-2: Create an Amazon SQS queue and decouple the long-running API calls
-
-3: Increase the ALB idle timeout to allow the long-running requests to complete
-
-4: Change the ALB to a Network Load Balancer (NLB) and use SSL/TLS termination
-
-### Question 5
-
-**An application runs on EC2 instances in a private subnet behind an Application Load Balancer in a public subnet. The
-application is highly available and distributed across multiple AZs. The EC2 instances must make**
-
-**API calls to an internet-based service. How can the Solutions Architect enable highly available internet
-connectivity?**
-
-1: Create a NAT gateway and attach it to the VPC. Add a route to the gateway to each private subnet route table
-
-2: Configure an internet gateway. Add a route to the gateway to each private subnet route table
-
-3: Create a NAT instance in the private subnet of each AZ. Update the route tables for each private subnet to direct
-internet-bound traffic to the NAT instance
-
-4: Create a NAT gateway in the public subnet of each AZ. Update the route tables for each private subnet to direct
-internet-bound traffic to the NAT gateway
-
-### Question 6
-
-**A legacy application is being migrated into AWS. The application has a large amount of data that is rarely accessed.
-When files are accessed, they are retrieved sequentially. The application will be migrated onto an Amazon EC2
-instance.**
-
-**What is the LEAST expensive EBS volume type for this use case?**
-
-1: Cold HDD (sc1)
-
-2: Provisioned IOPS SSD (io1)
-
-3: General Purpose SSD (gp2)
-
-4: Throughput Optimized HDD (st1)
-
-### Question 7
-
-**An application uses an Amazon RDS database and Amazon EC2 instances in a web tier. The web tier instances must not be
-directly accessible from the internet to improve security.**
-
-**How can a Solutions Architect meet these requirements?**
-
-1: Launch the EC2 instances in a private subnet and create an Application Load Balancer in a public subnet
-
-2: Launch the EC2 instances in a private subnet with a NAT gateway and update the route table
-
-3: Launch the EC2 instances in a public subnet and use AWS WAF to protect the instances from internet-based attacks
-
-4: Launch the EC2 instances in a public subnet and create an Application Load Balancer in a public subnet
-
-### Question 8
-
-**A company runs an application on premises that stores a large quantity of semi-structured data using key- value pairs.
-The application code will be migrated to AWS Lambda and a highly scalable solution is required for storing the data.**
-
-**Which datastore will be the best fit for these requirements?**
-
-1: Amazon EFS
-
-2: Amazon RDS MySQL
-
-3: Amazon EBS
-
-4: Amazon DynamoDB
-
-### Question 9
-
-**An application uses a MySQL database running on an Amazon EC2 instance. The application generates high I/O and
-constant writes to a single table on the database. Which Amazon EBS volume type will provide the MOST consistent
-performance and low latency?**
-
-1: General Purpose SSD (gp2)
-
-2: Provisioned IOPS SSD (io1)
-
-3: Throughput Optimized HDD (st1)
-
-4: Cold HDD (sc1)
-
-### Question 10
-
-**A Solutions Architect needs to capture information about the traffic that reaches an Amazon Elastic Load Balancer. The
-information should include the source, destination, and protocol.**
-
-**What is the most secure and reliable method for gathering this data?**
-
-1 : Create a VPC flow log for each network interface associated with the ELB
-
-2: Enable Amazon CloudTrail logging and configure packet capturing
-
-3: Use Amazon CloudWatch Logs to review detailed logging information
-
-4: Create a VPC flow log for the subnets in which the ELB is running
-
-### Question 11
-
-**The Solutions Architect in charge of a critical application must ensure the Amazon EC2 instances are able to be
-launched in another AWS Region in the event of a disaster.**
-
-**What steps should the Solutions Architect take? (Select TWO)**
-
-1: Launch instances in the second Region using the S3 API
-
-2: Create AMIs of the instances and copy them to another Region
-
-3: Enable cross-region snapshots for the Amazon EC2 instances
-
-4: Launch instances in the second Region from the AMIs
-
-5: Copy the snapshots using Amazon S3 cross-region replication
-
-### Question 12
-
-**A company needs to ensure that they can failover between AWS Regions in the event of a disaster seamlessly with
-minimal downtime and data loss. The applications will run in an active-active configuration.**
-
-**Which DR strategy should a Solutions Architect recommend?**
-
-1: Backup and restore
-
-2: Pilot light
-
-3: Warm standby
-
-4: Multi-site
-
-### Question 13
-
-**A company has launched a multi-tier application architecture. The web tier and database tier run on Amazon EC2
-instances in private subnets within the same Availability Zone.**
-
-**Which combination of steps should a Solutions Architect take to add high availability to this architecture?
-(Select TWO)**
-
-1: Create new public subnets in the same AZ for high availability and move the web tier to the public subnets
-
-2: Create an Amazon EC2 Auto Scaling group and Application Load Balancer (ALB) spanning multiple AZs
-
-3: Add the existing web application instances to an Auto Scaling group behind an Application Load Balancer
-(ALB)
-
-4: Create new private subnets in the same VPC but in a different AZ. Create a database using Amazon EC2 in one AZ
-
-5: Create new private subnets in the same VPC but in a different AZ. Migrate the database to an Amazon RDS multi-AZ
-deployment
-
-### Question 14
-
-**An on-premises server runs a MySQL database and will be migrated to the AWS Cloud. The company require a managed
-solution that supports high availability and automatic failover in the event of the outage of an Availability Zone (AZ)
-.**
-
-**Which solution is the BEST fit for these requirements?**
-
-1: Use the AWS Database Migration Service (DMS) to directly migrate the database to an Amazon RDS MySQL Multi-AZ
-deployment
-
-2: Use the AWS Database Migration Service (DMS) to directly migrate the database to an Amazon EC2 MySQL Multi-AZ
-deployment
-
-3: Create a snapshot of the MySQL database server and use AWS DataSync to migrate the data Amazon S3. Launch a new
-Amazon RDS MySQL Multi-AZ deployment from the snapshot
-
-4: Use the AWS Database Migration Service (DMS) to directly migrate the database to Amazon RDS MySQL. Use the Schema
-Conversion Tool (SCT) to enable conversion from MySQL to Amazon RDS
-
-### Question 15
-
-**The database layer of an on-premises web application is being migrated to AWS. The database currently uses an
-in-memory cache. A Solutions Architect must deliver a solution that supports high availability and replication for the
-caching layer.**
-
-**Which service should the Solutions Architect recommend?**
-
-1: Amazon ElastiCache Redis
-
-2: Amazon RDS Multi-AZ
-
-3: Amazon ElastiCache Memcached
-
-4: Amazon DynamoDB
-
-### Question 16
-
-**A Solutions Architect has created an AWS Organization with several AWS accounts. Security policy requires that use of
-specific API actions are limited across all accounts. The Solutions Architect requires a method of centrally controlling
-these actions.**
-
-**What is the SIMPLEST method of achieving the requirements?**
-
-1: Create a Network ACL that limits access to the services or actions and attach it to all relevant subnets
-
-2: Create an IAM policy in the root account and attach it to users and groups in each account
-
-3: Create cross-account roles in each account to limit access to the services and actions that are allowed
-
-4: Create a service control policy in the root organizational unit to deny access to the services or actions
-
-### Question 17
-
-**A company has a fleet of Amazon EC2 instances behind an Elastic Load Balancer (ELB) that are a mixture of c4.2xlarge
-instance types and c5.large instances. The load on the CPUs on the c5.large instances has been very high, often hitting
-100% utilization, whereas the c4.2xlarge instances have been performing well.**
-
-**What should a Solutions Architect recommend to resolve the performance issues?**
-
-1: Enable the weighted routing policy on the ELB and configure a higher weighting for the c4.2xlarge instances
-
-2: Add all of the instances into a Placement Group
-
-3: Change the configuration to use only c4.2xlarge instance types
-
-4: Add more c5.large instances to spread the load more evenly
-
-### Question 18
-
-**A Solutions Architect created a new IAM user account for a temporary employee who recently joined the company. The
-user does not have permissions to perform any actions, which statement is true about newly created users in IAM?**
-
-1: They are created with no permissions
-
-2: They are created with limited permissions
-
-3: They are created with full permissions
-
-4: They are created with user privileges
-
-### Question 19
-
-**A government agency is using CloudFront for a web application that receives personally identifiable information (PII)
-from citizens. What feature of CloudFront applies an extra level of encryption at CloudFront edge locations to ensure
-the PII data is secured end-to-end?**
-
-1: Object invalidation
-
-2: Field-level encryption
-
-3: RTMP distribution
-
-4: Origin access identity
-
-### Question 20
-
-**A company has multiple Amazon VPCs that are peered with each other. The company would like to use a single Elastic
-Load Balancer (ELB) to route traffic to multiple EC2 instances in peered VPCs within the same region. How can this be
-achieved?**
-
-1: This is not possible, the instances that an ELB routes traffic to must be in the same VPC
-
-2: This is possible using the Classic Load Balancer (CLB) if using Instance IDs
-
-3: This is possible using the Network Load Balancer (NLB) and Application Load Balancer (ALB) if using IP addresses as
-targets
-
-4: This is not possible with ELB, you would need to use Route 53
-
-### Question 21
-
-**Some data has become corrupted in an Amazon RDS database. A Solutions Architect plans to use point-in- time restore to
-recover the data to the last known good configuration. Which of the following statements is correct about restoring an
-RDS database to a specific point-in-time? (Select TWO)**
-
-1: You can restore up to the last 5 minutes
-
-2: Custom DB security groups are applied to the new DB instance
-
-3: You can restore up to the last 1 minute
-
-4: The default DB security group is applied to the new DB instance
-
-5: The database restore overwrites the existing database
-
-### Question 22
-
-**An application is generating a large amount of clickstream events data that is being stored on S3. The business needs
-to understand customer behavior and want to run complex analytics queries against the data.**
-
-**Which AWS service can be used for this requirement?**
-
-1: Amazon RedShift
-
-2: Amazon Neptune
-
-3: Amazon RDS
-
-4: Amazon Kinesis Firehose
-
-### Question 23
-
-**A Solutions Architect is deploying a production application that will use several Amazon EC2 instances and run
-constantly on an ongoing basis. The application cannot be interrupted or restarted. Which EC2 pricing model would be
-best for this workload?**
-
-1: Reserved instances
-
-2: On-demand instances
-
-3: Spot instances
-
-4: Flexible instances
-
-### Question 24
-
-**A customer has requested some advice on how to implement security measures in their Amazon VPC. The client has
-recently been the victim of some hacking attempts. The client wants to implement measures to mitigate further threats.
-The client has explained that the attacks always come from the same small block of IP addresses.**
-
-**What would be a quick and easy measure to help prevent further attacks?**
-
-1: Use a Security Group rule that denies connections from the block of IP addresses
-
-2: Use CloudFront’s DDoS prevention features
-
-3: Create a Bastion Host restrict all connections to the Bastion Host only
-
-4: Use a Network ACL rule that denies connections from the block of IP addresses
-
-### Question 25
-
-**An Amazon EC2 instance has been launched into an Amazon VPC. A Solutions Architect needs to ensure that instances have
-both a private and public DNS hostnames. Assuming settings were not changed during creation of the VPC, how will DNS
-hostnames be assigned by default? (Select TWO)**
-
-1: In all VPCs instances no DNS hostnames will be assigned
-
-2: In a non-default VPC instances will be assigned a public and private DNS hostname
-
-3: In a default VPC instances will be assigned a public and private DNS hostname
-
-4: In a non-default VPC instances will be assigned a private but not a public DNS hostname
-
-5: In a default VPC instances will be assigned a private but not a public DNS hostname
-
-### Question 26
-
-**A fleet of Amazon EC2 instances running Linux will be launched in an Amazon VPC. An application development framework
-and some custom software must be installed on the instances. The installation will be initiated using some scripts. What
-feature enables a Solutions Architect to specify the scripts the software can be installed during the EC2 instance
-launch?**
-
-1: Metadata
-
-2: Run Command
-
-3: AWS Config
-
-4: User Data
-
-### Question 27
-
-**A company is investigating ways to analyze and process large amounts of data in the cloud faster, without needing to
-load or transform the data in a data warehouse. The data resides in Amazon S3.**
-
-**Which AWS services would allow the company to query the data in place? (Select TWO)**
-
-1: Amazon S3 Select
-
-2: Amazon Kinesis Data Streams
-
-3: Amazon Elasticsearch
-
-4: Amazon RedShift Spectrum
-
-5: Amazon SWF
-
-### Question 28
-
-**A distribution method is required for some static files. The requests will mainly be GET requests and a high volume of
-GETs is expected, often exceeding 2000 per second. The files are currently stored in an S3 bucket. According to AWS best
-practices, how can performance be optimized?**
-
-1: Use cross-region replication to spread the load across regions
-
-2: Use ElastiCache to cache the content
-
-3: Integrate CloudFront with S3 to cache the content
-
-4: Use S3 Transfer Acceleration
-
-### Question 29
-
-**An Auto Scaling group of Amazon EC2 instances behind an Elastic Load Balancer (ELB) is running in an Amazon VPC.
-Health checks are configured on the ASG to use EC2 status checks. The ELB has determined that an EC2 instance is
-unhealthy and has removed it from service. A Solutions Architect noticed that the instance is still running and has not
-been terminated by EC2 Auto Scaling.**
-
-**What would be an explanation for this behavior?**
-
-1: The ASG is waiting for the cooldown timer to expire before terminating the instance
-
-2: Connection draining is enabled and the ASG is waiting for in-flight requests to complete
-
-3: The ELB health check type has not been selected for the ASG and so it is unaware that the instance has been
-determined to be unhealthy by the ELB and has been removed from service
-
-4: The health check grace period has not yet expired
-
-### Question 30
-
-**A financial services company regularly runs an analysis of the day’s transaction costs, execution reporting, and
-market performance. The company currently uses third-party commercial software for provisioning, managing, monitoring,
-and scaling the computing jobs which utilize a large fleet of EC2 instances.**
-
-**The company is seeking to reduce costs and utilize AWS services. Which AWS service could be used in place of the
-third-party software?**
-
-1: Amazon Athena
-
-2: AWS Systems Manager
-
-3: Amazon Lex
-
-4: AWS Batch
-
-### Question 31
-
-**A customer is deploying services in a hybrid cloud model. The customer has mandated that data is transferred directly
-between cloud data centers, bypassing ISPs.**
-
-**Which AWS service can be used to enable hybrid cloud connectivity?**
-
-1: AWS Direct Connect
-
-2: Amazon VPC
-
-3: IPSec VPN
-
-4: Amazon Route 53
-
-### Question 32
-
-**An Amazon Elastic File System (EFS) has been created to store data that will be accessed by a large number of Amazon
-EC2 instances. The data is sensitive and a Solutions Architect is creating a design for security measures to protect the
-data. It is required that network traffic is restricted correctly based on firewall rules and access from hosts is
-restricted by user or group.**
-
-**How can this be achieved with Amazon EFS? (Select TWO)**
-
-1: Use POSIX permissions to control access from hosts by user or group
-
-2: Use AWS Web Application Firewall (WAF) to protect EFS
-
-3: Use EFS Security Groups to control network traffic
-
-4: Use Network ACLs to control the traffic
-
-5: Use IAM groups to control access by user or group
-
-### Question 33
-
-**A large multi-national client has requested a design for a multi-region database. The master database will be in the
-EU (Frankfurt) region and databases will be located in 4 other regions to service local read traffic. The database
-should be a managed service including the replication.**
-
-**The solution should be cost-effective and secure. Which AWS service can deliver these requirements?**
-
-1: RDS with Multi-AZ
-
-2: EC2 instances with EBS replication
-
-3: RDS with cross-region Read Replicas
-
-4: ElastiCache with Redis and clustering mode enabled
-
-### Question 34
-
-**A Solutions Architect is designing the system monitoring and deployment layers of a serverless application. The system
-monitoring layer will manage system visibility through recording logs and metrics and the deployment layer will deploy
-the application stack and manage workload changes through a release management process.**
-
-**The Architect needs to select the most appropriate AWS services for these functions. Which services and frameworks
-should be used for the system monitoring and deployment layers? (Select TWO)**
-
-1: Use AWS CloudTrail for consolidating system and application logs and monitoring custom metrics
-
-2: Use AWS X-Ray to package, test, and deploy the serverless application stack
-
-3: Use AWS SAM to package, test, and deploy the serverless application stack
-
-4: Use Amazon CloudWatch for consolidating system and application logs and monitoring custom metrics
-
-5: Use AWS Lambda to package, test, and deploy the serverless application stack
-
-### Question 35
-
-**One of the departments in a company has been generating a large amount of data on Amazon S3 and costs are increasing.
-Data older than 90 days is rarely accessed but must be retained for several years. If this data does need to be accessed
-at least 24 hours notice is provided.**
-
-**How can a Solutions Architect optimize the costs associated with storage of this data whilst ensuring it is accessible
-if required?**
-
-1: Implement archival software that automatically moves the data to tape
-
-2: Use S3 lifecycle policies to move data to the STANDARD_IA storage class
-
-3: Use S3 lifecycle policies to move data to GLACIER after 90 days
-
-4: Select the older data and manually migrate it to GLACIER
-
-### Question 36
-
-**A Solutions Architect enabled Access Logs on an Application Load Balancer (ALB) and needs to process the log files
-using a hosted Hadoop service. What configuration changes and services can be leveraged to deliver this requirement?**
-
-1: Configure Access Logs to be delivered to EC2 and install Hadoop for processing the log files
-
-2: Configure Access Logs to be delivered to DynamoDB and use EMR for processing the log files
-
-3: Configure Access Logs to be delivered to S3 and use Kinesis for processing the log files
-
-4: Configure Access Logs to be delivered to S3 and use EMR for processing the log files
-
-### Question 37
-
-**A web application receives order processing information from customers and places the messages on an Amazon SQS queue.
-A fleet of Amazon EC2 instances are configured to pick up the messages, process them, and store the results in a
-DynamoDB table. The current configuration has been resulting in a large number of empty responses to ReceiveMessage API
-requests.**
-
-**A Solutions Architect needs to eliminate empty responses to reduce operational overhead. How can this be done?**
-
-1: Use a Standard queue to provide at-least-once delivery, which means that each message is delivered at least once
-
-2: Use a FIFO (first-in-first-out) queue to preserve the exact order in which messages are sent and received
-
-3: Configure Long Polling to eliminate empty responses by allowing Amazon SQS to wait until a message is available in a
-queue before sending a response
-
-4: Configure Short Polling to eliminate empty responses by reducing the length of time a connection request remains open
-
-### Question 38
-
-**A Solutions Architect has created an AWS account and selected the Asia Pacific (Sydney) region. Within the default VPC
-there is a default security group. What settings are configured within this security group by default? (Select TWO)**
-
-1: There is an inbound rule that allows all traffic from the security group itself
-
-2: There is an inbound rule that allows all traffic from any address
-
-3: There is an outbound rule that allows all traffic to the security group itself
-
-4: There is an outbound rule that allows all traffic to all addresses
-
-5: There is an outbound rule that allows traffic to the VPC router
-
-### Question 39
-
-**A company is deploying a new two-tier web application that uses EC2 web servers and a DynamoDB database backend. An
-Internet facing ELB distributes connections between the web servers.**
-
-**The Solutions Architect has created a security group for the web servers and needs to create a security group for the
-ELB. What rules should be added? (Select TWO)**
-
-1: Add an Outbound rule that allows HTTP/HTTPS, and specify the destination as the web server security group
-
-2: Add an Outbound rule that allows ALL TCP, and specify the destination as the Internet Gateway
-
-3: Add an Outbound rule that allows HTTP/HTTPS, and specify the destination as VPC CIDR
-
-4: Add an Inbound rule that allows HTTP/HTTPS, and specify the source as 0.0.0.0/0
-
-5: Add an Inbound rule that allows HTTP/HTTPS, and specify the source as 0.0.0.0/32
-
-### Question 40
-
-**A development team needs to run up a few lab servers on a weekend for a new project. The servers will need to run
-uninterrupted for a few hours. Which EC2 pricing option would be most suitable?**
-
-1: Spot
-
-2: Reserved
-
-3: On-Demand
-
-4: Dedicated Instances
-
-### Question 41
-
-**A Solutions Architect has logged into an Amazon EC2 Linux instance using SSH and needs to determine a few pieces of
-information including what IAM role is assigned, the instance ID and the names of the security groups that are assigned
-to the instance.**
-
-**From the options below, what would be the best source of this information?**
-
-1: Metadata
-
-2: Tags
-
-3: User data
-
-4: Parameters
-
-### Question 42
-
-**An Amazon EC2 instance is generating very high packets-per-second and performance of the application stack is being
-impacted. A Solutions Architect needs to determine a resolution to the issue that results in improved performance.**
-
-**Which action should the Architect take?**
-
-1: Configure a RAID 1 array from multiple EBS volumes
-
-2: Create a placement group and put the EC2 instance in it
-
-3: Use enhanced networking
-
-4: Add multiple Elastic IP addresses to the instance
-
-### Question 43
-
-**A company runs a web-based application that uses Amazon EC2 instances for the web front-end and Amazon RDS for the
-database back-end. The web application writes transaction log files to an Amazon S3 bucket and the quantity of files is
-becoming quite large. It is acceptable to retain the most recent 60 days of log files and permanently delete the rest.**
-
-**Which action can a Solutions Architect take to enable this to happen automatically?**
-
-1: Use an S3 lifecycle policy with object expiration configured to automatically remove objects that are more than 60
-days old
-
-2: Write a Ruby script that checks the age of objects and deletes any that are more than 60 days old
-
-3: Use an S3 bucket policy that deletes objects that are more than 60 days old
-
-4: Use an S3 lifecycle policy to move the log files that are more than 60 days old to the GLACIER storage class
-
-### Question 44
-
-**A Solutions Architect needs to upload a large (2GB) file to an S3 bucket. What is the recommended way to upload a
-single large file to an S3 bucket?**
-
-1: Use AWS Import/Export
-
-2: Use Multipart Upload
-
-3: Use a single PUT request to upload the large file
-
-4: Use Amazon Snowball
-
-### Question 45
-
-**Several Amazon EC2 Spot instances are being used to process messages from an Amazon SQS queue and store results in an
-Amazon DynamoDB table. Shortly after picking up a message from the queue AWS terminated the Spot instance. The Spot
-instance had not finished processing the message. What will happen to the message?**
-
-1: The message will become available for processing again after the visibility timeout expires
-
-2: The message will be lost as it would have been deleted from the queue when processed
-
-3: The message will remain in the queue and be immediately picked up by another instance
-
-4: The results may be duplicated in DynamoDB as the message will likely be processed multiple times
-
-### Question 46
-
-**A company is transitioning their web presence into the AWS cloud. As part of the migration the company will be running
-a web application both on-premises and in AWS for a period of time. During the period of co- existence, the client would
-like 80% of the traffic to hit the AWS-based web servers and 20% to be directed to the on-premises web servers.**
-
-**What method can a Solutions Architect use to distribute traffic as requested?**
-
-1: Use Route 53 with a weighted routing policy and configure the respective weights
-
-2: Use Route 53 with a simple routing policy
-
-3: Use an Application Load Balancer to distribute traffic based on IP address
-
-4: Use a Network Load Balancer to distribute traffic based on Instance ID
-
-### Question 47
-
-**A Solutions Architect has created a new Network ACL in an Amazon VPC. No rules have been created. Which of the
-statements below are correct regarding the default state of the Network ACL? (Select TWO)**
-
-1: There is a default inbound rule allowing traffic from the VPC CIDR block
-
-2: There is a default outbound rule allowing traffic to the Internet Gateway
-
-3: There is a default outbound rule allowing all traffic
-
-4: There is a default inbound rule denying all traffic
-
-5: There is a default outbound rule denying all traffic
-
-### Question 48
-
-**A company needs to capture detailed information about all HTTP requests that are processed by their Internet facing
-Application Load Balancer (ALB). The company requires information on the requester, IP address, and request type for
-analyzing traffic patterns to better understand their customer base.**
-
-**Which actions should a Solutions Architect recommend?**
-
-1: Configure metrics in CloudWatch for the ALB
-
-2: Enable EC2 detailed monitoring
-
-3: Enable Access Logs and store the data on S3
-
-4: Use CloudTrail to capture all API calls made to the ALB
-
-### Question 49
-
-**A Solutions Architect needs to run a PowerShell script on a fleet of Amazon EC2 instances running Microsoft Windows.
-The instances have already been launched in an Amazon VPC. What tool can be run from the AWS Management Console that to
-execute the script on all target EC2 instances?**
-
-1: AWS CodeDeploy
-
-2: AWS Config
-
-3: Run Command
-
-4: AWS OpsWorks
-
-### Question 50
-
-**A company requires an Elastic Load Balancer (ELB) for an application they are planning to deploy on AWS. The
-application requires extremely high throughput and extremely low latencies. The connections will be made using the TCP
-protocol and the ELB must support load balancing to multiple ports on an instance. Which ELB would should the company
-use?**
-
-1: Classic Load Balancer
-
-2: Application Load Balancer
-
-3: Network Load Balancer
-
-4: Route 53
-
-### Question 51
-
-**A web application runs on a series of Amazon EC2 instances behind an Application Load Balancer (ALB). A Solutions
-Architect is updating the configuration with a health check and needs to select the protocol to use. What options are
-available? (Select TWO)**
-
-1: HTTP
-
-2: SSL
-
-3: HTTPS
-
-4: TCP
-
-5: ICMP
-
-### Question 52
-
-**A Solutions Architect is designing the disk configuration for an Amazon EC2 instance. The instance needs to support a
-MapReduce process that requires high throughput for a large dataset with large I/O sizes.**
-
-**Which Amazon EBS volume is the MOST cost-effective solution for these requirements?**
-
-1: EBS General Purpose SSD in a RAID 1 configuration
-
-2: EBS Throughput Optimized HDD
-
-3: EBS Provisioned IOPS SSD
-
-4: EBS General Purpose SSD
-
-### Question 53
-
-**An Amazon EBS-backed EC2 instance has been launched. A requirement has come up for some high- performance ephemeral
-storage.**
-
-**How can a Solutions Architect add a new instance store volume?**
-
-1: You must shutdown the instance in order to be able to add the instance store volume
-
-2: You must use an Elastic Network Adapter (ENA) to add instance store volumes. First, attach an ENA, and then attach
-the instance store volume
-
-3: You can specify the instance store volumes for your instance only when you launch an instance
-
-4: You can use a block device mapping to specify additional instance store volumes when you launch your instance, or you
-can attach additional instance store volumes after your instance is running
-
-### Question 54
-
-**A large quantity of data that is rarely accessed is being archived onto Amazon Glacier. Your CIO wants to understand
-the resilience of the service. Which of the statements below is correct about Amazon Glacier storage? (Select TWO)**
-
-1: Data is replicated globally
-
-2: Provides 99.999999999% durability of archives
-
-3: Data is resilient in the event of one entire Availability Zone destruction
-
-4: Data is resilient in the event of one entire region destruction
-
-5: Provides 99.9% availability of archives
-
-### Question 55
-
-**A Solutions Architect is launching an Amazon EC2 instance with multiple attached volumes by modifying the block device
-mapping. Which block device can be specified in a block device mapping to be used with an EC2 instance? (Select TWO)**
-
-1: EBS volume
-
-2: EFS volume
-
-3: Instance store volume
-
-4: Snapshot
-
-5: S3 bucket
-
-### Question 56
-
-**An Amazon EC2 instance behind an Elastic Load Balancer (ELB) is in the process of being de-registered. Which ELB
-feature is used to allow existing connections to close cleanly?**
-
-1: Sticky Sessions
-
-2: Proxy Protocol
-
-3: Deletion Protection
-
-4: Connection Draining
-
-### Question 57
-
-**The load on a MySQL database running on Amazon EC2 is increasing and performance has been impacted. Which of the
-options below would help to increase storage performance? (Select TWO)**
-
-1: Use a larger instance size within the instance family
-
-2: Use HDD, Cold (SC1) EBS volumes
-
-3: Use Provisioned IOPS (I01) EBS volumes
-
-4: Use EBS optimized instances
-
-5: Create a RAID 1 array from multiple EBS volumes
-
-### Question 58
-
-**An application receives a high traffic load between 7:30am and 9:30am daily. The application uses an Auto Scaling
-group to maintain three instances most of the time but during the peak period it requires six instances.**
-
-**How can a Solutions Architect configure Auto Scaling to perform a daily scale-out event at 7:30am and a scale-in event
-at 9:30am to account for the peak load?**
-
-1: Use a Simple scaling policy
-
-2: Use a Scheduled scaling policy
-
-3: Use a Dynamic scaling policy
-
-4: Use a Step scaling policy
-
-### Question 59
-
-**An on-premise data center will be connected to an Amazon VPC by a hardware VPN that has public and VPN-only subnets.
-The security team has requested that traffic hitting public subnets on AWS that’s destined to on-premise applications
-must be directed over the VPN to the corporate firewall.**
-
-**How can this be achieved?**
-
-1: In the VPN-only subnet route table, add a route that directs all Internet traffic to the virtual private gateway
-
-2: In the public subnet route table, add a route for your remote network and specify the customer gateway as the target
-
-3: Configure a NAT Gateway and configure all traffic to be directed via the virtual private gateway
-
-4: In the public subnet route table, add a route for your remote network and specify the virtual private gateway as the
-target
-
-### Question 60
-
-**An Amazon DynamoDB table has a variable load, ranging from sustained heavy usage some days, to only having small
-spikes on others. The load is 80% read and 20% write. The provisioned throughput capacity has been configured to account
-for the heavy load to ensure throttling does not occur.**
-
-**What would be the most efficient solution to optimize cost?**
-
-1: Create a CloudWatch alarm that triggers an AWS Lambda function that adjusts the provisioned throughput
-
-2: Create a CloudWatch alarm that notifies you of increased/decreased load, and manually adjust the provisioned
-throughput
-
-3: Use DynamoDB DAX to increase the performance of the database
-
-4: Create a DynamoDB Auto Scaling scaling policy
-
-### Question 61
-
-**A Solutions Architect has created a VPC and is in the process of formulating the subnet design. The VPC will be used
-to host a two-tier application that will include Internet facing web servers, and internal-only DB servers. Zonal
-redundancy is required.**
-
-**How many subnets are required to support this requirement?**
-
-1: 2 subnets
-
-2: 6 subnets
-
-3: 1 subnet
-
-4: 4 subnets
-
-### Question 62
-
-**The application development team in a company have developed a Java application and saved the source code in a .war
-file. They would like to run the application on AWS resources and are looking for a service that can handle the
-provisioning and management of the underlying resources it will run on.**
-
-**Which AWS service should a Solutions Architect recommend the Developers use to upload the Java source code file?**
-
-1: AWS Elastic Beanstalk
-
-2: AWS CodeDeploy
-
-3: AWS CloudFormation
-
-4: AWS OpsWorks
-
-### Question 63
-
-**A Solutions Architect has created a new security group in an Amazon VPC. No rules have been created. Which of the
-statements below are correct regarding the default state of the security group? (Select TWO)**
-
-1: There is an outbound rule that allows all traffic to all IP addresses
-
-2: There are no inbound rules and traffic will be implicitly denied
-
-3: There is an inbound rule allowing traffic from the Internet to port 22 for management
-
-4: There are is an inbound rule that allows traffic from the Internet Gateway
-
-5: There is an outbound rule allowing traffic to the Internet Gateway
-
-### Question 64
-
-**A security officer has requested that all data associated with a specific customer is encrypted. The data resides on
-Elastic Block Store (EBS) volumes. Which of the following statements about using EBS encryption are correct? (Select
-TWO)**
-
-1: Not all EBS types support encryption
-
-2: All attached EBS volumes must share the same encryption state
-
-3: All instance types support encryption
-
-4: Data in transit between an instance and an encrypted volume is also encrypted
-
-5: There is no direct way to change the encryption state of a volume
-
-### Question 65
-
-**An organization in the agriculture sector is deploying sensors and smart devices around factory plants and fields. The
-devices will collect information and send it to cloud applications running on AWS.**
-
-**Which AWS service will securely connect the devices to the cloud applications?**
-
-1: AWS Glue
-
-2: AWS IoT Core
-
-3: AWS DMS
-
-4: AWS Lambda
-
-## Set 6: Practice Questions, Answers & Explanations
-
-### Question 1
+#### Question  1
 
 **A company runs a streaming media service and the content is stored on Amazon S3. The media catalog server pulls
 updated content from S3 and can issue over 1 million read operations per second for short periods. Latency must be kept
@@ -25032,7 +18579,7 @@ https://aws.amazon.com/blogs/storage/turbocharge-amazon-s3-with-amazon-elasticac
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 elasticache/
 
-### Question 2
+#### Question  2
 
 **Three AWS accounts are owned by the same company but in different regions. Account Z has two AWS Direct Connect
 connections to two separate company offices. Accounts A and B require the ability to route across account Z’s Direct
@@ -25082,7 +18629,7 @@ https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gatewa
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/aws-direct-connect/
 
-### Question 3
+#### Question  3
 
 **A tool needs to analyze data stored in an Amazon S3 bucket. Processing the data takes a few seconds and results are
 then written to another S3 bucket. Less than 256 MB of memory is needed to run the process. What would be the MOST
@@ -25123,7 +18670,7 @@ https://aws.amazon.com/lambda/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
 
-### Question 4
+#### Question  4
 
 **An application makes calls to a REST API running on Amazon EC2 instances behind an Application Load Balancer (ALB).
 Most API calls complete quickly. However, a single endpoint is making API calls that require much longer to complete and
@@ -25168,7 +18715,7 @@ https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welco
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 5
+#### Question  5
 
 **An application runs on EC2 instances in a private subnet behind an Application Load Balancer in a public subnet. The
 application is highly available and distributed across multiple AZs. The EC2 instances must make API calls to an
@@ -25217,7 +18764,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 6
+#### Question  6
 
 **A legacy application is being migrated into AWS. The application has a large amount of data that is rarely accessed.
 When files are accessed, they are retrieved sequentially. The application will be migrated onto an Amazon EC2
@@ -25259,7 +18806,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 7
+#### Question  7
 
 **An application uses an Amazon RDS database and Amazon EC2 instances in a web tier. The web tier instances must not be
 directly accessible from the internet to improve security.**
@@ -25305,7 +18852,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/public-load-balancer-priv
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 8
+#### Question  8
 
 ```
 Region
@@ -25396,7 +18943,7 @@ https://aws.amazon.com/dynamodb/features/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 9
+#### Question  9
 
 **An application uses a MySQL database running on an Amazon EC2 instance. The application generates high I/O and
 constant writes to a single table on the database. Which Amazon EBS volume type will provide the MOST consistent
@@ -25436,7 +18983,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 10
+#### Question  10
 
 **A Solutions Architect needs to capture information about the traffic that reaches an Amazon Elastic Load Balancer. The
 information should include the source, destination, and protocol.**
@@ -25480,7 +19027,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/network/load-balancer-mo
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 11
+#### Question  11
 
 **The Solutions Architect in charge of a critical application must ensure the Amazon EC2 instances are able to be
 launched in another AWS Region in the event of a disaster.**
@@ -25530,7 +19077,7 @@ https://aws.amazon.com/blogs/aws/ebs-snapshot-copy/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 12
+#### Question  12
 
 **A company needs to ensure that they can failover between AWS Regions in the event of a disaster seamlessly with
 minimal downtime and data loss. The applications will run in an active-active configuration.**
@@ -25569,7 +19116,7 @@ Objective (the maximum allowable time window whereby you will accept the loss of
 
 https://aws.amazon.com/blogs/publicsector/rapidly-recover-mission-critical-systems-in-a-disaster/
 
-### Question 13
+#### Question  13
 
 **A company has launched a multi-tier application architecture. The web tier and database tier run on Amazon EC2
 instances in private subnets within the same Availability Zone.**
@@ -25626,7 +19173,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 14
+#### Question  14
 
 **An on-premises server runs a MySQL database and will be migrated to the AWS Cloud. The company require a managed
 solution that supports high availability and automatic failover in the event of the outage of an Availability Zone (AZ)
@@ -25739,7 +19286,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-database-
 migration-service/
 
-### Question 15
+#### Question  15
 
 **The database layer of an on-premises web application is being migrated to AWS. The database currently uses an
 in-memory cache. A Solutions Architect must deliver a solution that supports high availability and replication for the
@@ -25781,7 +19328,7 @@ https://aws.amazon.com/elasticache/redis-vs-memcached/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 elasticache/
 
-### Question 16
+#### Question  16
 
 **A Solutions Architect has created an AWS Organization with several AWS accounts. Security policy requires that use of
 specific API actions are limited across all accounts. The Solutions Architect requires a method of centrally controlling
@@ -25897,7 +19444,7 @@ https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-accounts/
 
-### Question 17
+#### Question  17
 
 **A company has a fleet of Amazon EC2 instances behind an Elastic Load Balancer (ELB) that are a mixture of c4.2xlarge
 instance types and c5.large instances. The load on the CPUs on the c5.large instances has been very high, often hitting
@@ -25939,7 +19486,7 @@ https://aws.amazon.com/ec2/instance-types/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 18
+#### Question  18
 
 **A Solutions Architect created a new IAM user account for a temporary employee who recently joined the company. The
 user does not have permissions to perform any actions, which statement is true about newly created users in IAM?**
@@ -25977,7 +19524,7 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/access_controlling.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
 compliance/aws-iam/
 
-### Question 19
+#### Question  19
 
 **A government agency is using CloudFront for a web application that receives personally identifiable information (PII)
 from citizens. What feature of CloudFront applies an extra level of encryption at CloudFront edge locations to ensure
@@ -26021,7 +19568,7 @@ https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-e
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-cloudfront/
 
-### Question 20
+#### Question  20
 
 **A company has multiple Amazon VPCs that are peered with each other. The company would like to use a single Elastic
 Load Balancer (ELB) to route traffic to multiple EC2 instances in peered VPCs within the same region. How can this be
@@ -26068,7 +19615,7 @@ resources/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 21
+#### Question  21
 
 **Some data has become corrupted in an Amazon RDS database. A Solutions Architect plans to use point-in- time restore to
 recover the data to the last known good configuration. Which of the following statements is correct about restoring an
@@ -26115,7 +19662,7 @@ https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PIT.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 22
+#### Question  22
 
 **An application is generating a large amount of clickstream events data that is being stored on S3. The business needs
 to understand customer behavior and want to run complex analytics queries against the data.**
@@ -26162,7 +19709,7 @@ https://aws.amazon.com/redshift/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 redshift/
 
-### Question 23
+#### Question  23
 
 **A Solutions Architect is deploying a production application that will use several Amazon EC2 instances and run
 constantly on an ongoing basis. The application cannot be interrupted or restarted. Which EC2 pricing model would be
@@ -26204,7 +19751,7 @@ https://aws.amazon.com/ec2/pricing/reserved-instances/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 24
+#### Question  24
 
 **A customer has requested some advice on how to implement security measures in their Amazon VPC. The client has
 recently been the victim of some hacking attempts. The client wants to implement measures to mitigate further threats.
@@ -26251,7 +19798,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 25
+#### Question  25
 
 **An Amazon EC2 instance has been launched into an Amazon VPC. A Solutions Architect needs to ensure that instances have
 both a private and public DNS hostnames. Assuming settings were not changed during creation of the VPC, how will DNS
@@ -26302,7 +19849,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 26
+#### Question  26
 
 **A fleet of Amazon EC2 instances running Linux will be launched in an Amazon VPC. An application development framework
 and some custom software must be installed on the instances. The installation will**
@@ -26348,7 +19895,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 27
+#### Question  27
 
 **A company is investigating ways to analyze and process large amounts of data in the cloud faster, without needing to
 load or transform the data in a data warehouse. The data resides in Amazon S3.**
@@ -26400,7 +19947,7 @@ additional-aws-regions-and-enhances-query-performance-in-all-available-aws-regio
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 redshift/
 
-### Question 28
+#### Question  28
 
 **A distribution method is required for some static files. The requests will mainly be GET requests and a high volume of
 GETs is expected, often exceeding 2000 per second. The files are currently stored in an S3 bucket. According to AWS best
@@ -26446,7 +19993,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 29
+#### Question  29
 
 **An Auto Scaling group of Amazon EC2 instances behind an Elastic Load Balancer (ELB) is running in an Amazon VPC.
 Health checks are configured on the ASG to use EC2 status checks. The ELB has determined that an EC2 instance is
@@ -26508,7 +20055,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/AutoScalingGroupLifecycle.
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 30
+#### Question  30
 
 **A financial services company regularly runs an analysis of the day’s transaction costs, execution reporting, and
 market performance. The company currently uses third-party commercial software for provisioning, managing, monitoring,
@@ -26548,7 +20095,7 @@ complexities of provisioning, managing, monitoring, and scaling your batch compu
 
 https://aws.amazon.com/batch/
 
-### Question 31
+#### Question  31
 
 **A customer is deploying services in a hybrid cloud model. The customer has mandated that data is transferred directly
 between cloud data centers, bypassing ISPs.**
@@ -26591,7 +20138,7 @@ https://aws.amazon.com/directconnect/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/aws-direct-connect/
 
-### Question 32
+#### Question  32
 
 **An Amazon Elastic File System (EFS) has been created to store data that will be accessed by a large number of Amazon
 EC2 instances. The data is sensitive and a Solutions Architect is creating a design for security measures to protect the
@@ -26676,7 +20223,7 @@ https://aws.amazon.com/efs/features/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
 
-### Question 33
+#### Question  33
 
 **A large multi-national client has requested a design for a multi-region database. The master database will be in the
 EU (Frankfurt) region and databases will be located in 4 other regions to service local read traffic. The database
@@ -26719,7 +20266,7 @@ https://aws.amazon.com/blogs/aws/cross-region-read-replicas-for-amazon-rds-for-m
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
 
-### Question 34
+#### Question  34
 
 **A Solutions Architect is designing the system monitoring and deployment layers of a serverless application. The system
 monitoring layer will manage system visibility through recording logs and metrics and the deployment layer will deploy
@@ -26773,7 +20320,7 @@ https://docs.aws.amazon.com/lambda/latest/dg/serverless_app.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
 tools/amazon-cloudwatch/
 
-### Question 35
+#### Question  35
 
 **One of the departments in a company has been generating a large amount of data on Amazon S3 and costs are increasing.
 Data older than 90 days is rarely accessed but must be retained for several years. If this data does need to be accessed
@@ -26830,7 +20377,7 @@ new-retrieval-options/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 36
+#### Question  36
 
 **A Solutions Architect enabled Access Logs on an Application Load Balancer (ALB) and needs to process the log files
 using a hosted Hadoop service. What configuration changes and services can be leveraged to deliver this requirement?**
@@ -26873,7 +20420,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 37
+#### Question  37
 
 **A web application receives order processing information from customers and places the messages on an Amazon SQS queue.
 A fleet of Amazon EC2 instances are configured to pick up the messages, process them, and store the results in a
@@ -26936,7 +20483,7 @@ polling.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 38
+#### Question  38
 
 **A Solutions Architect has created an AWS account and selected the Asia Pacific (Sydney) region. Within the default VPC
 there is a default security group. What settings are configured within this security group by default? (Select TWO)**
@@ -27006,7 +20553,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 39
+#### Question  39
 
 **A company is deploying a new two-tier web application that uses EC2 web servers and a DynamoDB database backend. An
 Internet facing ELB distributes connections between the web servers.**
@@ -27061,7 +20608,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 40
+#### Question  40
 
 **A development team needs to run up a few lab servers on a weekend for a new project. The servers will need to run
 uninterrupted for a few hours. Which EC2 pricing option would be most suitable?**
@@ -27100,7 +20647,7 @@ https://aws.amazon.com/ec2/pricing/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 41
+#### Question  41
 
 **A Solutions Architect has logged into an Amazon EC2 Linux instance using SSH and needs to determine a few pieces of
 information including what IAM role is assigned, the instance ID and the names of the security groups that are assigned
@@ -27141,7 +20688,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 42
+#### Question  42
 
 **An Amazon EC2 instance is generating very high packets-per-second and performance of the application stack is being
 impacted. A Solutions Architect needs to determine a resolution to the issue that results in improved performance.**
@@ -27189,7 +20736,7 @@ https://aws.amazon.com/premiumsupport/knowledge-center/enable-configure-enhanced
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
 
-### Question 43
+#### Question  43
 
 **A company runs a web-based application that uses Amazon EC2 instances for the web front-end and Amazon RDS for the
 database back-end. The web application writes transaction log files to an Amazon S3**
@@ -27242,7 +20789,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 44
+#### Question  44
 
 **A Solutions Architect needs to upload a large (2GB) file to an S3 bucket. What is the recommended way to upload a
 single large file to an S3 bucket?**
@@ -27281,7 +20828,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/dev/uploadobjusingmpu.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 45
+#### Question  45
 
 **Several Amazon EC2 Spot instances are being used to process messages from an Amazon SQS queue and store results in an
 Amazon DynamoDB table. Shortly after picking up a message from the queue AWS terminated the Spot instance. The Spot
@@ -27394,7 +20941,7 @@ timeout.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
 integration/amazon-sqs/
 
-### Question 46
+#### Question  46
 
 **A company is transitioning their web presence into the AWS cloud. As part of the migration the company will be running
 a web application both on-premises and in AWS for a period of time. During the period of co- existence, the client would
@@ -27444,7 +20991,7 @@ balancing/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-route-53/
 
-### Question 47
+#### Question  47
 
 **A Solutions Architect has created a new Network ACL in an Amazon VPC. No rules have been created. Which of the
 statements below are correct regarding the default state of the Network ACL? (Select TWO)**
@@ -27493,7 +21040,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 48
+#### Question  48
 
 **A company needs to capture detailed information about all HTTP requests that are processed by their Internet facing
 Application Load Balancer (ALB). The company requires information on the requester, IP address, and request type for
@@ -27536,7 +21083,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balance
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 49
+#### Question  49
 
 **A Solutions Architect needs to run a PowerShell script on a fleet of Amazon EC2 instances running Microsoft Windows.
 The instances have already been launched in an Amazon VPC. What tool can be run from the AWS Management Console that to
@@ -27575,7 +21122,7 @@ PowerShell, and the AWS SDKs.
 
 https://aws.amazon.com/blogs/aws/new-ec2-run-command-remote-instance-management-at-scale/
 
-### Question 50
+#### Question  50
 
 **A company requires an Elastic Load Balancer (ELB) for an application they are planning to deploy on AWS. The
 application requires extremely high throughput and extremely low latencies. The connections will be made using the TCP
@@ -27622,7 +21169,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/network/introduction.htm
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 51
+#### Question  51
 
 **A web application runs on a series of Amazon EC2 instances behind an Application Load Balancer (ALB). A Solutions
 Architect is updating the configuration with a health check and needs to select the protocol to use. What options are
@@ -27675,7 +21222,7 @@ https://docs.aws.amazon.com/elasticloadbalancing/latest/network/target-group-hea
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 52
+#### Question  52
 
 **A Solutions Architect is designing the disk configuration for an Amazon EC2 instance. The instance needs to support a
 MapReduce process that requires high throughput for a large dataset with large I/O sizes.**
@@ -27719,7 +21266,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 53
+#### Question  53
 
 **An Amazon EBS-backed EC2 instance has been launched. A requirement has come up for some high- performance ephemeral
 storage.**
@@ -27766,7 +21313,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/add-instance-store-volumes.h
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 54
+#### Question  54
 
 **A large quantity of data that is rarely accessed is being archived onto Amazon Glacier. Your CIO wants to understand
 the resilience of the service. Which of the statements below is correct about Amazon Glacier storage? (Select TWO)**
@@ -27809,7 +21356,7 @@ https://aws.amazon.com/s3/storage-classes/
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
 
-### Question 55
+#### Question  55
 
 **A Solutions Architect is launching an Amazon EC2 instance with multiple attached volumes by modifying the block device
 mapping. Which block device can be specified in a block device mapping to be used with an EC2 instance? (Select TWO)**
@@ -27854,7 +21401,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/block-device-mapping-concept
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 56
+#### Question  56
 
 **An Amazon EC2 instance behind an Elastic Load Balancer (ELB) is in the process of being de-registered. Which ELB
 feature is used to allow existing connections to close cleanly?**
@@ -27895,7 +21442,7 @@ draining/
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
 balancing/
 
-### Question 57
+#### Question  57
 
 **The load on a MySQL database running on Amazon EC2 is increasing and performance has been impacted. Which of the
 options below would help to increase storage performance? (Select TWO)**
@@ -27947,7 +21494,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 58
+#### Question  58
 
 **An application receives a high traffic load between 7:30am and 9:30am daily. The application uses an Auto Scaling
 group to maintain three instances most of the time but during the peak period it requires six instances.**
@@ -27995,7 +21542,7 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/schedule_time.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
 scaling/
 
-### Question 59
+#### Question  59
 
 **An on-premise data center will be connected to an Amazon VPC by a hardware VPN that has public and VPN-only subnets.
 The security team has requested that traffic hitting public subnets on AWS that’s destined to on-premise applications
@@ -28047,7 +21594,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario3.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 60
+#### Question  60
 
 **An Amazon DynamoDB table has a variable load, ranging from sustained heavy usage some days, to only having small
 spikes on others. The load is 80% read and 20% write. The provisioned throughput capacity has been configured to account
@@ -28094,7 +21641,7 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/AutoScaling.htm
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
 dynamodb/
 
-### Question 61
+#### Question  61
 
 **A Solutions Architect has created a VPC and is in the process of formulating the subnet design. The VPC will be used
 to host a two-tier application that will include Internet facing web servers, and internal-only DB servers. Zonal
@@ -28133,7 +21680,7 @@ internal-only DB servers. Therefore, you need 4 subnets – 2 (for redundancy) p
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 62
+#### Question  62
 
 **The application development team in a company have developed a Java application and saved the source code in a .war
 file. They would like to run the application on AWS resources and are looking for a service that can handle the
@@ -28183,7 +21730,7 @@ https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-elastic-
 beanstalk/
 
-### Question 63
+#### Question  63
 
 **A Solutions Architect has created a new security group in an Amazon VPC. No rules have been created. Which of the
 statements below are correct regarding the default state of the security group? (Select TWO)**
@@ -28233,7 +21780,7 @@ https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
 delivery/amazon-vpc/
 
-### Question 64
+#### Question  64
 
 **A security officer has requested that all data associated with a specific customer is encrypted. The data resides on
 Elastic Block Store (EBS) volumes. Which of the following statements about using EBS encryption are correct? (Select
@@ -28277,7 +21824,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html
 
 https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
 
-### Question 65
+#### Question  65
 
 **An organization in the agriculture sector is deploying sensors and smart devices around factory plants and fields. The
 devices will collect information and send it to cloud applications running on AWS.**
@@ -28313,380 +21860,3 @@ those messages to AWS endpoints and to other devices reliably and securely.
 **References:**
 
 https://aws.amazon.com/iot-core/
-
-## Conclusion
-
-Congratulations on completing these exam-difficulty practice tests! We truly hope that these high-quality questions
-along with the supporting explanations helped to fully prepare you for the AWS Certified Solutions Architect Associate
-exam.
-
-The SAA-C02 exam covers a broad set of technologies and it’s vital to ensure you are armed with the knowledge to answer
-whatever questions come up in your certification exam. So, it's best to review these practice questions until you’re
-confident in all areas. We recommend re-taking these practice tests until you consistently score 80% or higher - that’s
-when you’re ready to sit the exam and achieve a great score!
-
-### Reach Out and Connect
-
-We want you to have a 5-star learning experience. If anything is not 100% to your liking, please email us at
-support@digitalcloud.training. We promise to address all questions and concerns. We really want you to get great value
-from these training resources.
-
-The AWS platform is evolving quickly, and the exam tracks these changes with a typical lag of around 6 months. We are
-therefore reliant on student feedback to keep track of what is appearing in the exam. If there are any topics in your
-exam that weren't covered in our training resources, please provide us with feedback using this
-form https://digitalcloud.training/student-feedback/. We appreciate any feedback that will help us further improve our
-AWS training resources.
-
-To discuss any exam-specific questions you may have, please join the discussion on Slack. Visit
-https://digitalcloud.training/slack for instructions.
-
-Also, remember to join our private Facebook group to ask questions and share knowledge and exam tips with the AWS
-community: https://www.facebook.com/groups/awscertificationqa
-
-**Best wishes for your AWS certification journey!**
-
-## Other Books and Courses by Neal Davis
-
-All of our on-demand courses are available on digitalcloud.training/aws-training-courses
-
-### Courses for the AWS Certified Cloud Practitioner
-
-```
-Course Description
-```
-
-```
-AWS Certified Cloud
-Practitioner Instructor-led
-Video Course
-```
-
-```
-HIGHLY FLEXIBLE COURSE STRUCTURE: You can move quickly through the
-course, focusing on the theory lectures.
-GUIDED HANDS-ON EXERCISES: To gain more practical experience with AWS
-services, you have the option to explore the guided hands-on exercises.
-EXAM-CRAM LECTURES : Get through the key exam facts in the shortest
-time possible with the exam-cram lectures that you’ll find at the end of each
-section.
-HIGH-QUALITY VISUALS : We've spared no effort to create a highly visual
-training course with lots of table and graphs.
-```
-
-```
-AWS Certified Cloud
-Practitioner (online)
-Practice Exams + Exam
-Simulator
-```
-
-```
-Get access to the Practice Exam course from Digital Cloud Training: 6 sets of
-practice tests with 65 Questions each. All questions are unique and 100%
-conform to the latest CLF-C01 exam blueprint. Our AWS Practice Tests are
-delivered in 4 different modes:
-```
-
-- Exam Mode
-- Training Mode
-- Knowledge Reviews
-- Final Exam Simulator (with 500 practice questions)
-
-```
-AWS Certified Cloud
-Practitioner (offline)
-Practice Tests (ebook)
-```
-
-```
-There are 6 practice exams with 65 questions each covering the five
-domains of the AWS CLF-C01 exam blueprint. Each set of questions is
-repeated once without answers and explanations, and once with answers
-and explanations, so you get to choose from two methods of preparation:
-1: To simulate the exam experience and assess your exam readiness, use the
-“ PRACTICE QUESTIONS ONLY ” sets.
-2: To use the practice questions as a learning tool, use the “ PRACTICE
-QUESTIONS, ANSWERS & EXPLANATIONS ” sets to view the answers and
-read the in-depth explanations as you move through the questions.
-```
-
-```
-Training Notes for the AWS
-Certified Cloud Practitioner
-(cheat sheets)
-```
-
-```
-This book is based on the CLF-C01 exam blueprint and provides a deep dive
-into the subject matter in a concise and easy-to-read format so you can fast-
-track your time to success. AWS Solutions Architect, Neal Davis, has
-consolidated the information you need to be successful.
-```
-
-### Courses for the AWS Certified Solutions Architect Associate
-
-```
-Course Description
-```
-
-```
-AWS Certified Solutions
-Architect Associate
-Instructor-led Video Course
-```
-
-```
-This popular AWS Certified Solutions Architect Associate (SAA-C02) video
-course is delivered through guided Hands-On Labs exercises
-```
-
-- 28 hours Video Lessons
-- Exam Cram Lectures
-- 90 Quiz Questions
-- High-Quality Visuals
-- Guided Hands-on Exercises
-
-```
-AWS Certified Solutions
-Architect Associate (online)
-Practice Tests
-```
-
-```
-Get access to the Practice Exam course from Digital Cloud Training: 6 sets of
-practice tests with 65 Questions each. All questions are unique, 100%
-scenario-based and conform to the latest AWS SAA-C02 exam blueprint. Our
-AWS Practice Tests are delivered in 4 different modes:
-```
-
-- Exam Mode
-- Training Mode
-- Knowledge Reviews
-- Final Exam Simulator (with 500 practice questions)
-
-```
-AWS Certified Solutions
-Architect Associate (offline)
-Practice Tests (ebook)
-```
-
-```
-There are 6 practice exams with 65 questions each covering the AWS SAA-
-C02 exam blueprint. Each set of questions is repeated once without answers
-and explanations, and once with answers and explanations.
-1: To simulate the exam experience and assess your exam readiness, use the
-“ PRACTICE QUESTIONS ONLY ” sets.
-2: To use the practice questions as a learning tool, use the “ PRACTICE
-QUESTIONS, ANSWERS & EXPLANATIONS ” sets to view the answers and
-read the in-depth explanations as you move through the questions.
-```
-
-```
-Training Notes for the AWS
-Certified Solutions Architect
-Associate (cheat sheets)
-```
-
-```
-Deep dive into the SAA-C02 exam objectives with over 300 pages of detailed
-facts, tables and diagrams. Save valuable time by getting straight to the facts
-you need to know to pass your AWS Certified Solutions Architect Associate
-exam first time!
-This book is based on the 2020 SAA-C02 exam blueprint and provides a deep
-dive into the subject matter in a concise and easy-to-read format so you can
-fast-track your time to success.
-```
-
-### Courses for the AWS Certified Developer Associate
-
-```
-Course Description
-```
-
-```
-AWS Certified Developer
-Associate Instructor led
-Video Course
-```
-
-```
-This popular AWS Certified Developer Associate Exam Training for the
-DVA-C01 certification exam is packed with over 28 hours of comprehensive
-video lessons, hands-on labs, quizzes and exam-crams. With our mixture of
-in-depth theory, architectural diagrams and hands-on training, you'll learn
-```
-
-```
-how to architect and build applications on Amazon Web Services , fully
-preparing you for the AWS Developer Certification exam. With this
-complete AWS Developer training course, you have everything you need to
-comfortably pass the AWS Developer Certification exam at the first
-attempt.
-```
-
-```
-AWS Certified Developer
-Associate (online) Practice
-Tests
-```
-
-```
-Get access to the Practice Exam Course from Digital Cloud Training with 390
-Questions in 6 sets of practice tests. All questions are unique and conform
-to the latest AWS DVA-C01 exam blueprint.
-Our AWS Practice Tests are delivered in 4 different modes:
-```
-
-- Exam Mode
-- Training Mode
-- Knowledge Reviews
-- Final Exam Simulator
-
-```
-AWS Certified Developer
-Associate (offline) Practice
-Tests (ebook)
-```
-
-```
-There are 6 practice exams with 65 questions each covering all topics for
-the AWS DVA-C01 exam. Each set of questions is repeated once without
-answers and explanations, and once with answers and explanations, so you
-get to choose from two methods of preparation:
-1: To simulate the exam experience and assess your exam readiness, use
-the “ PRACTICE QUESTIONS ONLY ” sets.
-2: To use the practice questions as a learning tool, use the “ PRACTICE
-QUESTIONS, ANSWERS & EXPLANATIONS ” sets to view the answers and
-read the in-depth explanations as you move through the questions.
-```
-
-```
-Training Notes for the AWS
-Certified Developer
-Associate (cheat sheets)
-```
-
-```
-With these in-depth AWS Training Notes for the Developer Associate, you'll
-learn everything you need to know to ace your exam! Fast-track your exam
-success with over 340 pages of exam-specific facts, tables and diagrams.
-AWS Solution Architect and founder of Digital Cloud Training, Neal Davis,
-has consolidated ALL of the key information into this essential cheat sheet.
-Based on the latest DVA-C01 certification exam, these Training Notes will
-shortcut your study time and maximize your chance of passing your exam
-first time.
-```
-
-### Courses for the AWS Certified SysOps Administrator Associate
-
-```
-Course Description
-```
-
-```
-AWS Certified SysOps
-Administrator Associate
-Instructor-led Video Course
-```
-
-```
-This popular AWS Certified SysOps Administrator Exam Training for the
-SOA-C01 certification exam is packed with 15 hours of comprehensive video
-lessons, exam scenarios and practical exercises. With our mixture of in-
-depth theory, logical diagrams and hands-on training, you'll learn how
-deploy, manage, and operate scalable, highly available, and fault tolerant
-systems on AWS, fully preparing you for the AWS SysOps Certification exam.
-With this complete AWS SysOps training course, you have everything you
-need to comfortably pass the AWS SysOps Certification exam at the first
-attempt.
-```
-
-**AWS Certified SysOps Administrator Associate
-(online) Practice Tests**
-
-```
-Get access to the Practice Exam Course from Digital Cloud Training with 195
-Questions in 3 sets of practice tests. All questions are unique and conform
-to the latest AWS SOA-C01 exam blueprint.
-Our AWS Practice Tests are delivered in 4 different modes:
-```
-
-- Exam Mode
-- Training Mode
-- Knowledge Reviews
-- Final Exam Simulator
-
-**AWS Certified SysOps Associate (offline) Practice Tests (ebook)**
-
-```
-There are 6 practice exams with 65 questions each covering all topics for
-the AWS SOA-C01 exam. Each set of questions is repeated once without
-answers and explanations, and once with answers and explanations, so you
-get to choose from two methods of preparation:
-1: To simulate the exam experience and assess your exam readiness, use the
-“ PRACTICE QUESTIONS ONLY ” sets.
-```
-
-```
-2: To use the practice questions as a learning tool, use the “ PRACTICE
-QUESTIONS, ANSWERS & EXPLANATIONS ” sets to view the answers and
-read the in-depth explanations as you move through the questions.
-```
-
-**Training Notes for the AWS Certified SysOps Associate
-(cheat sheets)**
-
-```
-With these in-depth AWS Training Notes for the SysOps Administrator, you'll
-learn everything you need to know to ace your exam! Fast-track your exam
-success with exam-specific facts, tables and diagrams.
-Founder of Digital Cloud Training, Neal Davis, has consolidated ALL of the
-key information into this essential cheat sheet. Based on the latest SOA-C01
-certification exam, these Training Notes will shortcut your study time and
-maximize your chance of passing your exam first time.
-```
-
-## About the Author
-
-**Neal Davis** is the founder of Digital Cloud Training, AWS Cloud Solutions Architect and successful IT instructor.
-With more than 20 years of experience in the tech industry, Neal is a true expert in virtualization and cloud computing.
-His passion is to help others achieve career success by offering in-depth AWS certification training resources.
-
-Neal started **Digital Cloud Training** to provide a variety of training resources for Amazon Web Services (AWS)
-certifications that represent a higher standard of quality than is otherwise available in the market.
-
-Through our hands-on AWS training courses, we help students build the knowledge and practical skill set they need to not
-only pass their AWS certification exams with flying colours but to also excel in their cloud career.
-
-Our AWS training is delivered to suit many learning styles, using an effective combination of visual aids, hands- on
-training, online cheat sheets and high-quality practice questions that reflect the difficulty and style of real AWS exam
-questions.
-
-With all of these quality resources, learners have everything they need to confidently pass their exams. Students
-regularly report pass marks with average scores well above 85%.
-
-We've built an active community around our cutting-edge training courses, so you have the guidance and support you need
-every step of the way. Join the AWS Community of over 250,000 happy students that are currently enrolled in Digital
-Cloud Training courses.
-
-**Connect with Neal on Social Media**
-
-All Links available on https://digitalcloud.training/neal-davis
-
-```
-digitalcloud.training/neal-davis
-```
-
-```
-youtube.com/c/digitalcloudtraining
-```
-
-```
-facebook.com/digitalcloudtraining
-Twitter @nealkdavis
-```
-
-```
-linkedin.com/in/nealkdavis
-Instagram @digitalcloudtraining
-```
