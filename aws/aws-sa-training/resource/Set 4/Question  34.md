@@ -13,62 +13,16 @@ the lack of high-availability in the current architecture.**
 architecture?**
 
 
-1: Create a Read Replica in another availability zone
+- [ ] Create a Read Replica in another availability zone
 
 
-2: Enable Multi-AZ for the MySQL instance
+- [ ] Enable Multi-AZ for the MySQL instance
 
 
-3: Install MySQL on an EC2 instance in the same availability zone and enable replication
+- [ ] Install MySQL on an EC2 instance in the same availability zone and enable replication
 
 
-4: Install MySQL on an EC2 instance in another availability zone and enable replication
+- [x] Install MySQL on an EC2 instance in another availability zone and enable replication
 
 
-**Answer: 4**
-
-
-**Explanation:**
-
-
-If you are installing MySQL on an EC2 instance you cannot enable read replicas or multi-AZ. Instead you would need to
-
-use Amazon RDS with a MySQL DB engine to use these features.
-
-
-In this example a good solution is to use the native HA features of MySQL. You would want to place the second MySQL DB
-
-instance in another AZ to enable high availability and fault tolerance.
-
-
-Migrating to Amazon RDS may be a good solution but is not presented as an option.
-
-
-- CORRECT "Install MySQL on an EC2 instance in another availability zone and enable replication" is the correct answer.
-
-
-- INCORRECT "Create a Read Replica in another availability zone" is incorrect as described above.
-
-
-- INCORRECT "Enable Multi-AZ for the MySQL instance" is incorrect as described above.
-
-
-- INCORRECT "Install MySQL on an EC2 instance in the same availability zone and enable replication" is incorrect as
-
-  described above.
-
-
-**References:**
-
-
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html
-
-
-**Save time with our exam-specific cheat sheets:**
-
-
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
-
-
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
-
+*

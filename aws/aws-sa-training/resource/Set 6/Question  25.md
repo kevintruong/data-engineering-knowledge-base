@@ -8,73 +8,19 @@ both a private and public DNS hostnames. Assuming settings were not changed duri
 hostnames be assigned by default? (Select TWO)**
 
 
-1: In all VPCs instances no DNS hostnames will be assigned
+- [ ] In all VPCs instances no DNS hostnames will be assigned
 
 
-2: In a non-default VPC instances will be assigned a public and private DNS hostname
+- [ ] In a non-default VPC instances will be assigned a public and private DNS hostname
 
 
-3: In a default VPC instances will be assigned a public and private DNS hostname
+- [x] In a default VPC instances will be assigned a public and private DNS hostname
 
 
-4: In a non-default VPC instances will be assigned a private but not a public DNS hostname
+- [x] In a non-default VPC instances will be assigned a private but not a public DNS hostname
 
 
-5: In a default VPC instances will be assigned a private but not a public DNS hostname
+- [ ] In a default VPC instances will be assigned a private but not a public DNS hostname
 
 
-**Answer: 3,4**
-
-
-**Explanation:**
-
-
-When you launch an instance into a default VPC, we provide the instance with public and private DNS hostnames that
-
-correspond to the public IPv4 and private IPv4 addresses for the instance.
-
-
-When you launch an instance into a nondefault VPC, we provide the instance with a private DNS hostname and we might
-
-provide a public DNS hostname, depending on the DNS attributes you specify for the VPC and if your instance has a public
-
-IPv4 address.
-
-
-All other statements are incorrect with default settings.
-
-
-- CORRECT "In a default VPC instances will be assigned a public and private DNS hostname" is the correct answer.
-
-
-- CORRECT "In a non-default VPC instances will be assigned a private but not a public DNS hostname" is the correct
-
-  answer.
-
-
-- INCORRECT "In all VPCs instances no DNS hostnames will be assigned" is incorrect as explained above.
-
-
-- INCORRECT "In a non-default VPC instances will be assigned a public and private DNS hostname" is incorrect as
-
-  explained above.
-
-
-- INCORRECT "In a default VPC instances will be assigned a private but not a public DNS hostname" is incorrect as
-
-  explained above.
-
-
-**References:**
-
-
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html
-
-
-**Save time with our exam-specific cheat sheets:**
-
-
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
-
-delivery/amazon-vpc/
-
+*

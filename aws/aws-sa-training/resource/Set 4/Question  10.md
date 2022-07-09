@@ -9,55 +9,14 @@
 **Which action should the Solutions Architect take?**
 
 
-1: Create an Amazon SQS Standard queue
+- [ ] Create an Amazon SQS Standard queue
 
 
-2: Create an Amazon SNS topic
+- [ ] Create an Amazon SNS topic
 
 
-3: Create an Amazon SQS FIFO queue
+- [x] Create an Amazon SQS FIFO queue
 
 
-4: Create an AWS Step Functions state machine
-
-
-Answer: 3
-
-
-**Explanation:**
-
-
-Only FIFO queues guarantee the ordering of messages and therefore a standard queue would not work. The FIFO queue
-
-supports up to 3,000 messages per second with batching so this is a supported scenario.
-
-
-- CORRECT "Create an Amazon SQS FIFO queue" is the correct answer.
-
-
-- INCORRECT "Create an Amazon SQS Standard queue" is incorrect as it does not guarantee ordering of messages.
-
-
-- INCORRECT "Create an Amazon SNS topic" is incorrect. SNS is a notification service and a message queue is a better fit
-
-  for this use case.
-
-
-- INCORRECT "Create an AWS Step Functions state machine" is incorrect. Step Functions is a workflow orchestration
-
-  service and is not useful for this scenario.
-
-
-**References:**
-
-
-https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-quotas.html
-
-
-**Save time with our exam-specific cheat sheets:**
-
-
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
-
-integration/amazon-sqs/
+- [ ] Create an AWS Step Functions state machine
 

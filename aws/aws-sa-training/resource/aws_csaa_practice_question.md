@@ -12299,7 +12299,7 @@ asynchronously invoke and AWS Lambda function to analyze thousands of .CSV files
 
 4: Amazon OpsWorks
 
-Answer:
+Answer: 2
 
 **Explanation:**
 
@@ -15651,7 +15651,6 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 delivery/amazon-vpc/
 
 #### Question  12
-
 ```
 Region
 ```
@@ -15719,7 +15718,6 @@ dependency that the application must communicate with an on-premises server usin
 
 **Which action should a solutions architect take to quickly provision the necessary connectivity?**
 
-#### Question  1
 
 1: Setup an AWS Direct Connect connection
 
@@ -20663,7 +20661,7 @@ to the instance.**
 
 4: Parameters
 
-**Answer:**
+Answer: 1
 
 **Explanation:**
 

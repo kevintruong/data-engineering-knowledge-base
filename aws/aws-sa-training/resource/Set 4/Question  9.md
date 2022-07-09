@@ -13,61 +13,14 @@ being constantly launched and terminated.**
 **How can the Solutions Architect configure secure access to the database tier?**
 
 
-1: Configure the database security group to allow traffic only from the application security group
+- [x] Configure the database security group to allow traffic only from the application security group
 
 
-2: Configure the database security group to allow traffic only from port 3306
+- [ ] Configure the database security group to allow traffic only from port 3306
 
 
-3: Configure a Network ACL on the database subnet to deny all traffic to ports other than 3306
+- [ ] Configure a Network ACL on the database subnet to deny all traffic to ports other than 3306
 
 
-4: Configure a Network ACL on the database subnet to allow all traffic from the application subnet
-
-
-Answer: 1
-
-
-**Explanation:**
-
-
-The best option is to configure the database security group to only allow traffic that originates from the application
-
-security group. You can also define the destination port as the database port. This setup will allow any instance that
-
-is launched and attached to this security group to connect to the database.
-
-
-- CORRECT "Configure the database security group to allow traffic only from the application security group" is the
-
-  correct answer.
-
-
-- INCORRECT "Configure the database security group to allow traffic only from port 3306" is incorrect. Port 3306 for
-
-  MySQL should be the destination port, not the source.
-
-
-- INCORRECT "Configure a Network ACL on the database subnet to deny all traffic to ports other than 3306" is incorrect.
-
-  This does not restrict access specifically to the application instances.
-
-
-- INCORRECT "Configure a Network ACL on the database subnet to allow all traffic from the application subnet"
-
-  is incorrect. This does not restrict access specifically to the application instances.
-
-
-**References:**
-
-
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
-
-
-**Save time with our exam-specific cheat sheets:**
-
-
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
-
-delivery/amazon-vpc/
+- [ ] Configure a Network ACL on the database subnet to allow all traffic from the application subnet
 

@@ -1,6 +1,5 @@
 #### Question  12
 
-
 ```
 
 Region
@@ -117,4 +116,17 @@ dependency that the application must communicate with an on-premises server usin
 
 
 **Which action should a solutions architect take to quickly provision the necessary connectivity?**
+
+
+
+- [ ] Setup an AWS Direct Connect connection
+
+
+- [x] Configure a Virtual Private Gateway
+
+
+- [ ] Create an Amazon CloudFront distribution
+
+
+- [ ] Create an AWS Transit Gateway
 

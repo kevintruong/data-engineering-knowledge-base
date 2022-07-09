@@ -7,10 +7,29 @@ md_file = '../aws/aws-sa-training/resource/aws_csaa_practice_question.md'
 parser = MarkdownTree()
 with open(md_file, encoding="utf-8-sig") as md_test_file:
     rule = {
-        "separator": "Answer: ([\d ,]+)+",
+        "separator": r"Answer: ([\d ,]+)",
         "transforms": [
             {
                 "type": "question",
+                "transform_rules": [
+                    {
+                        "name": "regex_replace",
+                        "kwargs": {
+                            "source": r'^(\d): (.*$)',
+                            "target": r'- [ ] $2'
+                        }
+                    },
+                    {
+                        "name": "refill_correct_options",
+                        "kwargs": {
+                            "option_regex": r"^((\- \[ \]) (.*$))",
+                        }
+                    }
+
+                ]
+            },
+            {
+                "type": "explanation",
                 "transform_rules": [
                     {
                         "source": "",

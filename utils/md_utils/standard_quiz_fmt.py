@@ -1,3 +1,7 @@
+import self as self
+import subst as subst
+from ast import literal_eval
+
 import re
 
 import os
@@ -35,6 +39,22 @@ class StandardQuizFormatter(BaseQuizFormater):
         self.childs = childs
         self.rule = rule
 
+    def regex_replace(self, source, target):
+        def replace_by_target(match_object):
+            return f"- [ ] {match_object.group(2)}"
+
+        self.question = re.sub(source, replace_by_target, self.question, 0, re.MULTILINE)
+
+    def refill_correct_options(self, option_regex):
+        def replace_collect_option(match_object):
+            return f"- [x] {match_object}"
+
+        options = re.findall(option_regex, self.question, re.MULTILINE)
+        for each_correct_option_index in self.correct_ops:
+            correct_ops = options[each_correct_option_index - 1][0]
+            re_fill = replace_collect_option(options[each_correct_option_index - 1][2])
+            self.question = self.question.replace(correct_ops, re_fill)
+
     def format(self):
         """
 
@@ -44,6 +64,24 @@ class StandardQuizFormatter(BaseQuizFormater):
             "transforms":[
                 {
                     "type": "question",
+                    "transform_rules": [
+                        {
+                            "name": "regex_replace"
+                            "kwargs": {
+                                "source":"^(\d): (.*$)",
+                                "target": "- [ ] $2
+                            }
+                        },
+                        {
+                            "name":refill_correct_options
+                            "option_regex": "^\-\[ \] (.*$)"
+
+                        }
+
+                    ]
+                },
+                {
+                    "type": "explanation",
                     "transform_rules": [
                         {
                             "source":"",
@@ -64,17 +102,25 @@ class StandardQuizFormatter(BaseQuizFormater):
             self.card_name = self.title
             # self.question = self.content[:first_options.start()].rstrip("\n").lstrip("\n")
 
-            card_determiners = re.search(self.rule['separator'],
+            card_determiners = re.search(self.rule["separator"],
                                          self.content,
                                          flags=re.MULTILINE)
             if card_determiners:
-                quiz_explaination = self.content[card_determiners.end() + 1:].rstrip("\n").lstrip("\n")
+                self.quiz_explaination = self.content[card_determiners.end() + 1:].rstrip("\n").lstrip("\n")
                 quiz_explaination_mark = card_determiners.start() - 1
-                question = self.content[:quiz_explaination_mark]
-                correct_ops = list(map(int, card_determiners[1].strip().split(",")))
+                self.question = self.content[:quiz_explaination_mark]
+                self.correct_ops = list(map(int, card_determiners[1].strip().split(",")))
             else:
                 raise Exception("not found answer separator")
-            pass
+            for each_transforms_type in self.rule['transforms']:
+                each_transforms_type: dict
+                if each_transforms_type['type'] == "question":
+                    for each_transform in each_transforms_type['transform_rules']:
+                        if hasattr(self, each_transform['name']):
+                            transform_func = getattr(self, each_transform['name'])
+                            transform_func(**each_transform['kwargs'])
+                        pass
+
         except  Exception as e:
             pass
 
@@ -87,8 +133,11 @@ class StandardQuizFormatter(BaseQuizFormater):
                 each_note.dump(next_root)
         else:
             note_file = f"{root_path}/{self.title}.md"
+            explan_note_file = f"{root_path}/explanation_{self.title}.md"
+            self.format()
             with open(note_file, 'w') as note_fd:
-                self.format()
-                note_fd.write(self.content)
+                note_fd.write(self.question)
+            with open(explan_note_file, 'w') as explanation_fd:
+                explanation_fd.write(self.quiz_explaination)
 
         pass
