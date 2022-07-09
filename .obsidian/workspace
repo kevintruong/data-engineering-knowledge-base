@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f0086d4e7c6cbfde",
+        "id": "01b444d1ffec8ac9",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -227,8 +227,9 @@
     "width": 664,
     "collapsed": true
   },
-  "active": "f0086d4e7c6cbfde",
+  "active": "01b444d1ffec8ac9",
   "lastOpenFiles": [
+    "data-engineering-fundamental/what is data enginerring ?.md",
     "Excalidraw/Drawing 2022-07-07 15.33.17.excalidraw.md",
     "Excalidraw/data-engineering-lifecycle.excalidraw.md",
     "aws/aws-sa-training/99 Quiz/Quiz 2.md",
@@ -237,7 +238,6 @@
     "aws/aws-sa-training/01 Compute Service/Elastic Compute Cloud EC2/EC2 Metadata and User Data.md",
     "aws/aws-sa-training/99 Quiz/Quiz 10.md",
     "aws/aws-sa-training/99 Quiz/Quiz 8.md",
-    "aws/aws-sa-training/99 Quiz/Quiz 5.md",
-    "aws/aws-sa-training/99 Quiz/Quiz 1.md"
+    "aws/aws-sa-training/99 Quiz/Quiz 5.md"
   ]
 }
