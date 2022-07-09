@@ -143,7 +143,8 @@ class MarkdownTree:
                         file_name,
                         line_scope=-1,
                         user=Node,
-                        deck_tags: list = None):
+                        deck_tags: list = None,
+                        note_format_rule=None):
         cards = []
         for index in range(0, len(node.children), 1):
             if index + 1 >= len(node.children):
@@ -165,13 +166,16 @@ class MarkdownTree:
                                                  file_name,
                                                  line_scope=next_line_scope,
                                                  user=user,
-                                                 deck_tags=deck_tags)
-                card = StandardQuizFormatter(content=card_content, title=title, childs=new_cards)
+                                                 deck_tags=deck_tags,
+                                                 note_format_rule=note_format_rule
+                                                 )
+                card = StandardQuizFormatter(content=card_content, title=title, childs=new_cards,
+                                             rule=note_format_rule)
                 cards.append(card)
             else:
                 card_content = "\n".join(deck_lines[current:next_]).replace("\n\n\n", "\n\n")
 
-                card = StandardQuizFormatter(content=card_content, title=title)
+                card = StandardQuizFormatter(content=card_content, title=title, rule=note_format_rule)
                 if card:
                     cards.append(card)
         return cards

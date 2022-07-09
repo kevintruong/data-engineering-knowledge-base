@@ -7,8 +7,12 @@
         "id": "01b444d1ffec8ac9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "aws/aws-sa-training/resource/Set 1/Question  1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "aws/aws-sa-training/resource/Set 1/Question  1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,6 +234,7 @@
   },
   "active": "01b444d1ffec8ac9",
   "lastOpenFiles": [
+    "aws/aws-sa-training/resource/Set 1/Question  1.md",
     "data-engineering-fundamental/what is data enginerring ?.md",
     "Excalidraw/Drawing 2022-07-07 15.33.17.excalidraw.md",
     "Excalidraw/data-engineering-lifecycle.excalidraw.md",
@@ -237,7 +243,6 @@
     "aws/aws-sa-training/99 Quiz/Quiz 17.md",
     "aws/aws-sa-training/01 Compute Service/Elastic Compute Cloud EC2/EC2 Metadata and User Data.md",
     "aws/aws-sa-training/99 Quiz/Quiz 10.md",
-    "aws/aws-sa-training/99 Quiz/Quiz 8.md",
-    "aws/aws-sa-training/99 Quiz/Quiz 5.md"
+    "aws/aws-sa-training/99 Quiz/Quiz 8.md"
   ]
 }
