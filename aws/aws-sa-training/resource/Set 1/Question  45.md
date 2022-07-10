@@ -8,14 +8,15 @@ to keep information in sync.**
 
 **Which solution best meets these requirements?**
 
-- [ ] AWS Database Migration Service with change data capture
+- [ ] :  AWS Database Migration Service with change data capture
 
-- [x] Amazon DynamoDB with global tables
+- [x] :  Amazon DynamoDB with global tables
 
-- [ ] Amazon Athena with Amazon S3 cross-region replication
+- [ ] :  Amazon Athena with Amazon S3 cross-region replication
 
-- [ ] Amazon Aurora Global Database
+- [ ] :  Amazon Aurora Global Database
 
+----
+
+- #aws_database_migration_service #amazon_aurora_global_database #cross_-_region_replication #different_aws_regions #amazon_athena
 - hasExplain:: [[explanation_Question  45.md]]
-
-# aws_database_migration_service #amazon_aurora_global_database #cross_-_region_replication #different_aws_regions #amazon_athena

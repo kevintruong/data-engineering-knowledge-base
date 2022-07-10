@@ -8,14 +8,15 @@ redundancy is required.**
 
 **How many subnets are required to support this requirement?**
 
-- [ ] 2 subnets
+- [ ] :  2 subnets
 
-- [ ] 6 subnets
+- [ ] :  6 subnets
 
-- [ ] 1 subnet
+- [ ] :  1 subnet
 
-- [x] 4 subnets
+- [x] :  4 subnets
 
-*
+*----
 
+- #many_subnets #subnet_design #subnets #subnet #vpc
 - hasExplain:: [[explanation_Question  61.md]]

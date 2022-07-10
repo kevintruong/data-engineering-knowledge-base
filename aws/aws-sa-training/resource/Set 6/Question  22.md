@@ -6,14 +6,15 @@ to understand customer behavior and want to run complex analytics queries agains
 
 **Which AWS service can be used for this requirement?**
 
-- [x] Amazon RedShift
+- [x] :  Amazon RedShift
 
-- [ ] Amazon Neptune
+- [ ] :  Amazon Neptune
 
-- [ ] Amazon RDS
+- [ ] :  Amazon RDS
 
-- [ ] Amazon Kinesis Firehose
+- [ ] :  Amazon Kinesis Firehose
 
-*
+*----
 
+- #aws_service #amazon_rds #amazon_redshift #s3 #clickstream_events_data
 - hasExplain:: [[explanation_Question  22.md]]

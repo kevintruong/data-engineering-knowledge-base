@@ -8,14 +8,15 @@ fast, repeat queries and update dashboards for customer support staff.**
 
 **Which solution delivers these requirements MOST cost-effectively?**
 
-- [x] RedShift for both use cases
+- [x] :  RedShift for both use cases
 
-- [ ] RDS for both use cases
+- [ ] :  RDS for both use cases
 
-- [ ] RedShift for the analytics use case and ElastiCache in front of RedShift for the customer support dashboard
+- [ ] :  RedShift for the analytics use case and ElastiCache in front of RedShift for the customer support dashboard
 
-- [ ] RedShift for the analytics use case and RDS for the customer support dashboard
+- [ ] :  RedShift for the analytics use case and RDS for the customer support dashboard
 
+----
+
+- #analytics_use_case #data_warehouse #dashboards #appropriate_database_service #customer_support_dashboard
 - hasExplain:: [[explanation_Question  50.md]]
-
-# analytics_use_case #data_warehouse #dashboards #appropriate_database_service #customer_support_dashboard

@@ -10,14 +10,15 @@ database may not perform as required.**
 
 database?**
 
-- [ ] Enable read replicas
+- [ ] :  Enable read replicas
 
-- [ ] Configure DynamoDB Auto Scaling
+- [ ] :  Configure DynamoDB Auto Scaling
 
-- [x] Configure Amazon DAX
+- [x] :  Configure Amazon DAX
 
-- [ ] Increase the provisioned throughput
+- [ ] :  Increase the provisioned throughput
 
+----
+
+- #dynamodb #configure_dynamodb_auto_scaling #end_dynamodb #configure_amazon_dax #throughput
 - hasExplain:: [[explanation_Question  38.md]]
-
-# dynamodb #configure_dynamodb_auto_scaling #end_dynamodb #configure_amazon_dax #throughput

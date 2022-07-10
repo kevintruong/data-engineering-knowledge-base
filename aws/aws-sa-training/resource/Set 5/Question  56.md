@@ -4,14 +4,15 @@
 
 a Solutions Architect use to display current usage and limits?**
 
-- [ ] AWS Systems Manager
+- [ ] :  AWS Systems Manager
 
-- [x] AWS Trusted Advisor
+- [x] :  AWS Trusted Advisor
 
-- [ ] AWS Dashboard
+- [ ] :  AWS Dashboard
 
-- [ ] Amazon CloudWatch
+- [ ] :  Amazon CloudWatch
 
-*
+*----
 
+- #aws_systems_manager #aws_tool #aws_dashboard #several_aws_services #amazon_cloudwatch
 - hasExplain:: [[explanation_Question  56.md]]

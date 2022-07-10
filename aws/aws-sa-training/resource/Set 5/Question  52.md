@@ -6,14 +6,15 @@ prohibited security violations and network abuse. According to the policy, what 
 
 testing?**
 
-- [ ] AWS do not allow any form of penetration testing
+- [ ] :  AWS do not allow any form of penetration testing
 
-- [ ] AWS allow penetration testing by customers on their own VPC resources
+- [ ] :  AWS allow penetration testing by customers on their own VPC resources
 
-- [x] AWS allow penetration for some resources without prior authorization
+- [x] :  AWS allow penetration for some resources without prior authorization
 
-- [ ] AWS allow penetration testing for all resources
+- [ ] :  AWS allow penetration testing for all resources
 
-*
+*----
 
+- #aws_acceptable_use_policy_describes #aws #penetration_testing #security_violations #penetration
 - hasExplain:: [[explanation_Question  52.md]]

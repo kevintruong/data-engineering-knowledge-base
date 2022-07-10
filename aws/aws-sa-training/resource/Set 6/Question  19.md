@@ -6,14 +6,15 @@ from citizens. What feature of CloudFront applies an extra level of encryption a
 
 the PII data is secured end-to-end?**
 
-- [ ] Object invalidation
+- [ ] :  Object invalidation
 
-- [x] Field-level encryption
+- [x] :  Field-level encryption
 
-- [ ] RTMP distribution
+- [ ] :  RTMP distribution
 
-- [ ] Origin access identity
+- [ ] :  Origin access identity
 
-*
+*----
 
+- #cloudfront_edge_locations #cloudfront #level_encryption #encryption #identifiable_information
 - hasExplain:: [[explanation_Question  19.md]]

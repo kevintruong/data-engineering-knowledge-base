@@ -6,12 +6,15 @@ Glacier is the right solution. Data must be delivered within 10 minutes of a ret
 
 **Which features in Amazon Glacier can help meet this requirement?**
 
-- [ ] Standard retrieval
+- [ ] :  Standard retrieval
 
-- [ ] Bulk retrieval
+- [ ] :  Bulk retrieval
 
-- [x] Expedited retrieval
+- [x] :  Expedited retrieval
 
-- [ ] Vault Lock
+- [ ] :  Vault Lock
 
+----
+
+- #amazon_glacier #bulk_retrieval #retrieval #standard_retrieval #retrieval_request
 - hasExplain:: [[explanation_Question  63.md]]

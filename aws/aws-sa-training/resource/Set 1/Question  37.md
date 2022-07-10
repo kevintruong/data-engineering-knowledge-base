@@ -62,14 +62,15 @@ Note: Linux only
 
 ```
 
-- [ ] Store the files on Amazon EBS, and create a lifecycle policy to remove the files after three months
+- [ ] :  Store the files on Amazon EBS, and create a lifecycle policy to remove the files after three months
 
-- [ ] Store the files on Amazon Glacier, and create a lifecycle policy to remove the files after three months
+- [ ] :  Store the files on Amazon Glacier, and create a lifecycle policy to remove the files after three months
 
-- [x] Store the files on Amazon S3, and create a lifecycle policy to remove the files after three months
+- [x] :  Store the files on Amazon S3, and create a lifecycle policy to remove the files after three months
 
-- [ ] Store the files on Amazon EFS, and create a lifecycle policy to remove the files after three months
+- [ ] :  Store the files on Amazon EFS, and create a lifecycle policy to remove the files after three months
 
+----
+
+- #amazon_elastic_file #amazon_efs #amazon_s3 #amazon_ebs #file_system
 - hasExplain:: [[explanation_Question  37.md]]
-
-# amazon_elastic_file #amazon_efs #amazon_s3 #amazon_ebs #file_system

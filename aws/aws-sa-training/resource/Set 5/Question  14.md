@@ -6,7 +6,7 @@ must be encrypted at rest and regular volume-level backups must be automated.**
 
 **Which solution options should be used?**
 
-- [x] Use an encrypted Amazon EBS volume and use Data Lifecycle Manager to automate snapshots
+- [x] :  Use an encrypted Amazon EBS volume and use Data Lifecycle Manager to automate snapshots
 
 ```
 
@@ -114,14 +114,17 @@ Any public endpoint
 
 ```
 
-- [ ] Use an encrypted Amazon EFS filesystem and use an Amazon CloudWatch Events rule to start a backup copy of data using
+- [ ] :  Use an encrypted Amazon EFS filesystem and use an Amazon CloudWatch Events rule to start a backup copy of data using
 
 AWS Lambda
 
-- [ ] Use server-side encryption on an Amazon S3 bucket and use Cross-Region-Replication to backup on a schedule
+- [ ] :  Use server-side encryption on an Amazon S3 bucket and use Cross-Region-Replication to backup on a schedule
 
-- [ ] Use an encrypted Amazon EC2 instance store and copy the data to another EC2 instance using a cron job and a batch
+- [ ] :  Use an encrypted Amazon EC2 instance store and copy the data to another EC2 instance using a cron job and a batch
 
 script
 
+----
+
+- #other_aws_service #aws_lambda #amazon_efs_filesystem #amazon_ec2_instance_store #ec2_instance
 - hasExplain:: [[explanation_Question  14.md]]

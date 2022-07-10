@@ -82,12 +82,15 @@ The application code will be migrated to AWS Lambda and a highly scalable soluti
 
 **Which datastore will be the best fit for these requirements?**
 
-- [ ] Amazon EFS
+- [ ] :  Amazon EFS
 
-- [ ] Amazon RDS MySQL
+- [ ] :  Amazon RDS MySQL
 
-- [ ] Amazon EBS
+- [ ] :  Amazon EBS
 
-- [x] Amazon DynamoDB
+- [x] :  Amazon DynamoDB
 
+----
+
+- #amazon_dynamodb #aws_lambda #amazon_rds_mysql #amazon_efs #amazon_ebs
 - hasExplain:: [[explanation_Question  8.md]]

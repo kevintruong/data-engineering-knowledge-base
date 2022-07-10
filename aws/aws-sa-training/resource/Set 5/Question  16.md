@@ -6,12 +6,15 @@ systems running in the cloud. Other services can be replicated but switched off.
 
 **Which DR strategy should a Solutions Architect recommend?**
 
-- [ ] Backup and restore
+- [ ] :  Backup and restore
 
-- [ ] Pilot light
+- [ ] :  Pilot light
 
-- [x] Warm standby
+- [x] :  Warm standby
 
-- [ ] Multi-site
+- [ ] :  Multi-site
 
+----
+
+- #disaster_recovery_solution #solutions_architect #cloud #dr_strategy #backup
 - hasExplain:: [[explanation_Question  16.md]]

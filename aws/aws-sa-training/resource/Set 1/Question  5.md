@@ -8,14 +8,15 @@ to keep data in sync. A solutions architect needs to replace the file server far
 
 **Which service should the solutions architect use?**
 
-- [ ] Amazon EFS
+- [ ] :  Amazon EFS
 
-- [x] Amazon FSx
+- [x] :  Amazon FSx
 
-- [ ] Amazon S3
+- [ ] :  Amazon S3
 
-- [ ] AWS Storage Gateway
+- [ ] :  AWS Storage Gateway
 
+----
+
+- #aws_cloud #aws_storage_gateway #file_server_farm #distributed_file_system_replication #amazon_efs
 - hasExplain:: [[explanation_Question  5.md]]
-
-# aws_cloud #aws_storage_gateway #file_server_farm #amazon_efs #distributed_file_system_replication

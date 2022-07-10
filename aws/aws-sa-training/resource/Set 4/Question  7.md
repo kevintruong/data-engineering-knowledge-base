@@ -8,12 +8,15 @@ require rewriting application code.**
 
 **Which AWS service can be used for the migrated message broker?**
 
-- [ ] Amazon SQS
+- [ ] :  Amazon SQS
 
-- [ ] Amazon SNS
+- [ ] :  Amazon SNS
 
-- [x] Amazon MQ
+- [x] :  Amazon MQ
 
-- [ ] AWS Step Functions
+- [ ] :  AWS Step Functions
 
+----
+
+- #message_broker #aws_service #aws #amazon_mq #aws_step_functions
 - hasExplain:: [[explanation_Question  7.md]]

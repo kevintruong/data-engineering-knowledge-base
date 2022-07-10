@@ -1,5 +1,3 @@
-import logging
-
 import abc
 import os
 import re
@@ -26,12 +24,15 @@ class BaseQuizFormater(abc.ABC):
 
     def regex_replace(self, content, source, target):
         def replace_by_target(match_object):
-            return f"{target['prefix']}{match_object.group(target['match_group'])}{target['suffix']}"
+            if not target['match_group']:
+                return f"{target['prefix']}{target['suffix']}"
+            else:
+                return f"{target['prefix']}{match_object.group(target['match_group'])}{target['suffix']}"
 
         return re.sub(source, replace_by_target, content, 0, re.MULTILINE)
 
     def add_explain_link_type(self, content, link_type, target_fmt):
-        append_link_type = "\n\n- {link_type} ".format(link_type=link_type) + target_fmt.format(
+        append_link_type = "\n- {link_type} ".format(link_type=link_type) + target_fmt.format(
             question_title=self.title)
         content += append_link_type
         return content
@@ -44,10 +45,14 @@ class BaseQuizFormater(abc.ABC):
                                              seed_keywords=full_vocob_list
                                              )
         if len(keywords):
-            tags = "\n\n"
+            tags = "\n- "
             for each_keyword in keywords:
                 tags += f"#{each_keyword[0].replace(' ', '_')} "
             content += tags
+        return content
+
+    def add_separator(self, content, sep: str):
+        content += sep
         return content
 
     @abc.abstractmethod
@@ -83,29 +88,38 @@ class StandardQuizFormatter(BaseQuizFormater):
             quiz_explaination_mark = card_determiners.start() - 1
             self.question = self.content[:quiz_explaination_mark]
             self.correct_ops = list(map(int, card_determiners[1].strip().split(",")))
+            self.correct_ops.sort()
         else:
             app_logger.warning(f"{self.title} is not valid quiz format")
             self.is_quiz = False
 
-    def refill_correct_options(self, content, option_regex):
+    def refill_correct_options(self, content, option_regex, correct_ops):
         def replace_collect_option(match_object):
-            return f"- [x] {match_object}"
+            return f"- [x]:"
 
-        options = re.findall(option_regex, content, re.MULTILINE)
+        def replace_str_index(text, start_index=0, end_index=-1, replacement=''):
+            return '%s%s%s' % (text[:start_index], replacement, text[end_index + 1:])
+
+        options = re.finditer(option_regex, content, re.MULTILINE)
+        all_options_match = [x for x in options]
         for each_correct_option_index in self.correct_ops:
-            correct_ops = options[each_correct_option_index - 1][0]
-            re_fill = replace_collect_option(options[each_correct_option_index - 1][2])
-            content = content.replace(correct_ops, re_fill)
+            correct_match_options = all_options_match[each_correct_option_index - 1]
+            content = replace_str_index(content, start_index=correct_match_options.start(),
+                                        end_index=correct_match_options.end(),
+                                        replacement=correct_ops)
         return content
 
     def format(self):
         try:
+            app_logger.info(f"formatting for {self.title}")
             # parse non correct quizzes
             # first_options = re.search(self.full_opts_reg, self.content, re.MULTILINE)
             for each_transforms_type in self.rule['transforms']:
                 each_transforms_type: dict
                 if each_transforms_type['type'] == "question":
                     for each_transform in each_transforms_type['transform_rules']:
+                        app_logger.info(
+                            f"run transform {each_transform['name']} - kwargs {each_transform['kwargs']}")
                         if hasattr(self, each_transform['name']):
                             transform_func = getattr(self, each_transform['name'])
                             self.question = transform_func(self.question,
@@ -114,11 +128,11 @@ class StandardQuizFormatter(BaseQuizFormater):
                 if each_transforms_type['type'] == "explanation":
                     for each_transform in each_transforms_type['transform_rules']:
                         if hasattr(self, each_transform['name']):
+                            app_logger.info(
+                                f"run transform {each_transform['name']} - kwargs {each_transform['kwargs']}")
                             transform_func = getattr(self, each_transform['name'])
                             self.quiz_explanation = transform_func(self.quiz_explanation,
                                                                    **each_transform['kwargs'])
-                        pass
-
         except  Exception as e:
             raise e
 
@@ -173,14 +187,15 @@ class StandardNoteFormatter(BaseQuizFormater):
             pass
 
     def dump(self, root_path):
+        note_file = f"{root_path}/{self.title}.md"
         if self.childs and len(self.childs):
             next_root = os.path.join(root_path, self.title)
             os.makedirs(next_root, exist_ok=True)
             for each_note in self.childs:
-                each_note: StandardQuizFormatter
                 each_note.dump(next_root)
+            with open(note_file, 'w') as note_fd:
+                note_fd.write(self.content)
         else:
-            note_file = f"{root_path}/{self.title}.md"
             self.format()
             with open(note_file, 'w') as note_fd:
-                note_fd.write(self.card_name)
+                note_fd.write(self.content)

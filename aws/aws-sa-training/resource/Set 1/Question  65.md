@@ -6,14 +6,15 @@ large amounts of dynamic data and requires very low latency. The database must b
 
 Which database would you recommend for this scenario?**
 
-- [ ] RDS with MySQL
+- [ ] :  RDS with MySQL
 
-- [x] DynamoDB
+- [x] :  DynamoDB
 
-- [ ] RedShift
+- [ ] :  RedShift
 
-- [ ] RDS with Microsoft SQL
+- [ ] :  RDS with Microsoft SQL
 
+----
+
+- #dynamodb #database #rds #redshift #dynamic_data
 - hasExplain:: [[explanation_Question  65.md]]
-
-# database #rds #redshift #mysql #dynamic_data

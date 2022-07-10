@@ -6,12 +6,15 @@ subnets and multiple AZs. What AWS feature can act as an instance-level firewall
 
 instances?**
 
-- [ ] AWS WAF
+- [ ] :  AWS WAF
 
-- [x] Security group
+- [x] :  Security group
 
-- [ ] Route table
+- [ ] :  Route table
 
-- [ ] Network ACL
+- [ ] :  Network ACL
 
+----
+
+- #aws_feature #ec2_instances #aws_waf #ec2 #level_firewall
 - hasExplain:: [[explanation_Question  64.md]]

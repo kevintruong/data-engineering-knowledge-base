@@ -6,14 +6,15 @@ devices will collect information and send it to cloud applications running on AW
 
 **Which AWS service will securely connect the devices to the cloud applications?**
 
-- [ ] AWS Glue
+- [ ] :  AWS Glue
 
-- [x] AWS IoT Core
+- [x] :  AWS IoT Core
 
-- [ ] AWS DMS
+- [ ] :  AWS DMS
 
-- [ ] AWS Lambda
+- [ ] :  AWS Lambda
 
-*
+*----
 
+- #aws_iot_core #aws_service #cloud_applications #aws #aws_dms
 - hasExplain:: [[explanation_Question  65.md]]

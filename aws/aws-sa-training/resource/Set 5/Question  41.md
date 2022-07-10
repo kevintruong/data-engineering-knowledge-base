@@ -4,16 +4,17 @@
 
 Architect would like to use Alias records. Using Route 53 Alias records what targets can you specify? (Select TWO)**
 
-- [x] CloudFront distribution
+- [x] :  CloudFront distribution
 
-- [ ] ElastiCache cluster
+- [ ] :  ElastiCache cluster
 
-- [ ] EFS filesystems
+- [ ] :  EFS filesystems
 
-- [x] Elastic Beanstalk environment
+- [x] :  Elastic Beanstalk environment
 
-- [ ] On-premise web server
+- [ ] :  On-premise web server
 
-*
+*----
 
+- #alias_records #elasticache_cluster #elastic_beanstalk_environment #cloudfront_distribution #solutions_architect
 - hasExplain:: [[explanation_Question  41.md]]

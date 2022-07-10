@@ -6,14 +6,15 @@ between cloud data centers, bypassing ISPs.**
 
 **Which AWS service can be used to enable hybrid cloud connectivity?**
 
-- [x] AWS Direct Connect
+- [x] :  AWS Direct Connect
 
-- [ ] Amazon VPC
+- [ ] :  Amazon VPC
 
-- [ ] IPSec VPN
+- [ ] :  IPSec VPN
 
-- [ ] Amazon Route 53
+- [ ] :  Amazon Route 53
 
-*
+*----
 
+- #hybrid_cloud_connectivity #aws_service #hybrid_cloud_model #cloud_data_centers #aws_direct_connect
 - hasExplain:: [[explanation_Question  31.md]]

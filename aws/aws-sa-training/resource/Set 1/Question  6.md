@@ -10,14 +10,15 @@ the website.**
 
 **What should a solutions architect do to protect the application?**
 
-- [ ] Modify the network ACL on the CloudFront distribution to add a deny rule for the malicious IP address
+- [ ] :  Modify the network ACL on the CloudFront distribution to add a deny rule for the malicious IP address
 
-- [x] Modify the configuration of AWS WAF to add an IP match condition to block the malicious IP address
+- [x] :  Modify the configuration of AWS WAF to add an IP match condition to block the malicious IP address
 
-- [ ] Modify the network ACL for the EC2 instances in the target groups behind the ALB to deny the malicious IP address
+- [ ] :  Modify the network ACL for the EC2 instances in the target groups behind the ALB to deny the malicious IP address
 
-- [ ] Modify the security groups for the EC2 instances in the target groups behind the ALB to deny the malicious IP address
+- [ ] :  Modify the security groups for the EC2 instances in the target groups behind the ALB to deny the malicious IP address
 
+----
+
+- #aws_waf #amazon_cloudfront_distribution #cloudfront_distribution #external_malicious_ip #ec2_instances
 - hasExplain:: [[explanation_Question  6.md]]
-
-# aws_waf #amazon_cloudfront_distribution #cloudfront_distribution #external_malicious_ip #ec2_instances

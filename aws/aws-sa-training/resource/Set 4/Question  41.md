@@ -8,14 +8,15 @@ cloud.**
 
 **Which combination of services are BEST suited to delivering these requirements?**
 
-- [ ] Use IAM and Amazon Cognito
+- [ ] :  Use IAM and Amazon Cognito
 
-- [ ] Use your on-premise LDAP directory with IAM
+- [ ] :  Use your on-premise LDAP directory with IAM
 
-- [x] Use the AWS Secure Token Service (STS) and SAML
+- [x] :  Use the AWS Secure Token Service (STS) and SAML
 
-- [ ] Use IAM and MFA
+- [ ] :  Use IAM and MFA
 
-*
+*----
 
+- #aws_secure_token_service #aws_management_console #aws #use_iam #amazon_cognito
 - hasExplain:: [[explanation_Question  41.md]]

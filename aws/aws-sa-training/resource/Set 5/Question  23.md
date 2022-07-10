@@ -8,14 +8,15 @@ the Internet and to ensure all traffic uses private IP addresses only.**
 
 **How can this be achieved?**
 
-- [ ] Create a NAT gateway
+- [ ] :  Create a NAT gateway
 
-- [ ] Create a public VIF on a Direct Connect connection
+- [ ] :  Create a public VIF on a Direct Connect connection
 
-- [x] Create a private API using an interface VPC endpoint
+- [x] :  Create a private API using an interface VPC endpoint
 
-- [ ] Add the API gateway to the subnet the EC2 instances are located in
+- [ ] :  Add the API gateway to the subnet the EC2 instances are located in
 
-*
+*----
 
+- #amazon_api_gateway #api_gateway #nat_gateway #interface_vpc_endpoint #amazon_vpc
 - hasExplain:: [[explanation_Question  23.md]]

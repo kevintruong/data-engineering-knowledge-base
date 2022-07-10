@@ -6,12 +6,15 @@ require a managed service for hosting the filesystem and a tool to automate the 
 
 **Which actions should a Solutions Architect take?**
 
-- [ ] Migrate the data to Amazon EFS using the AWS Server Migration Service (SMS)
+- [ ] :  Migrate the data to Amazon EFS using the AWS Server Migration Service (SMS)
 
-- [ ] Migrate the data to Amazon FSx for Lustre using AWS DataSync
+- [ ] :  Migrate the data to Amazon FSx for Lustre using AWS DataSync
 
-- [x] Migrate the data to Amazon FSx for Windows File Server using AWS DataSync
+- [x] :  Migrate the data to Amazon FSx for Windows File Server using AWS DataSync
 
-- [ ] Migrate the data to Amazon S3 using and AWS Snowball Edge device
+- [ ] :  Migrate the data to Amazon S3 using and AWS Snowball Edge device
 
+----
+
+- #aws_server_migration_service #aws_datasync #amazon_efs #nas_device #migrate
 - hasExplain:: [[explanation_Question  18.md]]

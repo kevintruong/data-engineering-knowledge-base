@@ -4,14 +4,15 @@
 
 does not require you to make capacity decisions upfront?**
 
-- [ ] Amazon DynamoDB
+- [ ] :  Amazon DynamoDB
 
-- [x] Amazon Aurora Serverless
+- [x] :  Amazon Aurora Serverless
 
-- [ ] Amazon ElastiCache
+- [ ] :  Amazon ElastiCache
 
-- [ ] Amazon RDS
+- [ ] :  Amazon RDS
 
+----
+
+- #amazon_dynamodb #amazon_aurora_serverless #aws #database_service #amazon_rds
 - hasExplain:: [[explanation_Question  32.md]]
-
-# amazon_dynamodb #amazon_aurora_serverless #aws #amazon_rds #amazon_elasticache

@@ -8,12 +8,15 @@ EC2 instances is at or near 40%.**
 
 **What should a solutions architect do to maintain the desired performance across all instances in the group?**
 
-- [ ] Use a simple scaling policy to dynamically scale the Auto Scaling group
+- [ ] :  Use a simple scaling policy to dynamically scale the Auto Scaling group
 
-- [x] Use a target tracking policy to dynamically scale the Auto Scaling group
+- [x] :  Use a target tracking policy to dynamically scale the Auto Scaling group
 
-- [ ] Use an AWS Lambda function to update the desired Auto Scaling group capacity
+- [ ] :  Use an AWS Lambda function to update the desired Auto Scaling group capacity
 
-- [ ] Use scheduled scaling actions to scale up and scale down the Auto Scaling group
+- [ ] :  Use scheduled scaling actions to scale up and scale down the Auto Scaling group
 
+----
+
+- #auto_scaling_group_capacity #auto_scaling_group #simple_scaling_policy #ec2_instances #application_load_balancer
 - hasExplain:: [[explanation_Question  21.md]]

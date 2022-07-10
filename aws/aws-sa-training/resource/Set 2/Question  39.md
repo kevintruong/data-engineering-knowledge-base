@@ -8,12 +8,13 @@ about customers using Amazon SNS. The application is launched in private subnets
 
 **1: Use an Internet Gateway**
 
-- [ ] Use AWS PrivateLink
+- [ ] :  Use AWS PrivateLink
 
-- [x] Use a proxy instance
+- [x] :  Use a proxy instance
 
-- [ ] Use a NAT gateway
+- [ ] :  Use a NAT gateway
 
+----
+
+- #amazon_sns #service_endpoints #aws_privatelink #amazon_ec2_instances #amazon_vpc
 - hasExplain:: [[explanation_Question  39.md]]
-
-# amazon_sns #service_endpoints #aws_privatelink #amazon_ec2_instances #amazon_vpc

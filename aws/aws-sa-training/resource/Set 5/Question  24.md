@@ -10,14 +10,15 @@ maintain the order of the messages.**
 
 **Which SQS queue type should be used?**
 
-- [ ] Standard queues
+- [ ] :  Standard queues
 
-- [ ] Long polling queues
+- [ ] :  Long polling queues
 
-- [x] FIFO queues
+- [x] :  FIFO queues
 
-- [ ] Auto Scaling queues
+- [ ] :  Auto Scaling queues
 
-*
+*----
 
+- #sqs_queue_type #queue #standard_queues #auto_scaling_queues #fifo_queues
 - hasExplain:: [[explanation_Question  24.md]]

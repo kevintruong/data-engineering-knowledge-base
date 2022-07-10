@@ -6,14 +6,15 @@ and it is essential that the application receives the most up-to-date version of
 
 **Which service is most appropriate for these requirements?**
 
-- [ ] Amazon RedShift
+- [ ] :  Amazon RedShift
 
-- [ ] Amazon S3
+- [ ] :  Amazon S3
 
-- [ ] AWS Storage Gateway
+- [ ] :  AWS Storage Gateway
 
-- [x] Amazon RDS
+- [x] :  Amazon RDS
 
+----
+
+- #amazon_redshift #amazon_rds #aws_storage_gateway #amazon_ec2 #amazon_s3
 - hasExplain:: [[explanation_Question  52.md]]
-
-# amazon_redshift #amazon_rds #amazon_ec2 #aws_storage_gateway #amazon_s3

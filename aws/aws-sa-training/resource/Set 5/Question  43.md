@@ -10,14 +10,15 @@ some controls to limit the number of requests per second that hit the applicatio
 
 **What controls should the Solutions Architect implement?**
 
-- [x] Implement throttling rules on the API Gateway
+- [x] :  Implement throttling rules on the API Gateway
 
-- [ ] Enable caching on the API Gateway and specify a size in gigabytes
+- [ ] :  Enable caching on the API Gateway and specify a size in gigabytes
 
-- [ ] Enable Lambda continuous scaling
+- [ ] :  Enable Lambda continuous scaling
 
-- [ ] API Gateway and Lambda scale automatically to handle any load so there’s no need to implement controls
+- [ ] :  API Gateway and Lambda scale automatically to handle any load so there’s no need to implement controls
 
-*
+*----
 
+- #aws_lambda #api_gateway #throttling_rules #amazon_ec2_instances #solutions_architect_implement
 - hasExplain:: [[explanation_Question  43.md]]

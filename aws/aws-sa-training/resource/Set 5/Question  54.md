@@ -12,16 +12,17 @@ contention during peak hours of the day.**
 
 performance issues? (Select TWO)**
 
-- [x] Add RDS read replicas in each AZ
+- [x] :  Add RDS read replicas in each AZ
 
-- [ ] Use an ELB to distribute load between RDS instances
+- [ ] :  Use an ELB to distribute load between RDS instances
 
-- [ ] Migrate to DynamoDB
+- [ ] :  Migrate to DynamoDB
 
-- [ ] Use a larger RDS instance size
+- [ ] :  Use a larger RDS instance size
 
-- [x] Deploy ElastiCache in each AZ
+- [x] :  Deploy ElastiCache in each AZ
 
-*
+*----
 
+- #dynamodb #amazon_rds #rds_instances #larger_rds_instance_size #amazon_vpc
 - hasExplain:: [[explanation_Question  54.md]]

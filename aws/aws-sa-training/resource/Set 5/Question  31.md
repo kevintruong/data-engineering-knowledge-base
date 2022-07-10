@@ -8,14 +8,15 @@ occur.**
 
 **How can a Solutions Architect BEST assist the SysOps team?**
 
-- [ ] Use AWS Systems Manager to manage all updates to the infrastructure services
+- [ ] :  Use AWS Systems Manager to manage all updates to the infrastructure services
 
-- [ ] Use CodeDeploy to manage version control for the infrastructure services
+- [ ] :  Use CodeDeploy to manage version control for the infrastructure services
 
-- [x] Use CloudFormation templates to deploy and manage the infrastructure services
+- [x] :  Use CloudFormation templates to deploy and manage the infrastructure services
 
-- [ ] Use Trusted Advisor to record updates made to the infrastructure services
+- [ ] :  Use Trusted Advisor to record updates made to the infrastructure services
 
-*
+*----
 
+- #aws_systems_manager #solutions_architect #solutions_architect_best #infrastructure_services #aws
 - hasExplain:: [[explanation_Question  31.md]]

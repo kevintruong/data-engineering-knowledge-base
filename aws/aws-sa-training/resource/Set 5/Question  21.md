@@ -8,11 +8,11 @@ same account. The VPCs each have unique CIDR ranges.**
 
 **What would be the optimum solution design using AWS technology? (Select TWO)**
 
-- [ ] Configure AWS VPN CloudHub
+- [ ] :  Configure AWS VPN CloudHub
 
-- [x] Create a Direct Connect gateway, and create private VIFs to each region
+- [x] :  Create a Direct Connect gateway, and create private VIFs to each region
 
-- [ ] Provision an MPLS network
+- [ ] :  Provision an MPLS network
 
 ```
 
@@ -84,10 +84,11 @@ Region
 
 ```
 
-- [ ] Implement Direct Connect connections to each AWS region
+- [ ] :  Implement Direct Connect connections to each AWS region
 
-- [x] Implement a Direct Connect connection to the closest AWS region
+- [x] :  Implement a Direct Connect connection to the closest AWS region
 
-*
+*----
 
+- #aws_region #closest_aws_region #aws_lambda #aws_technology #aws
 - hasExplain:: [[explanation_Question  21.md]]

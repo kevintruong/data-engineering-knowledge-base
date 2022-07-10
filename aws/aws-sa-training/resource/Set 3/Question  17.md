@@ -10,7 +10,7 @@ allow it to put, update, and delete items in the Orders table. No other actions 
 
 the LEAST privileged access?**
 
-1:
+- [x] :  
 
 ```json5
 
@@ -36,7 +36,7 @@ the LEAST privileged access?**
 
 ```
 
-2:
+- [ ] :
 
 ```json5
 
@@ -62,7 +62,7 @@ the LEAST privileged access?**
 
 ```
 
-3:
+- [ ] :
 
 ```json5
 
@@ -80,7 +80,7 @@ the LEAST privileged access?**
 
 ```
 
-4:
+- [ ] :
 
 ```json5
 
@@ -97,3 +97,8 @@ the LEAST privileged access?**
 }
 
 ```
+
+----
+
+- #aws_lambda #amazon_dynamodb #iam_policy #aws #execution_role
+- hasExplain:: [[explanation_Question  17.md]]

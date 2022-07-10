@@ -8,12 +8,15 @@ queried using SQL. The solution should be fully serverless.**
 
 **Which actions should a Solutions Architect take to encrypt and query the data?**
 
-- [ ] Use Amazon S3 server-side encryption and use Amazon RedShift Spectrum to query the data
+- [ ] :  Use Amazon S3 server-side encryption and use Amazon RedShift Spectrum to query the data
 
-- [x] Use AWS KMS encryption keys for the S3 bucket and use Amazon Athena to query the data
+- [x] :  Use AWS KMS encryption keys for the S3 bucket and use Amazon Athena to query the data
 
-- [ ] Use AWS KMS encryption keys for the S3 bucket and use Amazon Kinesis Data Analytics to query the data
+- [ ] :  Use AWS KMS encryption keys for the S3 bucket and use Amazon Kinesis Data Analytics to query the data
 
-- [ ] Use Amazon S3 server-side encryption and Amazon QuickSight to query the data
+- [ ] :  Use Amazon S3 server-side encryption and Amazon QuickSight to query the data
 
+----
+
+- #amazon_kinesis_data_analytics #aws_kms_encryption_keys #amazon_s3_bucket #amazon_s3_server #s3_bucket
 - hasExplain:: [[explanation_Question  17.md]]

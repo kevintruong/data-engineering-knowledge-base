@@ -6,14 +6,15 @@ The user base is spread out globally and speed is important. Which AWS service c
 
 cost-effectively and reduce the load on the web server?**
 
-- [ ] Amazon RedShift
+- [ ] :  Amazon RedShift
 
-- [ ] Amazon S3
+- [ ] :  Amazon S3
 
-- [x] Amazon CloudFront
+- [x] :  Amazon CloudFront
 
-- [ ] Amazon EBS volume
+- [ ] :  Amazon EBS volume
 
-*
+*----
 
+- #aws_service #amazon_cloudfront #amazon_ec2 #amazon_s3 #small_web_application
 - hasExplain:: [[explanation_Question  60.md]]

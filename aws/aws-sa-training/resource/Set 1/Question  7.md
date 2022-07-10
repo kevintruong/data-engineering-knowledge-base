@@ -8,14 +8,15 @@ the time at least 40 instances are required.**
 
 **Which solution should be used to minimize costs?**
 
-- [ ] Purchase Reserved Instances to cover 200 instances
+- [ ] :  Purchase Reserved Instances to cover 200 instances
 
-- [ ] Purchase Reserved Instances to cover 80 instances. Use Spot Instances to cover the remaining instances
+- [ ] :  Purchase Reserved Instances to cover 80 instances. Use Spot Instances to cover the remaining instances
 
-- [ ] Purchase On-Demand Instances to cover 40 instances. Use Spot Instances to cover the remaining instances
+- [ ] :  Purchase On-Demand Instances to cover 40 instances. Use Spot Instances to cover the remaining instances
 
-- [x] Purchase Reserved Instances to cover 40 instances. Use On-Demand and Spot Instances to cover the remaining instances
+- [x] :  Purchase Reserved Instances to cover 40 instances. Use On-Demand and Spot Instances to cover the remaining instances
 
+----
+
+- #amazon_ec2_instances #demand_instances #purchase_reserved_instances #spot_instances #instances
 - hasExplain:: [[explanation_Question  7.md]]
-
-# amazon_ec2_instances #demand_instances #purchase_reserved_instances #spot_instances #instances

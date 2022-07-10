@@ -10,14 +10,15 @@ database is the bottleneck.**
 
 **What is the MOST cost-efficient way to improve the database response times?**
 
-- [ ] Put the temporary database on a new 50-GB EBS io1 volume with a 3000 IOPS allocation
+- [ ] :  Put the temporary database on a new 50-GB EBS io1 volume with a 3000 IOPS allocation
 
-- [x] Move the temporary database onto instance storage
+- [x] :  Move the temporary database onto instance storage
 
-- [ ] Put the temporary database on a new 50-GB EBS gp2 volume
+- [ ] :  Put the temporary database on a new 50-GB EBS gp2 volume
 
-- [ ] Enable EBS optimization on the instance and keep the temporary files on the existing volume
+- [ ] :  Enable EBS optimization on the instance and keep the temporary files on the existing volume
 
+----
+
+- #ebs_optimization #i3.large_ec2_instance #instance_storage #gb_ebs_io1_volume #temporary_database
 - hasExplain:: [[explanation_Question  62.md]]
-
-# ebs_optimization #i3.large_ec2_instance #instance_storage #gb_ebs_io1_volume #temporary_database

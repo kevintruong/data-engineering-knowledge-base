@@ -8,14 +8,15 @@ protocol and the ELB must support load balancing to multiple ports on an instanc
 
 use?**
 
-- [ ] Classic Load Balancer
+- [ ] :  Classic Load Balancer
 
-- [ ] Application Load Balancer
+- [ ] :  Application Load Balancer
 
-- [x] Network Load Balancer
+- [x] :  Network Load Balancer
 
-- [ ] Route 53
+- [ ] :  Route 53
 
-*
+*----
 
+- #elastic_load_balancer #elb #aws #application_load_balancer #classic_load_balancer
 - hasExplain:: [[explanation_Question  50.md]]

@@ -8,14 +8,15 @@ concurrently by all EC2 instances. Latency is not a concern however extremely hi
 
 **What storage layer would be most suitable for this requirement?**
 
-- [ ] Amazon EFS in General Purpose mode
+- [ ] :  Amazon EFS in General Purpose mode
 
-- [x] Amazon EFS in Max I/O mode
+- [x] :  Amazon EFS in Max I/O mode
 
-- [ ] Amazon EBS PIOPS
+- [ ] :  Amazon EBS PIOPS
 
-- [ ] Amazon S3
+- [ ] :  Amazon S3
 
+----
+
+- #amazon_efs #storage_layer #amazon_ebs_piops #ec2 #ec2_instances
 - hasExplain:: [[explanation_Question  36.md]]
-
-# amazon_efs #amazon_ebs_piops #ec2 #storage_layer #ec2_instances

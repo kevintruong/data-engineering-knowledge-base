@@ -6,14 +6,17 @@ launched in another AWS Region in the event of a disaster.**
 
 **What steps should the Solutions Architect take? (Select TWO)**
 
-- [ ] Launch instances in the second Region using the S3 API
+- [ ] :  Launch instances in the second Region using the S3 API
 
-- [x] Create AMIs of the instances and copy them to another Region
+- [x] :  Create AMIs of the instances and copy them to another Region
 
-- [ ] Enable cross-region snapshots for the Amazon EC2 instances
+- [ ] :  Enable cross-region snapshots for the Amazon EC2 instances
 
-- [x] Launch instances in the second Region from the AMIs
+- [x] :  Launch instances in the second Region from the AMIs
 
-- [ ] Copy the snapshots using Amazon S3 cross-region replication
+- [ ] :  Copy the snapshots using Amazon S3 cross-region replication
 
+----
+
+- #aws_region #cross_-_region_replication #cross_-_region_snapshots #amazon_ec2_instances #amazon_ec2
 - hasExplain:: [[explanation_Question  11.md]]

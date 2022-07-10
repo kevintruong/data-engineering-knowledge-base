@@ -8,12 +8,15 @@ redundant and have no constraints on bandwidth.**
 
 **Which option satisfies these requirements?**
 
-- [ ] Deploy NAT Instances in a public subnet
+- [ ] :  Deploy NAT Instances in a public subnet
 
-- [ ] Use a NAT Gateway
+- [ ] :  Use a NAT Gateway
 
-- [ ] Create a VPC endpoint
+- [ ] :  Create a VPC endpoint
 
-- [x] Attach an Internet Gateway
+- [x] :  Attach an Internet Gateway
 
+----
+
+- #nat_instances #internet_gateway #nat_gateway #internet_connectivity #vpc_endpoint
 - hasExplain:: [[explanation_Question  37.md]]

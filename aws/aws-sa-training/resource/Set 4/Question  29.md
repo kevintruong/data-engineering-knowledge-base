@@ -6,14 +6,15 @@ cannot be interrupted and must be completed within a short time period.**
 
 **What is likely to be the MOST cost-effective choice of EC2 instance type to use for this requirement?**
 
-- [ ] Reserved instances
+- [ ] :  Reserved instances
 
-- [ ] Spot instances
+- [ ] :  Spot instances
 
-- [ ] Flexible instances
+- [ ] :  Flexible instances
 
-- [x] On-demand instances
+- [x] :  On-demand instances
 
-*
+*----
 
+- #several_ec2_instances #flexible_instances #ec2_instance_type #demand_instances #reserved_instances
 - hasExplain:: [[explanation_Question  29.md]]

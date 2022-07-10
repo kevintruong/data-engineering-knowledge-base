@@ -4,16 +4,17 @@
 
 there is a default security group. What settings are configured within this security group by default? (Select TWO)**
 
-- [x] There is an inbound rule that allows all traffic from the security group itself
+- [x] :  There is an inbound rule that allows all traffic from the security group itself
 
-- [ ] There is an inbound rule that allows all traffic from any address
+- [ ] :  There is an inbound rule that allows all traffic from any address
 
-- [ ] There is an outbound rule that allows all traffic to the security group itself
+- [ ] :  There is an outbound rule that allows all traffic to the security group itself
 
-- [x] There is an outbound rule that allows all traffic to all addresses
+- [x] :  There is an outbound rule that allows all traffic to all addresses
 
-- [ ] There is an outbound rule that allows traffic to the VPC router
+- [ ] :  There is an outbound rule that allows traffic to the VPC router
 
-*
+*----
 
+- #default_security_group #security_group #default_vpc #aws_account #vpc_router
 - hasExplain:: [[explanation_Question  38.md]]

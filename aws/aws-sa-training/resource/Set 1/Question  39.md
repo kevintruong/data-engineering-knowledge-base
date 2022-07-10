@@ -8,14 +8,15 @@ retrieval times are optimized. You’re looking for a persistent data store that
 
 From the list below what AWS service would you recommend for this requirement?**
 
-- [ ] RDS in a multi-AZ configuration
+- [ ] :  RDS in a multi-AZ configuration
 
-- [x] ElastiCache with the Redis engine
+- [x] :  ElastiCache with the Redis engine
 
-- [ ] Kinesis Data Streams
+- [ ] :  Kinesis Data Streams
 
-- [ ] ElastiCache with the Memcached engine
+- [ ] :  ElastiCache with the Memcached engine
 
+----
+
+- #persistent_data_store #aws_service #aws #rds #elasticache
 - hasExplain:: [[explanation_Question  39.md]]
-
-# persistent_data_store #aws #aws_service #elasticache #rds

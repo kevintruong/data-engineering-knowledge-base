@@ -6,14 +6,15 @@ Solutions Architect needs to take steps to reduce the impact on the EC2 instance
 
 Which of the steps below would help?**
 
-- [ ] Use ElastiCache as the web front-end and forward connections to EC2 for cache misses
+- [ ] :  Use ElastiCache as the web front-end and forward connections to EC2 for cache misses
 
-- [x] Create a CloudFront distribution and configure a custom origin pointing at the EC2 instance
+- [x] :  Create a CloudFront distribution and configure a custom origin pointing at the EC2 instance
 
-- [ ] Create an ELB and place it in front of the EC2 instance
+- [ ] :  Create an ELB and place it in front of the EC2 instance
 
-- [ ] Create a CloudFront RTMP distribution and point it at the EC2 instance
+- [ ] :  Create a CloudFront RTMP distribution and point it at the EC2 instance
 
-*
+*----
 
+- #amazon_ec2_instance #cloudfront_rtmp_distribution #ec2_instance #ec2 #cloudfront_distribution
 - hasExplain:: [[explanation_Question  62.md]]

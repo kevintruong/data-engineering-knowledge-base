@@ -10,20 +10,21 @@ restorable within 24 hours.**
 
 (Select TWO)**
 
-- [x] Enable object versioning on the Amazon S3 bucket that will contain the objects
+- [x] :  Enable object versioning on the Amazon S3 bucket that will contain the objects
 
-- [x] Create a lifecycle rule to transition non-current versions to GLACIER after 30 days, and then expire the objects
-
-after 180 days
-
-- [ ] Enable multi-factor authentication (MFA) delete protection
-
-- [ ] Enable cross-region replication (CRR) for the Amazon S3 bucket that will contain the objects
-
-- [ ] Create a lifecycle rule to transition non-current versions to STANDARD_IA after 30 days, and then expire the objects
+- [x] :  Create a lifecycle rule to transition non-current versions to GLACIER after 30 days, and then expire the objects
 
 after 180 days
 
+- [ ] :  Enable multi-factor authentication (MFA) delete protection
+
+- [ ] :  Enable cross-region replication (CRR) for the Amazon S3 bucket that will contain the objects
+
+- [ ] :  Create a lifecycle rule to transition non-current versions to STANDARD_IA after 30 days, and then expire the objects
+
+after 180 days
+
+----
+
+- #amazon_s3_bucket #amazon_s3 #new_storage_solution #lifecycle_rule #cross_-_region_replication
 - hasExplain:: [[explanation_Question  22.md]]
-
-# amazon_s3_bucket #amazon_s3 #new_storage_solution #lifecycle_rule #cross_-_region_replication

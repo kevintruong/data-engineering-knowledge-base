@@ -8,14 +8,15 @@ should be a managed service including the replication.**
 
 **The solution should be cost-effective and secure. Which AWS service can deliver these requirements?**
 
-- [ ] RDS with Multi-AZ
+- [ ] :  RDS with Multi-AZ
 
-- [ ] EC2 instances with EBS replication
+- [ ] :  EC2 instances with EBS replication
 
-- [x] RDS with cross-region Read Replicas
+- [x] :  RDS with cross-region Read Replicas
 
-- [ ] ElastiCache with Redis and clustering mode enabled
+- [ ] :  ElastiCache with Redis and clustering mode enabled
 
-*
+*----
 
+- #multi_-_region_database #cross_-_region_read_replicas #aws_service #ebs_replication #multi_-_az
 - hasExplain:: [[explanation_Question  33.md]]

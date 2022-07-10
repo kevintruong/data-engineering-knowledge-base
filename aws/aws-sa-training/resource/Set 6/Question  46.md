@@ -8,14 +8,15 @@ like 80% of the traffic to hit the AWS-based web servers and 20% to be directed 
 
 **What method can a Solutions Architect use to distribute traffic as requested?**
 
-- [x] Use Route 53 with a weighted routing policy and configure the respective weights
+- [x] :  Use Route 53 with a weighted routing policy and configure the respective weights
 
-- [ ] Use Route 53 with a simple routing policy
+- [ ] :  Use Route 53 with a simple routing policy
 
-- [ ] Use an Application Load Balancer to distribute traffic based on IP address
+- [ ] :  Use an Application Load Balancer to distribute traffic based on IP address
 
-- [ ] Use a Network Load Balancer to distribute traffic based on Instance ID
+- [ ] :  Use a Network Load Balancer to distribute traffic based on Instance ID
 
-*
+*----
 
+- #aws_cloud #aws #application_load_balancer #network_load_balancer #premises_web_servers
 - hasExplain:: [[explanation_Question  46.md]]

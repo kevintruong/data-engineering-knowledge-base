@@ -8,12 +8,15 @@ requires updating a DNS alias record to point to the secondary ALB.**
 
 **How can a solutions architect automate the failover process?**
 
-- [ ] Enable an ALB health check
+- [ ] :  Enable an ALB health check
 
-- [x] Enable an Amazon Route 53 health check
+- [x] :  Enable an Amazon Route 53 health check
 
-- [ ] Create a CNAME record on Amazon Route 53 pointing to the ALB endpoint
+- [ ] :  Create a CNAME record on Amazon Route 53 pointing to the ALB endpoint
 
-- [ ] Create a latency based routing policy on Amazon Route 53
+- [ ] :  Create a latency based routing policy on Amazon Route 53
 
+----
+
+- #failover_process #failover #application_load_balancer #amazon_route #aws_region
 - hasExplain:: [[explanation_Question  18.md]]

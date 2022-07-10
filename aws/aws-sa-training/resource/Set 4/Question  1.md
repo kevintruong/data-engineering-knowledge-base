@@ -4,12 +4,15 @@
 
 access the database. What should the solutions architect use?**
 
-- [ ] AWS Directory Service
+- [ ] :  AWS Directory Service
 
-- [ ] AWS IAM Policy
+- [ ] :  AWS IAM Policy
 
-- [x] Redis AUTH command
+- [x] :  Redis AUTH command
 
-- [ ] VPC Security Group
+- [ ] :  VPC Security Group
 
+----
+
+- #amazon_elasticache #aws_iam_policy #aws_directory_service #redis_cluster #vpc_security_group
 - hasExplain:: [[explanation_Question  1.md]]

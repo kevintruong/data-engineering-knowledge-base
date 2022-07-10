@@ -6,12 +6,15 @@ combination of structured data and unstructured data. The unstructured data is s
 
 services are most suitable for performing analytics on the data?**
 
-- [ ] Amazon RDS MariaDB with Amazon Athena
+- [ ] :  Amazon RDS MariaDB with Amazon Athena
 
-- [ ] Amazon DynamoDB with Amazon DynamoDB Accelerator (DAX)
+- [ ] :  Amazon DynamoDB with Amazon DynamoDB Accelerator (DAX)
 
-- [ ] Amazon ElastiCache for Redis with cluster mode enabled
+- [ ] :  Amazon ElastiCache for Redis with cluster mode enabled
 
-- [x] Amazon Redshift with Amazon Redshift Spectrum
+- [x] :  Amazon Redshift with Amazon Redshift Spectrum
 
+----
+
+- #amazon_dynamodb_accelerator #aws #amazon_rds_mariadb #amazon_elasticache #standard_sql_business_intelligence_tools
 - hasExplain:: [[explanation_Question  5.md]]

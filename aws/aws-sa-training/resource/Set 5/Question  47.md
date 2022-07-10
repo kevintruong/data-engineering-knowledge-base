@@ -6,16 +6,17 @@ connect to an Amazon ElastiCache cluster within an Amazon VPC in the same AWS ac
 
 must be included in the function to enable this configuration? (Select TWO)**
 
-- [x] VPC Subnet IDs
+- [x] :  VPC Subnet IDs
 
-- [ ] VPC Logical IDs
+- [ ] :  VPC Logical IDs
 
-- [ ] VPC Peering IDs
+- [ ] :  VPC Peering IDs
 
-- [x] VPC Security Group IDs
+- [x] :  VPC Security Group IDs
 
-- [ ] VPC Route Table IDs
+- [ ] :  VPC Route Table IDs
 
-*
+*----
 
+- #aws_lambda_function #amazon_elasticache_cluster #amazon_vpc #vpc_subnet_ids #vpc
 - hasExplain:: [[explanation_Question  47.md]]

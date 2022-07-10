@@ -6,12 +6,15 @@ be able to failover if the primary instance fails.**
 
 **What should you implement?**
 
-- [x] Aurora Replicas
+- [x] :  Aurora Replicas
 
-- [ ] A DB cluster
+- [ ] :  A DB cluster
 
-- [ ] An Aurora Cluster Volume
+- [ ] :  An Aurora Cluster Volume
 
-- [ ] Aurora Global Database
+- [ ] :  Aurora Global Database
 
+----
+
+- #aurora_global_database #amazon_aurora_db #aurora_cluster_volume #aurora_replicas #db_cluster
 - hasExplain:: [[explanation_Question  55.md]]

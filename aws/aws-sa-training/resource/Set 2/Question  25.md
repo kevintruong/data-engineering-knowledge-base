@@ -4,16 +4,17 @@
 
 much longer to complete. How can an Architect decouple the data processing from the backend application component?**
 
-- [ ] Process both parts using the same ECS task. Create an Amazon Kinesis Firehose stream
+- [ ] :  Process both parts using the same ECS task. Create an Amazon Kinesis Firehose stream
 
-- [ ] Process each part using a separate ECS task. Create an Amazon SNS topic and send a notification when the processing
+- [ ] :  Process each part using a separate ECS task. Create an Amazon SNS topic and send a notification when the processing
 
 completes
 
-- [ ] Create an Amazon DynamoDB table and save the output of the first part to the table
+- [ ] :  Create an Amazon DynamoDB table and save the output of the first part to the table
 
-- [x] Process each part using a separate ECS task. Create an Amazon SQS queue
+- [x] :  Process each part using a separate ECS task. Create an Amazon SQS queue
 
+----
+
+- #amazon_elastic_container_service #separate_ecs_task #same_ecs_task #amazon_dynamodb_table #amazon_kinesis_firehose_stream
 - hasExplain:: [[explanation_Question  25.md]]
-
-# amazon_elastic_container_service #separate_ecs_task #same_ecs_task #amazon_dynamodb_table #amazon_sqs_queue

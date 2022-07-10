@@ -8,14 +8,15 @@ will further impact the performance of the DB and may lead to poor customer expe
 
 **What would be the best course of action to take so you can implement the reporting process?**
 
-- [ ] Configure Multi-AZ to setup a secondary database instance in another region
+- [ ] :  Configure Multi-AZ to setup a secondary database instance in another region
 
-- [x] Deploy a Read Replica to setup a secondary read-only database instance
+- [x] :  Deploy a Read Replica to setup a secondary read-only database instance
 
-- [ ] Deploy a Read Replica to setup a secondary read and write database instance
+- [ ] :  Deploy a Read Replica to setup a secondary read and write database instance
 
-- [ ] Configure Multi-AZ to setup a secondary database instance in another Availability Zone
+- [ ] :  Configure Multi-AZ to setup a secondary database instance in another Availability Zone
 
-*
+*----
 
+- #secondary_database_instance #rds #configure_multi_-_az #reporting_process #database_instance
 - hasExplain:: [[explanation_Question  25.md]]

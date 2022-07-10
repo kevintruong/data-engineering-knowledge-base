@@ -8,16 +8,17 @@ messages within a short space of time following high-profile matches. As you are
 
 database layer what is the most cost-effective way to ensure that the messages are not dropped?**
 
-- [ ] Use DynamoDB and provision enough write capacity to handle the highest expected load
+- [ ] :  Use DynamoDB and provision enough write capacity to handle the highest expected load
 
-- [ ] Write the data to an S3 bucket, configure RDS to poll the bucket for new messages
+- [ ] :  Write the data to an S3 bucket, configure RDS to poll the bucket for new messages
 
-- [x] Create an SQS queue and modify the application to write to the SQS queue. Launch another application instance the
+- [x] :  Create an SQS queue and modify the application to write to the SQS queue. Launch another application instance the
 
 polls the queue and writes messages to the database
 
-- [ ] Use RDS Auto Scaling for the database layer which will automatically scale as required
+- [ ] :  Use RDS Auto Scaling for the database layer which will automatically scale as required
 
+----
+
+- #dynamodb #rds_auto_scaling #s3_bucket #queue #messages
 - hasExplain:: [[explanation_Question  57.md]]
-
-# dynamodb #rds_auto_scaling #s3_bucket #queue #sqs_queue

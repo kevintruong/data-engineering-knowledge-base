@@ -8,16 +8,17 @@ the documents are available. Users must be able to upload and modify the documen
 
 **Which combination of actions should be taken to meet these requirements? (Select TWO)**
 
-- [ ] Set read-only permissions on the bucket
+- [ ] :  Set read-only permissions on the bucket
 
-- [x] Enable versioning on the bucket
+- [x] :  Enable versioning on the bucket
 
-- [ ] Attach an IAM policy to the bucket
+- [ ] :  Attach an IAM policy to the bucket
 
-- [x] Enable MFA Delete on the bucket
+- [x] :  Enable MFA Delete on the bucket
 
-- [ ] Encrypt the bucket using AWS SSE-S3
+- [ ] :  Encrypt the bucket using AWS SSE-S3
 
+----
+
+- #s3_bucket #aws_sse #s3 #documents #bucket
 - hasExplain:: [[explanation_Question  12.md]]
-
-# s3_bucket #aws_sse #s3 #documents #bucket

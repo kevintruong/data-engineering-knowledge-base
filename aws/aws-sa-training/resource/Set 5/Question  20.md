@@ -8,20 +8,23 @@ processing will take around 40 seconds for each file.**
 
 **Which solution is the most cost-effective?**
 
-- [ ] Write the log files to an Amazon EC2 instance with an attached EBS volume. After processing, save the files to an
+- [ ] :  Write the log files to an Amazon EC2 instance with an attached EBS volume. After processing, save the files to an
 
 Amazon S3 bucket
 
-- [ ] Write the log files to an Amazon SQS queue. Use AWS Lambda to process the files from the queue and save to an Amazon
+- [ ] :  Write the log files to an Amazon SQS queue. Use AWS Lambda to process the files from the queue and save to an Amazon
 
 S3 bucket
 
-- [ ] Write the log files to an Amazon S3 bucket. Create an event notification to invoke an Amazon ECS task to process the
+- [ ] :  Write the log files to an Amazon S3 bucket. Create an event notification to invoke an Amazon ECS task to process the
 
 files and save to an Amazon S3 bucket
 
-- [x] Write the log files to an Amazon S3 bucket. Create an event notification to invoke an AWS Lambda function that will
+- [x] :  Write the log files to an Amazon S3 bucket. Create an event notification to invoke an AWS Lambda function that will
 
 process the files
 
+----
+
+- #amazon_ecs_task #aws_lambda #amazon_sqs_queue #log_files #amazon_s3_bucket
 - hasExplain:: [[explanation_Question  20.md]]

@@ -4,14 +4,15 @@
 
 optimized for high-throughput use cases?**
 
-- [x] Issue parallel requests and use byte-range fetches
+- [x] :  Issue parallel requests and use byte-range fetches
 
-- [ ] Use Amazon S3 Transfer acceleration
+- [ ] :  Use Amazon S3 Transfer acceleration
 
-- [ ] Use Amazon CloudFront to cache the content
+- [ ] :  Use Amazon CloudFront to cache the content
 
-- [ ] Use AWS Global Accelerator
+- [ ] :  Use AWS Global Accelerator
 
+----
+
+- #amazon_s3_transfer_acceleration #amazon_s3 #throughput_use_cases #aws #amazon_ec2
 - hasExplain:: [[explanation_Question  28.md]]
-
-# amazon_s3_transfer_acceleration #aws_global_accelerator #amazon_s3 #throughput_use_cases #amazon_cloudfront

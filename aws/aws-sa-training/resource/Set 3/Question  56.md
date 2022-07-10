@@ -6,12 +6,15 @@ The application will make API calls to back-end services and save the session st
 
 **Which combination of services would provide a solution that is cost-effective while delivering the least latency?**
 
-- [x] Amazon CloudFront, API Gateway, Amazon S3, AWS Lambda, DynamoDB
+- [x] :  Amazon CloudFront, API Gateway, Amazon S3, AWS Lambda, DynamoDB
 
-- [ ] Amazon CloudFront, API Gateway, Amazon S3, AWS Lambda, Amazon RDS
+- [ ] :  Amazon CloudFront, API Gateway, Amazon S3, AWS Lambda, Amazon RDS
 
-- [ ] Amazon S3, API Gateway, AWS Lambda, Amazon RDS
+- [ ] :  Amazon S3, API Gateway, AWS Lambda, Amazon RDS
 
-- [ ] API Gateway, Amazon S3, AWS Lambda, DynamoDB
+- [ ] :  API Gateway, Amazon S3, AWS Lambda, DynamoDB
 
+----
+
+- #amazon_cloudfront #dynamodb #aws_lambda #amazon_rds #amazon_s3
 - hasExplain:: [[explanation_Question  56.md]]

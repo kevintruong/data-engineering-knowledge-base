@@ -6,12 +6,15 @@ constant writes to a single table on the database. Which Amazon EBS volume type 
 
 performance and low latency?**
 
-- [ ] General Purpose SSD (gp2)
+- [ ] :  General Purpose SSD (gp2)
 
-- [x] Provisioned IOPS SSD (io1)
+- [x] :  Provisioned IOPS SSD (io1)
 
-- [ ] Throughput Optimized HDD (st1)
+- [ ] :  Throughput Optimized HDD (st1)
 
-- [ ] Cold HDD (sc1)
+- [ ] :  Cold HDD (sc1)
 
+----
+
+- #amazon_ebs_volume_type #throughput_optimized_hdd #general_purpose_ssd #amazon_ec2_instance #provisioned_iops_ssd
 - hasExplain:: [[explanation_Question  9.md]]

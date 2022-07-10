@@ -6,12 +6,15 @@ Organization. The accounts also need to be moved into an OU and have VPCs and su
 
 **What is the best way to achieve this?**
 
-- [ ] Use the AWS Organizations API
+- [ ] :  Use the AWS Organizations API
 
-- [x] Use CloudFormation with scripts
+- [x] :  Use CloudFormation with scripts
 
-- [ ] Use the AWS Management Console
+- [ ] :  Use the AWS Management Console
 
-- [ ] Use the AWS CLI
+- [ ] :  Use the AWS CLI
 
+----
+
+- #aws_organizations_api #aws_management_console #aws_cli #many_member_accounts #aws
 - hasExplain:: [[explanation_Question  25.md]]

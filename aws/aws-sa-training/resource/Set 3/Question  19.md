@@ -8,20 +8,23 @@ availability and durability.**
 
 **Which scalable solutions should the solutions architect recommend?**
 
-- [x] Store the files on Amazon S3 with a lifecycle policy that moves objects older than 2 years to S3 Standard Infrequent
+- [x] :  Store the files on Amazon S3 with a lifecycle policy that moves objects older than 2 years to S3 Standard Infrequent
 
 Access (S3 Standard-IA)
 
-- [ ] Store the files on Amazon Elastic File System (EFS) with a lifecycle policy that moves objects older than 2 years to
+- [ ] :  Store the files on Amazon Elastic File System (EFS) with a lifecycle policy that moves objects older than 2 years to
 
 EFS Infrequent Access (EFS IA)
 
-- [ ] Store the files in Amazon Elastic Block Store (EBS) volumes. Schedule snapshots of the volumes. Use the snapshots to
+- [ ] :  Store the files in Amazon Elastic Block Store (EBS) volumes. Schedule snapshots of the volumes. Use the snapshots to
 
 archive data older than 2 years
 
-- [ ] Store the files in Amazon Elastic Block Store (EBS) volumes. Create a lifecycle policy to move files older than 2
+- [ ] :  Store the files in Amazon Elastic Block Store (EBS) volumes. Create a lifecycle policy to move files older than 2
 
 years to Amazon S3 Glacier
 
+----
+
+- #amazon_elastic_file_system #amazon_s3_glacier #amazon_s3 #amazon_elastic_block_store #s3_standard_infrequent
 - hasExplain:: [[explanation_Question  19.md]]

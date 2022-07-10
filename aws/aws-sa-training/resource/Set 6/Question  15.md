@@ -8,12 +8,15 @@ caching layer.**
 
 **Which service should the Solutions Architect recommend?**
 
-- [x] Amazon ElastiCache Redis
+- [x] :  Amazon ElastiCache Redis
 
-- [ ] Amazon RDS Multi-AZ
+- [ ] :  Amazon RDS Multi-AZ
 
-- [ ] Amazon ElastiCache Memcached
+- [ ] :  Amazon ElastiCache Memcached
 
-- [ ] Amazon DynamoDB
+- [ ] :  Amazon DynamoDB
 
+----
+
+- #amazon_dynamodb #aws #amazon_elasticache_redis #amazon_elasticache_memcached #amazon_rds_multi_-_az
 - hasExplain:: [[explanation_Question  15.md]]

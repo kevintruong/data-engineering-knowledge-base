@@ -8,16 +8,17 @@ through the ELB.**
 
 **How can you configure this solution?**
 
-- [ ] Create an Origin Access Identity (OAI) and associate it with the distribution
+- [ ] :  Create an Origin Access Identity (OAI) and associate it with the distribution
 
-- [ ] Use signed URLs or signed cookies to limit access to the content
+- [ ] :  Use signed URLs or signed cookies to limit access to the content
 
-- [ ] Use a Network ACL to restrict access to the ELB
+- [ ] :  Use a Network ACL to restrict access to the ELB
 
-- [x] Create a VPC Security Group for the ELB and use AWS Lambda to automatically update the CloudFront internal service IP
+- [x] :  Create a VPC Security Group for the ELB and use AWS Lambda to automatically update the CloudFront internal service IP
 
 addresses when they change
 
-- hasExplain:: [[explanation_Question  26.md]]
+----
 
-# cloudfront #aws_lambda #elastic_load_balancer #amazon_ec2 #elb
+- #cloudfront #aws_lambda #elastic_load_balancer #amazon_ec2 #elb
+- hasExplain:: [[explanation_Question  26.md]]

@@ -8,14 +8,15 @@ operational reasons, it will be necessary to access the operating system of the 
 
 **Which solution delivery option should the Architect select?**
 
-- [x] ECS with the EC2 launch type
+- [x] :  ECS with the EC2 launch type
 
-- [ ] EKS with Kubernetes managed infrastructure
+- [ ] :  EKS with Kubernetes managed infrastructure
 
-- [ ] ECS with the Fargate launch type
+- [ ] :  ECS with the Fargate launch type
 
-- [ ] ECS with a default cluster
+- [ ] :  ECS with a default cluster
 
-*
+*----
 
+- #docker_containers #aws #kubernetes #micro_-_services_architecture #ec2_launch_type
 - hasExplain:: [[explanation_Question  42.md]]

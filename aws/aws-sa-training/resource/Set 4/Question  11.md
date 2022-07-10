@@ -8,14 +8,17 @@ not be stored in the function code.**
 
 **How can the Solutions Architect securely store the database credentials and make them available to the function?**
 
-- [ ] Store the credentials in AWS Key Management Service and use environment variables in the function code pointing to
+- [ ] :  Store the credentials in AWS Key Management Service and use environment variables in the function code pointing to
 
 KMS
 
-- [x] Store the credentials in Systems Manager Parameter Store and update the function code and execution role
+- [x] :  Store the credentials in Systems Manager Parameter Store and update the function code and execution role
 
-- [ ] Use the AWSAuthenticationPlugin and associate an IAM user account in the MySQL database
+- [ ] :  Use the AWSAuthenticationPlugin and associate an IAM user account in the MySQL database
 
-- [ ] Create an IAM policy and store the credentials in the policy. Attach the policy to the Lambda function execution role
+- [ ] :  Create an IAM policy and store the credentials in the policy. Attach the policy to the Lambda function execution role
 
+----
+
+- #aws_key_management_service #aws_lambda #amazon_rds_aurora_mysql #database_credentials #lambda_function_execution_role
 - hasExplain:: [[explanation_Question  11.md]]

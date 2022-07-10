@@ -8,16 +8,17 @@ Internet facing ELB distributes connections between the web servers.**
 
 ELB. What rules should be added? (Select TWO)**
 
-- [x] Add an Outbound rule that allows HTTP/HTTPS, and specify the destination as the web server security group
+- [x] :  Add an Outbound rule that allows HTTP/HTTPS, and specify the destination as the web server security group
 
-- [ ] Add an Outbound rule that allows ALL TCP, and specify the destination as the Internet Gateway
+- [ ] :  Add an Outbound rule that allows ALL TCP, and specify the destination as the Internet Gateway
 
-- [ ] Add an Outbound rule that allows HTTP/HTTPS, and specify the destination as VPC CIDR
+- [ ] :  Add an Outbound rule that allows HTTP/HTTPS, and specify the destination as VPC CIDR
 
-- [x] Add an Inbound rule that allows HTTP/HTTPS, and specify the source as 0.0.0.0/0
+- [x] :  Add an Inbound rule that allows HTTP/HTTPS, and specify the source as 0.0.0.0/0
 
-- [ ] Add an Inbound rule that allows HTTP/HTTPS, and specify the source as 0.0.0.0/32
+- [ ] :  Add an Inbound rule that allows HTTP/HTTPS, and specify the source as 0.0.0.0/32
 
-*
+*----
 
+- #ec2_web_servers #dynamodb_database_backend #web_server_security_group #elb #security_group
 - hasExplain:: [[explanation_Question  39.md]]

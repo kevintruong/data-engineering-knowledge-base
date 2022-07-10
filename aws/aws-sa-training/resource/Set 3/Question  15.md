@@ -8,14 +8,15 @@ database that supports data replication.**
 
 **Which database should a solutions architect recommend?**
 
-- [ ] Amazon RDS for MySQL
+- [ ] :  Amazon RDS for MySQL
 
-- [ ] Amazon RDS for PostgreSQL
+- [ ] :  Amazon RDS for PostgreSQL
 
-- [x] Amazon ElastiCache for Redis
+- [x] :  Amazon ElastiCache for Redis
 
-- [ ] Amazon ElastiCache for Memcached
+- [ ] :  Amazon ElastiCache for Memcached
 
+----
+
+- #data_replication #amazon_rds #aws #amazon_elasticache #database
 - hasExplain:: [[explanation_Question  15.md]]
-
-# amazon_rds #aws #amazon_elasticache #data_replication #database

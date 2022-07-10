@@ -4,16 +4,17 @@
 
 in an Amazon VPC using the Internet. Which of the following items are required to enable this access? (Select TWO)**
 
-- [ ] A bastion host
+- [ ] :  A bastion host
 
-- [ ] A NAT Gateway
+- [ ] :  A NAT Gateway
 
-- [x] A Public or Elastic IP address on the EC2 instance
+- [x] :  A Public or Elastic IP address on the EC2 instance
 
-- [x] An Internet Gateway attached to the VPC and route table attached to the public subnet pointing to it
+- [x] :  An Internet Gateway attached to the VPC and route table attached to the public subnet pointing to it
 
-- [ ] An IPSec VPN
+- [ ] :  An IPSec VPN
 
-*
+*----
 
+- #amazon_vpc #ec2_instance #ipsec_vpn #vpc #nat_gateway
 - hasExplain:: [[explanation_Question  27.md]]

@@ -6,14 +6,15 @@ suggests that the performance of the disk should be up to 3 IOPS per GB. The cap
 
 **Taking into account cost effectiveness, which EBS volume type should be used?**
 
-- [ ] Throughput Optimized HDD (ST1)
+- [ ] :  Throughput Optimized HDD (ST1)
 
-- [x] General Purpose (GP2)
+- [x] :  General Purpose (GP2)
 
-- [ ] Provisioned IOPS (Io1)
+- [ ] :  Provisioned IOPS (Io1)
 
-- [ ] Cold HDD (SC1)
+- [ ] :  Cold HDD (SC1)
 
-*
+*----
 
+- #ebs_volume_type #ebs_volume #throughput_optimized_hdd #amazon_ec2 #cold_hdd
 - hasExplain:: [[explanation_Question  53.md]]

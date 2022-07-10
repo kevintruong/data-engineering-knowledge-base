@@ -8,14 +8,15 @@ concurrent access to all files.**
 
 **Which storage service meets these requirements and is the MOST cost-effective?**
 
-- [ ] Amazon EBS
+- [ ] :  Amazon EBS
 
-- [ ] Amazon EFS
+- [ ] :  Amazon EFS
 
-- [ ] Amazon EC2 instance store
+- [ ] :  Amazon EC2 instance store
 
-- [x] Amazon S3
+- [x] :  Amazon S3
 
+----
+
+- #storage_service #storage_solution #amazon_efs #amazon_s3 #amazon_ec2_linux
 - hasExplain:: [[explanation_Question  4.md]]
-
-# storage_service #storage_solution #amazon_efs #amazon_ec2_instance_store #amazon_s3

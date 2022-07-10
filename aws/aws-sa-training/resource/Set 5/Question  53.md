@@ -6,14 +6,15 @@ of gigabytes in size and sometimes the uploads are slower than desired. What met
 
 and reduce upload times?**
 
-- [ ] Turn off versioning on the destination bucket
+- [ ] :  Turn off versioning on the destination bucket
 
-- [ ] Randomize the object names when uploading
+- [ ] :  Randomize the object names when uploading
 
-- [x] Use Amazon S3 multipart upload
+- [x] :  Use Amazon S3 multipart upload
 
-- [ ] Upload the files using the S3 Copy SDK or REST API
+- [ ] :  Upload the files using the S3 Copy SDK or REST API
 
-*
+*----
 
+- #amazon_s3_multipart_upload #amazon_s3_bucket #upload_times #uploads #s3_copy_sdk
 - hasExplain:: [[explanation_Question  53.md]]

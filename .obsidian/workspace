@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cebdabbb6f3b6f6",
+        "id": "f50f916298759bca",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "aws/aws-sa-training/resource/Set 1/Question  1.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#amazon_efs_filesystem",
+                "query": "tag:#vpc_endpoint_service",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,13 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 460,
-    "collapsed": true
+    "width": 460
   },
   "right": {
     "id": "f2829be25feaab28",
@@ -71,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/aws-sa-training/resource/Set 1/Question  1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,17 +225,17 @@
     "direction": "horizontal",
     "width": 664
   },
-  "active": "2cebdabbb6f3b6f6",
+  "active": "f50f916298759bca",
   "lastOpenFiles": [
-    "aws/aws-sa-training/resource/Set 1/Question  1.md",
-    "aws/aws-sa-training/resource/Set 1/explanation_Question  13.md",
-    "aws/aws-sa-training/resource/Set 1/explanation_Question  2.md",
-    "aws/aws-sa-training/resource/Set 6/Question  23.md",
-    "aws/aws-sa-training/resource/Set 6/Question  40.md",
-    "aws/aws-sa-training/resource/Set 1/explanation_Question  7.md",
-    "aws/aws-sa-training/resource/Set 2/Question  50.md",
-    "aws/aws-sa-training/resource/Set 5/Question  56.md",
-    "aws/aws-sa-training/resource/Set 5/Question  1.md",
-    "aws/aws-sa-training/resource/Set 4/Question  48.md"
+    "aws/aws-sa-training/resource/CSAA_Training_Note/COMPUTE/Amazon EC2.md",
+    "aws/aws-sa-training/resource/CSAA_Training_Note/COMPUTE/Amazon EBS.md",
+    "aws/aws-sa-training/resource/CSAA_Training_Note/COMPUTE/Amazon ECS.md",
+    "aws/aws-sa-training/resource/CSAA_Training_Note/COMPUTE/AWS Auto Scaling.md",
+    "aws/aws-sa-training/resource/CSAA_Training_Note/COMPUTE/Elastic Load Balancing.md",
+    "aws/aws-sa-training/resource/CSAA_Training_Note/COMPUTE/Compute Quiz Questions.md",
+    "aws/aws-sa-training/resource/CSAA_Training_Note/COMPUTE/AWS Lambda.md",
+    "aws/aws-sa-training/resource/CSAA_Training_Note/COMPUTE/AWS Elastic Beanstalk.md",
+    "aws/aws-sa-training/resource/CSAA_Training_Note/COMPUTE/Amazon EC2/AMAZON MACHINE IMAGES.md",
+    "aws/aws-sa-training/resource/CSAA_Training_Note/AWS SECURITY, IDENTITY & COMPLIANCE.md"
   ]
 }

@@ -10,14 +10,15 @@ the URL.**
 
 **Which AWS service should the Solutions Architect choose to fulfil these requirements?**
 
-- [ ] An Amazon ECS Service
+- [ ] :  An Amazon ECS Service
 
-- [x] Application Load Balancer
+- [x] :  Application Load Balancer
 
-- [ ] Network Load Balancer
+- [ ] :  Network Load Balancer
 
-- [ ] Classic Load Balancer
+- [ ] :  Classic Load Balancer
 
-*
+*----
 
+- #new_amazon_elastic_container_service #aws_service #ecs_instances #amazon_ecs_service #load_balancing
 - hasExplain:: [[explanation_Question  26.md]]

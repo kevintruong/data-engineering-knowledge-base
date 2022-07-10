@@ -8,16 +8,17 @@ is highly dynamic with times of little activity and then multiple uploads within
 
 **What architecture will address this workload the most cost efficiently?**
 
-- [ ] Use a Kinesis data stream to store the file, and use Lambda for processing
+- [ ] :  Use a Kinesis data stream to store the file, and use Lambda for processing
 
-- [ ] Store the file in an EBS volume which can then be accessed by another EC2 instance for processing
+- [ ] :  Store the file in an EBS volume which can then be accessed by another EC2 instance for processing
 
-- [x] Upload files into an S3 bucket, and use the Amazon S3 event notification to invoke a Lambda function to extract the
+- [x] :  Upload files into an S3 bucket, and use the Amazon S3 event notification to invoke a Lambda function to extract the
 
 metadata
 
-- [ ] Place the files in an SQS queue, and use a fleet of EC2 instances to extract the metadata
+- [ ] :  Place the files in an SQS queue, and use a fleet of EC2 instances to extract the metadata
 
+----
+
+- #s3_bucket #ec2_instances #workload #ec2_instance #multiple_uploads
 - hasExplain:: [[explanation_Question  63.md]]
-
-# s3_bucket #ec2_instances #workload #metadata #ec2_instance

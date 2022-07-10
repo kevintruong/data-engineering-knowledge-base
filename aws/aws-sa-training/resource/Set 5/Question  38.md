@@ -10,14 +10,15 @@ content.**
 
 **Which of the following is the best solution?**
 
-- [x] Use the AWS Storage Gateway File Gateway
+- [x] :  Use the AWS Storage Gateway File Gateway
 
-- [ ] Use the AWS Storage Gateway Volume Gateway in cached volume mode
+- [ ] :  Use the AWS Storage Gateway Volume Gateway in cached volume mode
 
-- [ ] Create a script that migrates infrequently used data to S3 using multi-part upload
+- [ ] :  Create a script that migrates infrequently used data to S3 using multi-part upload
 
-- [ ] Establish a VPN and use the Elastic File System (EFS)
+- [ ] :  Establish a VPN and use the Elastic File System (EFS)
 
-*
+*----
 
+- #aws_storage_gateway_file_gateway #aws_storage_gateway_volume_gateway #elastic_file_system #storage_infrastructure #cloud
 - hasExplain:: [[explanation_Question  38.md]]

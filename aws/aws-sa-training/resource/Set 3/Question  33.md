@@ -8,12 +8,15 @@ the DB size is around 500 GB. The database is infrequently used with small amoun
 
 **What is the MOST cost-effective storage type?**
 
-- [ ] Amazon EBS Provisioned IOPS SSD
+- [ ] :  Amazon EBS Provisioned IOPS SSD
 
-- [ ] Amazon EFS
+- [ ] :  Amazon EFS
 
-- [x] Amazon EBS Throughput Optimized HDD
+- [x] :  Amazon EBS Throughput Optimized HDD
 
-- [ ] Amazon EBS General Purpose SSD
+- [ ] :  Amazon EBS General Purpose SSD
 
+----
+
+- #amazon_ebs_general_purpose_ssd #amazon_ebs_throughput #effective_storage_type #amazon_efs #iops_ssd
 - hasExplain:: [[explanation_Question  33.md]]

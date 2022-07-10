@@ -6,18 +6,19 @@ transformation should be triggered by an event. The transformed data should then
 
 **What services would be used to deliver this solution in the MOST cost-effective manner? (Select TWO)**
 
-- [ ] Configure a CloudWatch alarm to send a notification to CloudFormation when data is uploaded
+- [ ] :  Configure a CloudWatch alarm to send a notification to CloudFormation when data is uploaded
 
-- [x] Configure S3 event notifications to trigger a Lambda function when data is uploaded and use the Lambda function to
+- [x] :  Configure S3 event notifications to trigger a Lambda function when data is uploaded and use the Lambda function to
 
 trigger the ETL job
 
-- [ ] Configure CloudFormation to provision a Kinesis data stream to transform the data and load it into S3
+- [ ] :  Configure CloudFormation to provision a Kinesis data stream to transform the data and load it into S3
 
-- [x] Use AWS Glue to extract, transform and load the data into the target data store
+- [x] :  Use AWS Glue to extract, transform and load the data into the target data store
 
-- [ ] Configure CloudFormation to provision AWS Data Pipeline to transform the data
+- [ ] :  Configure CloudFormation to provision AWS Data Pipeline to transform the data
 
+----
+
+- #cloudformation #aws_data_pipeline #s3 #configure_s3_event_notifications #configure_cloudformation
 - hasExplain:: [[explanation_Question  48.md]]
-
-# aws_data_pipeline #cloudformation #s3 #kinesis_data_stream #configure_cloudformation

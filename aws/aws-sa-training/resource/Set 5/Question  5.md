@@ -6,12 +6,15 @@ about the security of sensitive data as it is replicated between nodes. How can 
 
 sensitive data?**
 
-- [ ] Issue a Redis AUTH command
+- [ ] :  Issue a Redis AUTH command
 
-- [x] Enable in-transit encryption
+- [x] :  Enable in-transit encryption
 
-- [ ] Enable at-rest encryption
+- [ ] :  Enable at-rest encryption
 
-- [ ] Set up MFA and API logging
+- [ ] :  Set up MFA and API logging
 
+----
+
+- #amazon_elasticache #redis_cluster #rest_encryption #redis #sensitive_data
 - hasExplain:: [[explanation_Question  5.md]]

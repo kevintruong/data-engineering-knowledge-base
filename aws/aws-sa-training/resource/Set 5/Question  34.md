@@ -6,18 +6,19 @@ two methods are available for accessing and querying the properties of an EC2 in
 
 and network interfaces? (Select TWO)**
 
-- [ ] Use the EC2 Config service
+- [ ] :  Use the EC2 Config service
 
-- [x] Run the command “curl [http://169.254.169.254/latest/meta-data/”](http://169.254.169.254/latest/meta-data/”)
+- [x] :  Run the command “curl [http://169.254.169.254/latest/meta-data/”](http://169.254.169.254/latest/meta-data/”)
 
-- [x] Download and run the Instance Metadata Query Tool
+- [x] :  Download and run the Instance Metadata Query Tool
 
-- [ ] Run the command
+- [ ] :  Run the command
 
 “curl [http://169.254.169.254/latest/dynamic/instance-identity/”](http://169.254.169.254/latest/dynamic/instance-identity/”)
 
-- [ ] Use the Batch command
+- [ ] :  Use the Batch command
 
-*
+*----
 
+- #instance_metadata_query_tool #ec2_instances #ec2_instance #ec2_config_service #instance_id
 - hasExplain:: [[explanation_Question  34.md]]

@@ -4,14 +4,15 @@
 
 service can assist with coordinating tasks across distributed application components?**
 
-- [ ] AWS STS
+- [ ] :  AWS STS
 
-- [ ] Amazon SQS
+- [ ] :  Amazon SQS
 
-- [x] Amazon SWF
+- [x] :  Amazon SWF
 
-- [ ] Amazon SNS
+- [ ] :  Amazon SNS
 
-*
+*----
 
+- #business_process_workflows #aws #solutions_architect #aws_sts #amazon_sns
 - hasExplain:: [[explanation_Question  63.md]]

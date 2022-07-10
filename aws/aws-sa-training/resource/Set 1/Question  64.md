@@ -10,14 +10,15 @@ experience.**
 
 user?**
 
-- [x] Amazon Kinesis Data Streams
+- [x] :  Amazon Kinesis Data Streams
 
-- [ ] Amazon SQS FIFO queue
+- [ ] :  Amazon SQS FIFO queue
 
-- [ ] AWS CloudTrail trail
+- [ ] :  AWS CloudTrail trail
 
-- [ ] Amazon SQS standard queue
+- [ ] :  Amazon SQS standard queue
 
+----
+
+- #amazon_kinesis_data_streams #amazon_sqs_fifo_queue #page_clicks #navigation_patterns #aws_cloudtrail_trail
 - hasExplain:: [[explanation_Question  64.md]]
-
-# amazon_kinesis_data_streams #amazon_sqs_fifo_queue #page_clicks #navigation_patterns #aws_cloudtrail_trail

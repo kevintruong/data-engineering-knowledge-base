@@ -6,12 +6,15 @@ then written to another S3 bucket. Less than 256 MB of memory is needed to run t
 
 cost-effective compute solutions for this use case?**
 
-- [ ] AWS Fargate tasks
+- [ ] :  AWS Fargate tasks
 
-- [x] AWS Lambda functions
+- [x] :  AWS Lambda functions
 
-- [ ] Amazon EC2 spot instances
+- [ ] :  Amazon EC2 spot instances
 
-- [ ] Amazon Elastic Beanstalk
+- [ ] :  Amazon Elastic Beanstalk
 
+----
+
+- #aws_fargate_tasks #amazon_s3_bucket #s3_bucket #aws_lambda_functions #effective_compute_solutions
 - hasExplain:: [[explanation_Question  3.md]]

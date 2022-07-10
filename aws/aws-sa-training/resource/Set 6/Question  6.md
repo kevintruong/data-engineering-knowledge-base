@@ -8,12 +8,15 @@ instance.**
 
 **What is the LEAST expensive EBS volume type for this use case?**
 
-- [x] Cold HDD (sc1)
+- [x] :  Cold HDD (sc1)
 
-- [ ] Provisioned IOPS SSD (io1)
+- [ ] :  Provisioned IOPS SSD (io1)
 
-- [ ] General Purpose SSD (gp2)
+- [ ] :  General Purpose SSD (gp2)
 
-- [ ] Throughput Optimized HDD (st1)
+- [ ] :  Throughput Optimized HDD (st1)
 
+----
+
+- #expensive_ebs_volume_type #throughput_optimized_hdd #amazon_ec2 #aws #general_purpose_ssd
 - hasExplain:: [[explanation_Question  6.md]]

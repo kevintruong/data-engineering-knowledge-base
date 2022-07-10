@@ -10,15 +10,15 @@ traffic across both your AWS and on-premises resources.**
 
 **How can this be achieved?**
 
-- [x] Provision a Direct Connect connection between your on-premises location and AWS and create a target group on an ALB
+- [x] :  Provision a Direct Connect connection between your on-premises location and AWS and create a target group on an ALB
 
 to use IP based targets for both your EC2 instances and on-premises servers
 
-- [x] Provision a Direct Connect connection between your on-premises location and AWS and create a target group on an ALB
+- [ ] :  Provision a Direct Connect connection between your on-premises location and AWS and create a target group on an ALB
 
 to use Instance ID based targets for both your EC2 instances and on-premises servers
 
-- [ ] Provision an IPSec VPN connection between your on-premises location and AWS and create a CLB that uses cross-zone
+- [ ] :  Provision an IPSec VPN connection between your on-premises location and AWS and create a CLB that uses cross-zone
 
 load balancing to distributed traffic across EC2 instances and on-premises servers
 
@@ -62,8 +62,9 @@ Origin Access Identity (OAI)
 
 ```
 
-- [ ] This cannot be done, ELBs are an AWS service and can only distribute traffic within the AWS cloud
+- [ ] :  This cannot be done, ELBs are an AWS service and can only distribute traffic within the AWS cloud
 
+----
+
+- #aws_cloud #aws_service #elastic_load_balancer #aws #ec2_instances
 - hasExplain:: [[explanation_Question  62.md]]
-
-# aws_cloud #aws_service #aws #elastic_load_balancer #ec2_instances

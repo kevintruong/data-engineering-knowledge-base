@@ -6,14 +6,15 @@ requires heavy read/write IOPS. A single volume is required that is 500 GiB in s
 
 **What EBS volume type should be selected?**
 
-- [ ] EBS General Purpose SSD
+- [ ] :  EBS General Purpose SSD
 
-- [x] EBS Provisioned IOPS SSD
+- [x] :  EBS Provisioned IOPS SSD
 
-- [ ] EBS General Purpose SSD in a RAID 1 configuration
+- [ ] :  EBS General Purpose SSD in a RAID 1 configuration
 
-- [ ] EBS Throughput Optimized HDD
+- [ ] :  EBS Throughput Optimized HDD
 
-*
+*----
 
+- #ebs_general_purpose_ssd #ebs_volume_type #ebs_throughput #amazon_ec2_instance #iops_ssd
 - hasExplain:: [[explanation_Question  19.md]]

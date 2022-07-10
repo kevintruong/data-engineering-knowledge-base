@@ -8,28 +8,29 @@ solutions architect must ensure that the application is loosely coupled and the 
 
 **Which design should the solutions architect use?**
 
-- [ ] Create an Amazon SNS topic to send the jobs that need to be processed. Create an Amazon EC2 Auto Scaling group for
+- [ ] :  Create an Amazon SNS topic to send the jobs that need to be processed. Create an Amazon EC2 Auto Scaling group for
 
 the compute application. Set the scaling policy for the Auto Scaling group to add and remove nodes based on CPU usage
 
-- [ ] Create an Amazon SQS queue to hold the jobs that need to be processed. Create an Amazon EC2 Auto Scaling group for
+- [ ] :  Create an Amazon SQS queue to hold the jobs that need to be processed. Create an Amazon EC2 Auto Scaling group for
 
 the compute application. Set the scaling policy for the Auto Scaling group to add and remove nodes based on network
 
 usage
 
-- [x] Create an Amazon SQS queue to hold the jobs that needs to be processed. Create an Amazon EC2 Auto Scaling group for
+- [x] :  Create an Amazon SQS queue to hold the jobs that needs to be processed. Create an Amazon EC2 Auto Scaling group for
 
 the compute application. Set the scaling policy for the Auto Scaling group to add and remove nodes based on the number
 
 of items in the SQS queue
 
-- [ ] Create an Amazon SNS topic to send the jobs that need to be processed. Create an Amazon EC2 Auto Scaling group for
+- [ ] :  Create an Amazon SNS topic to send the jobs that need to be processed. Create an Amazon EC2 Auto Scaling group for
 
 the compute application. Set the scaling policy for the Auto Scaling group to add and remove nodes based on the number
 
 of messages published to the SNS topic
 
-- hasExplain:: [[explanation_Question  13.md]]
+----
 
-# amazon_ec2_auto_scaling_group #ec2_instances #amazon_sqs_queue #aws #compute_application
+- #amazon_ec2_auto_scaling_group #ec2_instances #amazon_sqs_queue #aws #amazon_sns_topic
+- hasExplain:: [[explanation_Question  13.md]]

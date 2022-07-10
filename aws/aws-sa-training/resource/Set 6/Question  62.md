@@ -8,14 +8,15 @@ provisioning and management of the underlying resources it will run on.**
 
 **Which AWS service should a Solutions Architect recommend the Developers use to upload the Java source code file?**
 
-- [x] AWS Elastic Beanstalk
+- [x] :  AWS Elastic Beanstalk
 
-- [ ] AWS CodeDeploy
+- [ ] :  AWS CodeDeploy
 
-- [ ] AWS CloudFormation
+- [ ] :  AWS CloudFormation
 
-- [ ] AWS OpsWorks
+- [ ] :  AWS OpsWorks
 
-*
+*----
 
+- #aws_resources #aws_service #aws_codedeploy #aws_opsworks #aws_cloudformation
 - hasExplain:: [[explanation_Question  62.md]]

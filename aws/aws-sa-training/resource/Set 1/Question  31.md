@@ -4,14 +4,15 @@
 
 only specific Amazon EC2 instance types. How can this policy be applied across the accounts with the least effort?**
 
-- [ ] Create an SCP with an allow rule that allows launching the specific instance types
+- [ ] :  Create an SCP with an allow rule that allows launching the specific instance types
 
-- [x] Create an SCP with a deny rule that denies all but the specific instance types
+- [x] :  Create an SCP with a deny rule that denies all but the specific instance types
 
-- [ ] Create an IAM policy to deny launching all but the specific instance types
+- [ ] :  Create an IAM policy to deny launching all but the specific instance types
 
-- [ ] Use AWS Resource Access Manager to control which launch types can be used
+- [ ] :  Use AWS Resource Access Manager to control which launch types can be used
 
+----
+
+- #specific_amazon_ec2_instance_types #specific_instance_types #aws_organization #aws_resource_access_manager #iam_policy
 - hasExplain:: [[explanation_Question  31.md]]
-
-# specific_amazon_ec2_instance_types #specific_instance_types #aws_organization #aws_resource_access_manager #iam_policy

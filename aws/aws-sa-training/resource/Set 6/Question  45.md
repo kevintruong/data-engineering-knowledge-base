@@ -6,14 +6,15 @@ Amazon DynamoDB table. Shortly after picking up a message from the queue AWS ter
 
 instance had not finished processing the message. What will happen to the message?**
 
-- [x] The message will become available for processing again after the visibility timeout expires
+- [x] :  The message will become available for processing again after the visibility timeout expires
 
-- [ ] The message will be lost as it would have been deleted from the queue when processed
+- [ ] :  The message will be lost as it would have been deleted from the queue when processed
 
-- [ ] The message will remain in the queue and be immediately picked up by another instance
+- [ ] :  The message will remain in the queue and be immediately picked up by another instance
 
-- [ ] The results may be duplicated in DynamoDB as the message will likely be processed multiple times
+- [ ] :  The results may be duplicated in DynamoDB as the message will likely be processed multiple times
 
-*
+*----
 
+- #queue_aws #several_amazon_ec2_spot_instances #amazon_sqs_queue #amazon_dynamodb_table #spot_instance
 - hasExplain:: [[explanation_Question  45.md]]

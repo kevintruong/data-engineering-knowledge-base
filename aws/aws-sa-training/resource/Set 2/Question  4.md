@@ -8,24 +8,25 @@ if the website becomes unavailable.**
 
 **Which configuration should a solutions architect use to meet these requirements with the LEAST operational overhead?**
 
-- [x] Create a Route 53 alias record for an Amazon CloudFront distribution and specify the ALB as the origin. Create custom
+- [x] :  Create a Route 53 alias record for an Amazon CloudFront distribution and specify the ALB as the origin. Create custom
 
 error pages for the distribution
 
-- [ ] Create a Route 53 active-passive failover configuration. Create a static website using an Amazon S3 bucket that hosts
+- [ ] :  Create a Route 53 active-passive failover configuration. Create a static website using an Amazon S3 bucket that hosts
 
 a static error page. Configure the static website as the passive record for failover
 
-- [ ] Create a Route 53 weighted routing policy. Create a static website using an Amazon S3 bucket that hosts a static
+- [ ] :  Create a Route 53 weighted routing policy. Create a static website using an Amazon S3 bucket that hosts a static
 
 error page. Configure the record for the S3 static website with a weighting of zero. When an issue occurs increase the
 
 weighting
 
-- [ ] Set up a Route 53 active-active configuration with the ALB and an Amazon EC2 instance hosting a static error page as
+- [ ] :  Set up a Route 53 active-active configuration with the ALB and an Amazon EC2 instance hosting a static error page as
 
 endpoints. Route 53 will only send requests to the instance if the health checks fail for the ALB
 
-- hasExplain:: [[explanation_Question  4.md]]
+----
 
-# amazon_route #amazon_cloudfront_distribution #application_load_balancer #failover #passive_failover_configuration
+- #amazon_cloudfront_distribution #amazon_route #failover #application_load_balancer #passive_failover_configuration
+- hasExplain:: [[explanation_Question  4.md]]

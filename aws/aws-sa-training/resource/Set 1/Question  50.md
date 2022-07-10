@@ -8,14 +8,15 @@ whitelist of source IP addresses and only 2 IP addresses can be configured per c
 
 **What is the most appropriate and cost-effective solution to enable authentication to the SaaS application?**
 
-- [ ] Use a Network Load Balancer and configure a static IP for each AZ
+- [ ] :  Use a Network Load Balancer and configure a static IP for each AZ
 
-- [ ] Use multiple Internet-facing Application Load Balancers with Elastic IP addresses
+- [ ] :  Use multiple Internet-facing Application Load Balancers with Elastic IP addresses
 
-- [ ] Configure redundant Internet Gateways and update the routing tables for each subnet
+- [ ] :  Configure redundant Internet Gateways and update the routing tables for each subnet
 
-- [x] Configure a NAT Gateway for each AZ with an Elastic IP address
+- [x] :  Configure a NAT Gateway for each AZ with an Elastic IP address
 
+----
+
+- #saas_application #crm_saas_application #application_load_balancers #elastic_ip_addresses #network_load_balancer
 - hasExplain:: [[explanation_Question  50.md]]
-
-# saas_application #crm_saas_application #application_load_balancers #elastic_ip_addresses #elastic_ip_address

@@ -8,22 +8,23 @@ private subnet. Security is a high priority for the company.**
 
 **How should security groups be configured in this situation? (Select TWO)**
 
-- [x] Configure the security group for the web tier to allow inbound traffic on port 443 from 0.0.0.0/0
+- [x] :  Configure the security group for the web tier to allow inbound traffic on port 443 from 0.0.0.0/0
 
-- [ ] Configure the security group for the web tier to allow outbound traffic on port 443 from 0.0.0.0/0
+- [ ] :  Configure the security group for the web tier to allow outbound traffic on port 443 from 0.0.0.0/0
 
-- [x] Configure the security group for the database tier to allow inbound traffic on port 1433 from the security group for
+- [x] :  Configure the security group for the database tier to allow inbound traffic on port 1433 from the security group for
 
 the web tier
 
-- [ ] Configure the security group for the database tier to allow outbound traffic on ports 443 and 1433 to the security
+- [ ] :  Configure the security group for the database tier to allow outbound traffic on ports 443 and 1433 to the security
 
 group for the web tier
 
-- [ ] Configure the security group for the database tier to allow inbound traffic on ports 443 and 1433 from the security
+- [ ] :  Configure the security group for the database tier to allow inbound traffic on ports 443 and 1433 from the security
 
 group for the web tier
 
+----
+
+- #security_groups #security_group #web_tier #tier_web_application #database_tier
 - hasExplain:: [[explanation_Question  18.md]]
-
-# security_groups #security_group #web_tier #tier_web_application #database_tier

@@ -10,14 +10,15 @@ at least 24 hours notice is provided.**
 
 if required?**
 
-- [ ] Implement archival software that automatically moves the data to tape
+- [ ] :  Implement archival software that automatically moves the data to tape
 
-- [ ] Use S3 lifecycle policies to move data to the STANDARD_IA storage class
+- [ ] :  Use S3 lifecycle policies to move data to the STANDARD_IA storage class
 
-- [x] Use S3 lifecycle policies to move data to GLACIER after 90 days
+- [x] :  Use S3 lifecycle policies to move data to GLACIER after 90 days
 
-- [ ] Select the older data and manually migrate it to GLACIER
+- [ ] :  Select the older data and manually migrate it to GLACIER
 
-*
+*----
 
+- #s3_lifecycle_policies #amazon_s3 #older_data #archival_software #storage
 - hasExplain:: [[explanation_Question  35.md]]

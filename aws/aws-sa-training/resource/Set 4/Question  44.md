@@ -8,16 +8,17 @@ container instance’s IAM roles for assigning permissions to the containerized 
 
 restrictive permissions. How can this be achieved?**
 
-- [ ] This cannot be changed as IAM roles can only be linked to container instances
+- [ ] :  This cannot be changed as IAM roles can only be linked to container instances
 
-- [x] This can be achieved using IAM roles for tasks, and splitting the containers according to the permissions required to
+- [x] :  This can be achieved using IAM roles for tasks, and splitting the containers according to the permissions required to
 
 different task definition profiles
 
-- [ ] This can be achieved by configuring a resource-based policy for each application
+- [ ] :  This can be achieved by configuring a resource-based policy for each application
 
-- [ ] This can only be achieved using the Fargate launch type
+- [ ] :  This can only be achieved using the Fargate launch type
 
-*
+*----
 
+- #amazon_ecs_containers #more_granular_permissions #container_instances #iam_roles #containerized_applications
 - hasExplain:: [[explanation_Question  44.md]]

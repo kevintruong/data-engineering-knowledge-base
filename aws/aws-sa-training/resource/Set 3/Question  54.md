@@ -76,12 +76,15 @@ client
 
 ```
 
-- [ ] Amazon DynamoDB
+- [ ] :  Amazon DynamoDB
 
-- [ ] Amazon RDS
+- [ ] :  Amazon RDS
 
-- [x] Amazon RedShift
+- [x] :  Amazon RedShift
 
-- [ ] Amazon ElastiCache
+- [ ] :  Amazon ElastiCache
 
+----
+
+- #amazon_dynamodb #amazon_elasticache #amazon_elastic_file #amazon_rds #large_datasets
 - hasExplain:: [[explanation_Question  54.md]]

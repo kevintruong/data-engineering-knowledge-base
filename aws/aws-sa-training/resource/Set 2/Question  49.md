@@ -4,14 +4,15 @@
 
 keys be generated and managed on premises. Which solution should the Architect use to meet the security requirements?**
 
-- [x] SSE-C: Server-side encryption with customer-provided encryption keys
+- [x] :  SSE-C: Server-side encryption with customer-provided encryption keys
 
-- [ ] SSE-S3: Server-side encryption with Amazon-managed master key
+- [ ] :  SSE-S3: Server-side encryption with Amazon-managed master key
 
-- [ ] SSE-KMS: Server-side encryption with AWS KMS managed keys
+- [ ] :  SSE-KMS: Server-side encryption with AWS KMS managed keys
 
-- [ ] AWS CloudHSM
+- [ ] :  AWS CloudHSM
 
+----
+
+- #aws_cloudhsm #encryption_keys #encryption #side_encryption #aws_kms
 - hasExplain:: [[explanation_Question  49.md]]
-
-# encryption_keys #encryption #aws #aws_kms #side_encryption

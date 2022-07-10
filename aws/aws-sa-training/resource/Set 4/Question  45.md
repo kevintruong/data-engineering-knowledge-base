@@ -10,14 +10,15 @@ instances. The instances must be available for a short period of time until the 
 
 use for this requirement?**
 
-- [x] Use Spot instances
+- [x] :  Use Spot instances
 
-- [ ] Use dedicated hosts
+- [ ] :  Use dedicated hosts
 
-- [ ] Use On-Demand instances
+- [ ] :  Use On-Demand instances
 
-- [ ] Use Reserved instances
+- [ ] :  Use Reserved instances
 
-*
+*----
 
+- #demand_instances #ec2_instance_type #reserved_instances #instances #ec2
 - hasExplain:: [[explanation_Question  45.md]]

@@ -2,7 +2,7 @@
 import re
 
 from utils.logger.logger import app_logger
-from utils.md_utils.standard_quiz_fmt import StandardQuizFormatter
+from utils.md_utils.standard_quiz_fmt import BaseQuizFormater
 
 
 class Node:
@@ -145,7 +145,8 @@ class MarkdownTree:
                         line_scope=-1,
                         user=Node,
                         deck_tags: list = None,
-                        note_format_rule=None):
+                        note_format_rule=None,
+                        card_class=BaseQuizFormater):
         cards = []
         for index in range(0, len(node.children), 1):
             if index + 1 >= len(node.children):
@@ -168,13 +169,13 @@ class MarkdownTree:
                                                  line_scope=next_line_scope,
                                                  user=user,
                                                  deck_tags=deck_tags,
-                                                 note_format_rule=note_format_rule
-                                                 )
+                                                 note_format_rule=note_format_rule,
+                                                 card_class=card_class)
                 try:
-                    card = StandardQuizFormatter(content=card_content,
-                                                 title=title,
-                                                 childs=new_cards,
-                                                 rule=note_format_rule)
+                    card = card_class(content=card_content,
+                                      title=title,
+                                      childs=new_cards,
+                                      rule=note_format_rule)
                     cards.append(card)
                 except Exception as e:
                     raise e
@@ -182,7 +183,7 @@ class MarkdownTree:
             else:
                 card_content = "\n".join(deck_lines[current:next_]).replace("\n\n\n", "\n\n")
                 try:
-                    card = StandardQuizFormatter(content=card_content, title=title, rule=note_format_rule)
+                    card = card_class(content=card_content, title=title, rule=note_format_rule)
                     if card:
                         cards.append(card)
                 except:

@@ -10,16 +10,17 @@ sporadic increases in request rates.**
 
 **Which architecture should the solutions architect implement? (Select TWO)**
 
-- [ ] Add and AWS WAF in front of the ALB
+- [ ] :  Add and AWS WAF in front of the ALB
 
-- [x] Add Amazon Aurora Replicas
+- [x] :  Add Amazon Aurora Replicas
 
-- [ ] Add an AWS Transit Gateway to the Availability Zones
+- [ ] :  Add an AWS Transit Gateway to the Availability Zones
 
-- [ ] Add an AWS Global Accelerator endpoint
+- [ ] :  Add an AWS Global Accelerator endpoint
 
-- [x] Add an Amazon CloudFront distribution in front of the ALB
+- [x] :  Add an Amazon CloudFront distribution in front of the ALB
 
+----
+
+- #amazon_aurora_database #aws_global_accelerator_endpoint #aws_waf #amazon_aurora_replicas #application_load_balancer
 - hasExplain:: [[explanation_Question  15.md]]
-
-# amazon_aurora_database #aws_global_accelerator_endpoint #aws_waf #amazon_aurora_replicas #amazon_cloudfront_distribution

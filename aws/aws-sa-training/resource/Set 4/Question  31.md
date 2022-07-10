@@ -8,14 +8,15 @@ and user management and users sign-in with Facebook IDs.**
 
 Cognito is used to obtain temporary credentials to access AWS services?**
 
-- [ ] User Pools
+- [ ] :  User Pools
 
-- [x] Identity Pools
+- [x] :  Identity Pools
 
-- [ ] Key Pairs
+- [ ] :  Key Pairs
 
-- [ ] SAML Identity Providers
+- [ ] :  SAML Identity Providers
 
-*
+*----
 
+- #temporary_aws_credentials #dynamodb #aws_services #temporary_credentials #amazon_cognito
 - hasExplain:: [[explanation_Question  31.md]]

@@ -10,14 +10,15 @@ complaining that the application is very slow when the day begins, although it r
 
 **How should the scaling be changed to address the staff complaints and keep costs to a minimum?**
 
-- [ ] Implement a scheduled action that sets the desired capacity to 20 shortly before the office opens
+- [ ] :  Implement a scheduled action that sets the desired capacity to 20 shortly before the office opens
 
-2 : Implement a step scaling action triggered at a lower CPU threshold, and decrease the cooldown period
+- [ ] :  Implement a step scaling action triggered at a lower CPU threshold, and decrease the cooldown period
 
-- [ ] Implement a target tracking action triggered at a lower CPU threshold, and decrease the cooldown period
+- [x] :  Implement a target tracking action triggered at a lower CPU threshold, and decrease the cooldown period
 
-- [x] Implement a scheduled action that sets the minimum and maximum capacity to 20 shortly before the office opens
+- [ ] :  Implement a scheduled action that sets the minimum and maximum capacity to 20 shortly before the office opens
 
+----
+
+- #amazon_ec2_auto_scaling_group #scaling #auto_scaling_group #application_load_balancer #amazon_ec2_instances
 - hasExplain:: [[explanation_Question  14.md]]
-
-# amazon_ec2_auto_scaling_group #auto_scaling_group #scaling #amazon_ec2_instances #application_load_balancer

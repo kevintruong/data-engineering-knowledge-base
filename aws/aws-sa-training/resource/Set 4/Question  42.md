@@ -8,14 +8,15 @@ only through the Elastic Load Balancer and that none of the web servers are dire
 
 **How should the Architect meet these requirements?**
 
-- [ ] Create an Amazon CloudFront distribution in front of the Elastic Load Balancer
+- [ ] :  Create an Amazon CloudFront distribution in front of the Elastic Load Balancer
 
-- [ ] Configure the web servers' security group to deny traffic from the Internet
+- [ ] :  Configure the web servers' security group to deny traffic from the Internet
 
-- [x] Configure the web tier security group to allow only traffic from the Elastic Load Balancer
+- [x] :  Configure the web tier security group to allow only traffic from the Elastic Load Balancer
 
-- [ ] Install a Load Balancer on an Amazon EC2 instance
+- [ ] :  Install a Load Balancer on an Amazon EC2 instance
 
-*
+*----
 
+- #elastic_load_balancer #web_tier_security_group #amazon_cloudfront_distribution #tier_web_application #load_balancer
 - hasExplain:: [[explanation_Question  42.md]]

@@ -8,12 +8,15 @@ scripting, as well as creating custom rules for your own applications.**
 
 **Which AWS service fits these requirements?**
 
-- [ ] Security Groups
+- [ ] :  Security Groups
 
-- [x] AWS WAF
+- [x] :  AWS WAF
 
-- [ ] CloudFront
+- [ ] :  CloudFront
 
-- [ ] Route 53
+- [ ] :  Route 53
 
+----
+
+- #aws_service #cloudfront #aws_waf #customizable_web_security_rules #web_applications
 - hasExplain:: [[explanation_Question  38.md]]

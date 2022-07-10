@@ -8,14 +8,15 @@ running on the cluster.**
 
 **How can you achieve this?**
 
-- [x] Create a separate Task Definition for the application container that uses a different Task Role
+- [x] :  Create a separate Task Definition for the application container that uses a different Task Role
 
-- [ ] In the same Task Definition, specify a separate Task Role for the application container
+- [ ] :  In the same Task Definition, specify a separate Task Role for the application container
 
-- [ ] Use EC2 instances instead as you can assign different IAM roles on each instance
+- [ ] :  Use EC2 instances instead as you can assign different IAM roles on each instance
 
-- [ ] You cannot implement granular permissions with ECS containers
+- [ ] :  You cannot implement granular permissions with ECS containers
 
+----
+
+- #individual_ecs_application_container #ecs_containers #ecs_cluster #use_ec2_instances #different_iam_roles
 - hasExplain:: [[explanation_Question  36.md]]
-
-# individual_ecs_application_container #ecs_containers #ecs_cluster #use_ec2_instances #different_iam_roles

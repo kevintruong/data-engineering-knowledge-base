@@ -96,11 +96,11 @@ client
 
 **References:**
 
-https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html
+<https://docs.aws.amazon.com/efs/latest/ug/whatisefs.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  2
 
@@ -148,13 +148,13 @@ instances are running based on demand.
 
 **References:**
 
-https://docsaws.amazon.com/autoscaling/ec2/userguide/autoscaling-load-balancer.html
+<https://docsaws.amazon.com/autoscaling/ec2/userguide/autoscaling-load-balancer.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  3
@@ -202,11 +202,11 @@ This is the easiest and most effective way to implement a geographic restriction
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/georestrictions.html
+<https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/georestrictions.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  4
@@ -245,11 +245,11 @@ retrieve, and restore every version of every object stored in your Amazon S3 buc
 
 **References:**
 
-https://d0.awsstatic.com/whitepapers/protecting-s3-against-object-deletion.pdf
+<https://d0.awsstatic.com/whitepapers/protecting-s3-against-object-deletion.pdf>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  5
 
@@ -293,11 +293,11 @@ and Multi-AZ deployments as can be seen in the feature comparison table below.
 
 **References:**
 
-https://docs.aws.amazon.com/fsx/latest/WindowsGuide/high-availability-multiAZ.html
+<https://docs.aws.amazon.com/fsx/latest/WindowsGuide/high-availability-multiAZ.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/>
 
 #### Question  6
 
@@ -346,11 +346,11 @@ check.
 
 **References:**
 
-https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statement-type-ipset-match.html
+<https://docs.aws.amazon.com/waf/latest/developerguide/waf-rule-statement-type-ipset-match.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-waf-and-shield/
 
 #### Question  7
@@ -394,11 +394,11 @@ on-demand can be used when Spot instances aren’t available or the price is not
 
 **References:**
 
-https://aws.amazon.com/ec2/pricing/reserved-instances/
+<https://aws.amazon.com/ec2/pricing/reserved-instances/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  8
 
@@ -441,11 +441,11 @@ runs at the end of the week.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-scheduled-instances.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-scheduled-instances.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  9
 
@@ -487,11 +487,11 @@ for the log files are not known.
 
 **References:**
 
-https://aws.amazon.com/s3/storage-classes/#Unknown_or_changing_access
+<https://aws.amazon.com/s3/storage-classes/#Unknown_or_changing_access>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  10
 
@@ -534,16 +534,15 @@ serverless and easily scalable. This is therefore a cost effective solution for 
 
 **References:**
 
-https://aws.amazon.com/lambda/features/
+<https://aws.amazon.com/lambda/features/>
 
-https://aws.amazon.com/dynamodb/
+<https://aws.amazon.com/dynamodb/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  11
 
@@ -592,11 +591,11 @@ programmatically using the S3 API.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/CopyingAMIs.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/CopyingAMIs.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  12
 
@@ -642,13 +641,13 @@ supply a second factor when attempting a delete.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/Versioning.html>
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingMFADelete.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingMFADelete.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  13
 
@@ -715,14 +714,13 @@ This solution will scale EC2 instances using Auto Scaling based on the number of
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  14
@@ -762,11 +760,11 @@ charge per object.
 
 **References:**
 
-https://aws.amazon.com/s3/storage-classes/
+<https://aws.amazon.com/s3/storage-classes/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  15
 
@@ -812,15 +810,15 @@ this will cache content for better performance and also offloads requests from t
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html>
 
-https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
+<https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  16
@@ -863,11 +861,11 @@ table entry in.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gateway.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpce-gateway.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  17
@@ -950,16 +948,15 @@ Incoming connections can be distributed to the instances by using an Application
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/what-is-amazon-ec2-auto-scaling.html>
 
-https://aws.amazon.com/elasticloadbalancing/
+<https://aws.amazon.com/elasticloadbalancing/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  18
@@ -1014,11 +1011,11 @@ data records.
 
 **References:**
 
-https://docs.aws.amazon.com/streams/latest/dev/key-concepts.html
+<https://docs.aws.amazon.com/streams/latest/dev/key-concepts.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/>
 
 #### Question  19
 
@@ -1099,11 +1096,11 @@ configurations:
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/
+<https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  20
@@ -1154,11 +1151,11 @@ place in the UK Region but read performance will be greatly improved.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-database.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-database.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/>
 
 #### Question  21
 
@@ -1271,19 +1268,18 @@ database can take over.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/autoscaling-load-balancer.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/autoscaling-load-balancer.html>
 
-https://aws.amazon.com/rds/features/multi-az/
+<https://aws.amazon.com/rds/features/multi-az/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  22
 
@@ -1327,11 +1323,11 @@ permissions.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
+<https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/>
 
 #### Question  23
 
@@ -1372,11 +1368,11 @@ datastore can be Server Message Block (SMB) file servers.
 
 **References:**
 
-https://aws.amazon.com/datasync/faqs/
+<https://aws.amazon.com/datasync/faqs/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-datasync/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-datasync/>
 
 #### Question  24
 
@@ -1418,18 +1414,18 @@ database engine. This can be achieved using the native Microsoft SQL Server tool
 
 **References:**
 
-https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-microsoft-sql-
+<https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/migrate-an-on-premises-microsoft-sql>-
 server-database-to-amazon-rds-for-sql-server.html
 
-https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html
+<https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html>
 
-https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html
+<https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.html>
 
-https://aws.amazon.com/dms/schema-conversion-tool/
+<https://aws.amazon.com/dms/schema-conversion-tool/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-database-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-database>-
 migration-service/
 
 #### Question  25
@@ -1479,13 +1475,13 @@ then poll the queue for new messages. Please remember that Amazon SQS is pull-ba
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonECS/latest/developerguide/common_use_cases.html
+<https://docs.aws.amazon.com/AmazonECS/latest/developerguide/common_use_cases.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  26
@@ -1535,13 +1531,13 @@ The key requirements for the processed images are that they are immediately avai
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-considerations.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-considerations.html>
 
-https://aws.amazon.com/s3/storage-classes/
+<https://aws.amazon.com/s3/storage-classes/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  27
 
@@ -1585,11 +1581,11 @@ environment**.**
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/instance-purchasing-options.html
+<https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/instance-purchasing-options.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  28
 
@@ -1627,15 +1623,15 @@ ensures the Lambda function is invoked.
 
 **References:**
 
-https://docs.aws.amazon.com/lambda/latest/dg/with-sns.html
+<https://docs.aws.amazon.com/lambda/latest/dg/with-sns.html>
 
-https://aws.amazon.com/sns/features/
+<https://aws.amazon.com/sns/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sns/
 
 #### Question  29
@@ -1675,11 +1671,11 @@ pay only for the execution time.
 
 **References:**
 
-https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html
+<https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  30
 
@@ -1716,15 +1712,15 @@ DynamoDB using private IP addresses.
 
 **References:**
 
-https://docs.amazonaws.cn/en_us/vpc/latest/userguide/vpc-endpoints-ddb.html
+<https://docs.amazonaws.cn/en_us/vpc/latest/userguide/vpc-endpoints-ddb.html>
 
-https://aws.amazon.com/premiumsupport/knowledge-center/iam-restrict-calls-ip-addresses/
+<https://aws.amazon.com/premiumsupport/knowledge-center/iam-restrict-calls-ip-addresses/>
 
-https://aws.amazon.com/blogs/aws/new-vpc-endpoints-for-dynamodb/
+<https://aws.amazon.com/blogs/aws/new-vpc-endpoints-for-dynamodb/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  31
@@ -1764,7 +1760,7 @@ The following architecture could be used to achieve this goal:
 
 **References:**
 
-https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_example-
+<https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_example>-
 scps.html#example-ec2-instances
 
 **Save time with our exam-specific cheat sheets:**
@@ -1818,7 +1814,7 @@ Master Account
 }
 ```
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 organizations/
 
 #### Question  32
@@ -1853,11 +1849,11 @@ As a serverless service it will automatically scale as needed.
 
 **References:**
 
-https://aws.amazon.com/rds/aurora/serverless/
+<https://aws.amazon.com/rds/aurora/serverless/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/>
 
 #### Question  33
 
@@ -1896,13 +1892,13 @@ cross-region Read Replica of the master DB.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ReadRepl.html>
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  34
 
@@ -1939,12 +1935,11 @@ it uses the Message Passing Interface (MPI).
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/now-available-elastic-fabric-adapter-efa-for-tightly-coupled-hpc-
-workloads/
+<https://aws.amazon.com/blogs/aws/now-available-elastic-fabric-adapter-efa-for-tightly-coupled-hpc>- workloads/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  35
 
@@ -1992,15 +1987,15 @@ This is the only solution that provides deterministic failover.
 
 **References:**
 
-https://aws.amazon.com/global-accelerator/
+<https://aws.amazon.com/global-accelerator/>
 
-https://aws.amazon.com/global-accelerator/faqs/
+<https://aws.amazon.com/global-accelerator/faqs/>
 
-https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html
+<https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-global-accelerator/
 
 ```
@@ -2087,11 +2082,11 @@ of EC2 instances across multiple AZs.
 
 **References:**
 
-https://docs.aws.amazon.com/efs/latest/ug/performance.html
+<https://docs.aws.amazon.com/efs/latest/ug/performance.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  37
 
@@ -2183,11 +2178,11 @@ deletes them) at the specified time.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  38
 
@@ -2231,12 +2226,11 @@ located.
 
 **References:**
 
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GlobalTables.html
+<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GlobalTables.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  39
 
@@ -2335,12 +2329,11 @@ The correct choice for this scenario is Redis as Redis provides the persistency 
 
 **References:**
 
-https://aws.amazon.com/elasticache/redis/
+<https://aws.amazon.com/elasticache/redis/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-elasticache/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- elasticache/
 
 #### Question  40
 
@@ -2382,11 +2375,11 @@ A key pair consists of a public key that AWS stores, and a private key file that
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  41
 
@@ -2428,11 +2421,11 @@ later analysis
 
 **References:**
 
-https://aws.amazon.com/kinesis/data-firehose/
+<https://aws.amazon.com/kinesis/data-firehose/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/>
 
 #### Question  42
 
@@ -2476,11 +2469,11 @@ both the bucket and the object are private, you can share the video with others 
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/ShareObjectPreSignedURL.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/ShareObjectPreSignedURL.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  43
 
@@ -2524,11 +2517,11 @@ the processing power of the EC2 instances to serve the static content).
 
 **References:**
 
-https://aws.amazon.com/caching/cdn/
+<https://aws.amazon.com/caching/cdn/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  44
@@ -2569,11 +2562,11 @@ This is a good use case for S3 Standard-IA which provides immediate access and 9
 
 **References:**
 
-https://aws.amazon.com/s3/storage-classes/
+<https://aws.amazon.com/s3/storage-classes/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  45
 
@@ -2615,13 +2608,11 @@ multiple regions with full bi-directional synchronization.
 
 **References:**
 
-https://aws.amazon.com/blogs/database/how-to-use-amazon-dynamodb-global-tables-to-power-multiregion-
-architectures/
+<https://aws.amazon.com/blogs/database/how-to-use-amazon-dynamodb-global-tables-to-power-multiregion>- architectures/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  46
 
@@ -2671,14 +2662,13 @@ Kinesis) for which the configuration is made on the Lambda side and Lambda perfo
 
 **References:**
 
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.Lambda.html
+<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.Lambda.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  47
 
@@ -2718,11 +2708,11 @@ resources with secure settings and reduce the risk of human error.
 
 **References:**
 
-https://aws.amazon.com/cloudformation/resources/templates/
+<https://aws.amazon.com/cloudformation/resources/templates/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 cloudformation/
 
 #### Question  48
@@ -2776,13 +2766,13 @@ AWS Glue can trigger ETL jobs that will transform that data and load it into a d
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html>
 
-https://aws.amazon.com/glue/
+<https://aws.amazon.com/glue/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  49
 
@@ -2829,13 +2819,11 @@ state. This would help as you can increase the number of datapoints required to 
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html#alarm-
-evaluation
+<https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html#alarm>- evaluation
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  50
 
@@ -2946,11 +2934,11 @@ Elastic-IP
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  51
@@ -2993,11 +2981,11 @@ to one backend port and example.com/orders going to a different backend port.
 
 **References:**
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-listeners.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-listeners.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  52
@@ -3039,11 +3027,11 @@ Kinesis Firehose.
 
 **References:**
 
-https://aws.amazon.com/kinesis/
+<https://aws.amazon.com/kinesis/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/>
 
 #### Question  53
 
@@ -3125,12 +3113,11 @@ Analytics Tools
 
 **References:**
 
-**https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scale-based-on-demand.html**
+**<https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scale-based-on-demand.html>**
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  54
 
@@ -3179,7 +3166,7 @@ the web servers. You can configure sticky sessions on Amazon ELBs.
 
 **References:**
 
-https://aws.amazon.com/caching/session-management/
+<https://aws.amazon.com/caching/session-management/>
 
 #### Question  55
 
@@ -3212,7 +3199,7 @@ A _cross-origin_ HTTP request is one that is made to:
 - A different _domain_ (for example, from example.com to amazondomains.com)
 - A different _subdomain_ (for example, from example.com to petstore.example.com)
 - A different _port_ (for example, from example.com to example.com:10777)
-- A different _protocol_ (for example, from https://example.com to [http://example.com)](http://example.com))
+- A different _protocol_ (for example, from <https://example.com> to [http://example.com)](http://example.com))
 
 To support CORS, therefore, a REST API resource needs to implement an OPTIONS method that can respond to the OPTIONS
 preflight request with at least the following response headers mandated by the Fetch standard:
@@ -3233,11 +3220,11 @@ preflight request with at least the following response headers mandated by the F
 
 **References:**
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html
+<https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-cors.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-api-gateway/
 
 #### Question  56
@@ -3282,13 +3269,12 @@ DynamoDB table.
 
 **References:**
 
-https://aws.amazon.com/blogs/security/how-to-create-an-aws-iam-policy-to-grant-aws-lambda-access-to-an-
+<https://aws.amazon.com/blogs/security/how-to-create-an-aws-iam-policy-to-grant-aws-lambda-access-to-an>-
 amazon-dynamodb-table/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  57
 
@@ -3342,11 +3328,11 @@ messages being dropped.
 
 **References:**
 
-https://aws.amazon.com/sqs/faqs/
+<https://aws.amazon.com/sqs/faqs/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  58
@@ -3426,11 +3412,11 @@ The following diagram depicts a similar architecture:
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-service.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-service.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  59
@@ -3582,11 +3568,11 @@ encrypted message
 
 **References:**
 
-https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html
+<https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://docs.aws.amazon.com/kms/latest/APIReference/Welcome.html
+<https://docs.aws.amazon.com/kms/latest/APIReference/Welcome.html>
 
 #### Question  60
 
@@ -3624,11 +3610,11 @@ the requirement to minimize infrastructure costs for infrequent queries.
 
 **References:**
 
-https://docs.aws.amazon.com/athena/latest/ug/what-is.html
+<https://docs.aws.amazon.com/athena/latest/ug/what-is.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/>
 
 #### Question  61
 
@@ -3680,12 +3666,11 @@ origin access identity has read permission (or read and download permission).
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-
-to-s3.html
+<https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access>- to-s3.html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  62
 
@@ -3763,12 +3748,11 @@ You must have a VPN or Direct Connect connection to enable this configuration to
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/new-application-load-balancing-via-ip-address-to-aws-on-premises-
-resources/
+<https://aws.amazon.com/blogs/aws/new-application-load-balancing-via-ip-address-to-aws-on-premises>- resources/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  63
@@ -3815,11 +3799,11 @@ notification triggers a Lambda function that resizes the image.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  64
 
@@ -3909,13 +3893,13 @@ making it easier to build multiple applications reading from the same Amazon Kin
 
 **References:**
 
-https://docs.aws.amazon.com/streams/latest/dev/service-sizes-and-limits.html
+<https://docs.aws.amazon.com/streams/latest/dev/service-sizes-and-limits.html>
 
-https://aws.amazon.com/kinesis/data-streams/faqs/
+<https://aws.amazon.com/kinesis/data-streams/faqs/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/>
 
 #### Question  65
 
@@ -3952,12 +3936,11 @@ provides low read and write latency.
 
 **References:**
 
-https://aws.amazon.com/dynamodb/
+<https://aws.amazon.com/dynamodb/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 ### Set 2
 
@@ -4004,11 +3987,11 @@ This use case can be well served by using an S3 static website and this will be 
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  2
 
@@ -4064,15 +4047,15 @@ services to use for these requirements.
 
 **References:**
 
-https://aws.amazon.com/serverless/
+<https://aws.amazon.com/serverless/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  3
@@ -4120,11 +4103,11 @@ required is to use instance store volumes.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  4
 
@@ -4182,11 +4165,11 @@ other than troubleshooting the root cause.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/custom-error-pages.html
+<https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/custom-error-pages.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  5
@@ -4231,11 +4214,11 @@ Availability Zones.
 
 **References:**
 
-https://aws.amazon.com/efs/faq/
+<https://aws.amazon.com/efs/faq/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  6
 
@@ -4283,11 +4266,11 @@ performance of the website.
 
 **References:**
 
-https://aws.amazon.com/cloudfront/dynamic-content/
+<https://aws.amazon.com/cloudfront/dynamic-content/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  7
@@ -4332,11 +4315,11 @@ the query string, that you want AWS WAF to inspect for possible malicious script
 
 **References:**
 
-https://docs.aws.amazon.com/waf/latest/developerguide/classic-web-acl-xss-conditions.html
+<https://docs.aws.amazon.com/waf/latest/developerguide/classic-web-acl-xss-conditions.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-waf-and-shield/
 
 #### Question  8
@@ -4384,13 +4367,13 @@ distribution with the S3 bucket as the origin. This will cache the static conten
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/
+<https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  9
@@ -4433,7 +4416,7 @@ The architecture for the web tier will look like the one below:
 
 **References:**
 
-https://aws.amazon.com/ec2/autoscaling/
+<https://aws.amazon.com/ec2/autoscaling/>
 
 **Save time with our exam-specific cheat sheets:**
 
@@ -4477,8 +4460,7 @@ Auto Scaling
 group
 ```
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  10
 
@@ -4524,11 +4506,11 @@ shared file system that can be mounted by multiple EC2 instances from multiple a
 
 **References:**
 
-https://docs.aws.amazon.com/efs/
+<https://docs.aws.amazon.com/efs/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  11
 
@@ -4571,11 +4553,11 @@ This is the only solution presented that provides resilient storage for Windows 
 
 **References:**
 
-https://aws.amazon.com/fsx/windows/
+<https://aws.amazon.com/fsx/windows/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  12
 
@@ -4693,11 +4675,11 @@ job.
 
 **References:**
 
-https://aws.amazon.com/fsx/lustre/
+<https://aws.amazon.com/fsx/lustre/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/>
 
 #### Question  13
 
@@ -4833,11 +4815,11 @@ Availability Zone Availability Zone
 
 **References:**
 
-https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
+<https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  14
 
@@ -4850,7 +4832,7 @@ complaining that the application is very slow when the day begins, although it r
 
 1: Implement a scheduled action that sets the desired capacity to 20 shortly before the office opens
 
-2 : Implement a step scaling action triggered at a lower CPU threshold, and decrease the cooldown period
+2: Implement a step scaling action triggered at a lower CPU threshold, and decrease the cooldown period
 
 3: Implement a target tracking action triggered at a lower CPU threshold, and decrease the cooldown period
 
@@ -4884,12 +4866,11 @@ quickly terminate unneeded instances, further reducing costs.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-target-tracking.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-target-tracking.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  15
 
@@ -4933,13 +4914,13 @@ DB instance. Finally, switch your connections to the new DB instance.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html>
 
-https://aws.amazon.com/premiumsupport/knowledge-center/rds-encrypt-instance-mysql-mariadb/
+<https://aws.amazon.com/premiumsupport/knowledge-center/rds-encrypt-instance-mysql-mariadb/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  16
 
@@ -4985,11 +4966,11 @@ choice. From there, lifecycle policies can transition the S3 objects to Amazon S
 
 **References:**
 
-https://docs.aws.amazon.com/snowball/latest/developer-guide/specifications.html
+<https://docs.aws.amazon.com/snowball/latest/developer-guide/specifications.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  17
 
@@ -5035,11 +5016,11 @@ backend process not being ready to process them.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
+<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  18
@@ -5123,11 +5104,11 @@ Web Front-End
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  19
@@ -5173,11 +5154,11 @@ extremely important to follow best practice advice about securing the root user 
 
 **References:**
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  20
@@ -5224,11 +5205,11 @@ attaching the administrator policy.
 
 **References:**
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  21
@@ -5267,13 +5248,13 @@ layered on top of HTTP. This can include both on-demand video as well as real ti
 
 **References:**
 
-https://aws.amazon.com/cloudfront/streaming/
+<https://aws.amazon.com/cloudfront/streaming/>
 
-https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/on-demand-streaming-video.html
+<https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/on-demand-streaming-video.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  22
@@ -5328,11 +5309,11 @@ recoverable.
 
 **References:**
 
-https://d0.awsstatic.com/whitepapers/protecting-s3-against-object-deletion.pdf
+<https://d0.awsstatic.com/whitepapers/protecting-s3-against-object-deletion.pdf>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  23
 
@@ -5374,11 +5355,11 @@ All other options do not meet the stated requirements or are not supported lifec
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-considerations.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-considerations.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  24
 
@@ -5421,16 +5402,16 @@ use an AWS VPN for secure, private access to their VPC.
 
 **References:**
 
-https://aws.amazon.com/snowball/
+<https://aws.amazon.com/snowball/>
 
-https://aws.amazon.com/directconnect/
+<https://aws.amazon.com/directconnect/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-direct-connect/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-snowball/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-snowball/>
 
 #### Question  25
 
@@ -5474,12 +5455,12 @@ they’re ready and there is no delay due to the second part not being complete.
 
 **References:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  26
@@ -5524,12 +5505,12 @@ when the addresses are changed.
 
 **References:**
 
-https://aws.amazon.com/blogs/security/how-to-automatically-update-your-security-groups-for-amazon-
+<https://aws.amazon.com/blogs/security/how-to-automatically-update-your-security-groups-for-amazon>-
 cloudfront-and-aws-waf-by-using-aws-lambda/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  27
@@ -5568,11 +5549,11 @@ master accounts. Resources will remain under the control of the migrated account
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/organizations-move-accounts/
+<https://aws.amazon.com/premiumsupport/knowledge-center/organizations-move-accounts/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 organizations/
 
 #### Question  28
@@ -5612,13 +5593,13 @@ of a large object also allows your application to improve retry times when reque
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance-guidelines.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance-guidelines.html>
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance-design-patterns.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance-design-patterns.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  29
 
@@ -5654,12 +5635,11 @@ independent of whether the source database is a Multi-AZ DB instance.
 
 **References:**
 
-https://aws.amazon.com/about-aws/whats-new/2018/01/amazon-rds-read-replicas-now-support-multi-az-
-deployments/
+<https://aws.amazon.com/about-aws/whats-new/2018/01/amazon-rds-read-replicas-now-support-multi-az>- deployments/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  30
 
@@ -5697,11 +5677,11 @@ way to provide the performance required for this application.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  31
 
@@ -5747,15 +5727,15 @@ static anycast addresses. Global Accelerator also uses the AWS global network wh
 
 **References:**
 
-https://aws.amazon.com/global-accelerator/
+<https://aws.amazon.com/global-accelerator/>
 
-https://aws.amazon.com/global-accelerator/faqs/
+<https://aws.amazon.com/global-accelerator/faqs/>
 
-https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html
+<https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-global-accelerator/
 
 ```
@@ -5844,11 +5824,11 @@ as an origin you place all of your objects within the bucket.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins. html
+<https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/DownloadDistS3AndCustomOrigins>. html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  33
@@ -5955,11 +5935,11 @@ pick up the higher priority jobs first.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html
+<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/standard-queues.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  34
@@ -6012,11 +5992,11 @@ are in the same Region. When in different Regions, a different key can be used.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  35
 
@@ -6062,11 +6042,11 @@ increase – you would need to increase the volume size and then extend your fil
 
 **References:**
 
-https://aws.amazon.com/efs/
+<https://aws.amazon.com/efs/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  36
 
@@ -6149,11 +6129,11 @@ Task
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
+<https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/>
 
 #### Question  37
 
@@ -6197,11 +6177,11 @@ The following image articulates the key differences between EC2 Launch Type and 
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html
+<https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/>
 
 #### Question  38
 
@@ -6302,12 +6282,11 @@ Fargate Launch Type
 
 **References:**
 
-https://aws.amazon.com/dynamodb/dax/
+<https://aws.amazon.com/dynamodb/dax/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  39
 
@@ -6345,11 +6324,11 @@ secure option as traffic does not need to traverse the Internet.
 
 **References:**
 
-https://docs.aws.amazon.com/sns/latest/dg/sns-vpc-endpoint.html
+<https://docs.aws.amazon.com/sns/latest/dg/sns-vpc-endpoint.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  40
@@ -6386,11 +6365,11 @@ The architecture of API Gateway is depicted in the diagram below:
 
 **References:**
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-rest-api.html
+<https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-rest-api.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-api-gateway/
 
 #### Question  41
@@ -6508,11 +6487,11 @@ to the EC2 instances.
 
 **References:**
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/what-is-load-balancing.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  42
@@ -6552,11 +6531,11 @@ to a CloudWatch custom metric.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/mon-scripts.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/mon-scripts.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management>-
 tools/amazon-cloudwatch/
 
 #### Question  43
@@ -6609,11 +6588,11 @@ this port from 0.0.0.0/0 and applying it to the web servers will allow this traf
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  44
@@ -6658,12 +6637,11 @@ Server Side Encryption (SSE) and you can also enable encryption SSE KMS for addi
 
 **References:**
 
-https://docs.aws.amazon.com/awscloudtrail/latest/userguide/receive-cloudtrail-log-files-from-multiple-
-regions.html
+<https://docs.aws.amazon.com/awscloudtrail/latest/userguide/receive-cloudtrail-log-files-from-multiple>- regions.html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 cloudtrail/
 
 #### Question  45
@@ -6705,11 +6683,11 @@ this scenario.
 
 **References:**
 
-https://docs.aws.amazon.com/storagegateway/latest/userguide/CreatingAnNFSFileShare.html
+<https://docs.aws.amazon.com/storagegateway/latest/userguide/CreatingAnNFSFileShare.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  46
 
@@ -6763,11 +6741,11 @@ This allows traffic from the web servers to reach the application servers. You t
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  47
@@ -6814,11 +6792,11 @@ configurations:
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  48
@@ -6862,13 +6840,13 @@ You can also configure Amazon S3 to expire the objects after 30 days.
 
 **References:**
 
-https://aws.amazon.com/athena/
+<https://aws.amazon.com/athena/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  49
 
@@ -6913,11 +6891,11 @@ returning the object data to you.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/ServerSideEncryptionCustomerKeys.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/ServerSideEncryptionCustomerKeys.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  50
 
@@ -6959,13 +6937,12 @@ due to result caching.
 
 **References:**
 
-https://aws.amazon.com/about-aws/whats-new/2017/11/amazon-redshift-introduces-result-caching-for-sub-
+<https://aws.amazon.com/about-aws/whats-new/2017/11/amazon-redshift-introduces-result-caching-for-sub>-
 second-response-for-repeat-queries/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-redshift/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- redshift/
 
 #### Question  51
 
@@ -7004,7 +6981,7 @@ in the diagram below:
 
 **References:**
 
-https://aws.amazon.com/dynamodb/dax/
+<https://aws.amazon.com/dynamodb/dax/>
 
 **Save time with our exam-specific cheat sheets:**
 
@@ -7051,8 +7028,7 @@ Inbound rules:
 - TCP 8000 (DynamoDB) from 0. 0. 0. 0 / 0
 - TCP 8111 (DAX) from 0. 0. 0. 0 / 0
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  52
 
@@ -7088,11 +7064,11 @@ Therefore we must use Amazon RDS as it provides read-after-write consistency.
 
 **References:**
 
-https://docs.aws.amazon.com/rds/index.html
+<https://docs.aws.amazon.com/rds/index.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  53
 
@@ -7134,8 +7110,7 @@ for an example scenario that uses API Gateway and AWS Lambda with other services
 
 **References:**
 
-https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-
-dynamodb-cognito/
+<https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3>- dynamodb-cognito/
 
 #### Question  54
 
@@ -7183,11 +7158,11 @@ file read will reflect the last write of the file.
 
 **References:**
 
-https://aws.amazon.com/efs/features/
+<https://aws.amazon.com/efs/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  55
 
@@ -7230,15 +7205,14 @@ back-end processing reducing cost by utilizing a pay for what you use serverless
 
 **References:**
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-with-lambda-
-integration.html
+<https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-with-lambda>- integration.html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-api-gateway/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  56
 
@@ -7281,11 +7255,11 @@ second target group and all other traffic to the first target group:
 
 **References:**
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/application/tutorial-load-balancer-routing.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/application/tutorial-load-balancer-routing.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  57
@@ -7362,14 +7336,13 @@ directory are then created on the Amazon EFS file system
 
 **References:**
 
-https://docs.aws.amazon.com/efs/latest/ug/accessing-fs-nfs-permissions-per-user-subdirs.html
+<https://docs.aws.amazon.com/efs/latest/ug/accessing-fs-nfs-permissions-per-user-subdirs.html>
 
-https://docs.aws.amazon.com/efs/latest/ug/accessing-fs-nfs-permissions.html#accessing-fs-nfs-permissions-
-ex-scenarios
+<https://docs.aws.amazon.com/efs/latest/ug/accessing-fs-nfs-permissions.html#accessing-fs-nfs-permissions>- ex-scenarios
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  58
 
@@ -7408,11 +7381,11 @@ when instances share the same underlying hardware.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  59
 
@@ -7469,11 +7442,11 @@ Availability Zone
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/egress-only-internet-gateway.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/egress-only-internet-gateway.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  60
@@ -7514,13 +7487,13 @@ times.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html>
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-performance-instances.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/burstable-performance-instances.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  61
 
@@ -7558,13 +7531,13 @@ update, resides and enforce that it be used.
 
 **References:**
 
-https://aws.amazon.com/blogs/devops/aws-cloudformation-security-best-practices/
+<https://aws.amazon.com/blogs/devops/aws-cloudformation-security-best-practices/>
 
-https://aws.amazon.com/cloudformation/aws-cloudformation-templates/
+<https://aws.amazon.com/cloudformation/aws-cloudformation-templates/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 cloudformation/
 
 #### Question  62
@@ -7609,11 +7582,11 @@ which means the data is lost when the instance is stopped) is sufficient.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  63
 
@@ -7692,12 +7665,11 @@ IAM Task Role
 Task
 ```
 
-https://aws.amazon.com/blogs/compute/help-secure-container-enabled-applications-with-iam-roles-for-ecs-
-tasks/
+<https://aws.amazon.com/blogs/compute/help-secure-container-enabled-applications-with-iam-roles-for-ecs>- tasks/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/>
 
 #### Question  64
 
@@ -7751,11 +7723,11 @@ the API Gateway management console.
 
 **References:**
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2_instance-profiles.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_use_switch-role-ec2_instance-profiles.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  65
 
@@ -7794,13 +7766,11 @@ good use case for autocompletion (see links below).
 
 **References:**
 
-https://aws.amazon.com/blogs/database/creating-a-simple-autocompletion-service-with-redis-part-one-of-
-two/
+<https://aws.amazon.com/blogs/database/creating-a-simple-autocompletion-service-with-redis-part-one-of>- two/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-elasticache/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- elasticache/
 
 ### Set 3
 
@@ -7866,11 +7836,11 @@ Log file validation can also be enabled on the destination bucket:
 
 **References:**
 
-https://docs.aws.amazon.com/awscloudtrail/latest/userguide/logging-data-events-with-cloudtrail.html
+<https://docs.aws.amazon.com/awscloudtrail/latest/userguide/logging-data-events-with-cloudtrail.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 cloudtrail/
 
 #### Question  2
@@ -7916,11 +7886,11 @@ instance that has encryption enabled. From that point on encryption will be enab
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Overview.Encryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  3
 
@@ -7978,13 +7948,13 @@ your own VPCs, or with a VPC in another AWS account.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-service.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-service.html>
 
-https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html
+<https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  4
@@ -8028,11 +7998,11 @@ cost differences between 1TB of storage on EBS, EFS, and S3 Standard.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/optimizing-performance.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  5
 
@@ -8073,12 +8043,12 @@ independent of whether the source database is a Multi-AZ DB instance.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_MySQL.Replication.ReadReplicas.html#US
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_MySQL.Replication.ReadReplicas.html#US>
 ER_MySQL.Replication.ReadReplicas.MultiAZ
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  6
 
@@ -8125,11 +8095,11 @@ architect can update the application to read from the Multi-AZ standby instance.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/>
 
 #### Question  7
 
@@ -8225,11 +8195,11 @@ one AWS Region or multiple Regions.
 
 **References:**
 
-https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html
+<https://docs.aws.amazon.com/global-accelerator/latest/dg/what-is-global-accelerator.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-global-accelerator/
 
 #### Question  8
@@ -8320,11 +8290,11 @@ IOPS for extended periods. As the I/O varies, this should be suitable.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  9
 
@@ -8407,11 +8377,11 @@ actually grant permissions to them.
 
 **References:**
 
-https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scp.html
+<https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scp.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 organizations/
 
 #### Question  10
@@ -8458,15 +8428,15 @@ data key but the company can configure key policies defining who can access the 
 
 **References:**
 
-https://docs.aws.amazon.com/kms/latest/developerguide/services-s3.html#sse
+<https://docs.aws.amazon.com/kms/latest/developerguide/services-s3.html#sse>
 
-https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html#master_keys
+<https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html#master_keys>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-kms/
 
 #### Question  11
@@ -8479,7 +8449,7 @@ from no requests to large bursts of traffic.**
 
 1: Set up an Amazon API Gateway and use Amazon ECS
 
-2 : Set up an Amazon API Gateway and use AWS Elastic Beanstalk
+2: Set up an Amazon API Gateway and use AWS Elastic Beanstalk
 
 3: Set up an Amazon API Gateway and use AWS Lambda functions
 
@@ -8506,11 +8476,11 @@ bursts in traffic. Lambda works well with both API Gateway and Amazon RDS.
 
 **References:**
 
-https://docs.aws.amazon.com/lambda/latest/dg/invocation-scaling.html
+<https://docs.aws.amazon.com/lambda/latest/dg/invocation-scaling.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  12
 
@@ -8553,12 +8523,11 @@ and prevent the application from slowing down.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/schedule_time.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/schedule_time.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  13
 
@@ -8611,11 +8580,11 @@ performance for a HPC application.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  14
 
@@ -8665,11 +8634,11 @@ EC2 instnaces.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html
+<https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Install-CloudWatch-Agent.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management>-
 tools/amazon-cloudwatch/
 
 #### Question  15
@@ -8731,12 +8700,11 @@ Node (^1) Node 5 ElastiCache Memcached Cluster Each node is a partition of data 
 
 **References:**
 
-https://aws.amazon.com/elasticache/redis/
+<https://aws.amazon.com/elasticache/redis/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-elasticache/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- elasticache/
 
 #### Question  16
 
@@ -8834,11 +8802,11 @@ number than other rules.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  17
@@ -8977,11 +8945,11 @@ This code snippet denies any action on the table. This does not have the desired
 
 **References:**
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_elements.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  18
@@ -9032,11 +9000,11 @@ The configuration would look something like this:
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/route- 53 - dns-health-checks/
+<https://aws.amazon.com/premiumsupport/knowledge-center/route>- 53 - dns-health-checks/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-route-53/
 
 #### Question  19
@@ -9122,11 +9090,11 @@ backups, and as a data store for disaster recovery files.
 
 **References:**
 
-https://aws.amazon.com/s3/storage-classes/
+<https://aws.amazon.com/s3/storage-classes/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  20
 
@@ -9167,11 +9135,11 @@ AWS Regions or within the same Region. Both source and destination buckets must 
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/replication.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/replication.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  21
 
@@ -9214,12 +9182,11 @@ changes in the metric due to a changing load pattern.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-target-tracking.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-target-tracking.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  22
 
@@ -9261,13 +9228,13 @@ Provisioned IOPS.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/InstanceStorage.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  23
 
@@ -9307,11 +9274,11 @@ run analyses for hours to months.
 
 **References:**
 
-https://aws.amazon.com/fsx/
+<https://aws.amazon.com/fsx/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/>
 
 #### Question  24
 
@@ -9397,11 +9364,11 @@ Region
 
 **References:**
 
-https://aws.amazon.com/rds/aurora/serverless/
+<https://aws.amazon.com/rds/aurora/serverless/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/>
 
 #### Question  25
 
@@ -9438,12 +9405,11 @@ Organizations API. This solution can provide all of the requirements.
 
 **References:**
 
-https://aws.amazon.com/blogs/security/how-to-use-aws-organizations-to-automate-end-to-end-account-
-creation/
+<https://aws.amazon.com/blogs/security/how-to-use-aws-organizations-to-automate-end-to-end-account>- creation/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 organizations/
 
 #### Question  26
@@ -9482,14 +9448,14 @@ connections.
 
 **References:**
 
-https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect-plus-vpn-
+<https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect-plus-vpn>-
 network-to-amazon.html
 
-https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html
+<https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  27
@@ -9535,17 +9501,17 @@ shared services VPC.
 
 **References:**
 
-https://aws.amazon.com/about-aws/whats-new/2018/12/amazon-virtual-private-clouds-can-now-be-shared-
+<https://aws.amazon.com/about-aws/whats-new/2018/12/amazon-virtual-private-clouds-can-now-be-shared>-
 with-other-aws-accounts/
 
-https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-a-new-approach-to-multiple-
+<https://aws.amazon.com/blogs/networking-and-content-delivery/vpc-sharing-a-new-approach-to-multiple>-
 accounts-and-vpc-management/
 
-https://d1.awsstatic.com/whitepapers/aws-privatelink.pdf
+<https://d1.awsstatic.com/whitepapers/aws-privatelink.pdf>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  28
@@ -9646,12 +9612,11 @@ using a target tracking policy that tracks a certain value.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-using-sqs-queue.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  29
 
@@ -9693,14 +9658,13 @@ utilization.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-target-tracking.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-target-tracking.html>
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-simple-step.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-scaling-simple-step.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  30
 
@@ -9737,11 +9701,11 @@ still to be kept for compliance reasons but is rarely accessed so is a good use 
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-considerations.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/lifecycle-transition-general-considerations.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  31
 
@@ -9777,12 +9741,11 @@ scalability – this is the best database for these requirements.
 
 **References:**
 
-https://aws.amazon.com/nosql/key-value/
+<https://aws.amazon.com/nosql/key-value/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  32
 
@@ -9820,11 +9783,11 @@ prompt when using the AWS CLI or the AWS PowerShell tools.
 
 **References:**
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  33
@@ -9866,11 +9829,11 @@ A breakdown of EBS volume types is provided below:
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  34
 
@@ -9905,11 +9868,11 @@ difference with Firehose which delivers data directly to AWS services).
 
 **References:**
 
-https://docs.aws.amazon.com/streams/latest/dev/introduction.html
+<https://docs.aws.amazon.com/streams/latest/dev/introduction.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/>
 
 #### Question  35
 
@@ -9945,11 +9908,11 @@ endpoint services), and supported AWS Marketplace partner services.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-service.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/endpoint-service.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  36
@@ -9997,11 +9960,11 @@ increase in replica lag.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_Limits.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_Limits.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  37
 
@@ -10045,11 +10008,11 @@ your network traffic.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  38
 
@@ -10090,11 +10053,11 @@ The other services listed do not enable you to create custom web security rules 
 
 **References:**
 
-https://aws.amazon.com/waf/details/
+<https://aws.amazon.com/waf/details/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-waf-and-shield/
 
 #### Question  39
@@ -10136,11 +10099,11 @@ bottlenecks.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/PresignedUrlUploadObject.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  40
 
@@ -10175,11 +10138,11 @@ may still be taking place on your volume at the time.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeVolumeStatus.html
+<https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DescribeVolumeStatus.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  41
 
@@ -10217,14 +10180,13 @@ number of shards in the Kinesis data stream.
 
 **References:**
 
-https://docs.aws.amazon.com/streams/latest/dev/troubleshooting-consumers.html#consumer-app-reading-
-slower
+<https://docs.aws.amazon.com/streams/latest/dev/troubleshooting-consumers.html#consumer-app-reading>- slower
 
-https://docs.aws.amazon.com/streams/latest/dev/kinesis-record-processor-additional-considerations.html
+<https://docs.aws.amazon.com/streams/latest/dev/kinesis-record-processor-additional-considerations.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/>
 
 #### Question  42
 
@@ -10258,11 +10220,11 @@ block based storage systems they can be shared by multiple instances as they all
 
 **References:**
 
-https://aws.amazon.com/s3/
+<https://aws.amazon.com/s3/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  43
 
@@ -10318,11 +10280,11 @@ choose an instance type that supports **enhanced networking**.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  44
 
@@ -10360,12 +10322,11 @@ scale-in when required.
 
 **References:**
 
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-cfg-autoscaling-triggers.html
+<https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/environments-cfg-autoscaling-triggers.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  45
 
@@ -10402,11 +10363,11 @@ RDS is a transactional database and is not a supported Kinesis Firehose destinat
 
 **References:**
 
-https://aws.amazon.com/kinesis/data-firehose/
+<https://aws.amazon.com/kinesis/data-firehose/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/>
 
 #### Question  46
 
@@ -10453,11 +10414,11 @@ server-side encryption data is encrypted by S3 before it is written to disk (dat
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  47
 
@@ -10500,14 +10461,14 @@ that you then designate for your DB instances.
 
 **References:**
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html>
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.htm
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.WorkingWithRDSInstanceinaVPC.htm>
 l#USER_VPC.Subnets
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  48
 
@@ -10547,11 +10508,11 @@ information that is needed to restore your data (from the moment when the snapsh
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  49
 
@@ -10590,11 +10551,11 @@ of making a request to your endpoint. The default TTL value for API caching is 3
 
 **References:**
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching.html
+<https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-api-gateway/
 
 #### Question  50
@@ -10667,11 +10628,11 @@ through SAML identity providers.
 
 **References:**
 
-https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-settings-mfa.html
+<https://docs.aws.amazon.com/cognito/latest/developerguide/user-pool-settings-mfa.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/amazon-cognito/
 
 #### Question  51
@@ -10718,11 +10679,11 @@ CloudFront has many edge locations around the world for caching the content as c
 
 **References:**
 
-https://aws.amazon.com/cloudfront/features/
+<https://aws.amazon.com/cloudfront/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  52
@@ -10765,11 +10726,11 @@ SQS will reduce the risk of writes being dropped and it the best option presente
 
 **References:**
 
-https://aws.amazon.com/sqs/features/
+<https://aws.amazon.com/sqs/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  53
@@ -10843,11 +10804,11 @@ Linux, Redhat, and Ubuntu AMIs, in conjunction with the Amazon EFS Mount Helper.
 
 **References:**
 
-https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
+<https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  54
 
@@ -10929,12 +10890,11 @@ ranging from a few hundred gigabytes to a petabyte or more. Amazon RedShift uses
 
 **References:**
 
-https://docs.aws.amazon.com/redshift/index.html
+<https://docs.aws.amazon.com/redshift/index.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-redshift/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- redshift/
 
 #### Question  55
 
@@ -10981,11 +10941,11 @@ The graphic below provides an overview of Aurora Replicas:
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Replication.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-aurora/>
 
 #### Question  56
 
@@ -11070,11 +11030,11 @@ state data. This is a 100% serverless application.
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/amazon-cloudfront-content-uploads-post-put-other-methods/
+<https://aws.amazon.com/blogs/aws/amazon-cloudfront-content-uploads-post-put-other-methods/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  57
@@ -11121,11 +11081,11 @@ connection and logging settings, and more.
 
 **References:**
 
-https://docs.aws.amazon.com/lambda/latest/dg/env_variables.html
+<https://docs.aws.amazon.com/lambda/latest/dg/env_variables.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  58
 
@@ -11170,11 +11130,11 @@ delegate permission to make API requests using IAM roles.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  59
@@ -11213,11 +11173,11 @@ a threshold you specify. This is the best tool for this requirement.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html
+<https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/WhatIsCloudWatchLogs.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management>-
 tools/amazon-cloudwatch/
 
 #### Question  60
@@ -11264,11 +11224,11 @@ e.g. example.com) and use a Route 53 Alias record to map to it.
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/
+<https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-serve-static-website/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/website-hosting-custom-domain-walkthrough.html>
 
 #### Question  61
 
@@ -11363,11 +11323,11 @@ Protocols
 Decoupling
 ```
 
-https://docs.aws.amazon.com/sns/latest/dg/welcome.html
+<https://docs.aws.amazon.com/sns/latest/dg/welcome.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sns/
 
 #### Question  62
@@ -11416,11 +11376,11 @@ Amazon S3 Standard-Infrequent Access is the most cost-effective choice.
 
 **References:**
 
-https://aws.amazon.com/s3/storage-classes/
+<https://aws.amazon.com/s3/storage-classes/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  63
 
@@ -11466,11 +11426,11 @@ requirements.
 
 **References:**
 
-https://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html
+<https://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  64
 
@@ -11505,11 +11465,11 @@ security groups.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  65
@@ -11551,11 +11511,11 @@ maintenance window.
 
 **References:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 ### Set 4
 
@@ -11596,12 +11556,11 @@ You can require that users enter a token on a token-protected Redis server. To d
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/auth.html
+<https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/auth.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-elasticache/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- elasticache/
 
 #### Question  2
 
@@ -11648,11 +11607,11 @@ consistent performance.
 
 **References:**
 
-https://aws.amazon.com/global-accelerator/features/
+<https://aws.amazon.com/global-accelerator/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-global-accelerator/
 
 #### Question  3
@@ -11748,11 +11707,11 @@ The following diagram depicts this configuration:
 
 **References:**
 
-https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html
+<https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-direct-connect/
 
 #### Question  4
@@ -11797,11 +11756,11 @@ runs at the end of the week.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-scheduled-instances.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-scheduled-instances.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  5
 
@@ -11846,14 +11805,13 @@ RedShift data warehouse) and unstructured (Amazon S3) data.
 
 **References:**
 
-https://docs.aws.amazon.com/redshift/latest/dg/c_redshift_system_overview.html
+<https://docs.aws.amazon.com/redshift/latest/dg/c_redshift_system_overview.html>
 
-https://docs.aws.amazon.com/redshift/latest/dg/c-using-spectrum.html
+<https://docs.aws.amazon.com/redshift/latest/dg/c-using-spectrum.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-redshift/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- redshift/
 
 #### Question  6
 
@@ -11943,11 +11901,11 @@ Snapshot
 
 **References:**
 
-https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings_cloudwatch.html
+<https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings_cloudwatch.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management>-
 tools/amazon-cloudwatch/
 
 #### Question  7
@@ -11986,11 +11944,11 @@ there’s no need to rewrite any messaging code when you migrate to AWS.
 
 **References:**
 
-https://aws.amazon.com/amazon-mq/
+<https://aws.amazon.com/amazon-mq/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-mq/
 
 #### Question  8
@@ -12032,14 +11990,14 @@ minutes.
 
 **References:**
 
-https://aws.amazon.com/s3/storage-classes/
+<https://aws.amazon.com/s3/storage-classes/>
 
-https://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html#api-
+<https://docs.aws.amazon.com/amazonglacier/latest/dev/downloading-an-archive-two-steps.html#api>-
 downloading-an-archive-two-steps-retrieval-options
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  9
 
@@ -12080,11 +12038,11 @@ is launched and attached to this security group to connect to the database.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  10
@@ -12121,11 +12079,11 @@ supports up to 3,000 messages per second with batching so this is a supported sc
 
 **References:**
 
-https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-quotas.html
+<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-quotas.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  11
@@ -12189,7 +12147,7 @@ connection string
 
 **References:**
 
-https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html
+<https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html>
 
 #### Question  12
 
@@ -12233,7 +12191,7 @@ environment around the critical core.
 
 **References:**
 
-https://aws.amazon.com/blogs/publicsector/rapidly-recover-mission-critical-systems-in-a-disaster/
+<https://aws.amazon.com/blogs/publicsector/rapidly-recover-mission-critical-systems-in-a-disaster/>
 
 #### Question  13
 
@@ -12280,9 +12238,9 @@ effectively.
 
 **References:**
 
-https://d1.awsstatic.com/whitepapers/architecture/AWS-HPC-Lens.pdf
+<https://d1.awsstatic.com/whitepapers/architecture/AWS-HPC-Lens.pdf>
 
-https://docs.aws.amazon.com/batch/latest/userguide/multi-node-parallel-jobs.html
+<https://docs.aws.amazon.com/batch/latest/userguide/multi-node-parallel-jobs.html>
 
 #### Question  14
 
@@ -12320,14 +12278,14 @@ ensures the Lambda function is invoked.
 
 **References:**
 
-https://docs.aws.amazon.com/lambda/latest/dg/with-sns.html
+<https://docs.aws.amazon.com/lambda/latest/dg/with-sns.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sns/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  15
 
@@ -12379,13 +12337,13 @@ When you're using an Edge device, the data migration process has the following s
 
 **References:**
 
-https://docs.aws.amazon.com/dms/latest/userguide/CHAP_LargeDBs.html
+<https://docs.aws.amazon.com/dms/latest/userguide/CHAP_LargeDBs.html>
 
-https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.DynamoDB.html
+<https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Target.DynamoDB.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-database-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-database>-
 migration-service/
 
 #### Question  16
@@ -12433,12 +12391,11 @@ and records a record in CloudWatch Logs
 
 **References:**
 
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.html
+<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Streams.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 1. Application inserts / updates /deletes item
 
@@ -12510,11 +12467,11 @@ The table below helps you to understand the key differences between the two diff
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  18
@@ -12553,11 +12510,11 @@ is unavailable.
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/configure-vpn-backup-dx/
+<https://aws.amazon.com/premiumsupport/knowledge-center/configure-vpn-backup-dx/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-direct-connect/
 
 #### Question  19
@@ -12619,11 +12576,11 @@ HDD, Magnetic – Standard – cheap, infrequently accessed storage – lowest c
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  20
 
@@ -12666,11 +12623,11 @@ than 1 minute.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Replication.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Aurora.Replication.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  21
 
@@ -12767,11 +12724,11 @@ Aurora Global Database:
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-templates.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-templates.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-templates.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-launch-templates.html>
 
 #### Question  22
 
@@ -12871,11 +12828,11 @@ ELB Node
 
 **References:**
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/userguide/how-elastic-load-balancing-works.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  23
@@ -12913,11 +12870,11 @@ The only application services here are API Gateway and Lambda and these are cons
 
 **References:**
 
-https://aws.amazon.com/serverless/
+<https://aws.amazon.com/serverless/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://aws.amazon.com/serverless/
+<https://aws.amazon.com/serverless/>
 
 #### Question  24
 
@@ -12963,11 +12920,11 @@ The following are a few reasons why an instance might immediately terminate:
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/troubleshooting-launch.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/troubleshooting-launch.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  25
 
@@ -13009,11 +12966,11 @@ a read replica to offload the reporting job
 
 **References:**
 
-https://aws.amazon.com/rds/features/read-replicas/
+<https://aws.amazon.com/rds/features/read-replicas/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  26
 
@@ -13054,9 +13011,9 @@ used for this use case.
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/dynamic-port-mapping-ecs/
+<https://aws.amazon.com/premiumsupport/knowledge-center/dynamic-port-mapping-ecs/>
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/application/tutorial-load-balancer-routing.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/application/tutorial-load-balancer-routing.html>
 
 **Save time with our exam-specific cheat sheets:**
 
@@ -13088,7 +13045,7 @@ Rule (default) Rule (/orders)
 Instance 1 Instance 2 Instance 3 Instance 4
 ```
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  27
@@ -13131,11 +13088,11 @@ point to the Internet Gateway and security groups and network ACLs must be confi
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstances.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  28
@@ -13181,11 +13138,11 @@ computers. An SQS queue can be used to create distributed/decoupled applications
 
 **References:**
 
-https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
+<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  29
@@ -13257,13 +13214,13 @@ when the market price increases.
 
 **References:**
 
-https://aws.amazon.com/ec2/pricing/
+<https://aws.amazon.com/ec2/pricing/>
 
 **Save time with our exam-specific cheat sheets:**
 
 **References:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  30
 
@@ -13301,13 +13258,13 @@ within the management console.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/snapshot-lifecycle.html>
 
-https://docs.aws.amazon.com/cli/latest/reference/ec2/create-snapshot.html
+<https://docs.aws.amazon.com/cli/latest/reference/ec2/create-snapshot.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  31
 
@@ -13348,11 +13305,11 @@ DynamoDB.
 
 **References:**
 
-https://docs.aws.amazon.com/cognito/latest/developerguide/identity-pools.html
+<https://docs.aws.amazon.com/cognito/latest/developerguide/identity-pools.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  32
 
@@ -13395,11 +13352,11 @@ is an Alias that uses the customer’s website zone apex domain name and map it 
 
 **References:**
 
-https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/ResourceRecordTypes.html
+<https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/ResourceRecordTypes.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-route-53/
 
 #### Question  33
@@ -13448,15 +13405,15 @@ you can use KMS-managed or customer-managed encryption keys. With S3 you can use
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/bucket-encryption.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/bucket-encryption.html>
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  34
 
@@ -13498,13 +13455,13 @@ Migrating to Amazon RDS may be a good solution but is not presented as an option
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  35
 
@@ -13545,11 +13502,11 @@ not have a route to the Internet. The Architect should associate the new subnet 
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Route_Tables.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  36
@@ -13593,12 +13550,11 @@ access the videos but direct access to the videos from other sources is prevente
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html#example-bucket-policies-
-use-case- 4
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html#example-bucket-policies>- use-case- 4
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  37
 
@@ -13639,11 +13595,11 @@ resources outside of AWS CloudFormation templates after they have been created.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/resources-section-structure.html
+<https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/resources-section-structure.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 cloudformation/
 
 #### Question  38
@@ -13688,11 +13644,11 @@ AWS IAM policies can be used to grant IAM users with fine-grained control to Ama
 
 **References:**
 
-https://aws.amazon.com/athena/
+<https://aws.amazon.com/athena/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  39
@@ -13743,11 +13699,11 @@ solution to this problem as your company wants to backup these records onto S3 (
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingEncryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  40
 
@@ -13787,11 +13743,11 @@ bastion hosts and can be assigned to security groups.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-comparison.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  41
@@ -13835,11 +13791,11 @@ AD credentials. The user does not need to be a user in IAM.
 
 **References:**
 
-https://aws.amazon.com/identity/federation/
+<https://aws.amazon.com/identity/federation/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  42
@@ -13885,12 +13841,11 @@ security group
 
 **References:**
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-update-security-
-groups.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-update-security>- groups.html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  43
@@ -13950,11 +13905,11 @@ identity broker to sign users into the AWS management console are:
 
 **References:**
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  44
@@ -13996,13 +13951,13 @@ to the permissions required to different task profiles.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonECS/latest/userguide/task-iam-roles.html
+<https://docs.aws.amazon.com/AmazonECS/latest/userguide/task-iam-roles.html>
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/>
 
 #### Question  45
 
@@ -14047,11 +14002,11 @@ terminated and you may have to wait for the price to lower back to your budgeted
 
 **References:**
 
-https://aws.amazon.com/ec2/pricing/
+<https://aws.amazon.com/ec2/pricing/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  46
 
@@ -14091,12 +14046,11 @@ new instances to replace terminated instances.
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/auto-scaling-terminate-instance/
+<https://aws.amazon.com/premiumsupport/knowledge-center/auto-scaling-terminate-instance/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  47
 
@@ -14142,11 +14096,11 @@ VPC peering connection between VPC-A and VPC-C.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html
+<https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  48
@@ -14185,11 +14139,11 @@ when using the Query API.
 
 **References:**
 
-https://docs.aws.amazon.com/IAM/latest/APIReference/iam-api.pdf
+<https://docs.aws.amazon.com/IAM/latest/APIReference/iam-api.pdf>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  49
@@ -14229,12 +14183,11 @@ your Chef server.
 
 **References:**
 
-https://aws.amazon.com/opsworks/
+<https://aws.amazon.com/opsworks/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
-opsworks/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>- opsworks/
 
 #### Question  50
 
@@ -14285,11 +14238,11 @@ During failover RDS automatically updates configuration (including DNS endpoint)
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  51
 
@@ -14337,11 +14290,11 @@ that is configured as a website to a complex tree of records.
 
 **References:**
 
-https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-failover
+<https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-failover>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-route-53/
 
 #### Question  52
@@ -14390,15 +14343,15 @@ of instances allows your fleet to grow and absorb some of the impact of the atta
 
 **References:**
 
-https://aws.amazon.com/answers/networking/aws-ddos-attack-mitigation/
+<https://aws.amazon.com/answers/networking/aws-ddos-attack-mitigation/>
 
-https://docs.aws.amazon.com/waf/latest/developerguide/tutorials-ddos-cross-service.html
+<https://docs.aws.amazon.com/waf/latest/developerguide/tutorials-ddos-cross-service.html>
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.Scenarios.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.Scenarios.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  53
@@ -14441,11 +14394,11 @@ More information on the volume types:
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html?icmpid=docs_ec2_console
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html?icmpid=docs_ec2_console>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  54
 
@@ -14460,7 +14413,7 @@ be randomly selected
 
 3: Send an SNS notification, if configured to do so
 
-4 : Wait for the cooldown period and then terminate the instance that has been running the longest
+4: Wait for the cooldown period and then terminate the instance that has been running the longest
 
 5: Terminate an instance in the AZ which currently has 2 running EC2 instances
 
@@ -14496,12 +14449,11 @@ Auto Scaling can be configured to send an SNS email when:
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  55
 
@@ -14537,11 +14489,11 @@ environment.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Using_Tags.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  56
 
@@ -14587,18 +14539,17 @@ number of data lake users want to run concurrent BI and reporting workloads.
 
 **References:**
 
-https://docs.aws.amazon.com/aws-technical-content/latest/building-data-lakes/in-place-querying.html
+<https://docs.aws.amazon.com/aws-technical-content/latest/building-data-lakes/in-place-querying.html>
 
-https://aws.amazon.com/redshift/
+<https://aws.amazon.com/redshift/>
 
-https://aws.amazon.com/athena/
+<https://aws.amazon.com/athena/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-redshift/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- redshift/
 
 #### Question  57
 
@@ -14638,11 +14589,11 @@ requests and returns 429 Too Many Requests error responses to the client.
 
 **References:**
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html
+<https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-api-gateway/
 
 #### Question  58
@@ -14687,11 +14638,11 @@ in each AZ where the ELB is defined and the private subnets are located
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/public-load-balancer-private-ec2/
+<https://aws.amazon.com/premiumsupport/knowledge-center/public-load-balancer-private-ec2/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  59
@@ -14743,14 +14694,14 @@ S3.
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/access-logs-for-elastic-load-balancers/
+<https://aws.amazon.com/blogs/aws/access-logs-for-elastic-load-balancers/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-emr/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-emr/>
 
 #### Question  60
 
@@ -14786,11 +14737,11 @@ you only need to take a snapshot and it will automatically be stored on Amazon S
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSSnapshots.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  61
 
@@ -14832,14 +14783,14 @@ Within an IAM policy you can grant either programmatic access or AWS Management 
 
 **References:**
 
-https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket/
+<https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  62
 
@@ -14882,12 +14833,11 @@ scale when using the new on-demand capacity mode, however this is not configured
 
 **References:**
 
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.Errors.html
+<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Programming.Errors.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  63
 
@@ -14923,11 +14873,11 @@ back-ends, business process workflows, and analytics pipelines, to be designed a
 
 **References:**
 
-https://aws.amazon.com/swf/
+<https://aws.amazon.com/swf/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-swf/
 
 #### Question  64
@@ -14978,12 +14928,11 @@ performed or replacement instances being launched.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-suspend-resume-processes.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-suspend-resume-processes.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  65
 
@@ -15018,11 +14967,11 @@ into public subnets and configure these, or an additional application tier to wr
 
 **References:**
 
-https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf
+<https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 ### Set 5
@@ -15065,11 +15014,11 @@ In the diagram below, per-client throttling limits are set in a usage plan:
 
 **References:**
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html
+<https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-api-gateway/
 
 ```
@@ -15187,13 +15136,13 @@ The table below helps you to understand the key differences between the differen
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/placement-groups.html>
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/efa.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/efa.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  3
 
@@ -15267,11 +15216,11 @@ stage cache.
 
 **References:**
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching.html
+<https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-caching.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-api-gateway/
 
 #### Question  4
@@ -15309,13 +15258,13 @@ storage solution for Microsoft filesystems. AWS DataSync supports migrating to t
 
 **References:**
 
-https://aws.amazon.com/blogs/storage/migrate-to-amazon-fsx-for-windows-file-server-using-aws-datasync/
+<https://aws.amazon.com/blogs/storage/migrate-to-amazon-fsx-for-windows-file-server-using-aws-datasync/>
 
-https://docs.aws.amazon.com/fsx/latest/WindowsGuide/migrate-files-fsx.html
+<https://docs.aws.amazon.com/fsx/latest/WindowsGuide/migrate-files-fsx.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/>
 
 #### Question  5
 
@@ -15361,12 +15310,11 @@ ElastiCache in-transit encryption implements the following features:
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/at-rest-encryption.html
+<https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/at-rest-encryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-elasticache/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- elasticache/
 
 #### Question  6
 
@@ -15405,13 +15353,13 @@ the internet completely.
 
 **References:**
 
-https://docs.aws.amazon.com/directconnect/latest/UserGuide/WorkingWithVirtualInterfaces.html
+<https://docs.aws.amazon.com/directconnect/latest/UserGuide/WorkingWithVirtualInterfaces.html>
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-endpoints.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  7
@@ -15459,12 +15407,11 @@ output.
 
 **References:**
 
-https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-remote-hosts.html
+<https://docs.aws.amazon.com/redshift/latest/dg/loading-data-from-remote-hosts.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-redshift/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- redshift/
 
 #### Question  8
 
@@ -15510,12 +15457,11 @@ DynamoDB accelerator is the best solution for caching the reads and delivering t
 
 **References:**
 
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.html
+<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  9
 
@@ -15551,11 +15497,11 @@ therefore involves more ongoing systems management effort.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  10
@@ -15599,11 +15545,11 @@ jane_doe.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.DBAccounts.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.IAMDBAuth.DBAccounts.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  11
 
@@ -15643,11 +15589,11 @@ host. Therefore, the application will not be exposed to inbound connection attem
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  12
@@ -15747,11 +15693,11 @@ end of the connection is the customer gateway which must be established on the c
 
 **References:**
 
-https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html
+<https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  13
@@ -15834,12 +15780,11 @@ As you can see in the image below, API Gateway can be the frontend for multiple 
 
 **References:**
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-with-lambda-
-integration.html
+<https://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-with-lambda>- integration.html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  14
 
@@ -15950,11 +15895,11 @@ using snapshots that are run by Data Lifecycle Manager.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volumes.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  15
 
@@ -15993,11 +15938,11 @@ connection with the other AWS accounts.
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/new-use-an-aws-transit-gateway-to-simplify-your-network-architecture/
+<https://aws.amazon.com/blogs/aws/new-use-an-aws-transit-gateway-to-simplify-your-network-architecture/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  16
@@ -16038,7 +15983,7 @@ systems, you can fully duplicate these systems on AWS and have them always on.
 
 **References:**
 
-https://aws.amazon.com/blogs/publicsector/rapidly-recover-mission-critical-systems-in-a-disaster/
+<https://aws.amazon.com/blogs/publicsector/rapidly-recover-mission-critical-systems-in-a-disaster/>
 
 #### Question  17
 
@@ -16077,13 +16022,13 @@ supports encrypted data for both the source data and query results, for example,
 
 **References:**
 
-https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf
+<https://d1.awsstatic.com/whitepapers/architecture/wellarchitected-Machine-Learning-Lens.pdf>
 
-https://aws.amazon.com/athena/
+<https://aws.amazon.com/athena/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/>
 
 #### Question  18
 
@@ -16126,15 +16071,15 @@ Amazon FSx for Windows File Server. The source datastore can be Server Message B
 
 **References:**
 
-https://aws.amazon.com/fsx/windows/
+<https://aws.amazon.com/fsx/windows/>
 
-https://aws.amazon.com/datasync/features/
+<https://aws.amazon.com/datasync/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-fsx/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-datasync/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-datasync/>
 
 #### Question  19
 
@@ -16209,12 +16154,11 @@ are preserved
 
 **References:**
 
-https://aws.amazon.com/elasticache/redis-vs-memcached/
+<https://aws.amazon.com/elasticache/redis-vs-memcached/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-elasticache/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- elasticache/
 
 #### Question  20
 
@@ -16263,13 +16207,13 @@ publish the event to AWS Lambda and invoke your function in Lambda. In response,
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/NotificationHowTo.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  21
 
@@ -16363,11 +16307,11 @@ number of BGP sessions required.
 
 **References:**
 
-https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways.html
+<https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-direct-connect/
 
 #### Question  22
@@ -16411,11 +16355,11 @@ database by using read replicas to horizontally scale your database.
 
 **References:**
 
-https://aws.amazon.com/blogs/database/scaling-your-amazon-rds-instance-vertically-and-horizontally/
+<https://aws.amazon.com/blogs/database/scaling-your-amazon-rds-instance-vertically-and-horizontally/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  23
 
@@ -16456,11 +16400,11 @@ partner services.
 
 **References:**
 
-https://aws.amazon.com/blogs/compute/introducing-amazon-api-gateway-private-endpoints/
+<https://aws.amazon.com/blogs/compute/introducing-amazon-api-gateway-private-endpoints/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  24
@@ -16506,11 +16450,11 @@ that each message is delivered once and remains available until a consumer proce
 
 **References:**
 
-https://aws.amazon.com/sqs/features/
+<https://aws.amazon.com/sqs/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  25
@@ -16550,11 +16494,11 @@ the most recent snapshot in order to restore the volume.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-deleting-snapshot.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-deleting-snapshot.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  26
 
@@ -16598,11 +16542,11 @@ SAML can be used with Amazon Cognito but this is not the only option.
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/built-in-authentication-in-alb/
+<https://aws.amazon.com/blogs/aws/built-in-authentication-in-alb/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  27
@@ -16643,13 +16587,13 @@ Dedicated instances allow automatic instance placement and billing is per instan
 
 **References:**
 
-https://aws.amazon.com/ec2/dedicated-hosts/
+<https://aws.amazon.com/ec2/dedicated-hosts/>
 
-https://aws.amazon.com/ec2/pricing/dedicated-instances/
+<https://aws.amazon.com/ec2/pricing/dedicated-instances/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  28
 
@@ -16678,7 +16622,6 @@ DynamoDB best practices include:
 - Store more frequently and less frequently accessed data in separate tables.
 - If possible compress larger attribute values.
 
-
 - Store objects larger than 400KB in S3 and use pointers (S3 Object ID) in DynamoDB.
 
 - CORRECT "Store objects larger than 400KB in S3 and use pointers in DynamoDB" is the correct answer.
@@ -16693,12 +16636,11 @@ DynamoDB best practices include:
 
 **References:**
 
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html
+<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  29
 
@@ -16739,7 +16681,7 @@ AWS DMS)
 
 **References:**
 
-https://aws.amazon.com/getting-started/projects/migrate-oracle-to-amazon-redshift/
+<https://aws.amazon.com/getting-started/projects/migrate-oracle-to-amazon-redshift/>
 
 #### Question  30
 
@@ -16782,11 +16724,11 @@ the new AMI and any new instances that are launched by the ASG will use the new 
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchConfiguration.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchConfiguration.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  31
 
@@ -16837,11 +16779,11 @@ maintaining the state of the overall architecture.
 
 **References:**
 
-https://aws.amazon.com/cloudformation/resources/
+<https://aws.amazon.com/cloudformation/resources/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  32
@@ -16888,11 +16830,11 @@ calling workers running on Amazon Elastic Compute Cloud (Amazon EC2) instances o
 
 **References:**
 
-https://aws.amazon.com/step-functions/
+<https://aws.amazon.com/step-functions/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-api-gateway/
 
 #### Question  33
@@ -16940,11 +16882,11 @@ firewall).
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.Scenarios.html#USER_VPC.Scenario4
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_VPC.Scenarios.html#USER_VPC.Scenario4>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  34
 
@@ -16991,11 +16933,11 @@ category names.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  35
 
@@ -17039,11 +16981,11 @@ Some facts about Amazon EBS encrypted volumes and snapshots:
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  36
 
@@ -17083,11 +17025,11 @@ topic. SNS can be configured to send an email notification
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html
+<https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/AlarmThatSendsEmail.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management>-
 tools/amazon-cloudwatch/
 
 #### Question  37
@@ -17132,9 +17074,9 @@ principal making the request matches the specified key name and value.
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/iam-ec2-resource-tags/
+<https://aws.amazon.com/premiumsupport/knowledge-center/iam-ec2-resource-tags/>
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_condition-keys.html>
 
 #### Question  38
 
@@ -17179,12 +17121,11 @@ access to data in Amazon S3 with local caching.
 
 **References:**
 
-https://aws.amazon.com/storagegateway/file/
+<https://aws.amazon.com/storagegateway/file/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/aws-storage-
-gateway/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/aws-storage>- gateway/
 
 #### Question  39
 
@@ -17266,11 +17207,11 @@ VMware, or EC 2
 
 **References:**
 
-https://aws.amazon.com/rds/features/multi-az/
+<https://aws.amazon.com/rds/features/multi-az/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  40
 
@@ -17350,11 +17291,11 @@ on failover
 
 **References:**
 
-https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
+<https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  41
 
@@ -17395,12 +17336,11 @@ same Hosted Zone.
 
 **References:**
 
-https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non-
-alias.html
+<https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/resource-record-sets-choosing-alias-non>- alias.html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-route-53/
 
 #### Question  42
@@ -17444,11 +17384,11 @@ operating system instances.
 
 **References:**
 
-https://aws.amazon.com/ecs/features/
+<https://aws.amazon.com/ecs/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/>
 
 #### Question  43
 
@@ -17491,11 +17431,11 @@ bottleneck is with the application server running on EC2 which may not be able t
 
 **References:**
 
-https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html
+<https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-request-throttling.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-api-gateway/
 
 #### Question  44
@@ -17537,11 +17477,11 @@ CloudFormation will make to your stack, and then decide whether to apply those c
 
 **References:**
 
-https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks.html
+<https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/using-cfn-updating-stacks.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 cloudformation/
 
 #### Question  45
@@ -17585,12 +17525,12 @@ detailed instructions.
 
 **References:**
 
-https://aws.amazon.com/blogs/security/writing-iam-policies-grant-access-to-user-specific-folders-in-an-
+<https://aws.amazon.com/blogs/security/writing-iam-policies-grant-access-to-user-specific-folders-in-an>-
 amazon-s3-bucket/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  46
@@ -17635,12 +17575,11 @@ that occur in your account
 
 **References:**
 
-https://docs.aws.amazon.com/awscloudtrail/latest/userguide/logging-management-and-data-events-with-
-cloudtrail.html
+<https://docs.aws.amazon.com/awscloudtrail/latest/userguide/logging-management-and-data-events-with>- cloudtrail.html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws>-
 cloudtrail/
 
 #### Question  47
@@ -17681,11 +17620,11 @@ Please see the AWS article linked below for more details on the requirements
 
 **References:**
 
-https://docs.aws.amazon.com/lambda/latest/dg/vpc.html
+<https://docs.aws.amazon.com/lambda/latest/dg/vpc.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  48
 
@@ -17732,11 +17671,11 @@ Public subnets are subnets that have:
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario2.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario2.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  49
@@ -17775,12 +17714,11 @@ have added all relevant subnets to the configuration.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/asg-in-vpc.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/asg-in-vpc.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  50
 
@@ -17827,15 +17765,15 @@ applications.
 
 **References:**
 
-https://aws.amazon.com/kinesis/
+<https://aws.amazon.com/kinesis/>
 
-https://aws.amazon.com/sns/
+<https://aws.amazon.com/sns/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sns/
 
 #### Question  51
@@ -17877,12 +17815,11 @@ fail.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/attach-load-balancer-asg.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/attach-load-balancer-asg.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  52
 
@@ -17915,11 +17852,11 @@ without prior approval for 8 services. Please check the AWS link below for the l
 
 **References:**
 
-https://aws.amazon.com/security/penetration-testing/
+<https://aws.amazon.com/security/penetration-testing/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/cloud-security/
+<https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/cloud-security/>
 
 #### Question  53
 
@@ -17956,11 +17893,11 @@ larger. It can be used for objects from 5MB up to 5TB and must be used for objec
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/mpuoverview.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/mpuoverview.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  54
 
@@ -18009,16 +17946,15 @@ and are created from a snapshot of the master instance
 
 **References:**
 
-https://aws.amazon.com/rds/features/read-replicas/
+<https://aws.amazon.com/rds/features/read-replicas/>
 
-https://aws.amazon.com/elasticache/
+<https://aws.amazon.com/elasticache/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-elasticache/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- elasticache/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  55
 
@@ -18062,11 +17998,11 @@ Amazon SNS supports notifications over multiple transport protocols:
 
 **References:**
 
-https://aws.amazon.com/sns/faqs/
+<https://aws.amazon.com/sns/faqs/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sns/
 
 #### Question  56
@@ -18106,9 +18042,9 @@ some aspects of some services.
 
 **References:**
 
-https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html
+<https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html>
 
-https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
+<https://aws.amazon.com/premiumsupport/technology/trusted-advisor/>
 
 #### Question  57
 
@@ -18154,11 +18090,11 @@ used to encrypt a volume.
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/new-cross-account-copying-of-encrypted-ebs-snapshots/
+<https://aws.amazon.com/blogs/aws/new-cross-account-copying-of-encrypted-ebs-snapshots/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  58
 
@@ -18209,11 +18145,11 @@ Troubleshooting steps for containers include:
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/ecs-agent-disconnected/
+<https://aws.amazon.com/premiumsupport/knowledge-center/ecs-agent-disconnected/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ecs/>
 
 #### Question  59
 
@@ -18251,12 +18187,11 @@ solution and allows full control of the underlying resources.
 
 **References:**
 
-https://aws.amazon.com/elasticbeanstalk/
+<https://aws.amazon.com/elasticbeanstalk/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-elastic-
-beanstalk/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-elastic>- beanstalk/
 
 #### Question  60
 
@@ -18291,11 +18226,11 @@ content closer to users and also reduce the load on the web server running on EC
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
+<https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  61
 
@@ -18332,11 +18267,11 @@ rates and error rates using the AWS Lambda Console, the CloudWatch console, and 
 
 **References:**
 
-https://docs.aws.amazon.com/lambda/latest/dg/monitoring-metrics.html
+<https://docs.aws.amazon.com/lambda/latest/dg/monitoring-metrics.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  62
 
@@ -18377,11 +18312,11 @@ and Elastic Load Balancer, or Route 53 – can also be external (non-AWS).
 
 **References:**
 
-https://docs.aws.amazon.com/cloudfront/latest/APIReference/API_Origin.html
+<https://docs.aws.amazon.com/cloudfront/latest/APIReference/API_Origin.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  63
@@ -18424,11 +18359,11 @@ EFS also offers the ability to encrypt data at rest and in transit.
 
 **References:**
 
-https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
+<https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  64
 
@@ -18475,11 +18410,11 @@ The following facts apply to IAM Groups:
 
 **References:**
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  65
@@ -18517,7 +18452,7 @@ from source code to binaries, and it works seamlessly with your existing Git too
 
 **References:**
 
-https://aws.amazon.com/codecommit/
+<https://aws.amazon.com/codecommit/>
 
 ### Set 6
 
@@ -18570,12 +18505,11 @@ to be improved. Therefore, using ElastiCache to cache the content will dramatica
 
 **References:**
 
-https://aws.amazon.com/blogs/storage/turbocharge-amazon-s3-with-amazon-elasticache-for-redis/
+<https://aws.amazon.com/blogs/storage/turbocharge-amazon-s3-with-amazon-elasticache-for-redis/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-elasticache/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- elasticache/
 
 #### Question  2
 
@@ -18620,11 +18554,11 @@ virtual private gateway to the Direct Connect gateway.
 
 **References:**
 
-https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html
+<https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-direct-connect/
 
 #### Question  3
@@ -18662,11 +18596,11 @@ cost-effective solution will be AWS Lambda.
 
 **References:**
 
-https://aws.amazon.com/lambda/
+<https://aws.amazon.com/lambda/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-lambda/>
 
 #### Question  4
 
@@ -18706,11 +18640,11 @@ long-running API call.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
+<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  5
@@ -18755,11 +18689,11 @@ instances will be able to access the internet (subject to security group configu
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  6
@@ -18798,11 +18732,11 @@ suitable for infrequently accessed data and use cases that are oriented towards 
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  7
 
@@ -18843,11 +18777,11 @@ same AZ as the private subnet.
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/public-load-balancer-private-ec2/
+<https://aws.amazon.com/premiumsupport/knowledge-center/public-load-balancer-private-ec2/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  8
@@ -18934,12 +18868,11 @@ requirements in the scenario.
 
 **References:**
 
-https://aws.amazon.com/dynamodb/features/
+<https://aws.amazon.com/dynamodb/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  9
 
@@ -18975,11 +18908,11 @@ amount of IOPS required by the application. It will also provide the lowest late
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  10
 
@@ -19017,12 +18950,12 @@ balancer subnet.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html
-https://docs.aws.amazon.com/elasticloadbalancing/latest/network/load-balancer-monitoring.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html>
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/network/load-balancer-monitoring.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  11
@@ -19069,11 +19002,11 @@ This is a good DR strategy as you have moved stateful EC2 instances to another R
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/ebs-snapshot-copy/
+<https://aws.amazon.com/blogs/aws/ebs-snapshot-copy/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  12
 
@@ -19112,7 +19045,7 @@ Objective (the maximum allowable time window whereby you will accept the loss of
 
 **References:**
 
-https://aws.amazon.com/blogs/publicsector/rapidly-recover-mission-critical-systems-in-a-disaster/
+<https://aws.amazon.com/blogs/publicsector/rapidly-recover-mission-critical-systems-in-a-disaster/>
 
 #### Question  13
 
@@ -19161,15 +19094,15 @@ database tier. This results in a fully redundant architecture that can withstand
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-increase-availability.html>
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  14
 
@@ -19273,15 +19206,15 @@ migrations
 
 **References:**
 
-https://aws.amazon.com/rds/features/multi-az/
+<https://aws.amazon.com/rds/features/multi-az/>
 
-https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.html
+<https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-database-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-database>-
 migration-service/
 
 #### Question  15
@@ -19319,12 +19252,11 @@ The table below compares ElastiCache Redis with Memcached:
 
 **References:**
 
-https://aws.amazon.com/elasticache/redis-vs-memcached/
+<https://aws.amazon.com/elasticache/redis-vs-memcached/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-elasticache/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- elasticache/
 
 #### Question  16
 
@@ -19435,11 +19367,11 @@ Organizational unit 2
 
 **References:**
 
-https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_about-scps.html
+<https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_about-scps.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-accounts/
 
 #### Question  17
@@ -19478,11 +19410,11 @@ utilization has been lower.
 
 **References:**
 
-https://aws.amazon.com/ec2/instance-types/
+<https://aws.amazon.com/ec2/instance-types/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  18
 
@@ -19515,11 +19447,11 @@ to the user). Or you can add the user to a group that has the intended permissio
 
 **References:**
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/access_controlling.html
+<https://docs.aws.amazon.com/IAM/latest/UserGuide/access_controlling.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity>-
 compliance/aws-iam/
 
 #### Question  19
@@ -19559,11 +19491,11 @@ credentials to decrypt it—are able to do so.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html
+<https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/field-level-encryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-cloudfront/
 
 #### Question  20
@@ -19605,12 +19537,11 @@ With ALB and NLB IP addresses can be used to register:
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/new-application-load-balancing-via-ip-address-to-aws-on-premises-
-resources/
+<https://aws.amazon.com/blogs/aws/new-application-load-balancing-via-ip-address-to-aws-on-premises>- resources/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  21
@@ -19654,11 +19585,11 @@ Restored DBs will always be a new RDS instance with a new DNS endpoint and you c
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PIT.html
+<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_PIT.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  22
 
@@ -19700,12 +19631,11 @@ directly in Amazon S3 but was not presented as an option.
 
 **References:**
 
-https://aws.amazon.com/redshift/
+<https://aws.amazon.com/redshift/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-redshift/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- redshift/
 
 #### Question  23
 
@@ -19743,11 +19673,11 @@ to change families, OS types, and tenancies while benefitting from RI pricing wh
 
 **References:**
 
-https://aws.amazon.com/ec2/pricing/reserved-instances/
+<https://aws.amazon.com/ec2/pricing/reserved-instances/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  24
 
@@ -19789,11 +19719,11 @@ allow or deny traffic.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  25
@@ -19840,11 +19770,11 @@ All other statements are incorrect with default settings.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-dns.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  26
@@ -19887,11 +19817,11 @@ User data is data that is supplied by the user at instance launch in the form of
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  27
 
@@ -19935,15 +19865,14 @@ loading or transformation is required.
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/s3-glacier-select/
+<https://aws.amazon.com/blogs/aws/s3-glacier-select/>
 
-https://aws.amazon.com/about-aws/whats-new/2017/11/amazon-redshift-spectrum-is-now-available-in-four-
+<https://aws.amazon.com/about-aws/whats-new/2017/11/amazon-redshift-spectrum-is-now-available-in-four>-
 additional-aws-regions-and-enhances-query-performance-in-all-available-aws-regions/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-redshift/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- redshift/
 
 #### Question  28
 
@@ -19985,11 +19914,11 @@ your users with low latency and a high data transfer rate.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/request-rate-perf-considerations.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  29
 
@@ -20046,12 +19975,11 @@ More information on ASG health checks:
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/AutoScalingGroupLifecycle.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/AutoScalingGroupLifecycle.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  30
 
@@ -20091,7 +20019,7 @@ complexities of provisioning, managing, monitoring, and scaling your batch compu
 
 **References:**
 
-https://aws.amazon.com/batch/
+<https://aws.amazon.com/batch/>
 
 #### Question  31
 
@@ -20129,11 +20057,11 @@ provider and removing network congestion.
 
 **References:**
 
-https://aws.amazon.com/directconnect/
+<https://aws.amazon.com/directconnect/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/aws-direct-connect/
 
 #### Question  32
@@ -20215,11 +20143,11 @@ AWS cage Customer / partner cage AWS Direct Connect endpoint Customer / Public V
 
 **References:**
 
-https://aws.amazon.com/efs/features/
+<https://aws.amazon.com/efs/features/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/>
 
 #### Question  33
 
@@ -20258,11 +20186,11 @@ enable better performance for users in the other AWS regions for database querie
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/cross-region-read-replicas-for-amazon-rds-for-mysql/
+<https://aws.amazon.com/blogs/aws/cross-region-read-replicas-for-amazon-rds-for-mysql/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/>
 
 #### Question  34
 
@@ -20311,11 +20239,11 @@ application level logs, and create business key performance indicators (KPIs) as
 
 **References:**
 
-https://docs.aws.amazon.com/lambda/latest/dg/serverless_app.html
+<https://docs.aws.amazon.com/lambda/latest/dg/serverless_app.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management>-
 tools/amazon-cloudwatch/
 
 #### Question  35
@@ -20366,14 +20294,14 @@ GLACIER retrieval times:
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html>
 
-https://aws.amazon.com/about-aws/whats-new/2016/11/access-your-amazon-glacier-data-in-minutes-with-
+<https://aws.amazon.com/about-aws/whats-new/2016/11/access-your-amazon-glacier-data-in-minutes-with>-
 new-retrieval-options/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  36
 
@@ -20409,13 +20337,13 @@ utilizes a hosted Hadoop framework running on Amazon EC2 and Amazon S3.
 
 **References:**
 
-https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html
+<https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-what-is-emr.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-emr/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-emr/>
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  37
@@ -20473,12 +20401,11 @@ being delivered more than once so it doesn’t matter whether you use a FIFO or 
 
 **References:**
 
-https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long-
-polling.html
+<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-short-and-long>- polling.html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  38
@@ -20544,11 +20471,11 @@ in custom and default security groups.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  39
@@ -20599,11 +20526,11 @@ group.
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  40
@@ -20639,11 +20566,11 @@ ad-hoc requirements where you cannot tolerate interruption.
 
 **References:**
 
-https://aws.amazon.com/ec2/pricing/
+<https://aws.amazon.com/ec2/pricing/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  41
 
@@ -20680,11 +20607,11 @@ Instance metadata is available at [http://169.254.169.254/latest/meta-data.](htt
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-metadata.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  42
 
@@ -20728,11 +20655,11 @@ provides higher performance (packets-per-second) and lower latency.
 
 **References:**
 
-https://aws.amazon.com/premiumsupport/knowledge-center/enable-configure-enhanced-networking/
+<https://aws.amazon.com/premiumsupport/knowledge-center/enable-configure-enhanced-networking/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ec2/>
 
 #### Question  43
 
@@ -20781,11 +20708,11 @@ objects. There are two types of actions:
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/object-lifecycle-mgmt.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  44
 
@@ -20820,11 +20747,11 @@ object in a single operation.
 
 **References:**
 
-https://docs.aws.amazon.com/AmazonS3/latest/dev/uploadobjusingmpu.html
+<https://docs.aws.amazon.com/AmazonS3/latest/dev/uploadobjusingmpu.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  45
 
@@ -20931,12 +20858,11 @@ visible again
 
 **References:**
 
-https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-visibility-
-timeout.html
+<https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-visibility>- timeout.html
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application>-
 integration/amazon-sqs/
 
 #### Question  46
@@ -20979,14 +20905,14 @@ over another (values must total 100). To stop sending traffic to a resource you 
 
 **References:**
 
-https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html
+<https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/routing-policy.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-route-53/
 
 #### Question  47
@@ -21031,11 +20957,11 @@ traffic that is ingress or egress to the subnet not to traffic within the subnet
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/vpc-network-acls.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  48
@@ -21074,11 +21000,11 @@ request type. Access logs are not enabled by default. You can optionally store a
 
 **References:**
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-access-logs.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  49
@@ -21118,7 +21044,7 @@ PowerShell, and the AWS SDKs.
 
 **References:**
 
-https://aws.amazon.com/blogs/aws/new-ec2-run-command-remote-instance-management-at-scale/
+<https://aws.amazon.com/blogs/aws/new-ec2-run-command-remote-instance-management-at-scale/>
 
 #### Question  50
 
@@ -21160,11 +21086,11 @@ load balance millions of requests/second. NLB also supports load balancing to mu
 
 **References:**
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/network/introduction.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/network/introduction.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  51
@@ -21213,11 +21139,11 @@ For an ALB the possible protocols are HTTP and HTTPS. The default is the HTTP pr
 
 **References:**
 
-https://docs.aws.amazon.com/elasticloadbalancing/latest/network/target-group-health-checks.html
+<https://docs.aws.amazon.com/elasticloadbalancing/latest/network/target-group-health-checks.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  52
@@ -21258,11 +21184,11 @@ Throughput is measured in MB/s, and includes the ability to burst up to 250 MB/s
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  53
 
@@ -21305,11 +21231,11 @@ store volumes to an instance after you’ve launched it.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/add-instance-store-volumes.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/add-instance-store-volumes.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  54
 
@@ -21348,11 +21274,11 @@ at rest. Glacier is extremely low cost and is ideal for long-term archival.
 
 **References:**
 
-https://aws.amazon.com/s3/storage-classes/
+<https://aws.amazon.com/s3/storage-classes/>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/>
 
 #### Question  55
 
@@ -21393,11 +21319,11 @@ You cannot use a block device mapping to specify a snapshot, EFS volume or S3 bu
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/block-device-mapping-concepts.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/block-device-mapping-concepts.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  56
 
@@ -21432,12 +21358,11 @@ progress”.
 
 **References:**
 
-https://aws.amazon.com/about-aws/whats-new/2014/03/20/elastic-load-balancing-supports-connection-
-draining/
+<https://aws.amazon.com/about-aws/whats-new/2014/03/20/elastic-load-balancing-supports-connection>- draining/
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/elastic-load>-
 balancing/
 
 #### Question  57
@@ -21486,11 +21411,11 @@ HDD, Cold – (SC1) provides the lowest cost storage and low performance
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  58
 
@@ -21533,12 +21458,11 @@ Step – configure multiple scaling steps in response to multiple alarms.
 
 **References:**
 
-https://docs.aws.amazon.com/autoscaling/ec2/userguide/schedule_time.html
+<https://docs.aws.amazon.com/autoscaling/ec2/userguide/schedule_time.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto-
-scaling/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-auto>- scaling/
 
 #### Question  59
 
@@ -21583,13 +21507,13 @@ propagation for your route table to automatically propagate your network routes 
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_VPN.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_VPN.html>
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario3.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Scenario3.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  60
@@ -21632,12 +21556,11 @@ cost-effective solution to optimizing for cost.
 
 **References:**
 
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/AutoScaling.html
+<https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/AutoScaling.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-
-dynamodb/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon>- dynamodb/
 
 #### Question  61
 
@@ -21675,7 +21598,7 @@ internal-only DB servers. Therefore, you need 4 subnets – 2 (for redundancy) p
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  62
@@ -21721,12 +21644,11 @@ and then provide some information about the application.
 
 **References:**
 
-https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+<https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-elastic-
-beanstalk/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/aws-elastic>- beanstalk/
 
 #### Question  63
 
@@ -21771,11 +21693,11 @@ encountered or continues until the implicit deny. You can create ingress and egr
 
 **References:**
 
-https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html
+<https://docs.aws.amazon.com/vpc/latest/userguide/VPC_SecurityGroups.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content-
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/networking-and-content>-
 delivery/amazon-vpc/
 
 #### Question  64
@@ -21816,11 +21738,11 @@ also encrypted.
 
 **References:**
 
-https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html
+<https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSEncryption.html>
 
 **Save time with our exam-specific cheat sheets:**
 
-https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+<https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/>
 
 #### Question  65
 
@@ -21857,4 +21779,4 @@ those messages to AWS endpoints and to other devices reliably and securely.
 
 **References:**
 
-https://aws.amazon.com/iot-core/
+<https://aws.amazon.com/iot-core/>

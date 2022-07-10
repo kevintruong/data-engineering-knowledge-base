@@ -6,14 +6,15 @@ The instances have already been launched in an Amazon VPC. What tool can be run 
 
 execute the script on all target EC2 instances?**
 
-- [ ] AWS CodeDeploy
+- [ ] :  AWS CodeDeploy
 
-- [ ] AWS Config
+- [ ] :  AWS Config
 
-- [x] Run Command
+- [x] :  Run Command
 
-- [ ] AWS OpsWorks
+- [ ] :  AWS OpsWorks
 
-*
+*----
 
+- #target_ec2_instances #aws_management_console #aws_opsworks #aws_codedeploy #amazon_ec2_instances
 - hasExplain:: [[explanation_Question  49.md]]

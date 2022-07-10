@@ -6,20 +6,23 @@ database is too large to migrate over the company’s limited internet bandwidth
 
 What should a Solutions Architect recommend?**
 
-- [ ] Setup an AWS Direct Connect and migrate the database to Amazon DynamoDB using the AWS Database Migration Service (
+- [ ] :  Setup an AWS Direct Connect and migrate the database to Amazon DynamoDB using the AWS Database Migration Service (
 
 DMS)
 
-- [x] Use the Schema Conversion Tool (SCT) to extract and load the data to an AWS Snowball Edge device. Use the AWS
+- [x] :  Use the Schema Conversion Tool (SCT) to extract and load the data to an AWS Snowball Edge device. Use the AWS
 
 Database Migration Service (DMS) to migrate the data to Amazon DynamoDB
 
-- [ ] Enable compression on the MongoDB database and use the AWS Database Migration Service (DMS) to directly migrate the
+- [ ] :  Enable compression on the MongoDB database and use the AWS Database Migration Service (DMS) to directly migrate the
 
 database to Amazon DynamoDB
 
-- [ ] Use the AWS Database Migration Service (DMS) to extract and load the data to an AWS Snowball Edge device. Complete
+- [ ] :  Use the AWS Database Migration Service (DMS) to extract and load the data to an AWS Snowball Edge device. Complete
 
 the migration to Amazon DynamoDB using AWS DMS in the AWS Cloud
 
+----
+
+- #amazon_dynamodb #aws_database_migration_service #large_mongodb_database #aws_cloud #aws_snowball_edge_device
 - hasExplain:: [[explanation_Question  15.md]]

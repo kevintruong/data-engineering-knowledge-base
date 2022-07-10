@@ -6,14 +6,17 @@ the shared services VPC. The solution should not allow consumers to connect to o
 
 **How can this be setup with the least administrative effort? (Select TWO)**
 
-- [x] Create a Network Load Balancer (NLB)
+- [x] :  Create a Network Load Balancer (NLB)
 
-- [x] Use AWS PrivateLink to expose the application as an endpoint service
+- [x] :  Use AWS PrivateLink to expose the application as an endpoint service
 
-- [ ] Use AWS ClassicLink to expose the application as an endpoint service
+- [ ] :  Use AWS ClassicLink to expose the application as an endpoint service
 
-- [ ] Setup VPC peering between each AWS VPC
+- [ ] :  Setup VPC peering between each AWS VPC
 
-- [ ] Configure security groups to restrict access
+- [ ] :  Configure security groups to restrict access
 
+----
+
+- #aws_vpc #services_vpc #vpc #setup_vpc #aws_privatelink
 - hasExplain:: [[explanation_Question  27.md]]

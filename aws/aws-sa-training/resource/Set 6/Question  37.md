@@ -10,16 +10,17 @@ requests.**
 
 **A Solutions Architect needs to eliminate empty responses to reduce operational overhead. How can this be done?**
 
-- [ ] Use a Standard queue to provide at-least-once delivery, which means that each message is delivered at least once
+- [ ] :  Use a Standard queue to provide at-least-once delivery, which means that each message is delivered at least once
 
-- [ ] Use a FIFO (first-in-first-out) queue to preserve the exact order in which messages are sent and received
+- [ ] :  Use a FIFO (first-in-first-out) queue to preserve the exact order in which messages are sent and received
 
-- [x] Configure Long Polling to eliminate empty responses by allowing Amazon SQS to wait until a message is available in a
+- [x] :  Configure Long Polling to eliminate empty responses by allowing Amazon SQS to wait until a message is available in a
 
 queue before sending a response
 
-- [ ] Configure Short Polling to eliminate empty responses by reducing the length of time a connection request remains open
+- [ ] :  Configure Short Polling to eliminate empty responses by reducing the length of time a connection request remains open
 
-*
+*----
 
+- #amazon_sqs_queue #queue #dynamodb_table #standard_queue #configure_short_polling
 - hasExplain:: [[explanation_Question  37.md]]

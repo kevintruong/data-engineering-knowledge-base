@@ -6,14 +6,15 @@ provide a file system interface and be able to support millions of files. Which 
 
 choose?**
 
-- [ ] Amazon ElastiCache
+- [ ] :  Amazon ElastiCache
 
-- [ ] Amazon EBS
+- [ ] :  Amazon EBS
 
-- [x] Amazon EFS
+- [x] :  Amazon EFS
 
-- [ ] Amazon S3
+- [ ] :  Amazon S3
 
-*
+*----
 
+- #aws_service #amazon_elasticache #amazon_efs #storage_solution #amazon_s3
 - hasExplain:: [[explanation_Question  40.md]]

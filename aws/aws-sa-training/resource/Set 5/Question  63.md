@@ -8,14 +8,15 @@ data that will be stored on the file system will be sensitive, it must be encryp
 
 **Which storage solution should the Solutions Architect use for the shared file system?**
 
-- [ ] Add EBS volumes to each EC2 instance and configure data replication
+- [ ] :  Add EBS volumes to each EC2 instance and configure data replication
 
-- [ ] Use the Elastic Block Store (EBS) and mount the file system at the block level
+- [ ] :  Use the Elastic Block Store (EBS) and mount the file system at the block level
 
-- [x] Use the Elastic File System (EFS) and mount the file system using NFS
+- [x] :  Use the Elastic File System (EFS) and mount the file system using NFS
 
-- [ ] Add EBS volumes to each EC2 instance and use an ELB to distribute data evenly between the volumes
+- [ ] :  Add EBS volumes to each EC2 instance and use an ELB to distribute data evenly between the volumes
 
-*
+*----
 
+- #elastic_file_system #multiple_amazon_ec2 #ec2_instance #ebs_volumes #elastic_block_store
 - hasExplain:: [[explanation_Question  63.md]]

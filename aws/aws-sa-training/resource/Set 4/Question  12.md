@@ -6,12 +6,15 @@ site ready to seamlessly take over the in the event of a disaster. All other ser
 
 **Which DR strategy is the company using?**
 
-- [ ] Backup and restore
+- [ ] :  Backup and restore
 
-- [x] Pilot light
+- [x] :  Pilot light
 
-- [ ] Warm standby
+- [ ] :  Warm standby
 
-- [ ] Multi-site
+- [ ] :  Multi-site
 
+----
+
+- #disaster_recovery_plan #core_services #dr_strategy #other_services #backup
 - hasExplain:: [[explanation_Question  12.md]]

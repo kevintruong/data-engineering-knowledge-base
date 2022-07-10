@@ -4,16 +4,17 @@
 
 evaluating the use of DynamoDB. Which of the following are AWS best practices for DynamoDB? (Select TWO)**
 
-- [ ] Use separate local secondary indexes for each item
+- [ ] :  Use separate local secondary indexes for each item
 
-- [x] Store objects larger than 400KB in S3 and use pointers in DynamoDB
+- [x] :  Store objects larger than 400KB in S3 and use pointers in DynamoDB
 
-- [x] Store more frequently and less frequently accessed data in separate tables
+- [x] :  Store more frequently and less frequently accessed data in separate tables
 
-- [ ] Use for BLOB data use cases
+- [ ] :  Use for BLOB data use cases
 
-- [ ] Use large files
+- [ ] :  Use large files
 
-*
+*----
 
+- #dynamodb #aws #database #large_files #blob_data
 - hasExplain:: [[explanation_Question  28.md]]

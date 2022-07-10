@@ -12,16 +12,17 @@ The master RDS DB is not currently encrypted.**
 
 **What options are available to you? (Select TWO)**
 
-- [ ] You can create an encrypted Read Replica that is encrypted with the same key
+- [ ] :  You can create an encrypted Read Replica that is encrypted with the same key
 
-- [x] You can create an encrypted Read Replica that is encrypted with a different key
+- [x] :  You can create an encrypted Read Replica that is encrypted with a different key
 
-- [x] You can enable encryption for the master DB by creating a new DB from a snapshot with encryption enabled
+- [x] :  You can enable encryption for the master DB by creating a new DB from a snapshot with encryption enabled
 
-- [ ] You can enable encryption for the master DB through the management console
+- [ ] :  You can enable encryption for the master DB through the management console
 
-- [ ] You can use an ELB to provide an encrypted transport layer in front of the RDS DB
+- [ ] :  You can use an ELB to provide an encrypted transport layer in front of the RDS DB
 
+----
+
+- #master_rds_db #rds_db #rds_database #encryption #read_replica
 - hasExplain:: [[explanation_Question  34.md]]
-
-# master_rds_db #rds_db #rds_database #encryption #read_replica

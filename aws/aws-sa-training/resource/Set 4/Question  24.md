@@ -4,16 +4,17 @@
 
 terminated state. What are the most likely explanations? (Select TWO)**
 
-- [x] You've reached your EBS volume limit
+- [x] :  You've reached your EBS volume limit
 
-- [x] An EBS snapshot is corrupt
+- [x] :  An EBS snapshot is corrupt
 
-- [ ] AWS does not currently have enough available On-Demand capacity to service your request
+- [ ] :  AWS does not currently have enough available On-Demand capacity to service your request
 
-- [ ] You have reached the limit on the number of instances that you can launch in a region
+- [ ] :  You have reached the limit on the number of instances that you can launch in a region
 
-- [ ] The AMI is unsupported
+- [ ] :  The AMI is unsupported
 
-*
+*----
 
+- #ec2_instance #aws #ami #ebs_snapshot #ebs_volume_limit
 - hasExplain:: [[explanation_Question  24.md]]

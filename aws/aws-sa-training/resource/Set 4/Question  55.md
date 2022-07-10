@@ -6,14 +6,15 @@ categorization that allows for identification of Amazon EC2 resources by busines
 
 **Which AWS feature can be used?**
 
-- [ ] Parameters
+- [ ] :  Parameters
 
-- [ ] Metadata
+- [ ] :  Metadata
 
-- [ ] Custom filters
+- [ ] :  Custom filters
 
-- [x] Tags
+- [x] :  Tags
 
-*
+*----
 
+- #aws_feature #amazon_ec2_resources #single_amazon_vpc #several_environments #metadata
 - hasExplain:: [[explanation_Question  55.md]]

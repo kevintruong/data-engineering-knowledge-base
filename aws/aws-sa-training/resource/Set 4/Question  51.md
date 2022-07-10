@@ -10,16 +10,17 @@ on is example.com. AWS Route 53 will be used to perform DNS resolution for the a
 
 (Select TWO)**
 
-- [x] Use a Failover Routing Policy
+- [x] :  Use a Failover Routing Policy
 
-- [ ] Set Evaluate Target Health to “No” for the primary
+- [ ] :  Set Evaluate Target Health to “No” for the primary
 
-- [ ] Use a Weighted Routing Policy
+- [ ] :  Use a Weighted Routing Policy
 
-- [x] Connect the ELBs using Alias records
+- [x] :  Connect the ELBs using Alias records
 
-- [ ] Connect the ELBs using CNAME records
+- [ ] :  Connect the ELBs using CNAME records
 
-*
+*----
 
+- #solutions_architect_configure_aws_route #aws_route #elastic_load_balancers #aws #failover_routing_policy
 - hasExplain:: [[explanation_Question  51.md]]

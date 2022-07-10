@@ -10,14 +10,15 @@ Amazon CloudWatch metrics show the CPU utilization hitting 100%.**
 
 downtime?**
 
-- [ ] Configure an Amazon CloudFront distribution in front of the ALB
+- [ ] :  Configure an Amazon CloudFront distribution in front of the ALB
 
-- [ ] Configure an EC2 Auto Scaling simple scaling policy based on CPU utilization
+- [ ] :  Configure an EC2 Auto Scaling simple scaling policy based on CPU utilization
 
-- [x] Configure an EC2 Auto Scaling scheduled scaling policy based on the monthly schedule
+- [x] :  Configure an EC2 Auto Scaling scheduled scaling policy based on the monthly schedule
 
-- [ ] Configure Amazon ElastiCache to remove some of the workload from the EC2 instances
+- [ ] :  Configure Amazon ElastiCache to remove some of the workload from the EC2 instances
 
+----
+
+- #amazon_cloudwatch_metrics #ec2_auto_scaling #amazon_ec2_auto_scaling_group #configure_amazon_elasticache #application_load_balancer
 - hasExplain:: [[explanation_Question  12.md]]
-
-# amazon_cloudwatch_metrics #amazon_ec2_auto_scaling_group #ec2_auto_scaling #configure_amazon_elasticache #application_load_balancer

@@ -6,14 +6,17 @@ instances that ensures close proximity, low latency and high network throughput.
 
 **Which AWS features will help you to achieve this requirement whilst considering cost? (Select TWO)**
 
-- [ ] Use Provisioned IOPS EBS volumes
+- [ ] :  Use Provisioned IOPS EBS volumes
 
-- [ ] Launch I/O Optimized EC2 instances in one private subnet in an AZ
+- [ ] :  Launch I/O Optimized EC2 instances in one private subnet in an AZ
 
-- [x] Use EC2 instances with Enhanced Networking
+- [x] :  Use EC2 instances with Enhanced Networking
 
-- [ ] Use dedicated hosts
+- [ ] :  Use dedicated hosts
 
-- [x] Use Placement groups
+- [x] :  Use Placement groups
 
+----
+
+- #optimized_ec2_instances #ec2_instances #aws #ec2 #provisioned_iops_ebs_volumes
 - hasExplain:: [[explanation_Question  43.md]]

@@ -6,14 +6,15 @@ instance serving videos directly from an Amazon S3 bucket. Which of the followin
 
 directly accessing the video assets in the bucket?**
 
-- [ ] Launch the website Amazon EC2 instance using an IAM role that is authorized to access the videos
+- [ ] :  Launch the website Amazon EC2 instance using an IAM role that is authorized to access the videos
 
-- [ ] Restrict access to the bucket to the public CIDR range of the company locations
+- [ ] :  Restrict access to the bucket to the public CIDR range of the company locations
 
-- [x] Use a bucket policy to only allow referrals from the main website URL
+- [x] :  Use a bucket policy to only allow referrals from the main website URL
 
-- [ ] Use a bucket policy to only allow the public IP address of the Amazon EC2 instance hosting the customer website
+- [ ] :  Use a bucket policy to only allow the public IP address of the Amazon EC2 instance hosting the customer website
 
-*
+*----
 
+- #single_amazon_elastic_compute_cloud #website_amazon_ec2_instance #amazon_s3_bucket #amazon_ec2_instance #bucket_policy
 - hasExplain:: [[explanation_Question  36.md]]

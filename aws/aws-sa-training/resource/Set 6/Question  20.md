@@ -6,16 +6,17 @@ Load Balancer (ELB) to route traffic to multiple EC2 instances in peered VPCs wi
 
 achieved?**
 
-- [ ] This is not possible, the instances that an ELB routes traffic to must be in the same VPC
+- [ ] :  This is not possible, the instances that an ELB routes traffic to must be in the same VPC
 
-- [ ] This is possible using the Classic Load Balancer (CLB) if using Instance IDs
+- [ ] :  This is possible using the Classic Load Balancer (CLB) if using Instance IDs
 
-- [x] This is possible using the Network Load Balancer (NLB) and Application Load Balancer (ALB) if using IP addresses as
+- [x] :  This is possible using the Network Load Balancer (NLB) and Application Load Balancer (ALB) if using IP addresses as
 
 targets
 
-- [ ] This is not possible with ELB, you would need to use Route 53
+- [ ] :  This is not possible with ELB, you would need to use Route 53
 
-*
+*----
 
+- #multiple_amazon_vpcs #multiple_ec2_instances #elb #load_balancer #classic_load_balancer
 - hasExplain:: [[explanation_Question  20.md]]

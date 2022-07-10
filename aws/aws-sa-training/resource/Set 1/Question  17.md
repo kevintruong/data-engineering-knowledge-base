@@ -6,11 +6,11 @@ requires high availability and must dynamically scale based on demand to be cost
 
 **What should the solutions architect do to meet these requirements?**
 
-- [ ] Configure an Application Load Balancer in front of an Auto Scaling group to deploy instances to multiple Regions
+- [ ] :  Configure an Application Load Balancer in front of an Auto Scaling group to deploy instances to multiple Regions
 
-- [ ] Configure an Amazon CloudFront distribution in front of an Auto Scaling group to deploy instances to multiple Regions
+- [ ] :  Configure an Amazon CloudFront distribution in front of an Auto Scaling group to deploy instances to multiple Regions
 
-- [x] Configure an Application Load Balancer in front of an Auto Scaling group to deploy instances to multiple Availability
+- [x] :  Configure an Application Load Balancer in front of an Auto Scaling group to deploy instances to multiple Availability
 
 Zones
 
@@ -74,10 +74,11 @@ Amazon DynamoDB
 
 ```
 
-- [ ] Configure an Amazon API Gateway API in front of an Auto Scaling group to deploy instances to multiple Availability
+- [ ] :  Configure an Amazon API Gateway API in front of an Auto Scaling group to deploy instances to multiple Availability
 
 Zones
 
-- hasExplain:: [[explanation_Question  17.md]]
+----
 
-# high_availability #amazon_ec2 #amazon_dynamodb #application_load_balancer #solutions_architect
+- #high_availability #application_load_balancer #amazon_dynamodb #amazon_ec2 #amazon_cloudfront_distribution
+- hasExplain:: [[explanation_Question  17.md]]

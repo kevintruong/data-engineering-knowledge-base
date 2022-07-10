@@ -8,22 +8,23 @@ S3 bucket is not possible.**
 
 **How can this be achieved?**
 
-- [ ] Configure CloudFront to require users to access the files using signed cookies, create an origin access identity (
+- [ ] :  Configure CloudFront to require users to access the files using signed cookies, create an origin access identity (
 
 OAI) and instruct users to login with the OAI
 
-- [x] Configure CloudFront to require users to access the files using a signed URL, create an origin access identity
+- [x] :  Configure CloudFront to require users to access the files using a signed URL, create an origin access identity
 
 (OAI) and restrict access to the files in the Amazon S3 bucket to the OAI
 
-- [ ] Configure CloudFront to require users to access the files using signed cookies, and move the files to an encrypted
+- [ ] :  Configure CloudFront to require users to access the files using signed cookies, and move the files to an encrypted
 
 EBS volume
 
-- [ ] Configure CloudFront to require users to access the files using a signed URL, and configure the S3 bucket as a
+- [ ] :  Configure CloudFront to require users to access the files using a signed URL, and configure the S3 bucket as a
 
 website endpoint
 
-- hasExplain:: [[explanation_Question  61.md]]
+----
 
-# cloudfront #configure_cloudfront #amazon_s3_bucket #s3_bucket #private_content
+- #cloudfront #configure_cloudfront #amazon_s3_bucket #s3_bucket #private_content
+- hasExplain:: [[explanation_Question  61.md]]

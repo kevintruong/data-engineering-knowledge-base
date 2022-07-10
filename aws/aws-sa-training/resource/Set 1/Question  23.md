@@ -8,14 +8,15 @@ Direct Connect link.**
 
 **Which AWS service can assist them?**
 
-- [ ] AWS Database Migration Service (DMS)
+- [ ] :  AWS Database Migration Service (DMS)
 
-- [ ] AWS CloudFormation
+- [ ] :  AWS CloudFormation
 
-- [ ] AWS Snowball
+- [ ] :  AWS Snowball
 
-- [x] AWS DataSync
+- [x] :  AWS DataSync
 
+----
+
+- #aws_database_migration_service #aws_datasync #aws_cloudformation #aws_service #aws
 - hasExplain:: [[explanation_Question  23.md]]
-
-# aws_database_migration_service #aws_datasync #aws_cloudformation #aws_service #aws

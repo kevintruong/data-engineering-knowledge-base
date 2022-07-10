@@ -10,12 +10,15 @@ Z.**
 
 **How can the required connectivity be configured?**
 
-- [ ] Associate the Direct Connect gateway to a transit gateway in each region
+- [ ] :  Associate the Direct Connect gateway to a transit gateway in each region
 
-- [x] Associate the Direct Connect gateway to a virtual private gateway in account A and B
+- [x] :  Associate the Direct Connect gateway to a virtual private gateway in account A and B
 
-- [ ] Create a VPC Endpoint to the Direct Connect gateway in account A and B
+- [ ] :  Create a VPC Endpoint to the Direct Connect gateway in account A and B
 
-- [ ] Create a PrivateLink connection in Account Z and ENIs in accounts A and B
+- [ ] :  Create a PrivateLink connection in Account Z and ENIs in accounts A and B
 
+----
+
+- #aws_accounts #direct_connect_gateway #transit_gateway #virtual_private_gateway #vpc_endpoint
 - hasExplain:: [[explanation_Question  2.md]]

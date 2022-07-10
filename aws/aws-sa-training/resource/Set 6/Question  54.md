@@ -4,16 +4,17 @@
 
 the resilience of the service. Which of the statements below is correct about Amazon Glacier storage? (Select TWO)**
 
-- [ ] Data is replicated globally
+- [ ] :  Data is replicated globally
 
-- [x] Provides 99.999999999% durability of archives
+- [x] :  Provides 99.999999999% durability of archives
 
-- [x] Data is resilient in the event of one entire Availability Zone destruction
+- [x] :  Data is resilient in the event of one entire Availability Zone destruction
 
-- [ ] Data is resilient in the event of one entire region destruction
+- [ ] :  Data is resilient in the event of one entire region destruction
 
-- [ ] Provides 99.9% availability of archives
+- [ ] :  Provides 99.9% availability of archives
 
-*
+*----
 
+- #amazon_glacier_storage #amazon_glacier #entire_availability_zone_destruction #archives #%_availability
 - hasExplain:: [[explanation_Question  54.md]]

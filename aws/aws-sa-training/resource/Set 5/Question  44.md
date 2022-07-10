@@ -8,14 +8,15 @@ the effects that implementing updates to the resources might have on other resou
 
 **What is the easiest way to proceed cautiously?**
 
-- [x] Create and execute a change set
+- [x] :  Create and execute a change set
 
-- [ ] Use OpsWorks to manage the configuration changes
+- [ ] :  Use OpsWorks to manage the configuration changes
 
-- [ ] Use a direct update
+- [ ] :  Use a direct update
 
-- [ ] Deploy a new stack to test the changes
+- [ ] :  Deploy a new stack to test the changes
 
-*
+*----
 
+- #aws_resources #cloudformation #configuration_changes #solutions_architect #changes
 - hasExplain:: [[explanation_Question  44.md]]

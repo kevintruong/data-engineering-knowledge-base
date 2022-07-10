@@ -6,16 +6,17 @@ recover the data to the last known good configuration. Which of the following st
 
 RDS database to a specific point-in-time? (Select TWO)**
 
-- [x] You can restore up to the last 5 minutes
+- [x] :  You can restore up to the last 5 minutes
 
-- [ ] Custom DB security groups are applied to the new DB instance
+- [ ] :  Custom DB security groups are applied to the new DB instance
 
-- [ ] You can restore up to the last 1 minute
+- [ ] :  You can restore up to the last 1 minute
 
-- [x] The default DB security group is applied to the new DB instance
+- [x] :  The default DB security group is applied to the new DB instance
 
-- [ ] The database restore overwrites the existing database
+- [ ] :  The database restore overwrites the existing database
 
-*
+*----
 
+- #amazon_rds_database #rds_database #in-_time_restore #database_restore #new_db_instance
 - hasExplain:: [[explanation_Question  21.md]]

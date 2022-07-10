@@ -6,12 +6,15 @@ service provider model for AWS principals in other accounts within the region to
 
 service will be used to offer the service for consumption?**
 
-- [ ] IAM Role Based Access Control
+- [ ] :  IAM Role Based Access Control
 
-- [ ] Route 53
+- [ ] :  Route 53
 
-- [x] VPC Endpoint Services using AWS PrivateLink
+- [x] :  VPC Endpoint Services using AWS PrivateLink
 
-- [ ] API Gateway
+- [ ] :  API Gateway
 
+----
+
+- #vpc_endpoint_services #aws #aws_principals #aws_privatelink #iam_role_based_access_control
 - hasExplain:: [[explanation_Question  35.md]]

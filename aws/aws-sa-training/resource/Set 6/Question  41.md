@@ -8,12 +8,15 @@ to the instance.**
 
 **From the options below, what would be the best source of this information?**
 
-- [x] Metadata
+- [x] :  Metadata
 
-- [ ] Tags
+- [ ] :  Tags
 
-- [ ] User data
+- [ ] :  User data
 
-- [ ] Parameters
+- [ ] :  Parameters
 
+----
+
+- #iam_role #amazon_ec2_linux_instance #metadata #security_groups #instance_id
 - hasExplain:: [[explanation_Question  41.md]]

@@ -6,12 +6,15 @@ be shared with multiple Amazon EC2 instances.**
 
 **Which AWS service delivers these requirements?**
 
-- [x] Amazon S3
+- [x] :  Amazon S3
 
-- [ ] Amazon ElastiCache
+- [ ] :  Amazon ElastiCache
 
-- [ ] Amazon EFS
+- [ ] :  Amazon EFS
 
-- [ ] Amazon EBS
+- [ ] :  Amazon EBS
 
+----
+
+- #multiple_amazon_ec2 #aws_service #amazon_elasticache #amazon_efs #amazon_s3
 - hasExplain:: [[explanation_Question  42.md]]

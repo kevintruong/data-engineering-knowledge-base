@@ -6,14 +6,15 @@ RDS in a multi-AZ configuration. What type of replication will the primary datab
 
 instance?**
 
-- [ ] Continuous replication
+- [ ] :  Continuous replication
 
-- [ ] Asynchronous replication
+- [ ] :  Asynchronous replication
 
-- [ ] Scheduled replication
+- [ ] :  Scheduled replication
 
-- [x] Synchronous replication
+- [x] :  Synchronous replication
 
-*
+*----
 
+- #multi_-_az_configuration #replication #synchronous_replication #asynchronous_replication #continuous_replication
 - hasExplain:: [[explanation_Question  39.md]]

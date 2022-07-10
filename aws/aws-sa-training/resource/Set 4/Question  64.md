@@ -8,16 +8,17 @@ group from launching new instances temporarily.**
 
 **What is the best method to accomplish this? (Select TWO)**
 
-- [ ] Remove the EC2 instance from the Target Group
+- [ ] :  Remove the EC2 instance from the Target Group
 
-- [ ] Disable the launch configuration associated with the EC2 instance
+- [ ] :  Disable the launch configuration associated with the EC2 instance
 
-- [x] Place the EC2 instance that is experiencing issues into the Standby state
+- [x] :  Place the EC2 instance that is experiencing issues into the Standby state
 
-- [x] Suspend the scaling processes responsible for launching new instances
+- [x] :  Suspend the scaling processes responsible for launching new instances
 
-- [ ] Disable the dynamic scaling policy
+- [ ] :  Disable the dynamic scaling policy
 
-*
+*----
 
+- #dynamic_scaling_policy #auto_scaling_group #auto_scaling #ec2_instance #scaling_processes
 - hasExplain:: [[explanation_Question  64.md]]

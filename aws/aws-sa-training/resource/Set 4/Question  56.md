@@ -8,16 +8,17 @@ large number of concurrent users using BI tools.**
 
 **What is the BEST combination of AWS services to use in this situation? (Select TWO)**
 
-- [x] RedShift Spectrum for the complex queries
+- [x] :  RedShift Spectrum for the complex queries
 
-- [x] Amazon Athena for the ad hoc SQL querying
+- [x] :  Amazon Athena for the ad hoc SQL querying
 
-- [ ] AWS Glue for the ad hoc SQL querying
+- [ ] :  AWS Glue for the ad hoc SQL querying
 
-- [ ] AWS Lambda for the complex queries
+- [ ] :  AWS Lambda for the complex queries
 
-- [ ] Amazon Kinesis for the complex queries
+- [ ] :  Amazon Kinesis for the complex queries
 
-*
+*----
 
+- #aws_lambda #aws_services #data_lake #amazon_athena #amazon_s3
 - hasExplain:: [[explanation_Question  56.md]]

@@ -4,16 +4,17 @@
 
 subnet. What advantages do NAT Gateways have over NAT Instances? (Select TWO)**
 
-- [ ] Can be assigned to security groups
+- [ ] :  Can be assigned to security groups
 
-- [ ] Can be used as a bastion host
+- [ ] :  Can be used as a bastion host
 
-- [x] Managed for you by AWS
+- [x] :  Managed for you by AWS
 
-- [x] Highly available within each AZ
+- [x] :  Highly available within each AZ
 
-- [ ] Can be scaled up manually
+- [ ] :  Can be scaled up manually
 
-*
+*----
 
+- #nat_gateways #nat_instances #ec2_instances #aws #advantages
 - hasExplain:: [[explanation_Question  40.md]]

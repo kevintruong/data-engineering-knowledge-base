@@ -2852,7 +2852,7 @@ https://docs.aws.amazon.com/efs/latest/ug/how-it-works.html
 
 - [ ] Implement a scheduled action that sets the desired capacity to 20 shortly before the office opens
 
-2 : Implement a step scaling action triggered at a lower CPU threshold, and decrease the cooldown period
+2: Implement a step scaling action triggered at a lower CPU threshold, and decrease the cooldown period
 
 - [ ] Implement a target tracking action triggered at a lower CPU threshold, and decrease the cooldown period
 
@@ -5336,7 +5336,7 @@ compliance/aws-kms/
 
 - [ ] Set up an Amazon API Gateway and use Amazon ECS
 
-2 : Set up an Amazon API Gateway and use AWS Elastic Beanstalk
+2: Set up an Amazon API Gateway and use AWS Elastic Beanstalk
 
 - [ ] Set up an Amazon API Gateway and use AWS Lambda functions
 
@@ -10207,7 +10207,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html?icmpid=d
 
 - [ ] Send an SNS notification, if configured to do so
 
-4 : Wait for the cooldown period and then terminate the instance that has been running the longest
+4: Wait for the cooldown period and then terminate the instance that has been running the longest
 
 - [ ] Terminate an instance in the AZ which currently has 2 running EC2 instances
 

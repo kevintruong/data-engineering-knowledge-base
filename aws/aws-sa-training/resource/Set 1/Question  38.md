@@ -8,14 +8,15 @@ applications for a global user base. The database should be a fully managed serv
 
 **Which AWS service can deliver these requirements?**
 
-- [x] DynamoDB with Global Tables and Multi-Region Replication
+- [x] :  DynamoDB with Global Tables and Multi-Region Replication
 
-- [ ] EC2 instances with EBS replication
+- [ ] :  EC2 instances with EBS replication
 
-- [ ] S3 with Cross Region Replication
+- [ ] :  S3 with Cross Region Replication
 
-- [ ] RDS with Multi-AZ
+- [ ] :  RDS with Multi-AZ
 
+----
+
+- #multi_-_region_replication #aws_service #cross_region_replication #ebs_replication #multi_-_master_database
 - hasExplain:: [[explanation_Question  38.md]]
-
-# multi_-_region_replication #aws_service #cross_region_replication #ebs_replication #ec2_instances

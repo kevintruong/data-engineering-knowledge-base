@@ -6,16 +6,17 @@ Architect needs to directly access the EC2 instance from the Internet and cannot
 
 undertaken to troubleshoot the issue? (Select TWO)**
 
-- [x] Check that the instance has a public IP address
+- [x] :  Check that the instance has a public IP address
 
-- [ ] Check that there is a NAT Gateway configured for the subnet
+- [ ] :  Check that there is a NAT Gateway configured for the subnet
 
-- [ ] Check that Security Group has a rule for outbound traffic
+- [ ] :  Check that Security Group has a rule for outbound traffic
 
-- [x] Check that the route table associated with the subnet has an entry for an Internet Gateway
+- [x] :  Check that the route table associated with the subnet has an entry for an Internet Gateway
 
-- [ ] Check that you can ping the instance from another subnet
+- [ ] :  Check that you can ping the instance from another subnet
 
-*
+*----
 
+- #ec2_instance #amazon_ec2_instance #amazon_vpc #subnet #new_subnet
 - hasExplain:: [[explanation_Question  48.md]]

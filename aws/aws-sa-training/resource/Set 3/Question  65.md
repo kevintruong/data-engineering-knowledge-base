@@ -4,12 +4,15 @@
 
 DB to be taken offline during a maintenance window?**
 
-- [ ] Selecting the Multi-AZ feature
+- [ ] :  Selecting the Multi-AZ feature
 
-- [x] Security patching
+- [x] :  Security patching
 
-- [ ] Promoting a Read Replica
+- [ ] :  Promoting a Read Replica
 
-- [ ] Updating DB parameter groups
+- [ ] :  Updating DB parameter groups
 
+----
+
+- #rds_db_instance_events #availability #maintenance_window #critical_database #vpc
 - hasExplain:: [[explanation_Question  65.md]]

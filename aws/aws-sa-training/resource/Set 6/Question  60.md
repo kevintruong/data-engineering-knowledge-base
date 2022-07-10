@@ -8,16 +8,17 @@ for the heavy load to ensure throttling does not occur.**
 
 **What would be the most efficient solution to optimize cost?**
 
-- [ ] Create a CloudWatch alarm that triggers an AWS Lambda function that adjusts the provisioned throughput
+- [ ] :  Create a CloudWatch alarm that triggers an AWS Lambda function that adjusts the provisioned throughput
 
-- [ ] Create a CloudWatch alarm that notifies you of increased/decreased load, and manually adjust the provisioned
+- [ ] :  Create a CloudWatch alarm that notifies you of increased/decreased load, and manually adjust the provisioned
 
 throughput
 
-- [ ] Use DynamoDB DAX to increase the performance of the database
+- [ ] :  Use DynamoDB DAX to increase the performance of the database
 
-- [x] Create a DynamoDB Auto Scaling scaling policy
+- [x] :  Create a DynamoDB Auto Scaling scaling policy
 
-*
+*----
 
+- #dynamodb_auto_scaling #amazon_dynamodb_table #provisioned_throughput_capacity #aws_lambda_function #cloudwatch_alarm
 - hasExplain:: [[explanation_Question  60.md]]

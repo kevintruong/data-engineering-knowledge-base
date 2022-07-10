@@ -10,16 +10,17 @@ been terminated by EC2 Auto Scaling.**
 
 **What would be an explanation for this behavior?**
 
-- [ ] The ASG is waiting for the cooldown timer to expire before terminating the instance
+- [ ] :  The ASG is waiting for the cooldown timer to expire before terminating the instance
 
-- [ ] Connection draining is enabled and the ASG is waiting for in-flight requests to complete
+- [ ] :  Connection draining is enabled and the ASG is waiting for in-flight requests to complete
 
-- [x] The ELB health check type has not been selected for the ASG and so it is unaware that the instance has been
+- [x] :  The ELB health check type has not been selected for the ASG and so it is unaware that the instance has been
 
 determined to be unhealthy by the ELB and has been removed from service
 
-- [ ] The health check grace period has not yet expired
+- [ ] :  The health check grace period has not yet expired
 
-*
+*----
 
+- #ec2_auto_scaling #elb_health_check_type #elastic_load_balancer #ec2_status_checks #ec2_instance
 - hasExplain:: [[explanation_Question  29.md]]

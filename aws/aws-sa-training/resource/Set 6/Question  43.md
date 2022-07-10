@@ -10,16 +10,17 @@ files and permanently delete the rest.**
 
 **Which action can a Solutions Architect take to enable this to happen automatically?**
 
-- [x] Use an S3 lifecycle policy with object expiration configured to automatically remove objects that are more than 60
+- [x] :  Use an S3 lifecycle policy with object expiration configured to automatically remove objects that are more than 60
 
 days old
 
-- [ ] Write a Ruby script that checks the age of objects and deletes any that are more than 60 days old
+- [ ] :  Write a Ruby script that checks the age of objects and deletes any that are more than 60 days old
 
-- [ ] Use an S3 bucket policy that deletes objects that are more than 60 days old
+- [ ] :  Use an S3 bucket policy that deletes objects that are more than 60 days old
 
-- [ ] Use an S3 lifecycle policy to move the log files that are more than 60 days old to the GLACIER storage class
+- [ ] :  Use an S3 lifecycle policy to move the log files that are more than 60 days old to the GLACIER storage class
 
-*
+*----
 
+- #s3_lifecycle_policy #s3_bucket_policy #glacier_storage_class #amazon_s3_*_* #amazon_rds
 - hasExplain:: [[explanation_Question  43.md]]

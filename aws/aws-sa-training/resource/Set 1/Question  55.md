@@ -10,14 +10,15 @@ the following text:**
 
 **You have been asked to resolve the problem, what is the most likely solution?**
 
-- [ ] The IAM policy does not allow access to the API
+- [ ] :  The IAM policy does not allow access to the API
 
-- [ ] The ACL on the API needs to be updated
+- [ ] :  The ACL on the API needs to be updated
 
-- [ ] The request is not secured with SSL/TLS
+- [ ] :  The request is not secured with SSL/TLS
 
-- [x] Enable CORS on the APIs resources using the selected methods under the API Gateway
+- [x] :  Enable CORS on the APIs resources using the selected methods under the API Gateway
 
+----
+
+- #amazon_api_gateway #api_gateway #cross_-_origin_request #same_origin_policy_disallows #api
 - hasExplain:: [[explanation_Question  55.md]]
-
-# amazon_api_gateway #api_gateway #cross_-_origin_request #same_origin_policy_disallows #api

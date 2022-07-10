@@ -6,16 +6,17 @@ All EC2 instances need to communicate to each other with low latency and high th
 
 **Which EC2 solution BEST meets these requirements?**
 
-- [x] Launch the EC2 instances in a cluster placement group in one Availability Zone
+- [x] :  Launch the EC2 instances in a cluster placement group in one Availability Zone
 
-- [ ] Launch the EC2 instances in a spread placement group in one Availability Zone
+- [ ] :  Launch the EC2 instances in a spread placement group in one Availability Zone
 
-- [ ] Launch the EC2 instances in an Auto Scaling group in two Regions. Place a Network Load Balancer in front of the
+- [ ] :  Launch the EC2 instances in an Auto Scaling group in two Regions. Place a Network Load Balancer in front of the
 
 instances
 
-- [ ] Launch the EC2 instances in an Auto Scaling group spanning multiple Availability Zones
+- [ ] :  Launch the EC2 instances in an Auto Scaling group spanning multiple Availability Zones
 
+----
+
+- #ec2_solution_best #ec2_instances #amazon_ec2_linux #multiple_availability_zones #cluster_placement_group
 - hasExplain:: [[explanation_Question  13.md]]
-
-# ec2_solution_best #ec2_instances #multiple_availability_zones #amazon_ec2_linux #cluster_placement_group

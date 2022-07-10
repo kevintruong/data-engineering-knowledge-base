@@ -8,16 +8,17 @@ key.**
 
 **What steps must be performed to share the encrypted EBS snapshot with the Prod account? (Select TWO)**
 
-- [x] Share the custom key used to encrypt the volume
+- [x] :  Share the custom key used to encrypt the volume
 
-- [ ] Make a copy of the EBS volume and unencrypt the data in the process
+- [ ] :  Make a copy of the EBS volume and unencrypt the data in the process
 
-- [ ] Create a snapshot of the unencrypted volume and share it with the Prod account
+- [ ] :  Create a snapshot of the unencrypted volume and share it with the Prod account
 
-- [x] Modify the permissions on the encrypted snapshot to share it with the Prod account
+- [x] :  Modify the permissions on the encrypted snapshot to share it with the Prod account
 
-- [ ] Use CloudHSM to distribute the encryption keys use to encrypt the volume
+- [ ] :  Use CloudHSM to distribute the encryption keys use to encrypt the volume
 
-*
+*----
 
+- #multiple_aws_accounts #cloudhsm #ebs_volume #encryption_keys #amazon_ebs
 - hasExplain:: [[explanation_Question  57.md]]

@@ -6,18 +6,21 @@ The Architect wants to use the Amazon Route 53 service. Which steps should the A
 
 and cost-effective solution? (Select TWO)**
 
-- [x] Create a Route 53 hosted zone, and set the NS records of the domain to use Route 53 name servers
+- [x] :  Create a Route 53 hosted zone, and set the NS records of the domain to use Route 53 name servers
 
-- [x] Serve the website from an Amazon S3 bucket, and map a Route 53 Alias record to the website endpoint
+- [x] :  Serve the website from an Amazon S3 bucket, and map a Route 53 Alias record to the website endpoint
 
-- [ ] Host the website on an Amazon EC2 instance, and map a Route 53 Alias record to the public IP address of the EC2
+- [ ] :  Host the website on an Amazon EC2 instance, and map a Route 53 Alias record to the public IP address of the EC2
 
 instance
 
-- [ ] Host the website using AWS Elastic Beanstalk, and map a Route 53 Alias record to the Beanstalk stack
+- [ ] :  Host the website using AWS Elastic Beanstalk, and map a Route 53 Alias record to the Beanstalk stack
 
-- [ ] Host the website on an Amazon EC2 instance with ELB and Auto Scaling, and map a Route 53 Alias record to the ELB
+- [ ] :  Host the website on an Amazon EC2 instance with ELB and Auto Scaling, and map a Route 53 Alias record to the ELB
 
 endpoint
 
+----
+
+- #amazon_route #aws_elastic_beanstalk #ec2 #hosted_zone #elb
 - hasExplain:: [[explanation_Question  60.md]]

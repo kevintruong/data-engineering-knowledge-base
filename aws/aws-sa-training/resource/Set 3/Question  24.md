@@ -4,12 +4,15 @@
 
 needs to provide automatic instantiation and scaling. Which database service is most suitable?**
 
-- [ ] Amazon RDS MySQL
+- [ ] :  Amazon RDS MySQL
 
-- [ ] Amazon EC2 instance with MySQL database installed
+- [ ] :  Amazon EC2 instance with MySQL database installed
 
-- [ ] Amazon Aurora
+- [ ] :  Amazon Aurora
 
-- [x] Amazon Aurora Serverless
+- [x] :  Amazon Aurora Serverless
 
+----
+
+- #amazon_rds_mysql #database_service #amazon_aurora_serverless #amazon_aurora #database
 - hasExplain:: [[explanation_Question  24.md]]

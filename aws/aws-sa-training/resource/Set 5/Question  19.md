@@ -6,12 +6,15 @@ in-memory caching layer to improve performance for repeated queries. Which servi
 
 replacement for the database cache?**
 
-- [ ] Amazon ElastiCache Redis
+- [ ] :  Amazon ElastiCache Redis
 
-- [ ] Amazon DynamoDB DAX
+- [ ] :  Amazon DynamoDB DAX
 
-- [x] Amazon ElastiCache Memcached
+- [x] :  Amazon ElastiCache Memcached
 
-- [ ] Amazon RDS MySQL
+- [ ] :  Amazon RDS MySQL
 
+----
+
+- #amazon_rds_mysql #aws #amazon_dynamodb_dax #amazon_elasticache_redis #amazon_elasticache_memcached
 - hasExplain:: [[explanation_Question  19.md]]

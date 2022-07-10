@@ -12,11 +12,11 @@ data when the application is not actively running.**
 
 application? (Select TWO)**
 
-- [x] Amazon S3 for cold data storage
+- [x] :  Amazon S3 for cold data storage
 
-- [ ] Amazon EFS for cold data storage
+- [ ] :  Amazon EFS for cold data storage
 
-- [ ] Amazon S3 for high-performance parallel storage
+- [ ] :  Amazon S3 for high-performance parallel storage
 
 ```
 
@@ -118,10 +118,11 @@ AZ
 
 ```
 
-- [x] Amazon FSx for Lustre for high-performance parallel storage
+- [x] :  Amazon FSx for Lustre for high-performance parallel storage
 
-- [ ] Amazon FSx for Windows for high-performance parallel storage
+- [ ] :  Amazon FSx for Windows for high-performance parallel storage
 
+----
+
+- #aws_cloud #cold_data_storage #performance_parallel_storage #aws #storage_needs
 - hasExplain:: [[explanation_Question  12.md]]
-
-# aws_cloud #cold_data_storage #performance_parallel_storage #aws #storage_needs

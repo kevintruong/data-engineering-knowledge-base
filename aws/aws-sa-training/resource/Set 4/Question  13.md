@@ -6,12 +6,15 @@ MPI protocol and runs across many nodes. A service-managed deployment is require
 
 **Which deployment option is MOST suitable for provisioning and managing the resources required for this use case?**
 
-- [ ] Use Amazon EC2 Auto Scaling to deploy instances in multiple subnets
+- [ ] :  Use Amazon EC2 Auto Scaling to deploy instances in multiple subnets
 
-- [ ] Use AWS CloudFormation to deploy a Cluster Placement Group on EC2
+- [ ] :  Use AWS CloudFormation to deploy a Cluster Placement Group on EC2
 
-- [x] Use AWS Batch to deploy a multi-node parallel job
+- [x] :  Use AWS Batch to deploy a multi-node parallel job
 
-- [ ] Use AWS Elastic Beanstalk to provision and manage the EC2 instances
+- [ ] :  Use AWS Elastic Beanstalk to provision and manage the EC2 instances
 
+----
+
+- #ec2_instances #aws_cloudformation #amazon_ec2_auto_scaling #aws #aws_batch
 - hasExplain:: [[explanation_Question  13.md]]

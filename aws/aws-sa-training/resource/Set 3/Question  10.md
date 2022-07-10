@@ -8,14 +8,15 @@ who can access those keys.**
 
 **What should a solutions architect use to accomplish this?**
 
-- [ ] Server-Side Encryption with keys stored in an S3 bucket
+- [ ] :  Server-Side Encryption with keys stored in an S3 bucket
 
-- [ ] Server-Side Encryption with Customer-Provided Keys (SSE-C)
+- [ ] :  Server-Side Encryption with Customer-Provided Keys (SSE-C)
 
-- [ ] Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)
+- [ ] :  Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)
 
-- [x] Server-Side Encryption with AWS KMS-Managed Keys (SSE-KMS)
+- [x] :  Server-Side Encryption with AWS KMS-Managed Keys (SSE-KMS)
 
+----
+
+- #s3_bucket #amazon_s3 #side_encryption #aws_kms #s3
 - hasExplain:: [[explanation_Question  10.md]]
-
-# s3_bucket #amazon_s3 #side_encryption #aws_kms #s3

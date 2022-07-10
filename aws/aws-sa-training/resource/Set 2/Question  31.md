@@ -8,14 +8,15 @@ performance.**
 
 **How can this be achieved?**
 
-- [x] Configure AWS Global Accelerator and configure the ALBs as targets
+- [x] :  Configure AWS Global Accelerator and configure the ALBs as targets
 
-- [ ] Place an EC2 Proxy in front of the ALB and configure automatic failover
+- [ ] :  Place an EC2 Proxy in front of the ALB and configure automatic failover
 
-- [ ] Create a Route 53 Alias record for each ALB and configure a latency-based routing policy
+- [ ] :  Create a Route 53 Alias record for each ALB and configure a latency-based routing policy
 
-- [ ] Use a CloudFront distribution with multiple custom origins in each region and configure for high availability
+- [ ] :  Use a CloudFront distribution with multiple custom origins in each region and configure for high availability
 
+----
+
+- #elb_application_load_balancer #aws #high_availability #configure_aws #cloudfront_distribution
 - hasExplain:: [[explanation_Question  31.md]]
-
-# elb_application_load_balancer #high_availability #aws #configure_aws #cloudfront_distribution

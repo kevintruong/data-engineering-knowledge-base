@@ -8,22 +8,23 @@ connection. The database should only be accessible to web servers in a public su
 
 **Which solution meets these requirements without impacting other running applications? (Select TWO)**
 
-- [x] Create a DB server security group that allows MySQL port 3306 inbound and specify the source as a web server security
+- [x] :  Create a DB server security group that allows MySQL port 3306 inbound and specify the source as a web server security
 
 group
 
-- [x] Create a web server security group that allows HTTPS port 443 inbound traffic from Anywhere (0.0.0.0/0)
+- [x] :  Create a web server security group that allows HTTPS port 443 inbound traffic from Anywhere (0.0.0.0/0)
 
 and apply it to the web servers
 
-- [ ] Create a network ACL on the web server's subnet, allow HTTPS port 443 inbound, and specify the source as 0.0.0.0/0
+- [ ] :  Create a network ACL on the web server's subnet, allow HTTPS port 443 inbound, and specify the source as 0.0.0.0/0
 
-- [ ] Create a DB server security group that allows the HTTPS port 443 inbound and specify the source as a web server
+- [ ] :  Create a DB server security group that allows the HTTPS port 443 inbound and specify the source as a web server
 
 security group
 
-- [ ] Create a network ACL on the DB subnet, allow MySQL port 3306 inbound for web servers, and deny all outbound traffic
+- [ ] :  Create a network ACL on the DB subnet, allow MySQL port 3306 inbound for web servers, and deny all outbound traffic
 
+----
+
+- #amazon_rds_mysql_db_instance #db_server_security_group #web_server_security_group #db_subnet #web_server_security
 - hasExplain:: [[explanation_Question  43.md]]
-
-# amazon_rds_mysql_db_instance #db_server_security_group #web_server_security_group #web_server_security #db_subnet

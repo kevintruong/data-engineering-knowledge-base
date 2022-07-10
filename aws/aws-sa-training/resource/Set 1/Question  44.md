@@ -6,14 +6,15 @@ data at any point in time but will not require frequent access.
 
 Which lifecycle action should be taken to meet the requirements while reducing costs?
 
-- [ ] Transition objects from Amazon S3 Standard to the GLACIER storage class
+- [ ] :  Transition objects from Amazon S3 Standard to the GLACIER storage class
 
-- [ ] Transition objects to expire after 5 years
+- [ ] :  Transition objects to expire after 5 years
 
-- [x] Transition objects from Amazon S3 Standard to Amazon S3 Standard-Infrequent Access (S3 Standard-IA)
+- [x] :  Transition objects from Amazon S3 Standard to Amazon S3 Standard-Infrequent Access (S3 Standard-IA)
 
-- [ ] Transition objects from Amazon S3 Standard to Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
+- [ ] :  Transition objects from Amazon S3 Standard to Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
 
+----
+
+- #glacier_storage_class #amazon_s3 #lifecycle_action #amazon_s3_standard #infrequent_access
 - hasExplain:: [[explanation_Question  44.md]]
-
-# glacier_storage_class #amazon_s3 #lifecycle_action #amazon_s3_standard #infrequent_access

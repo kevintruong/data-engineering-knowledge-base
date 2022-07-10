@@ -8,12 +8,15 @@ this is introducing overall latency into the system. What steps can a Solutions 
 
 of the long-running API calls?**
 
-- [ ] Change the EC2 instance to one with enhanced networking to reduce latency
+- [ ] :  Change the EC2 instance to one with enhanced networking to reduce latency
 
-- [x] Create an Amazon SQS queue and decouple the long-running API calls
+- [x] :  Create an Amazon SQS queue and decouple the long-running API calls
 
-- [ ] Increase the ALB idle timeout to allow the long-running requests to complete
+- [ ] :  Increase the ALB idle timeout to allow the long-running requests to complete
 
-- [ ] Change the ALB to a Network Load Balancer (NLB) and use SSL/TLS termination
+- [ ] :  Change the ALB to a Network Load Balancer (NLB) and use SSL/TLS termination
 
+----
+
+- #amazon_sqs_queue #api_calls #application_load_balancer #amazon_ec2_instances #ec2_instance
 - hasExplain:: [[explanation_Question  4.md]]

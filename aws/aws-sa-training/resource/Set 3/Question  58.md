@@ -4,12 +4,15 @@
 
 to the application should you use?**
 
-- [ ] Store the API credentials on the instance using instance metadata
+- [ ] :  Store the API credentials on the instance using instance metadata
 
-- [ ] Store API credentials as an object in Amazon S3
+- [ ] :  Store API credentials as an object in Amazon S3
 
-- [ ] Embed the API credentials into your application files
+- [ ] :  Embed the API credentials into your application files
 
-- [x] Assign IAM roles to the EC2 instances
+- [x] :  Assign IAM roles to the EC2 instances
 
+----
+
+- #aws_apis #api_credentials #store_api_credentials #credentials #ec2_instances
 - hasExplain:: [[explanation_Question  58.md]]

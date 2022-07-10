@@ -4,14 +4,15 @@
 
 simplest way to alleviate the performance issues?**
 
-- [ ] Create DynamoDB read replicas
+- [ ] :  Create DynamoDB read replicas
 
-- [ ] Enable EC2 Auto Scaling for DynamoDB
+- [ ] :  Enable EC2 Auto Scaling for DynamoDB
 
-- [ ] Create an ElastiCache cluster in front of DynamoDB
+- [ ] :  Create an ElastiCache cluster in front of DynamoDB
 
-- [x] Enable DynamoDB DAX
+- [x] :  Enable DynamoDB DAX
 
+----
+
+- #dynamodb #*_*_a_dynamodb_database #create_dynamodb #enable_dynamodb_dax #elasticache_cluster
 - hasExplain:: [[explanation_Question  51.md]]
-
-# dynamodb #*_*_a_dynamodb_database #dynamodb_dax #heavy_read_requests #elasticache_cluster

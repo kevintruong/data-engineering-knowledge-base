@@ -4,14 +4,15 @@
 
 achieving this?**
 
-- [ ] Use SWF to automatically create a backup of your EBS volumes and then upload them to an S3 bucket
+- [ ] :  Use SWF to automatically create a backup of your EBS volumes and then upload them to an S3 bucket
 
-- [ ] You don’t need to do anything, EBS volumes are automatically backed up by default
+- [ ] :  You don’t need to do anything, EBS volumes are automatically backed up by default
 
-- [ ] Write a custom script to automatically copy your data to an S3 bucket
+- [ ] :  Write a custom script to automatically copy your data to an S3 bucket
 
-- [x] Create a snapshot of the volume
+- [x] :  Create a snapshot of the volume
 
-*
+*----
 
+- #amazon_ebs_volume #ebs_volumes #amazon_s3 #s3_bucket #backup
 - hasExplain:: [[explanation_Question  60.md]]

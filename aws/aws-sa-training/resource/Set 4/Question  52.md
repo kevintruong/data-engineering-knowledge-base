@@ -10,16 +10,17 @@ mitigation techniques.**
 
 an attack? (Select TWO)**
 
-- [x] Configure Auto Scaling with a high maximum number of instances to ensure it can scale accordingly
+- [x] :  Configure Auto Scaling with a high maximum number of instances to ensure it can scale accordingly
 
-- [x] Use CloudFront for distributing both static and dynamic content
+- [x] :  Use CloudFront for distributing both static and dynamic content
 
-- [ ] Use Spot instances to reduce the cost impact in case of attack
+- [ ] :  Use Spot instances to reduce the cost impact in case of attack
 
-- [ ] Use encryption on your EBS volumes
+- [ ] :  Use encryption on your EBS volumes
 
-- [ ] Use Placement Groups to ensure high bandwidth and low latency
+- [ ] :  Use Placement Groups to ensure high bandwidth and low latency
 
-*
+*----
 
+- #ddos #use_cloudfront #mitigation_techniques #availability #solutions_architect
 - hasExplain:: [[explanation_Question  52.md]]

@@ -4,12 +4,15 @@
 
 occurrences of certain HTTP status code errors occur. Which tool should the Architect use?**
 
-- [ ] CloudWatch Metrics
+- [ ] :  CloudWatch Metrics
 
-- [ ] CloudWatch Events
+- [ ] :  CloudWatch Events
 
-- [ ] CloudTrail Trails
+- [ ] :  CloudTrail Trails
 
-- [x] CloudWatch Logs
+- [x] :  CloudWatch Logs
 
+----
+
+- #cloudwatch_logs #cloudwatch_metrics #cloudwatch_events #application_logs #certain_http_status_code_errors
 - hasExplain:: [[explanation_Question  59.md]]

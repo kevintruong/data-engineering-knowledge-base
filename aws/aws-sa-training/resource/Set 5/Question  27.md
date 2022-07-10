@@ -6,14 +6,15 @@ dedicated to the client. Instance placement must be automatic and billing should
 
 **Which type of EC2 deployment model should be used?**
 
-- [ ] Reserved Instance
+- [ ] :  Reserved Instance
 
-- [x] Dedicated Instance
+- [x] :  Dedicated Instance
 
-- [ ] Dedicated Host
+- [ ] :  Dedicated Host
 
-- [ ] Cluster Placement Group
+- [ ] :  Cluster Placement Group
 
-*
+*----
 
+- #ec2_deployment_model #dedicated_instance #instance_placement #amazon_ec2_hosts #cluster_placement_group
 - hasExplain:: [[explanation_Question  27.md]]

@@ -8,12 +8,15 @@ available for retrieval immediately.**
 
 **Which is the MOST cost-effective storage option that meets these requirements?**
 
-- [ ] Amazon Glacier with expedited retrievals
+- [ ] :  Amazon Glacier with expedited retrievals
 
-- [x] Amazon S3 Standard-Infrequent Access
+- [x] :  Amazon S3 Standard-Infrequent Access
 
-- [ ] Amazon EFS
+- [ ] :  Amazon EFS
 
-- [ ] Amazon S3 Standard
+- [ ] :  Amazon S3 Standard
 
+----
+
+- #amazon_efs #effective_storage_option #offsite_backups #amazon_s3_standard #aws
 - hasExplain:: [[explanation_Question  62.md]]

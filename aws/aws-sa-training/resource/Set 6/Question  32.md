@@ -10,16 +10,17 @@ restricted by user or group.**
 
 **How can this be achieved with Amazon EFS? (Select TWO)**
 
-- [x] Use POSIX permissions to control access from hosts by user or group
+- [x] :  Use POSIX permissions to control access from hosts by user or group
 
-- [ ] Use AWS Web Application Firewall (WAF) to protect EFS
+- [ ] :  Use AWS Web Application Firewall (WAF) to protect EFS
 
-- [x] Use EFS Security Groups to control network traffic
+- [x] :  Use EFS Security Groups to control network traffic
 
-- [ ] Use Network ACLs to control the traffic
+- [ ] :  Use Network ACLs to control the traffic
 
-- [ ] Use IAM groups to control access by user or group
+- [ ] :  Use IAM groups to control access by user or group
 
-*
+*----
 
+- #aws_web_application_firewall #efs_security_groups #amazon_elastic_file_system #amazon_efs #firewall_rules
 - hasExplain:: [[explanation_Question  32.md]]

@@ -6,12 +6,15 @@ Amazon S3 and the storage solution must have seamless integration so objects can
 
 **Which storage solution should be used?**
 
-- [ ] Amazon FSx for Windows File Server
+- [ ] :  Amazon FSx for Windows File Server
 
-- [x] Amazon FSx for Lustre
+- [x] :  Amazon FSx for Lustre
 
-- [ ] Amazon Elastic File System (EFS)
+- [ ] :  Amazon Elastic File System (EFS)
 
-- [ ] Amazon Elastic Block Store (EBS)
+- [ ] :  Amazon Elastic Block Store (EBS)
 
+----
+
+- #amazon_elastic_file_system #performance_file_system #storage_solution #amazon_s3 #windows_file_server
 - hasExplain:: [[explanation_Question  23.md]]

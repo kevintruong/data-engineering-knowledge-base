@@ -6,12 +6,15 @@ message to users every time users sign up for an event.**
 
 **Which AWS service should the Architect use to achieve this?**
 
-- [ ] Amazon STS
+- [ ] :  Amazon STS
 
-- [ ] Amazon SQS
+- [ ] :  Amazon SQS
 
-- [ ] AWS Lambda
+- [ ] :  AWS Lambda
 
-- [x] Amazon SNS
+- [x] :  Amazon SNS
 
+----
+
+- #aws_service #aws_lambda #amazon_sns #service #event_registrations
 - hasExplain:: [[explanation_Question  61.md]]

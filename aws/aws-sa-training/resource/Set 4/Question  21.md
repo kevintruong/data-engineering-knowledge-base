@@ -6,14 +6,15 @@ to reduce administrative overhead. Which feature of EC2 enables storing of setti
 
 pairs and Security Groups?**
 
-- [ ] Placement Groups
+- [ ] :  Placement Groups
 
-- [x] Launch Templates
+- [x] :  Launch Templates
 
-- [ ] Run Command
+- [ ] :  Run Command
 
-- [ ] Launch Configurations
+- [ ] :  Launch Configurations
 
-*
+*----
 
+- #ec2_instances #ec2 #launch_configurations #ami_id #instance_type
 - hasExplain:: [[explanation_Question  21.md]]

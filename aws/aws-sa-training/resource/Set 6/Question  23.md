@@ -6,14 +6,15 @@ constantly on an ongoing basis. The application cannot be interrupted or restart
 
 best for this workload?**
 
-- [x] Reserved instances
+- [x] :  Reserved instances
 
-- [ ] On-demand instances
+- [ ] :  On-demand instances
 
-- [ ] Spot instances
+- [ ] :  Spot instances
 
-- [ ] Flexible instances
+- [ ] :  Flexible instances
 
-*
+*----
 
+- #ec2_pricing_model #several_amazon_ec2_instances #flexible_instances #demand_instances #reserved_instances
 - hasExplain:: [[explanation_Question  23.md]]

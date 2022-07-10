@@ -6,14 +6,15 @@ impacted. A Solutions Architect needs to determine a resolution to the issue tha
 
 **Which action should the Architect take?**
 
-- [ ] Configure a RAID 1 array from multiple EBS volumes
+- [ ] :  Configure a RAID 1 array from multiple EBS volumes
 
-- [ ] Create a placement group and put the EC2 instance in it
+- [ ] :  Create a placement group and put the EC2 instance in it
 
-- [x] Use enhanced networking
+- [x] :  Use enhanced networking
 
-- [ ] Add multiple Elastic IP addresses to the instance
+- [ ] :  Add multiple Elastic IP addresses to the instance
 
-*
+*----
 
+- #ec2_instance #amazon_ec2_instance #improved_performance #multiple_ebs_volumes #performance
 - hasExplain:: [[explanation_Question  42.md]]

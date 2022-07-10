@@ -6,16 +6,17 @@ both a private and public DNS hostnames. Assuming settings were not changed duri
 
 hostnames be assigned by default? (Select TWO)**
 
-- [ ] In all VPCs instances no DNS hostnames will be assigned
+- [ ] :  In all VPCs instances no DNS hostnames will be assigned
 
-- [ ] In a non-default VPC instances will be assigned a public and private DNS hostname
+- [ ] :  In a non-default VPC instances will be assigned a public and private DNS hostname
 
-- [x] In a default VPC instances will be assigned a public and private DNS hostname
+- [x] :  In a default VPC instances will be assigned a public and private DNS hostname
 
-- [x] In a non-default VPC instances will be assigned a private but not a public DNS hostname
+- [x] :  In a non-default VPC instances will be assigned a private but not a public DNS hostname
 
-- [ ] In a default VPC instances will be assigned a private but not a public DNS hostname
+- [ ] :  In a default VPC instances will be assigned a private but not a public DNS hostname
 
-*
+*----
 
+- #default_vpc_instances #non_-_default_vpc_instances #amazon_vpc #private_dns_hostname #public_dns_hostnames
 - hasExplain:: [[explanation_Question  25.md]]

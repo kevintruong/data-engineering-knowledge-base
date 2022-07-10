@@ -4,14 +4,15 @@
 
 Architect automate this process for the operations team?**
 
-- [ ] Create a CloudWatch alarm and associate an SQS queue with it that delivers a message to SES
+- [ ] :  Create a CloudWatch alarm and associate an SQS queue with it that delivers a message to SES
 
-- [ ] Setup an RDS alarm and associate an SNS topic with it that sends an email
+- [ ] :  Setup an RDS alarm and associate an SNS topic with it that sends an email
 
-- [ ] Create a CloudTrail alarm and configure a notification event to send an SMS
+- [ ] :  Create a CloudTrail alarm and configure a notification event to send an SMS
 
-- [x] Create a CloudWatch alarm and associate an SNS topic with it that sends an email notification
+- [x] :  Create a CloudWatch alarm and associate an SNS topic with it that sends an email notification
 
-*
+*----
 
+- #cloudwatch_alarm #rds_alarm #cloudtrail_alarm #rds_database #sqs_queue
 - hasExplain:: [[explanation_Question  36.md]]

@@ -10,16 +10,17 @@ the application stack and manage workload changes through a release management p
 
 should be used for the system monitoring and deployment layers? (Select TWO)**
 
-- [ ] Use AWS CloudTrail for consolidating system and application logs and monitoring custom metrics
+- [ ] :  Use AWS CloudTrail for consolidating system and application logs and monitoring custom metrics
 
-- [ ] Use AWS X-Ray to package, test, and deploy the serverless application stack
+- [ ] :  Use AWS X-Ray to package, test, and deploy the serverless application stack
 
-- [x] Use AWS SAM to package, test, and deploy the serverless application stack
+- [x] :  Use AWS SAM to package, test, and deploy the serverless application stack
 
-- [x] Use Amazon CloudWatch for consolidating system and application logs and monitoring custom metrics
+- [x] :  Use Amazon CloudWatch for consolidating system and application logs and monitoring custom metrics
 
-- [ ] Use AWS Lambda to package, test, and deploy the serverless application stack
+- [ ] :  Use AWS Lambda to package, test, and deploy the serverless application stack
 
-*
+*----
 
+- #appropriate_aws_services #aws_cloudtrail #aws_lambda #amazon_cloudwatch #aws_x_-_ray
 - hasExplain:: [[explanation_Question  34.md]]

@@ -4,12 +4,15 @@
 
 ensure that the users are able to make API calls to AWS services. What else needs to be done?**
 
-- [ ] Enable Multi-Factor Authentication for the users
+- [ ] :  Enable Multi-Factor Authentication for the users
 
-- [x] Create a set of Access Keys for the users
+- [x] :  Create a set of Access Keys for the users
 
-- [ ] Set a password for each user
+- [ ] :  Set a password for each user
 
-- [ ] Create a group and add the users to it
+- [ ] :  Create a group and add the users to it
 
+----
+
+- #aws_account #aws_services #iam_users #digital_cloud_training #multi_-_factor_authentication
 - hasExplain:: [[explanation_Question  32.md]]

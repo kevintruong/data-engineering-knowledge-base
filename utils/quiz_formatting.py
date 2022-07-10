@@ -15,18 +15,31 @@ with open(md_file, encoding="utf-8-sig") as md_test_file:
                     {
                         "name": "regex_replace",
                         "kwargs": {
-                            "source": r'^(\d): (.*$)',
+                            "source": r'^(\d:)',
                             "target": {
-                                "prefix": "- [ ] ",
+                                "prefix": "- [ ] : ",
                                 "suffix": "",
-                                "match_group": 2
+                                "match_group": None
                             }
                         }
                     },
                     {
                         "name": "refill_correct_options",
                         "kwargs": {
-                            "option_regex": r"^((\- \[ \]) (.*$))",
+                            "option_regex": r"^(\- \[ \] \: )",
+                            "correct_ops": "- [x] :  "
+                        }
+                    },
+                    {
+                        "name": "add_separator",
+                        "kwargs": {
+                            "sep": "----"
+                        }
+                    },
+                    {
+                        "name": "add_tags_with_bert",
+                        "kwargs": {
+
                         }
                     },
                     {
@@ -36,17 +49,39 @@ with open(md_file, encoding="utf-8-sig") as md_test_file:
                             "target_fmt": "[[explanation_{question_title}.md]]"
                         }
                     },
-                    {
-                        "name": "add_tags_with_bert",
-                        "kwargs": {
-
-                        }
-                    }
                 ]
             },
             {
                 "type": "explanation",
                 "transform_rules": [
+                    {
+                        "name": "regex_replace",
+                        "kwargs": {
+                            "source": r'^\- CORRECT',
+                            "target": {
+                                "prefix": "- ✅ : ",
+                                "suffix": "",
+                                "match_group": None
+                            }
+                        }
+                    },
+                    {
+                        "name": "regex_replace",
+                        "kwargs": {
+                            "source": r'^\- INCORRECT',
+                            "target": {
+                                "prefix": "- ❌ : ",
+                                "suffix": "",
+                                "match_group": None
+                            }
+                        }
+                    },
+                    {
+                        "name": "add_separator",
+                        "kwargs": {
+                            "sep": "\n\n----"
+                        }
+                    },
                     {
                         "name": "add_tags_with_bert",
                         "kwargs": {
@@ -60,7 +95,11 @@ with open(md_file, encoding="utf-8-sig") as md_test_file:
     cardsdeck_layout = parser.register(md_test_file.read())
     md_test_file.seek(0)
     lines = md_test_file.readlines()
-    list_quiz = parser.convert_to_deck(cardsdeck_layout, lines, md_file, note_format_rule=rule)
-    for each_quiz in list_quiz:
-        each_quiz: StandardQuizFormatter
-        each_quiz.dump(os.path.dirname(md_file))
+    list_quiz = parser.convert_to_deck(cardsdeck_layout,
+                                       lines,
+                                       md_file,
+                                       note_format_rule=rule,
+                                       card_class=StandardQuizFormatter)
+
+    for bar in map(lambda f: f.dump(os.path.dirname(md_file)), list_quiz):
+        pass

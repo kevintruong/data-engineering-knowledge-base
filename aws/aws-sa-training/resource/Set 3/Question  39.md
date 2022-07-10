@@ -8,14 +8,17 @@ much traffic.**
 
 **What is the MOST efficient method to store images from a mobile application on Amazon S3?**
 
-- [ ] Expand the web server fleet with Spot instances to provide the resources to handle the images
+- [ ] :  Expand the web server fleet with Spot instances to provide the resources to handle the images
 
-- [ ] Upload to a second bucket, and have a Lambda event copy the image to the primary bucket
+- [ ] :  Upload to a second bucket, and have a Lambda event copy the image to the primary bucket
 
-- [ ] Upload to a separate Auto Scaling Group of server behind an ELB Classic Load Balancer, and have the server instances
+- [ ] :  Upload to a separate Auto Scaling Group of server behind an ELB Classic Load Balancer, and have the server instances
 
 write to the Amazon S3 bucket
 
-- [x] Upload directly to S3 using a pre-signed URL
+- [x] :  Upload directly to S3 using a pre-signed URL
 
+----
+
+- #amazon_s3_bucket #amazon_s3 #s3 #elb_classic_load_balancer #web_server_fleet
 - hasExplain:: [[explanation_Question  39.md]]

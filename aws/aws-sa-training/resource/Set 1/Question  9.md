@@ -8,14 +8,15 @@ costs as low as possible by using the appropriate S3 storage class.**
 
 **Which S3 storage class should be implemented to meet these requirements?**
 
-- [ ] S3 Glacier
+- [ ] :  S3 Glacier
 
-- [x] S3 Intelligent-Tiering
+- [x] :  S3 Intelligent-Tiering
 
-- [ ] S3 Standard-Infrequent Access (S3 Standard-IA)
+- [ ] :  S3 Standard-Infrequent Access (S3 Standard-IA)
 
-- [ ] S3 One Zone-Infrequent Access (S3 One Zone-IA)
+- [ ] :  S3 One Zone-Infrequent Access (S3 One Zone-IA)
 
+----
+
+- #appropriate_s3_storage_class #s3_storage_class #amazon_s3 #s3_glacier #s3
 - hasExplain:: [[explanation_Question  9.md]]
-
-# appropriate_s3_storage_class #s3_storage_class #amazon_s3 #s3_glacier #s3

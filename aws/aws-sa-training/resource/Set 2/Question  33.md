@@ -98,20 +98,21 @@ level of service they want to pay for.**
 
 of service the customer has chosen?**
 
-- [ ] Create multiple SQS queues, configure exactly-once processing and set the maximum visibility timeout to 12 hours
+- [ ] :  Create multiple SQS queues, configure exactly-once processing and set the maximum visibility timeout to 12 hours
 
-- [x] Create multiple SQS queues, configure the front-end application to place orders onto a specific queue based on the
+- [x] :  Create multiple SQS queues, configure the front-end application to place orders onto a specific queue based on the
 
 level of service requested and configure the back-end instances to sequentially poll the queues in order of priority
 
-- [ ] Create a combination of FIFO queues and Standard queues and configure the applications to place messages into the
+- [ ] :  Create a combination of FIFO queues and Standard queues and configure the applications to place messages into the
 
 relevant queue based on priority
 
-- [ ] Create a single SQS queue, configure the front-end application to place orders on the queue in order of priority and
+- [ ] :  Create a single SQS queue, configure the front-end application to place orders on the queue in order of priority and
 
 configure the back-end instances to poll the queue and pick up messages in the order they are presented
 
-- hasExplain:: [[explanation_Question  33.md]]
+----
 
-# amazon_cloudfront #web_distribution #end_ec2_instances #ec #adobe_flash_media_rtmp_protocol
+- #amazon_cloudfront #web_distribution #end_ec2_instances #ec #adobe_flash_media_rtmp_protocol
+- hasExplain:: [[explanation_Question  33.md]]

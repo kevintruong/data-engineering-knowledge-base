@@ -10,16 +10,17 @@ shared bucket under the folder structure:****_bucket_****/home/%username%.**
 
 else’s? (Select TWO)**
 
-- [ ] Create a bucket policy that applies access permissions based on username
+- [ ] :  Create a bucket policy that applies access permissions based on username
 
-- [x] Create an IAM policy that applies folder-level permissions
+- [x] :  Create an IAM policy that applies folder-level permissions
 
-- [ ] Create an IAM policy that applies object-level S3 ACLs
+- [ ] :  Create an IAM policy that applies object-level S3 ACLs
 
-- [ ] Attach an S3 ACL sub-resource that grants access based on the %username% variable
+- [ ] :  Attach an S3 ACL sub-resource that grants access based on the %username% variable
 
-- [x] Create an IAM group and attach the IAM policy, add IAM users to the group
+- [x] :  Create an IAM group and attach the IAM policy, add IAM users to the group
 
-*
+*----
 
+- #s3_acl_sub_-_resource #aws_cloud #bucket_policy #level_s3_acls #level_permissions
 - hasExplain:: [[explanation_Question  45.md]]

@@ -6,16 +6,17 @@ web service using HTTPS to call service actions and what is the method of authen
 
 TWO)**
 
-- [ ] OpenID Connect
+- [ ] :  OpenID Connect
 
-- [x] Query API
+- [x] :  Query API
 
-- [ ] API Gateway
+- [ ] :  API Gateway
 
-- [x] Access key ID and secret access key
+- [x] :  Access key ID and secret access key
 
-- [ ] IAM role
+- [ ] :  IAM role
 
-*
+*----
 
+- #iam_role #api_gateway #authentication #iam #query_api
 - hasExplain:: [[explanation_Question  48.md]]

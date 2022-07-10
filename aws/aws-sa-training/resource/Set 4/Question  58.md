@@ -10,16 +10,17 @@ Internet-facing Application Load Balancer (ALB) is also required.**
 
 TWO)**
 
-- [ ] Attach an Internet Gateway to the private subnets
+- [ ] :  Attach an Internet Gateway to the private subnets
 
-- [x] Associate the public subnets with the ALB
+- [x] :  Associate the public subnets with the ALB
 
-- [ ] Add an Elastic IP address to each EC2 instance in the private subnet
+- [ ] :  Add an Elastic IP address to each EC2 instance in the private subnet
 
-- [ ] Add a NAT gateway to the private subnet
+- [ ] :  Add a NAT gateway to the private subnet
 
-- [x] For each private subnet create a corresponding public subnet in the same AZ
+- [x] :  For each private subnet create a corresponding public subnet in the same AZ
 
-*
+*----
 
+- #ec2_instances #ec2_instance #amazon_ec2 #private_subnets #elastic_ip_address
 - hasExplain:: [[explanation_Question  58.md]]

@@ -8,14 +8,15 @@ customer.**
 
 **Which solution should the Architect use to meet the requirements?**
 
-- [x] IAM roles for tasks
+- [x] :  IAM roles for tasks
 
-- [ ] IAM roles for EC2 instances
+- [ ] :  IAM roles for EC2 instances
 
-- [ ] IAM Instance Profile for EC2 instances
+- [ ] :  IAM Instance Profile for EC2 instances
 
-- [ ] Network ACL
+- [ ] :  Network ACL
 
+----
+
+- #several_aws_services #iam_roles #ec2_instances #solutions_architect #amazon_ecs
 - hasExplain:: [[explanation_Question  63.md]]
-
-# several_aws_services #iam_roles #solutions_architect #ec2_instances #iam_instance_profile

@@ -10,12 +10,15 @@ being constantly launched and terminated.**
 
 **How can the Solutions Architect configure secure access to the database tier?**
 
-- [x] Configure the database security group to allow traffic only from the application security group
+- [x] :  Configure the database security group to allow traffic only from the application security group
 
-- [ ] Configure the database security group to allow traffic only from port 3306
+- [ ] :  Configure the database security group to allow traffic only from port 3306
 
-- [ ] Configure a Network ACL on the database subnet to deny all traffic to ports other than 3306
+- [ ] :  Configure a Network ACL on the database subnet to deny all traffic to ports other than 3306
 
-- [ ] Configure a Network ACL on the database subnet to allow all traffic from the application subnet
+- [ ] :  Configure a Network ACL on the database subnet to allow all traffic from the application subnet
 
+----
+
+- #amazon_rds_mysql_database #elastic_application #database_security_group #application_tier #database_tier
 - hasExplain:: [[explanation_Question  9.md]]

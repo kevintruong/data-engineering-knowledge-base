@@ -6,16 +6,19 @@ instances running in the group. What actions will Auto Scaling take, by default,
 
 instance?**
 
-- [ ] Randomly select one of the 3 AZs, and then terminate an instance in that AZ
+- [ ] :  Randomly select one of the 3 AZs, and then terminate an instance in that AZ
 
-- [ ] Terminate the instance with the least active network connections. If multiple instances meet this criterion, one will
+- [ ] :  Terminate the instance with the least active network connections. If multiple instances meet this criterion, one will
 
 be randomly selected
 
-- [ ] Send an SNS notification, if configured to do so
+- [x] :  Send an SNS notification, if configured to do so
 
-4 : Wait for the cooldown period and then terminate the instance that has been running the longest
+- [ ] :  Wait for the cooldown period and then terminate the instance that has been running the longest
 
-- [ ] Terminate an instance in the AZ which currently has 2 running EC2 instances
+- [x] :  Terminate an instance in the AZ which currently has 2 running EC2 instances
 
-*
+*----
+
+- #ec2_instances #auto_scaling_group #auto_scaling #ec2 #amazon_ec2
+- hasExplain:: [[explanation_Question  54.md]]

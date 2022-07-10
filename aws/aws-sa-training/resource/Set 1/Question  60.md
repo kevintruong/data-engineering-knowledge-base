@@ -6,14 +6,15 @@ infrequent SQL queries only. In addition, the company wants to minimize infrastr
 
 **Which AWS service should be used to meet these requirements?**
 
-- [ ] Amazon Aurora
+- [ ] :  Amazon Aurora
 
-- [ ] Amazon RDS for MySQL
+- [ ] :  Amazon RDS for MySQL
 
-- [x] Amazon Athena
+- [x] :  Amazon Athena
 
-- [ ] Amazon Redshift Spectrum
+- [ ] :  Amazon Redshift Spectrum
 
+----
+
+- #aws_service #amazon_aurora #data_lake_solution #amazon_rds #amazon_s3
 - hasExplain:: [[explanation_Question  60.md]]
-
-# aws_service #amazon_aurora #data_lake_solution #amazon_rds #amazon_s3

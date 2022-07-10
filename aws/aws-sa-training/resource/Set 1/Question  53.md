@@ -8,14 +8,15 @@ the product is launched.**
 
 **What is the MOST efficient way for management to ensure that capacity requirements are met?**
 
-- [ ] Add a Step Scaling policy
+- [ ] :  Add a Step Scaling policy
 
-- [ ] Add a Simple Scaling policy
+- [ ] :  Add a Simple Scaling policy
 
-- [x] Add a Scheduled Scaling action
+- [x] :  Add a Scheduled Scaling action
 
-- [ ] Add Amazon EC2 Spot instances
+- [ ] :  Add Amazon EC2 Spot instances
 
+----
+
+- #capacity_requirements #step_scaling_policy #simple_scaling_policy #aws #capacity
 - hasExplain:: [[explanation_Question  53.md]]
-
-# capacity_requirements #step_scaling_policy #aws #simple_scaling_policy #capacity

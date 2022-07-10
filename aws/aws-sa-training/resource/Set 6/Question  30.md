@@ -10,14 +10,15 @@ and scaling the computing jobs which utilize a large fleet of EC2 instances.**
 
 third-party software?**
 
-- [ ] Amazon Athena
+- [ ] :  Amazon Athena
 
-- [ ] AWS Systems Manager
+- [ ] :  AWS Systems Manager
 
-- [ ] Amazon Lex
+- [ ] :  Amazon Lex
 
-- [x] AWS Batch
+- [x] :  AWS Batch
 
-*
+*----
 
+- #aws_services #aws_service #aws_systems_manager #aws_batch #ec2_instances
 - hasExplain:: [[explanation_Question  30.md]]

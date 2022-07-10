@@ -6,22 +6,23 @@ static content. Customers around the world are reporting performance issues with
 
 **Which set of actions will improve website performance for users worldwide?**
 
-- [x] Create an Amazon CloudFront distribution and configure the ALB as an origin. Then update the Amazon Route 53 record
+- [x] :  Create an Amazon CloudFront distribution and configure the ALB as an origin. Then update the Amazon Route 53 record
 
 to point to the CloudFront distribution
 
-- [ ] Create a latency-based Amazon Route 53 record for the ALB. Then launch new EC2 instances with larger instance sizes
+- [ ] :  Create a latency-based Amazon Route 53 record for the ALB. Then launch new EC2 instances with larger instance sizes
 
 and register the instances with the ALB
 
-- [ ] Launch new EC2 instances hosting the same web application in different Regions closer to the users. Use an AWS
+- [ ] :  Launch new EC2 instances hosting the same web application in different Regions closer to the users. Use an AWS
 
 Transit Gateway to connect customers to the closest region
 
-- [ ] Migrate the website to an Amazon S3 bucket in the Regions closest to the users. Then create an Amazon Route 53
+- [ ] :  Migrate the website to an Amazon S3 bucket in the Regions closest to the users. Then create an Amazon Route 53
 
 geolocation record to point to the S3 buckets
 
-- hasExplain:: [[explanation_Question  6.md]]
+----
 
-# amazon_cloudfront_distribution #cloudfront_distribution #aws #amazon_ec2_instances #amazon_route
+- #amazon_cloudfront_distribution #cloudfront_distribution #aws #amazon_ec2_instances #new_ec2_instances
+- hasExplain:: [[explanation_Question  6.md]]

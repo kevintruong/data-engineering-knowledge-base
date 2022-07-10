@@ -4,14 +4,15 @@
 
 some commands. Which of the following can be used to securely access the instance?**
 
-- [ ] SSL/TLS certificate
+- [ ] :  SSL/TLS certificate
 
-- [ ] Public key
+- [ ] :  Public key
 
-- [x] Key Pairs
+- [x] :  Key Pairs
 
-- [ ] EC2 password
+- [ ] :  EC2 password
 
+----
+
+- #ec2_password #vpc #linux_instance #ssl #tls_certificate
 - hasExplain:: [[explanation_Question  40.md]]
-
-# ec2_password #vpc #linux_instance #ssl #tls_certificate

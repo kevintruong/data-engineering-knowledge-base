@@ -6,12 +6,15 @@ updated content from S3 and can issue over 1 million read operations per second 
 
 under 5ms for these updates. Which solution will provide the BEST performance for the media catalog updates?**
 
-- [x] Update the application code to use an Amazon ElastiCache for Redis cluster
+- [x] :  Update the application code to use an Amazon ElastiCache for Redis cluster
 
-- [ ] Implement Amazon CloudFront and cache the content at Edge Locations
+- [ ] :  Implement Amazon CloudFront and cache the content at Edge Locations
 
-- [ ] Update the application code to use an Amazon DynamoDB Accelerator cluster
+- [ ] :  Update the application code to use an Amazon DynamoDB Accelerator cluster
 
-- [ ] Implement an Instance store volume on the media catalog server
+- [ ] :  Implement an Instance store volume on the media catalog server
 
+----
+
+- #amazon_dynamodb_accelerator_cluster #streaming_media_service #media_catalog_server #amazon_s3 #amazon_elasticache
 - hasExplain:: [[explanation_Question  1.md]]

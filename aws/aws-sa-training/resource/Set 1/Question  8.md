@@ -8,14 +8,15 @@ will be required for a minimum of 1 year.**
 
 **Which type of Amazon EC2 instances should be used to reduce the cost of the system?**
 
-- [ ] Spot Instances
+- [ ] :  Spot Instances
 
-- [ ] On-Demand Instances
+- [ ] :  On-Demand Instances
 
-- [ ] Standard Reserved Instances
+- [ ] :  Standard Reserved Instances
 
-- [x] Scheduled Reserved Instances
+- [x] :  Scheduled Reserved Instances
 
+----
+
+- #amazon_ec2_instances #demand_instances #spot_instances #analytics #reserved_instances
 - hasExplain:: [[explanation_Question  8.md]]
-
-# amazon_ec2_instances #demand_instances #reserved_instances #spot_instances #standard_reserved_instances

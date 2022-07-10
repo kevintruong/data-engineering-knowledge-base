@@ -6,16 +6,19 @@ application is highly available and distributed across multiple AZs. The EC2 ins
 
 internet-based service. How can the Solutions Architect enable highly available internet connectivity?**
 
-- [ ] Create a NAT gateway and attach it to the VPC. Add a route to the gateway to each private subnet route table
+- [ ] :  Create a NAT gateway and attach it to the VPC. Add a route to the gateway to each private subnet route table
 
-- [ ] Configure an internet gateway. Add a route to the gateway to each private subnet route table
+- [ ] :  Configure an internet gateway. Add a route to the gateway to each private subnet route table
 
-- [ ] Create a NAT instance in the private subnet of each AZ. Update the route tables for each private subnet to direct
+- [ ] :  Create a NAT instance in the private subnet of each AZ. Update the route tables for each private subnet to direct
 
 internet-bound traffic to the NAT instance
 
-- [x] Create a NAT gateway in the public subnet of each AZ. Update the route tables for each private subnet to direct
+- [x] :  Create a NAT gateway in the public subnet of each AZ. Update the route tables for each private subnet to direct
 
 internet-bound traffic to the NAT gateway
 
+----
+
+- #nat_gateway #internet_gateway #ec2_instances #gateway #nat_instance
 - hasExplain:: [[explanation_Question  5.md]]

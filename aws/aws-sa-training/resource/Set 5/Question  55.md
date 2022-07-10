@@ -6,16 +6,17 @@ components and needs to determine a method of sending notifications instantaneou
 
 protocols are supported? (Select TWO)**
 
-- [ ] Amazon SWF
+- [ ] :  Amazon SWF
 
-- [ ] FTP
+- [ ] :  FTP
 
-- [x] HTTPS
+- [x] :  HTTPS
 
-- [ ] AWS Lambda
+- [ ] :  AWS Lambda
 
-- [x] Email-JSON
+- [x] :  Email-JSON
 
-*
+*----
 
+- #amazon_sns #aws_lambda #protocols #amazon_swf #notifications
 - hasExplain:: [[explanation_Question  55.md]]

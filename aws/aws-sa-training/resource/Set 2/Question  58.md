@@ -6,14 +6,15 @@ underlying hardware to reduce the impact of the failure of a hardware node. The 
 
 types. What configuration will cater to these requirements taking cost-effectiveness into account?**
 
-- [ ] You cannot control which nodes your instances are placed on
+- [ ] :  You cannot control which nodes your instances are placed on
 
-- [ ] Use dedicated hosts and deploy each instance on a dedicated host
+- [ ] :  Use dedicated hosts and deploy each instance on a dedicated host
 
-- [x] Use a Spread Placement Group across two AZs
+- [x] :  Use a Spread Placement Group across two AZs
 
-- [ ] Use a Cluster Placement Group within a single AZ
+- [ ] :  Use a Cluster Placement Group within a single AZ
 
+----
+
+- #ec2_instances #instances #cluster_placement_group #vpc #hardware_node
 - hasExplain:: [[explanation_Question  58.md]]
-
-# ec2_instances #cluster_placement_group #instances #vpc #dedicated_hosts

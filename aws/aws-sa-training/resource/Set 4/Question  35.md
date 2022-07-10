@@ -10,14 +10,15 @@ table and has a route to a virtual private gateway.**
 
 connect to the Internet. What is the MOST likely reason?**
 
-- [x] The subnet has been automatically associated with the main route table which does not have a route to the Internet
+- [x] :  The subnet has been automatically associated with the main route table which does not have a route to the Internet
 
-- [ ] The new subnet has not been associated with a route table
+- [ ] :  The new subnet has not been associated with a route table
 
-- [ ] The Internet Gateway is experiencing connectivity problems
+- [ ] :  The Internet Gateway is experiencing connectivity problems
 
-- [ ] There is no NAT Gateway available in the new subnet so Internet connectivity is not possible
+- [ ] :  There is no NAT Gateway available in the new subnet so Internet connectivity is not possible
 
-*
+*----
 
+- #virtual_private_gateway #new_subnet #nat_gateway #subnet #internet_gateway
 - hasExplain:: [[explanation_Question  35.md]]

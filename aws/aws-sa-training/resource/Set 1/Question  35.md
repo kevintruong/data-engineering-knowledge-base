@@ -8,14 +8,15 @@ regional failover.**
 
 **How can this be achieved?**
 
-- [ ] Launch EC2 instances into multiple regions behind an NLB with a static IP address
+- [ ] :  Launch EC2 instances into multiple regions behind an NLB with a static IP address
 
-- [ ] Launch EC2 instances into multiple regions behind an ALB and use a Route 53 failover routing policy
+- [ ] :  Launch EC2 instances into multiple regions behind an ALB and use a Route 53 failover routing policy
 
-- [x] Launch EC2 instances into multiple regions behind an NLB and use AWS Global Accelerator
+- [x] :  Launch EC2 instances into multiple regions behind an NLB and use AWS Global Accelerator
 
-- [ ] Launch EC2 instances into multiple regions behind an ALB and use Amazon CloudFront with a pair of static IP addresses
+- [ ] :  Launch EC2 instances into multiple regions behind an ALB and use Amazon CloudFront with a pair of static IP addresses
 
+----
+
+- #regional_failover #aws_global_accelerator #amazon_cloudfront #failover #multiple_regions
 - hasExplain:: [[explanation_Question  35.md]]
-
-# regional_failover #aws_global_accelerator #amazon_cloudfront #failover #multiple_regions

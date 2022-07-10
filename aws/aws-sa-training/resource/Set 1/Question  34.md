@@ -4,14 +4,15 @@
 
 type should be used?**
 
-- [ ] Elastic Network Interface (ENI)
+- [ ] :  Elastic Network Interface (ENI)
 
-- [ ] Elastic Network Adapter (ENA)
+- [ ] :  Elastic Network Adapter (ENA)
 
-- [x] Elastic Fabric Adapter (EFA)
+- [x] :  Elastic Fabric Adapter (EFA)
 
-- [ ] Elastic IP Address
+- [ ] :  Elastic IP Address
 
+----
+
+- #elastic_network_interface #elastic_network_adapter #aws #elastic_ip_address #elastic_fabric_adapter
 - hasExplain:: [[explanation_Question  34.md]]
-
-# elastic_network_adapter #elastic_network_interface #aws #elastic_ip_address #elastic_fabric_adapter

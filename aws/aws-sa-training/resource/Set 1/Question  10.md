@@ -8,16 +8,17 @@ around 1 GB and future growth is unknown. Requests can range from 0 to over 800 
 
 **Which combination of AWS services would meet these requirements? (Select TWO)**
 
-- [ ] AWS Fargate
+- [ ] :  AWS Fargate
 
-- [x] AWS Lambda
+- [x] :  AWS Lambda
 
-- [x] Amazon DynamoDB
+- [x] :  Amazon DynamoDB
 
-- [ ] Amazon EC2 Auto Scaling
+- [ ] :  Amazon EC2 Auto Scaling
 
-- [ ] Amazon RDS
+- [ ] :  Amazon RDS
 
+----
+
+- #amazon_dynamodb #aws_services #amazon_api_gateway_api #aws_lambda #aws_fargate
 - hasExplain:: [[explanation_Question  10.md]]
-
-# amazon_dynamodb #aws_services #amazon_api_gateway_api #aws_lambda #aws_fargate

@@ -4,16 +4,17 @@
 
 primary RDS database instance. What actions will take place in this circumstance? (Select TWO)**
 
-- [x] The failover mechanism automatically changes the DNS record of the DB instance to point to the standby DB instance
+- [x] :  The failover mechanism automatically changes the DNS record of the DB instance to point to the standby DB instance
 
-- [ ] A failover will take place once the connection draining timer has expired
+- [ ] :  A failover will take place once the connection draining timer has expired
 
-- [ ] A manual failover of the DB instance will need to be initiated using Reboot with failover
+- [ ] :  A manual failover of the DB instance will need to be initiated using Reboot with failover
 
-- [x] The primary DB instance will switch over automatically to the standby replica
+- [x] :  The primary DB instance will switch over automatically to the standby replica
 
-- [ ] Due to the loss of network connectivity the process to switch to the standby replica cannot take place
+- [ ] :  Due to the loss of network connectivity the process to switch to the standby replica cannot take place
 
-*
+*----
 
+- #amazon_rds_multi_-_az_deployment #availability_zone #primary_rds_database_instance #standby_db_instance #failover
 - hasExplain:: [[explanation_Question  50.md]]

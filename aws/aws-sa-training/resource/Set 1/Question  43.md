@@ -10,14 +10,15 @@ geographic location.**
 
 **How can the Solutions Architect reduce the need to scale and improve the application performance?**
 
-- [ ] Store the contents on Amazon EFS instead of the EC2 root volume
+- [ ] :  Store the contents on Amazon EFS instead of the EC2 root volume
 
-- [ ] Implement Amazon Redshift to create a repository of the content closer to the users
+- [ ] :  Implement Amazon Redshift to create a repository of the content closer to the users
 
-- [x] Create an Amazon CloudFront distribution for the site and redirect user traffic to the distribution
+- [x] :  Create an Amazon CloudFront distribution for the site and redirect user traffic to the distribution
 
-- [ ] Re-deploy the application in a new VPC that is closer to the users making the requests
+- [ ] :  Re-deploy the application in a new VPC that is closer to the users making the requests
 
+----
+
+- #ec2_instances #elb_application_load_balancer #amazon_cloudfront_distribution #amazon_efs #application_performance
 - hasExplain:: [[explanation_Question  43.md]]
-
-# ec2_instances #elb_application_load_balancer #amazon_cloudfront_distribution #amazon_efs #implement_amazon_redshift

@@ -8,14 +8,15 @@ volumes increase with the LEAST amount of management and configuration.**
 
 **Which storage is most appropriate?**
 
-- [x] Amazon EFS
+- [x] :  Amazon EFS
 
-- [ ] Amazon S3
+- [ ] :  Amazon S3
 
-- [ ] Amazon EBS
+- [ ] :  Amazon EBS
 
-- [ ] Amazon RDS
+- [ ] :  Amazon RDS
 
+----
+
+- #amazon_efs #ec2_instance_stores #amazon_ec2_instances #amazon_ebs #amazon_rds
 - hasExplain:: [[explanation_Question  35.md]]
-
-# amazon_efs #ec2_instance_stores #amazon_ebs #amazon_ec2_instances #amazon_rds

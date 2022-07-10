@@ -4,14 +4,15 @@
 
 for the Amazon EBS volumes in an Amazon VPC. What is the easiest way to automate these tasks using AWS tools?**
 
-- [ ] Configure EBS volume replication to create a backup on Amazon S3
+- [ ] :  Configure EBS volume replication to create a backup on Amazon S3
 
-- [x] Use the EBS Data Lifecycle Manager (DLM) to manage snapshots of the volumes
+- [x] :  Use the EBS Data Lifecycle Manager (DLM) to manage snapshots of the volumes
 
-- [ ] Create a scheduled job and run the AWS CLI command “create-backup” to take backups of the EBS volumes
+- [ ] :  Create a scheduled job and run the AWS CLI command “create-backup” to take backups of the EBS volumes
 
-- [ ] Create a scheduled job and run the AWS CLI command “create-snapshot” to take backups of the EBS volumes
+- [ ] :  Create a scheduled job and run the AWS CLI command “create-snapshot” to take backups of the EBS volumes
 
-*
+*----
 
+- #aws_tools #ebs_data_lifecycle_manager #configure_ebs_volume_replication #amazon_ebs_volumes #ebs_volumes
 - hasExplain:: [[explanation_Question  30.md]]

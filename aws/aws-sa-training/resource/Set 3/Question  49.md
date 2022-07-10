@@ -4,12 +4,15 @@
 
 performance and reduce load on back-end services?**
 
-- [ ] Configure the throttling feature
+- [ ] :  Configure the throttling feature
 
-- [ ] Enable bursting
+- [ ] :  Enable bursting
 
-- [x] Using time-to-live (TTL) settings
+- [x] :  Using time-to-live (TTL) settings
 
-- [ ] Using CloudFront controls
+- [ ] :  Using CloudFront controls
 
+----
+
+- #cloudfront #api_gateway #cache #performance #end_services
 - hasExplain:: [[explanation_Question  49.md]]

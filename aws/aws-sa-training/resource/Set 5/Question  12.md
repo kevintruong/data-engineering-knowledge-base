@@ -102,12 +102,15 @@ dependency that the application must communicate with an on-premises server usin
 
 **Which action should a solutions architect take to quickly provision the necessary connectivity?**
 
-- [ ] Setup an AWS Direct Connect connection
+- [ ] :  Setup an AWS Direct Connect connection
 
-- [x] Configure a Virtual Private Gateway
+- [x] :  Configure a Virtual Private Gateway
 
-- [ ] Create an Amazon CloudFront distribution
+- [ ] :  Create an Amazon CloudFront distribution
 
-- [ ] Create an AWS Transit Gateway
+- [ ] :  Create an AWS Transit Gateway
 
+----
+
+- #aws_transit_gateway #aws #nat_gateway #private_subnet_route_table #amazon_ec2_instance
 - hasExplain:: [[explanation_Question  12.md]]

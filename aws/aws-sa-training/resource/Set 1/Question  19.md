@@ -8,14 +8,15 @@ solutions architect has been asked to design an efficient and effective solution
 
 **Which action should the solutions architect take to accomplish this?**
 
-- [ ] Generate presigned URLs for the files
+- [ ] :  Generate presigned URLs for the files
 
-- [ ] Use cross-Region replication to all Regions
+- [ ] :  Use cross-Region replication to all Regions
 
-- [ ] Use the geoproximity feature of Amazon Route 53
+- [ ] :  Use the geoproximity feature of Amazon Route 53
 
-- [x] Use Amazon CloudFront with the S3 bucket as its origin
+- [x] :  Use Amazon CloudFront with the S3 bucket as its origin
 
+----
+
+- #amazon_cloudfront #amazon_s3_bucket #amazon_route #s3_bucket #cross_-_region_replication
 - hasExplain:: [[explanation_Question  19.md]]
-
-# amazon_cloudfront #amazon_s3_bucket #amazon_route #s3_bucket #cross_-_region_replication

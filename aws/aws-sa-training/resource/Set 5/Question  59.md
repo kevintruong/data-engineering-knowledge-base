@@ -6,14 +6,15 @@ looking for a way to easily deploy the application whilst maintaining full contr
 
 **Which PaaS service provided by AWS would BEST suit this requirement?**
 
-- [ ] CloudFront
+- [ ] :  CloudFront
 
-- [x] Elastic Beanstalk
+- [x] :  Elastic Beanstalk
 
-- [ ] EC2 Placement Groups
+- [ ] :  EC2 Placement Groups
 
-- [ ] CloudFormation
+- [ ] :  CloudFormation
 
-*
+*----
 
+- #cloudfront #cloudformation #aws #paas_service #ec2_placement_groups
 - hasExplain:: [[explanation_Question  59.md]]

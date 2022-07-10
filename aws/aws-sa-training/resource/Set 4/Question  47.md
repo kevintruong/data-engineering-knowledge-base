@@ -8,14 +8,15 @@ development team wants to modify the process so that they can release code direc
 
 **How can this be accomplished?**
 
-- [ ] Update VPC-Bs route table with peering targets for VPC-A and VPC-C and enable route propagation
+- [ ] :  Update VPC-Bs route table with peering targets for VPC-A and VPC-C and enable route propagation
 
-- [x] Create a new VPC peering connection between VPC-A and VPC-C
+- [x] :  Create a new VPC peering connection between VPC-A and VPC-C
 
-- [ ] Update the CIDR blocks to match to enable inter-VPC routing
+- [ ] :  Update the CIDR blocks to match to enable inter-VPC routing
 
-- [ ] Update VPC-As route table with an entry using the VPC peering as a target
+- [ ] :  Update VPC-As route table with an entry using the VPC peering as a target
 
-*
+*----
 
+- #update_vpc #inter_-_vpc_routing #new_vpc #vpc #separate_vpcs
 - hasExplain:: [[explanation_Question  47.md]]

@@ -8,14 +8,15 @@ time. The application architects require a storage solution.**
 
 **Which actions would meet these needs?**
 
-- [ ] Store the data in an Amazon EBS volume. Mount the EBS volume on the application instances
+- [ ] :  Store the data in an Amazon EBS volume. Mount the EBS volume on the application instances
 
-- [x] Store the data in an Amazon EFS filesystem. Mount the file system on the application instances
+- [x] :  Store the data in an Amazon EFS filesystem. Mount the file system on the application instances
 
-- [ ] Store the data in Amazon S3 Glacier. Update the vault policy to allow access to the application instances
+- [ ] :  Store the data in Amazon S3 Glacier. Update the vault policy to allow access to the application instances
 
-- [ ] Store the data in AWS Storage Gateway. Setup AWS Direct Connect between the Gateway appliance and the EC2 instances
+- [ ] :  Store the data in AWS Storage Gateway. Setup AWS Direct Connect between the Gateway appliance and the EC2 instances
 
+----
+
+- #aws_storage_gateway #amazon_efs_filesystem #amazon_s3_glacier #setup_aws #amazon_ec2
 - hasExplain:: [[explanation_Question  1.md]]
-
-# aws_storage_gateway #amazon_s3_glacier #amazon_efs_filesystem #setup_aws #amazon_ec2

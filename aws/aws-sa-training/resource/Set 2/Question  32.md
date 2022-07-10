@@ -6,14 +6,15 @@ world. The training videos are located in an S3 bucket that is not publicly acce
 
 allow you to share the videos?**
 
-- [x] Use CloudFront and set the S3 bucket as an origin
+- [x] :  Use CloudFront and set the S3 bucket as an origin
 
-- [ ] Use a Route 53 Alias record the points to the S3 bucket
+- [ ] :  Use a Route 53 Alias record the points to the S3 bucket
 
-- [ ] Use ElastiCache and attach the S3 bucket as a cache origin
+- [ ] :  Use ElastiCache and attach the S3 bucket as a cache origin
 
-- [ ] Use CloudFront and use a custom origin pointing to an EC2 instance
+- [ ] :  Use CloudFront and use a custom origin pointing to an EC2 instance
 
+----
+
+- #use_cloudfront #training_videos #ec2_instance #videos #s3_bucket
 - hasExplain:: [[explanation_Question  32.md]]
-
-# use_cloudfront #training_videos #ec2_instance #videos #s3_bucket

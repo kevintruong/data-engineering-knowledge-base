@@ -6,14 +6,15 @@ inter-region disaster recovery capabilities with fast replication and fast failo
 
 the BEST solution?**
 
-- [x] Use Amazon Aurora Global Database
+- [x] :  Use Amazon Aurora Global Database
 
-- [ ] Enable Multi-AZ for the Aurora DB
+- [ ] :  Enable Multi-AZ for the Aurora DB
 
-- [ ] Create an EBS backup of the Aurora volumes and use cross-region replication to copy the snapshot
+- [ ] :  Create an EBS backup of the Aurora volumes and use cross-region replication to copy the snapshot
 
-- [ ] Create a cross-region Aurora Read Replica
+- [ ] :  Create a cross-region Aurora Read Replica
 
-*
+*----
 
+- #amazon_aurora_global_database #amazon_aurora_mysql_db #cross_-_region_aurora_read_replica #aurora_db #cross_-_region_replication
 - hasExplain:: [[explanation_Question  20.md]]

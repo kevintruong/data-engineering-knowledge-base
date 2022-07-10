@@ -6,12 +6,15 @@ shared Microsoft filesystem that uses Distributed File System Namespaces (DFSN).
 
 migration strategy for the filesystem?**
 
-- [ ] Use the AWS Server Migration Service to migrate to an Amazon S3 bucket
+- [ ] :  Use the AWS Server Migration Service to migrate to an Amazon S3 bucket
 
-- [ ] Use the AWS Server Migration Service to migrate to Amazon FSx for Lustre
+- [ ] :  Use the AWS Server Migration Service to migrate to Amazon FSx for Lustre
 
-- [ ] Use AWS DataSync to migrate to an Amazon EFS filesystem
+- [ ] :  Use AWS DataSync to migrate to an Amazon EFS filesystem
 
-- [x] Use AWS DataSync to migrate to Amazon FSx for Windows File Server
+- [x] :  Use AWS DataSync to migrate to Amazon FSx for Windows File Server
 
+----
+
+- #distributed_file_system_namespaces #amazon_efs_filesystem #aws_server_migration_service #aws_cloud #use_aws_datasync
 - hasExplain:: [[explanation_Question  4.md]]

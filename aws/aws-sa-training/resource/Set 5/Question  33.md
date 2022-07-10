@@ -8,18 +8,19 @@ layer will run in the on-premise data center.**
 
 **What must be done to connect the application to the RDS database via the Internet? (Select TWO)**
 
-- [ ] Configure a NAT Gateway and attach the RDS database
+- [ ] :  Configure a NAT Gateway and attach the RDS database
 
-- [x] Choose to make the RDS instance publicly accessible and place it in a public subnet
+- [x] :  Choose to make the RDS instance publicly accessible and place it in a public subnet
 
-- [ ] Select a public IP within the DB subnet group to assign to the RDS instance
+- [ ] :  Select a public IP within the DB subnet group to assign to the RDS instance
 
-- [x] Create a security group allowing access from the on-premise public IP to the RDS instance and assign to the RDS
+- [x] :  Create a security group allowing access from the on-premise public IP to the RDS instance and assign to the RDS
 
 instance
 
-- [ ] Create a DB subnet group that is publicly accessible
+- [ ] :  Create a DB subnet group that is publicly accessible
 
-*
+*----
 
+- #rds_instance #rds_database #aws_cloud #amazon_rds #rds
 - hasExplain:: [[explanation_Question  33.md]]

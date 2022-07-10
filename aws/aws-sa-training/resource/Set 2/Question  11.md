@@ -8,14 +8,15 @@ network-attached storage (NAS) device.**
 
 **Which replacement to the NAS file share is MOST resilient and durable?**
 
-- [ ] Migrate the file share to Amazon EBS
+- [ ] :  Migrate the file share to Amazon EBS
 
-- [ ] Migrate the file share to AWS Storage Gateway
+- [ ] :  Migrate the file share to AWS Storage Gateway
 
-- [x] Migrate the file share to Amazon FSx for Windows File Server
+- [x] :  Migrate the file share to Amazon FSx for Windows File Server
 
-- [ ] Migrate the file share to Amazon Elastic File System (Amazon EFS)
+- [ ] :  Migrate the file share to Amazon Elastic File System (Amazon EFS)
 
+----
+
+- #amazon_elastic_file_system #aws_storage_gateway #amazon_efs #aws #nas_file_share
 - hasExplain:: [[explanation_Question  11.md]]
-
-# amazon_elastic_file_system #amazon_efs #aws_storage_gateway #aws #nas_file_share

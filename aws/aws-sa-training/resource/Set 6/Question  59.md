@@ -8,16 +8,17 @@ must be directed over the VPN to the corporate firewall.**
 
 **How can this be achieved?**
 
-- [ ] In the VPN-only subnet route table, add a route that directs all Internet traffic to the virtual private gateway
+- [ ] :  In the VPN-only subnet route table, add a route that directs all Internet traffic to the virtual private gateway
 
-- [ ] In the public subnet route table, add a route for your remote network and specify the customer gateway as the target
+- [ ] :  In the public subnet route table, add a route for your remote network and specify the customer gateway as the target
 
-- [ ] Configure a NAT Gateway and configure all traffic to be directed via the virtual private gateway
+- [ ] :  Configure a NAT Gateway and configure all traffic to be directed via the virtual private gateway
 
-- [x] In the public subnet route table, add a route for your remote network and specify the virtual private gateway as the
+- [x] :  In the public subnet route table, add a route for your remote network and specify the virtual private gateway as the
 
 target
 
-*
+*----
 
+- #amazon_vpc #virtual_private_gateway #nat_gateway #aws #public_subnet_route_table
 - hasExplain:: [[explanation_Question  59.md]]

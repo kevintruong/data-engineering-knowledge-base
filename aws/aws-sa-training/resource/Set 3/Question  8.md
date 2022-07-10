@@ -10,13 +10,13 @@ IOPS.**
 
 **Which solution should the solutions architect recommend?**
 
-- [ ] Amazon EBS Cold HDD (sc1)
+- [ ] :  Amazon EBS Cold HDD (sc1)
 
-- [x] Amazon EBS General Purpose SSD (gp2)
+- [x] :  Amazon EBS General Purpose SSD (gp2)
 
-- [ ] Amazon EBS Provisioned IOPS SSD (io1)
+- [ ] :  Amazon EBS Provisioned IOPS SSD (io1)
 
-- [ ] Amazon EBS Throughput Optimized HDD (st1)
+- [ ] :  Amazon EBS Throughput Optimized HDD (st1)
 
 ```
 
@@ -88,6 +88,7 @@ addresses
 
 ```
 
-- hasExplain:: [[explanation_Question  8.md]]
+----
 
-# amazon_ebs_throughput_optimized_hdd #amazon_ebs_general_purpose_ssd #effective_storage_option #amazon_ebs_cold_hdd #iops_ssd
+- #amazon_ebs_throughput_optimized_hdd #amazon_ebs_general_purpose_ssd #effective_storage_option #amazon_ebs_cold_hdd #iops_ssd
+- hasExplain:: [[explanation_Question  8.md]]

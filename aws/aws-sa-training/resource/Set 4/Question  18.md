@@ -4,12 +4,15 @@
 
 connection. What is the MOST cost-effective solution to provide a backup for the Direct Connect connection?**
 
-- [ ] Implement a second AWS Direct Connection
+- [ ] :  Implement a second AWS Direct Connection
 
-- [x] Implement an IPSec VPN connection and use the same BGP prefix
+- [x] :  Implement an IPSec VPN connection and use the same BGP prefix
 
-- [ ] Configure AWS Transit Gateway with an IPSec VPN backup
+- [ ] :  Configure AWS Transit Gateway with an IPSec VPN backup
 
-- [ ] Configure an IPSec VPN connection over the Direct Connect link
+- [ ] :  Configure an IPSec VPN connection over the Direct Connect link
 
+----
+
+- #ipsec_vpn_backup #second_aws #configure_aws_transit_gateway #aws #backup
 - hasExplain:: [[explanation_Question  18.md]]

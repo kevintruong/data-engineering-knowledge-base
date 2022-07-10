@@ -6,12 +6,15 @@ asynchronously invoke and AWS Lambda function to analyze thousands of .CSV files
 
 **Which service can be used to decouple the compute services?**
 
-- [ ] Amazon SQS
+- [ ] :  Amazon SQS
 
-- [x] Amazon SNS
+- [x] :  Amazon SNS
 
-- [ ] Amazon Kinesis
+- [ ] :  Amazon Kinesis
 
-- [ ] Amazon OpsWorks
+- [ ] :  Amazon OpsWorks
 
+----
+
+- #compute_services #aws_lambda_function #amazon_opsworks #amazon_sns #amazon_ec2_instance
 - hasExplain:: [[explanation_Question  14.md]]

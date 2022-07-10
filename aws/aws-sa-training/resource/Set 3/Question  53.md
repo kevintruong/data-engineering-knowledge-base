@@ -6,11 +6,11 @@ instances. The storage should be highly-available and should scale easily.**
 
 **Which AWS service can be used for this design?**
 
-- [ ] Amazon S3
+- [ ] :  Amazon S3
 
-- [ ] Amazon EC2 instance store
+- [ ] :  Amazon EC2 instance store
 
-- [x] Amazon EFS
+- [x] :  Amazon EFS
 
 ```
 
@@ -60,6 +60,9 @@ Decoupled integration
 
 ```
 
-- [ ] Amazon EBS
+- [ ] :  Amazon EBS
 
+----
+
+- #aws_service #multiple_ec2 #amazon_simple_queue #aws #amazon_ec2_instance
 - hasExplain:: [[explanation_Question  53.md]]

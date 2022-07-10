@@ -4,14 +4,15 @@
 
 a Solutions Architect recommend that is primarily used for software version control?**
 
-- [ ] CloudHSM
+- [ ] :  CloudHSM
 
-- [ ] CodeStar
+- [ ] :  CodeStar
 
-- [x] CodeCommit
+- [x] :  CodeCommit
 
-- [ ] Step Functions
+- [ ] :  Step Functions
 
-*
+*----
 
+- #aws_cloud #aws_service #cloudhsm #solutions_architect #software_version_control
 - hasExplain:: [[explanation_Question  65.md]]

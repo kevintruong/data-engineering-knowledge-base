@@ -6,14 +6,15 @@ web services each listen for traffic on different ports. Which AWS service shoul
 
 traffic to the service based on the incoming request path?**
 
-- [ ] Amazon Route 53
+- [ ] :  Amazon Route 53
 
-- [ ] Amazon CloudFront
+- [ ] :  Amazon CloudFront
 
-- [x] Application Load Balancer (ALB)
+- [x] :  Application Load Balancer (ALB)
 
-- [ ] Classic Load Balancer (CLB)
+- [ ] :  Classic Load Balancer (CLB)
 
+----
+
+- #aws_service #multi_-_tier_web_application #amazon_cloudfront #amazon_route #application_load_balancer
 - hasExplain:: [[explanation_Question  51.md]]
-
-# aws_service #amazon_route #multi_-_tier_web_application #amazon_cloudfront #application_load_balancer

@@ -6,12 +6,15 @@ size and the business requirement is that replicate lag must be kept under 100 m
 
 **Which Amazon RDS engine meets these requirements?**
 
-- [x] Amazon Aurora
+- [x] :  Amazon Aurora
 
-- [ ] Oracle
+- [ ] :  Oracle
 
-- [ ] Microsoft SQL Server
+- [ ] :  Microsoft SQL Server
 
-- [ ] MySQL
+- [ ] :  MySQL
 
+----
+
+- #amazon_rds_engine #amazon_aurora #aws #tb_mysql_database #mysql
 - hasExplain:: [[explanation_Question  36.md]]

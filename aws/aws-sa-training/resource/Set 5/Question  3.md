@@ -6,12 +6,15 @@ been asked to implement measures to reduce request latency and the number of cal
 
 **How can this be most easily achieved?**
 
-- [x] Create a cache for a stage and configure a TTL
+- [x] :  Create a cache for a stage and configure a TTL
 
-- [ ] Create a cache for a method and configure a TTL
+- [ ] :  Create a cache for a method and configure a TTL
 
-- [ ] Configure an edge-optimized endpoint with CloudFront
+- [ ] :  Configure an edge-optimized endpoint with CloudFront
 
-- [ ] Configure a private endpoint place ElastiCache in front
+- [ ] :  Configure a private endpoint place ElastiCache in front
 
+----
+
+- #amazon_api_gateway #amazon_ec2_endpoint #many_repeat_requests #request_latency #private_endpoint_place_elasticache
 - hasExplain:: [[explanation_Question  3.md]]

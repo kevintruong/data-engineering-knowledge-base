@@ -8,14 +8,15 @@ The client has explained that the attacks always come from the same small block 
 
 **What would be a quick and easy measure to help prevent further attacks?**
 
-- [ ] Use a Security Group rule that denies connections from the block of IP addresses
+- [ ] :  Use a Security Group rule that denies connections from the block of IP addresses
 
-- [ ] Use CloudFront’s DDoS prevention features
+- [ ] :  Use CloudFront’s DDoS prevention features
 
-- [ ] Create a Bastion Host restrict all connections to the Bastion Host only
+- [ ] :  Create a Bastion Host restrict all connections to the Bastion Host only
 
-- [x] Use a Network ACL rule that denies connections from the block of IP addresses
+- [x] :  Use a Network ACL rule that denies connections from the block of IP addresses
 
-*
+*----
 
+- #amazon_vpc #ddos_prevention #security_measures #bastion_host #further_attacks
 - hasExplain:: [[explanation_Question  24.md]]

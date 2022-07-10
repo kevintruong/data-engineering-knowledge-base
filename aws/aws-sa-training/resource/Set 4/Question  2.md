@@ -10,14 +10,17 @@ available application endpoint.**
 
 **Which actions should a solutions architect take? (Select TWO)**
 
-- [ ] Create an Amazon Route 53 geolocation based routing policy
+- [ ] :  Create an Amazon Route 53 geolocation based routing policy
 
-- [x] Create an AWS Global Accelerator and attach endpoints in each AWS Region
+- [x] :  Create an AWS Global Accelerator and attach endpoints in each AWS Region
 
-- [ ] Assign new static anycast IP addresses and modify any existing pointers
+- [ ] :  Assign new static anycast IP addresses and modify any existing pointers
 
-- [x] Migrate both public IP addresses to the AWS Global Accelerator
+- [x] :  Migrate both public IP addresses to the AWS Global Accelerator
 
-- [ ] Create PTR records to map existing public IP addresses to an Alias
+- [ ] :  Create PTR records to map existing public IP addresses to an Alias
 
+----
+
+- #different_aws_regions #aws_region #aws_global_accelerator #aws #amazon_route
 - hasExplain:: [[explanation_Question  2.md]]

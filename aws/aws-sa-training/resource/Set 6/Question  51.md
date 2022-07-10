@@ -6,16 +6,17 @@ Architect is updating the configuration with a health check and needs to select 
 
 available? (Select TWO)**
 
-- [x] HTTP
+- [x] :  HTTP
 
-- [ ] SSL
+- [ ] :  SSL
 
-- [x] HTTPS
+- [x] :  HTTPS
 
-- [ ] TCP
+- [ ] :  TCP
 
-- [ ] ICMP
+- [ ] :  ICMP
 
-*
+*----
 
+- #http #amazon_ec2 #protocol #application_load_balancer #https
 - hasExplain:: [[explanation_Question  51.md]]

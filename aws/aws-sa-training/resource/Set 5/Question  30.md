@@ -8,14 +8,15 @@ instances.**
 
 **What does a Solutions Architect need to do to add the new AMI?**
 
-- [ ] Create a new target group that uses a new launch configuration with the new AMI
+- [ ] :  Create a new target group that uses a new launch configuration with the new AMI
 
-- [ ] Modify the existing launch configuration to add the new AMI
+- [ ] :  Modify the existing launch configuration to add the new AMI
 
-- [ ] Suspend Auto Scaling and replace the existing AMI
+- [ ] :  Suspend Auto Scaling and replace the existing AMI
 
-- [x] Create a new launch configuration that uses the AMI and update the ASG to use the new launch configuration
+- [x] :  Create a new launch configuration that uses the AMI and update the ASG to use the new launch configuration
 
-*
+*----
 
+- #new_ami #several_ec2_instances #ami #auto_scaling_group #new_launch_configuration
 - hasExplain:: [[explanation_Question  30.md]]

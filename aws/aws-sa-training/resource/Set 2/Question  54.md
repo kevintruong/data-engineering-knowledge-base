@@ -8,14 +8,15 @@ using their AWS Direct Connect link.**
 
 **Which storage service would you recommend to the client?**
 
-- [ ] AWS Storage Gateway
+- [ ] :  AWS Storage Gateway
 
-- [ ] Amazon EBS
+- [ ] :  Amazon EBS
 
-- [x] Amazon EFS
+- [x] :  Amazon EFS
 
-- [ ] Amazon S3
+- [ ] :  Amazon S3
 
+----
+
+- #aws_storage_gateway #storage_service #amazon_efs #aws #amazon_s3
 - hasExplain:: [[explanation_Question  54.md]]
-
-# aws_storage_gateway #amazon_efs #storage_service #aws #amazon_s3

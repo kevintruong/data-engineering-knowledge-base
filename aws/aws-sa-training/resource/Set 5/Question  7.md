@@ -6,16 +6,19 @@ running on Amazon EC2 instances. The company plans to consolidate the data to a 
 
 queries. Which approach should the company take?**
 
-- [ ] Run an AWS Batch job to copy and process the data into a columnar Amazon RDS database. Use Amazon Athena to analyze
+- [ ] :  Run an AWS Batch job to copy and process the data into a columnar Amazon RDS database. Use Amazon Athena to analyze
 
 the data
 
-- [x] Use the COPY command to load data into an Amazon RedShift data warehouse and run the analytics queries there
+- [x] :  Use the COPY command to load data into an Amazon RedShift data warehouse and run the analytics queries there
 
-- [ ] Launch Amazon Kinesis Data Streams producers to load data into a Kinesis Data stream. Use Kinesis Data Analytics to
+- [ ] :  Launch Amazon Kinesis Data Streams producers to load data into a Kinesis Data stream. Use Kinesis Data Analytics to
 
 analyze the data
 
-- [ ] Create an AWS Lambda function that copies the data onto Amazon S3. Use Amazon S3 Select to query the data
+- [ ] :  Create an AWS Lambda function that copies the data onto Amazon S3. Use Amazon S3 Select to query the data
 
+----
+
+- #columnar_amazon_rds_database #launch_amazon_kinesis_data_streams_producers #amazon_redshift_data_warehouse #kinesis_data_analytics #kinesis_data_stream
 - hasExplain:: [[explanation_Question  7.md]]

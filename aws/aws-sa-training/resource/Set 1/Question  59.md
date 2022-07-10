@@ -86,14 +86,15 @@ Endpoint Service
 
 **Which solution option can assist with this requirement?**
 
-- [ ] API Gateway with STS
+- [ ] :  API Gateway with STS
 
-- [ ] IAM Access Key
+- [ ] :  IAM Access Key
 
-- [ ] AWS Certificate Manager
+- [ ] :  AWS Certificate Manager
 
-- [x] AWS KMS API
+- [x] :  AWS KMS API
 
+----
+
+- #aws_kms_api #aws_certificate_manager #encryption_solution #api_gateway #custom_vpc
 - hasExplain:: [[explanation_Question  59.md]]
-
-# aws_kms_api #aws_certificate_manager #encryption_solution #ec #iam_access_key

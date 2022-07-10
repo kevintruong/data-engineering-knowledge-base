@@ -6,14 +6,15 @@ The services should be decoupled.**
 
 **Which service can be used to decouple the compute services?**
 
-- [ ] Amazon SQS
+- [ ] :  Amazon SQS
 
-- [x] Amazon SNS
+- [x] :  Amazon SNS
 
-- [ ] Amazon MQ
+- [ ] :  Amazon MQ
 
-- [ ] AWS Step Functions
+- [ ] :  AWS Step Functions
 
+----
+
+- #compute_services #aws_lambda_function #aws_step_functions #amazon_ec2 #amazon_sns
 - hasExplain:: [[explanation_Question  28.md]]
-
-# aws_lambda_function #compute_services #aws_step_functions #amazon_ec2 #amazon_sns

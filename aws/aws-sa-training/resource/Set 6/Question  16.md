@@ -8,12 +8,15 @@ these actions.**
 
 **What is the SIMPLEST method of achieving the requirements?**
 
-- [ ] Create a Network ACL that limits access to the services or actions and attach it to all relevant subnets
+- [ ] :  Create a Network ACL that limits access to the services or actions and attach it to all relevant subnets
 
-- [ ] Create an IAM policy in the root account and attach it to users and groups in each account
+- [ ] :  Create an IAM policy in the root account and attach it to users and groups in each account
 
-- [ ] Create cross-account roles in each account to limit access to the services and actions that are allowed
+- [ ] :  Create cross-account roles in each account to limit access to the services and actions that are allowed
 
-- [x] Create a service control policy in the root organizational unit to deny access to the services or actions
+- [x] :  Create a service control policy in the root organizational unit to deny access to the services or actions
 
+----
+
+- #aws_organization #several_aws_accounts #specific_api_actions #iam_policy #service_control_policy
 - hasExplain:: [[explanation_Question  16.md]]

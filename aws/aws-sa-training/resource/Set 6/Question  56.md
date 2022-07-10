@@ -4,14 +4,15 @@
 
 feature is used to allow existing connections to close cleanly?**
 
-- [ ] Sticky Sessions
+- [ ] :  Sticky Sessions
 
-- [ ] Proxy Protocol
+- [ ] :  Proxy Protocol
 
-- [ ] Deletion Protection
+- [ ] :  Deletion Protection
 
-- [x] Connection Draining
+- [x] :  Connection Draining
 
-*
+*----
 
+- #elastic_load_balancer #elb #connections #sticky_sessions #amazon_ec2_instance
 - hasExplain:: [[explanation_Question  56.md]]

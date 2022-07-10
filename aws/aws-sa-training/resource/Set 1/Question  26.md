@@ -12,16 +12,17 @@ images need to be immediately available for 30 days and be accessible within 24 
 
 TWO)**
 
-- [x] Store the original images in STANDARD for 30 days, transition to GLACIER for 90 days, then expire the data
+- [x] :  Store the original images in STANDARD for 30 days, transition to GLACIER for 90 days, then expire the data
 
-- [ ] Store the original images in STANDARD_IA for 30 days and then transition to DEEP_ARCHIVE
+- [ ] :  Store the original images in STANDARD_IA for 30 days and then transition to DEEP_ARCHIVE
 
-- [x] Store the processed images in ONEZONE_IA and then expire the data after 30 days
+- [x] :  Store the processed images in ONEZONE_IA and then expire the data after 30 days
 
-- [ ] Store the processed images in STANDARD and then transition to GLACIER after 30 days
+- [ ] :  Store the processed images in STANDARD and then transition to GLACIER after 30 days
 
-- [ ] Store the original images in STANDARD for 30 days, transition to DEEP_ARCHIVE for 90 days, then expire the data
+- [ ] :  Store the original images in STANDARD for 30 days, transition to DEEP_ARCHIVE for 90 days, then expire the data
 
+----
+
+- #amazon_s3_storage_classes #amazon_s3 #aws_lambda_function #glacier #processed_images
 - hasExplain:: [[explanation_Question  26.md]]
-
-# amazon_s3_storage_classes #amazon_s3 #aws_lambda_function #glacier #processed_images

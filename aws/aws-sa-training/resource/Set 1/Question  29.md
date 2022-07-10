@@ -4,14 +4,15 @@
 
 solution. Which of the following options should an Architect use?**
 
-- [ ] Use a cron job on an Amazon EC2 instance
+- [ ] :  Use a cron job on an Amazon EC2 instance
 
-- [ ] Use AWS Batch
+- [ ] :  Use AWS Batch
 
-- [x] Use AWS Lambda
+- [x] :  Use AWS Lambda
 
-- [ ] Use AWS CloudFormation
+- [ ] :  Use AWS CloudFormation
 
+----
+
+- #aws_batch #aws_cloudformation #aws_lambda #cron_job #amazon_ec2_instance
 - hasExplain:: [[explanation_Question  29.md]]
-
-# aws_cloudformation #aws_batch #aws_lambda #cron_job #manual_script

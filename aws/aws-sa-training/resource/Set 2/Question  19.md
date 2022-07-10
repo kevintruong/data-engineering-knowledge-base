@@ -4,16 +4,17 @@
 
 **Which combination of actions will accomplish this? (Select TWO)**
 
-- [x] Ensure the root user uses a strong password
+- [x] :  Ensure the root user uses a strong password
 
-- [x] Enable multi-factor authentication to the root user
+- [x] :  Enable multi-factor authentication to the root user
 
-- [ ] Store root user access keys in an encrypted Amazon S3 bucket
+- [ ] :  Store root user access keys in an encrypted Amazon S3 bucket
 
-- [ ] Add the root user to a group containing administrative permissions
+- [ ] :  Add the root user to a group containing administrative permissions
 
-- [ ] Delete the root user account
+- [ ] :  Delete the root user account
 
+----
+
+- #aws_account_root_user_access #new_aws_account #amazon_s3_bucket #root_user_account #store_root_user_access_keys
 - hasExplain:: [[explanation_Question  19.md]]
-
-# aws_account_root_user_access #new_aws_account #amazon_s3_bucket #root_user_account #store_root_user_access_keys

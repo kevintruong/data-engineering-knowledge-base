@@ -10,16 +10,17 @@ cloud.**
 
 **How can the Solutions Architect ensure the medical records are properly secured? (Select TWO)**
 
-- [x] Before uploading the data to S3 over HTTPS, encrypt the data locally using your own encryption keys
+- [x] :  Before uploading the data to S3 over HTTPS, encrypt the data locally using your own encryption keys
 
-- [ ] Enable Server Side Encryption with S3 managed keys on an S3 bucket using AES- 128
+- [ ] :  Enable Server Side Encryption with S3 managed keys on an S3 bucket using AES- 128
 
-- [ ] Attach an encrypted EBS volume to an EC2 instance
+- [ ] :  Attach an encrypted EBS volume to an EC2 instance
 
-- [x] Enable Server Side Encryption with S3 managed keys on an S3 bucket using AES- 256
+- [x] :  Enable Server Side Encryption with S3 managed keys on an S3 bucket using AES- 256
 
-- [ ] Upload the data using CloudFront with an EC2 origin
+- [ ] :  Upload the data using CloudFront with an EC2 origin
 
-*
+*----
 
+- #enable_server_side_encryption #s3_bucket #aws #amazon_s3 #own_encryption_keys
 - hasExplain:: [[explanation_Question  39.md]]

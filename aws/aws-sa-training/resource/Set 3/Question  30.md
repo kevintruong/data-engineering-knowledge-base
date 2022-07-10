@@ -6,12 +6,15 @@ retained for compliance reasons for seven years and is rarely accessed.**
 
 **Which storage classes should be used?**
 
-- [x] Store data in STANDARD for 90 days then transition the data to DEEP_ARCHIVE
+- [x] :  Store data in STANDARD for 90 days then transition the data to DEEP_ARCHIVE
 
-- [ ] Store data in INTELLIGENT_TIERING for 90 days then transition to STANDARD_IA
+- [ ] :  Store data in INTELLIGENT_TIERING for 90 days then transition to STANDARD_IA
 
-- [ ] Store data in STANDARD for 90 days then expire the data
+- [ ] :  Store data in STANDARD for 90 days then expire the data
 
-- [ ] Store data in STANDARD for 90 days then transition to REDUCED_REDUNDANCY
+- [ ] :  Store data in STANDARD for 90 days then transition to REDUCED_REDUNDANCY
 
+----
+
+- #store_data #amazon_s3 #storage_classes #data #standard_ia
 - hasExplain:: [[explanation_Question  30.md]]

@@ -6,12 +6,15 @@ minimal downtime and data loss. The applications will run in an active-active co
 
 **Which DR strategy should a Solutions Architect recommend?**
 
-- [ ] Backup and restore
+- [ ] :  Backup and restore
 
-- [ ] Pilot light
+- [ ] :  Pilot light
 
-- [ ] Warm standby
+- [ ] :  Warm standby
 
-- [x] Multi-site
+- [x] :  Multi-site
 
+----
+
+- #aws_regions #minimal_downtime #solutions_architect #active_configuration #backup
 - hasExplain:: [[explanation_Question  12.md]]

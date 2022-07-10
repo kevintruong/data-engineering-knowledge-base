@@ -8,12 +8,15 @@ servers and database must be secure.**
 
 **What is the most appropriate architecture for the application stack?**
 
-- [ ] Create a public subnet for the Amazon EC2 instances and a public subnet for the Amazon RDS cluster
+- [ ] :  Create a public subnet for the Amazon EC2 instances and a public subnet for the Amazon RDS cluster
 
-- [ ] Create a public subnet for the Amazon EC2 instances and a private subnet for the Amazon RDS cluster
+- [ ] :  Create a public subnet for the Amazon EC2 instances and a private subnet for the Amazon RDS cluster
 
-- [x] Create a private subnet for the Amazon EC2 instances and a private subnet for the Amazon RDS cluster
+- [x] :  Create a private subnet for the Amazon EC2 instances and a private subnet for the Amazon RDS cluster
 
-- [ ] Create a private subnet for the Amazon EC2 instances and a public subnet for the Amazon RDS cluster
+- [ ] :  Create a private subnet for the Amazon EC2 instances and a public subnet for the Amazon RDS cluster
 
+----
+
+- #amazon_rds_mysql_cluster #amazon_rds_cluster #amazon_ec2_instances #amazon_ec2 #elastic_load_balancer
 - hasExplain:: [[explanation_Question  47.md]]

@@ -8,14 +8,15 @@ where permissions can be maintained.**
 
 **What should a solutions architect do to accomplish this?**
 
-- [ ] Create an ACL to provide access to the services or actions
+- [ ] :  Create an ACL to provide access to the services or actions
 
-- [ ] Create a security group to allow accounts and attach it to user groups
+- [ ] :  Create a security group to allow accounts and attach it to user groups
 
-- [ ] Create cross-account roles in each account to deny access to the services or actions
+- [ ] :  Create cross-account roles in each account to deny access to the services or actions
 
-- [x] Create a service control policy in the root organizational unit to deny access to the services or actions
+- [x] :  Create a service control policy in the root organizational unit to deny access to the services or actions
 
+----
+
+- #aws_organizations #aws_accounts #security_group #security_team #cross_-_account_roles
 - hasExplain:: [[explanation_Question  9.md]]
-
-# aws_organizations #aws_accounts #security_group #security_team #service_control_policy

@@ -8,16 +8,17 @@ fine-grained control must be implemented over access to the S3 bucket.**
 
 **What combination of services represent the BEST options support these requirements? (Select TWO)**
 
-- [ ] Use AWS Glue to extract the data, analyze it, and load it back to the S3 bucket
+- [ ] :  Use AWS Glue to extract the data, analyze it, and load it back to the S3 bucket
 
-- [ ] Use bucket ACLs to restrict access to the bucket
+- [ ] :  Use bucket ACLs to restrict access to the bucket
 
-- [x] Use IAM policies to restrict access to the bucket
+- [x] :  Use IAM policies to restrict access to the bucket
 
-- [x] Use Athena for querying the data and writing the results back to the bucket
+- [x] :  Use Athena for querying the data and writing the results back to the bucket
 
-- [ ] Use the AWS KMS API to query the encrypted data, and the S3 API for writing the results
+- [ ] :  Use the AWS KMS API to query the encrypted data, and the S3 API for writing the results
 
-*
+*----
 
+- #amazon_s3_buckets #s3_api #s3_bucket #aws_kms_api #bucket_acls
 - hasExplain:: [[explanation_Question  38.md]]

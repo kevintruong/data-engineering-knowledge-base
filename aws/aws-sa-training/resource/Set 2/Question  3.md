@@ -10,14 +10,15 @@ second per server.**
 
 **Which storage solution should the solutions architect use?**
 
-- [ ] Amazon EBS
+- [ ] :  Amazon EBS
 
-- [x] Amazon EC2 instance store
+- [x] :  Amazon EC2 instance store
 
-- [ ] Amazon EFS
+- [ ] :  Amazon EFS
 
-- [ ] Amazon S3
+- [ ] :  Amazon S3
 
+----
+
+- #amazon_ec2_instance_store #storage_solution #amazon_efs #ec2_instances #amazon_ebs
 - hasExplain:: [[explanation_Question  3.md]]
-
-# amazon_efs #ec2_instances #storage_solution #amazon_s3 #amazon_ec2_instance

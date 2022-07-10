@@ -10,16 +10,17 @@ which your company has services running.**
 
 **How will you implement this request? (Select TWO)**
 
-- [ ] Create a CloudTrail trail in each region in which you have services
+- [ ] :  Create a CloudTrail trail in each region in which you have services
 
-- [x] Enable encryption with a single KMS key
+- [x] :  Enable encryption with a single KMS key
 
-- [x] Create a CloudTrail trail and apply it to all regions
+- [x] :  Create a CloudTrail trail and apply it to all regions
 
-- [ ] Enable encryption with multiple KMS keys
+- [ ] :  Enable encryption with multiple KMS keys
 
-- [ ] Use CloudWatch to monitor API calls
+- [ ] :  Use CloudWatch to monitor API calls
 
+----
+
+- #cloudwatch #aws_regions #aws_account #cloudtrail_trail #encryption
 - hasExplain:: [[explanation_Question  44.md]]
-
-# cloudwatch #aws_regions #aws_account #cloudtrail_trail #enable_encryption

@@ -8,16 +8,17 @@ enabled for backups. Unencrypted backups will be destroyed after the first encry
 
 **What should be done to enable encryption for future backups?**
 
-- [ ] Enable default encryption for the Amazon S3 bucket where backups are stored
+- [ ] :  Enable default encryption for the Amazon S3 bucket where backups are stored
 
-- [ ] Modify the backup section of the database configuration to toggle the Enable encryption check box
+- [ ] :  Modify the backup section of the database configuration to toggle the Enable encryption check box
 
-- [x] Create a snapshot of the database. Copy it to an encrypted snapshot. Restore the database from the encrypted snapshot
+- [x] :  Create a snapshot of the database. Copy it to an encrypted snapshot. Restore the database from the encrypted snapshot
 
-- [ ] Enable an encrypted read replica on RDS for MySQL. Promote the encrypted read replica to primary. Remove the original
+- [ ] :  Enable an encrypted read replica on RDS for MySQL. Promote the encrypted read replica to primary. Remove the original
 
 database instance
 
-- hasExplain:: [[explanation_Question  2.md]]
+----
 
-# non_-_encrypted_daily_backups #unencrypted_backups #enable_default_encryption #encryption #enable_encryption_check_box
+- #non_-_encrypted_daily_backups #unencrypted_backups #enable_default_encryption #encryption #amazon_rds_mysql_database
+- hasExplain:: [[explanation_Question  2.md]]

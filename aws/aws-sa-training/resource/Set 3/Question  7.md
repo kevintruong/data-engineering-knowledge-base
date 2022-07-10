@@ -6,14 +6,15 @@ public IP addresses. Some users are experiencing poor performance when accessing
 
 **What should a solutions architect recommend to reduce internet latency?**
 
-- [x] Set up AWS Global Accelerator and add endpoints
+- [x] :  Set up AWS Global Accelerator and add endpoints
 
-- [ ] Set up AWS Direct Connect locations in multiple Regions
+- [ ] :  Set up AWS Direct Connect locations in multiple Regions
 
-- [ ] Set up an Amazon CloudFront distribution to access an application
+- [ ] :  Set up an Amazon CloudFront distribution to access an application
 
-- [ ] Set up an Amazon Route 53 geoproximity routing policy to route traffic
+- [ ] :  Set up an Amazon Route 53 geoproximity routing policy to route traffic
 
+----
+
+- #multiple_aws_regions #aws #amazon_cloudfront_distribution #internet_latency #amazon_route
 - hasExplain:: [[explanation_Question  7.md]]
-
-# multiple_aws_regions #aws #amazon_cloudfront_distribution #amazon_route #internet_latency

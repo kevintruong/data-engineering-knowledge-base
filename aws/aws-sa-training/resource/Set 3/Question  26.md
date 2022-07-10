@@ -6,12 +6,15 @@ removing the Internet Gateway and setting up a Direct Connect connection. What e
 
 encryption?**
 
-- [x] Setup a Virtual Private Gateway (VPG)
+- [x] :  Setup a Virtual Private Gateway (VPG)
 
-- [ ] Enable IPSec encryption on the Direct Connect connection
+- [ ] :  Enable IPSec encryption on the Direct Connect connection
 
-- [ ] Setup the Border Gateway Protocol (BGP) with encryption
+- [ ] :  Setup the Border Gateway Protocol (BGP) with encryption
 
-- [ ] Configure an AWS Direct Connect Gateway
+- [ ] :  Configure an AWS Direct Connect Gateway
 
+----
+
+- #ipsec_encryption #aws #vpc #encryption #secure_development_environment
 - hasExplain:: [[explanation_Question  26.md]]

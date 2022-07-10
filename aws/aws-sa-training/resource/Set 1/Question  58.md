@@ -8,9 +8,9 @@ subnets. The routing for the application must be fault tolerant.**
 
 **What should be done to meet these requirements?**
 
-- [ ] Create a virtual private gateway connection between each pair of service provider VPCs and service consumer VPCs
+- [ ] :  Create a virtual private gateway connection between each pair of service provider VPCs and service consumer VPCs
 
-- [ ] Create a proxy server in the service provider VPC to route requests from service consumers to the application servers
+- [ ] :  Create a proxy server in the service provider VPC to route requests from service consumers to the application servers
 
 ```
 
@@ -60,10 +60,11 @@ Decoupled integration
 
 ```
 
-- [x] Create a VPC endpoint service and grant permissions to specific service consumers to create a connection
+- [x] :  Create a VPC endpoint service and grant permissions to specific service consumers to create a connection
 
-- [ ] Create an internal Application Load Balancer in the service provider VPC and put application servers behind it
+- [ ] :  Create an internal Application Load Balancer in the service provider VPC and put application servers behind it
 
+----
+
+- #service_consumer_vpcs #vpc_endpoint_service #service_provider_vpc #service_provider_vpcs #ec2_instances
 - hasExplain:: [[explanation_Question  58.md]]
-
-# service_consumer_vpcs #vpc_endpoint_service #service_provider_vpc #service_provider_vpcs #ec2_instances

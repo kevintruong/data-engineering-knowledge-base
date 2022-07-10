@@ -6,14 +6,15 @@ Amazon EC2 instances, Amazon ELB and Auto Scaling across two subnets. After depl
 
 that only one subnet has EC2 instances running in it. What might be the cause of this situation?**
 
-- [ ] The ELB is configured as an internal-only load balancer
+- [ ] :  The ELB is configured as an internal-only load balancer
 
-- [x] The Auto Scaling Group has not been configured with multiple subnets
+- [x] :  The Auto Scaling Group has not been configured with multiple subnets
 
-- [ ] Cross-zone load balancing is not enabled on the ELB
+- [ ] :  Cross-zone load balancing is not enabled on the ELB
 
-- [ ] The AMI is missing from the ASG’s launch configuration
+- [ ] :  The AMI is missing from the ASG’s launch configuration
 
-*
+*----
 
+- #ec2_instances #amazon_ec2_instances #elb #ami #amazon_elb
 - hasExplain:: [[explanation_Question  49.md]]

@@ -8,14 +8,15 @@ and some custom software must be installed on the instances. The installation wi
 
 installed during the EC2 instance launch?**
 
-- [ ] Metadata
+- [ ] :  Metadata
 
-- [ ] Run Command
+- [ ] :  Run Command
 
-- [ ] AWS Config
+- [ ] :  AWS Config
 
-- [x] User Data
+- [x] :  User Data
 
-*
+*----
 
+- #ec2_instance_launch #amazon_ec2_instances #aws_config #custom_software #amazon_vpc
 - hasExplain:: [[explanation_Question  26.md]]

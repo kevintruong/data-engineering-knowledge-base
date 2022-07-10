@@ -8,16 +8,17 @@ requests from external systems, orchestrate serverless workflows, and execute th
 
 the compute layer? (Select TWO)**
 
-- [ ] Use Amazon ECS for executing the business logic
+- [ ] :  Use Amazon ECS for executing the business logic
 
-- [ ] Use AWS CloudFormation for orchestrating serverless workflows
+- [ ] :  Use AWS CloudFormation for orchestrating serverless workflows
 
-- [x] Use AWS Step Functions for orchestrating serverless workflows
+- [x] :  Use AWS Step Functions for orchestrating serverless workflows
 
-- [ ] Use AWS Elastic Beanstalk for executing the business logic
+- [ ] :  Use AWS Elastic Beanstalk for executing the business logic
 
-- [x] Use Amazon API Gateway with AWS Lambda for executing the business logic
+- [x] :  Use Amazon API Gateway with AWS Lambda for executing the business logic
 
-*
+*----
 
+- #appropriate_aws_services #aws_cloudformation #orchestrate_serverless_workflows #aws_lambda #aws_step_functions
 - hasExplain:: [[explanation_Question  32.md]]

@@ -8,16 +8,17 @@ environments.**
 
 **How can this be achieved? (Select TWO)**
 
-- [ ] Attach an Identity Provider (IdP) and delegate access to the instances to the relevant groups
+- [ ] :  Attach an Identity Provider (IdP) and delegate access to the instances to the relevant groups
 
-- [x] Create an IAM policy that grants access to any instances with the specific tag and attach to the users and groups
+- [x] :  Create an IAM policy that grants access to any instances with the specific tag and attach to the users and groups
 
-- [ ] Create an IAM policy with a conditional statement that matches the environment variables
+- [ ] :  Create an IAM policy with a conditional statement that matches the environment variables
 
-- [ ] Add an environment variable to the instances using user data
+- [ ] :  Add an environment variable to the instances using user data
 
-- [x] Add a specific tag to the instances you want to grant the users or groups access to
+- [x] :  Add a specific tag to the instances you want to grant the users or groups access to
 
-*
+*----
 
+- #amazon_vpc #amazon_ec2_instances #groups_access #iam_policy #instances
 - hasExplain:: [[explanation_Question  37.md]]

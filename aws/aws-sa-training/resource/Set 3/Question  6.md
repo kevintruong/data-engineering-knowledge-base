@@ -8,14 +8,15 @@ requests.**
 
 **What should the solutions architect do to separate the read requests from the write requests?**
 
-- [ ] Enable read through caching on the Amazon Aurora database
+- [ ] :  Enable read through caching on the Amazon Aurora database
 
-- [x] Update the application to read from the Multi-AZ standby instance
+- [x] :  Update the application to read from the Multi-AZ standby instance
 
-- [ ] Create a read replica and modify the application to use the appropriate endpoint
+- [ ] :  Create a read replica and modify the application to use the appropriate endpoint
 
-- [ ] Create a second Amazon Aurora database and link it to the primary database as a read replica
+- [ ] :  Create a second Amazon Aurora database and link it to the primary database as a read replica
 
+----
+
+- #second_amazon_aurora_database #amazon_aurora_database #database_read_requests #multi_-_az_deployment #read_requests
 - hasExplain:: [[explanation_Question  6.md]]
-
-# second_amazon_aurora_database #amazon_aurora_database #database_read_requests #multi_-_az_deployment #read_replica

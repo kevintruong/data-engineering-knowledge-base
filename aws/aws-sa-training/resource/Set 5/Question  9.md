@@ -6,12 +6,15 @@ on a series of EC2 instances in an Auto Scaling group running in a private subne
 
 ongoing systems management effort. How should the Solutions Architect proceed?**
 
-- [x] Implement a NAT gateway
+- [x] :  Implement a NAT gateway
 
-- [ ] Launch a NAT instance
+- [ ] :  Launch a NAT instance
 
-- [ ] Create a Virtual Private Gateway
+- [ ] :  Create a Virtual Private Gateway
 
-- [ ] Attach Elastic IP addresses
+- [ ] :  Attach Elastic IP addresses
 
+----
+
+- #ec2_instances #elastic_ip #nat_instance #solutions_architect #virtual_private_gateway
 - hasExplain:: [[explanation_Question  9.md]]

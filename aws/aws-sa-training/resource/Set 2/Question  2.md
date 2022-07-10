@@ -8,26 +8,27 @@ on-demand and can be accessed online.**
 
 **The solutions architect requires a highly available solution. Which solution will be MOST cost-effective?**
 
-- [ ] Use Amazon EC2 instances to manipulate the original images into the requested customization. Store the original and
+- [ ] :  Use Amazon EC2 instances to manipulate the original images into the requested customization. Store the original and
 
 manipulated images in Amazon S3. Configure an Elastic Load Balancer in front of the EC2 instances
 
-- [x] Use AWS Lambda to manipulate the original images to the requested customization. Store the original and manipulated
+- [x] :  Use AWS Lambda to manipulate the original images to the requested customization. Store the original and manipulated
 
 images in Amazon S3. Configure an Amazon CloudFront distribution with the S3 bucket as the origin
 
-- [ ] Use AWS Lambda to manipulate the original images to the requested customization. Store the original images in Amazon
+- [ ] :  Use AWS Lambda to manipulate the original images to the requested customization. Store the original images in Amazon
 
 S3 and the manipulated images in Amazon DynamoDB. Configure an Elastic Load Balancer in front of the Amazon EC2
 
 instances
 
-- [ ] Use Amazon EC2 instances to manipulate the original images into the requested customization. Store the original
+- [ ] :  Use Amazon EC2 instances to manipulate the original images into the requested customization. Store the original
 
 images in Amazon S3 and the manipulated images in Amazon DynamoDB. Configure an Amazon CloudFront distribution with the
 
 S3 bucket as the origin
 
-- hasExplain:: [[explanation_Question  2.md]]
+----
 
-# amazon_dynamodb #amazon_cloudfront_distribution #use_aws_lambda #amazon_ec2 #amazon_s3
+- #amazon_dynamodb #amazon_cloudfront_distribution #aws_lambda #amazon_s3 #amazon_ec2
+- hasExplain:: [[explanation_Question  2.md]]

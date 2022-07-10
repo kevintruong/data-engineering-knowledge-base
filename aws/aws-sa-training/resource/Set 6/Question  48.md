@@ -8,14 +8,15 @@ analyzing traffic patterns to better understand their customer base.**
 
 **Which actions should a Solutions Architect recommend?**
 
-- [ ] Configure metrics in CloudWatch for the ALB
+- [ ] :  Configure metrics in CloudWatch for the ALB
 
-- [ ] Enable EC2 detailed monitoring
+- [ ] :  Enable EC2 detailed monitoring
 
-- [x] Enable Access Logs and store the data on S3
+- [x] :  Enable Access Logs and store the data on S3
 
-- [ ] Use CloudTrail to capture all API calls made to the ALB
+- [ ] :  Use CloudTrail to capture all API calls made to the ALB
 
-*
+*----
 
+- #detailed_monitoring #cloudwatch #application_load_balancer #cloudtrail #http_requests
 - hasExplain:: [[explanation_Question  48.md]]

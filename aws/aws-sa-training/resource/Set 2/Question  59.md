@@ -4,14 +4,15 @@
 
 IPv6 protocol. What needs to be configured to enable this connectivity?**
 
-- [ ] VPN CloudHub
+- [ ] :  VPN CloudHub
 
-- [ ] A NAT Gateway
+- [ ] :  A NAT Gateway
 
-- [x] An Egress-Only Internet Gateway
+- [x] :  An Egress-Only Internet Gateway
 
-- [ ] AWS Direct Connect
+- [ ] :  AWS Direct Connect
 
+----
+
+- #vpn_cloudhub #ec2_instances #aws #vpc #nat_gateway
 - hasExplain:: [[explanation_Question  59.md]]
-
-# vpn_cloudhub #ec2_instances #aws #vpc #nat_gateway

@@ -8,16 +8,19 @@ speeds during peak hours and customers in all locations have reported experienci
 
 **How can a Solutions Architect address the issues?**
 
-- [ ] Use an Amazon Route 53 weighted routing policy for the CloudFront domain name to distribute GET requests between
+- [ ] :  Use an Amazon Route 53 weighted routing policy for the CloudFront domain name to distribute GET requests between
 
 CloudFront and the S3 bucket
 
-- [ ] Replicate the bucket in us-east-1 and use Amazon Route 53 failover routing to determine which bucket to serve the
+- [ ] :  Replicate the bucket in us-east-1 and use Amazon Route 53 failover routing to determine which bucket to serve the
 
 content from
 
-- [x] Cache the web content using Amazon CloudFront and use all Edge locations for content delivery
+- [x] :  Cache the web content using Amazon CloudFront and use all Edge locations for content delivery
 
-- [ ] Place an Amazon ElastiCache cluster in front of the S3 bucket
+- [ ] :  Place an Amazon ElastiCache cluster in front of the S3 bucket
 
+----
+
+- #amazon_cloudfront #cloudfront #amazon_elasticache_cluster #amazon_s3_bucket #amazon_route
 - hasExplain:: [[explanation_Question  51.md]]

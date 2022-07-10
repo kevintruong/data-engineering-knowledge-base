@@ -10,14 +10,15 @@ the lack of high-availability in the current architecture.**
 
 architecture?**
 
-- [ ] Create a Read Replica in another availability zone
+- [ ] :  Create a Read Replica in another availability zone
 
-- [ ] Enable Multi-AZ for the MySQL instance
+- [ ] :  Enable Multi-AZ for the MySQL instance
 
-- [ ] Install MySQL on an EC2 instance in the same availability zone and enable replication
+- [ ] :  Install MySQL on an EC2 instance in the same availability zone and enable replication
 
-- [x] Install MySQL on an EC2 instance in another availability zone and enable replication
+- [x] :  Install MySQL on an EC2 instance in another availability zone and enable replication
 
-*
+*----
 
+- #high_availability #availability #availability_zone #amazon_ec2 #ec2_instance
 - hasExplain:: [[explanation_Question  34.md]]

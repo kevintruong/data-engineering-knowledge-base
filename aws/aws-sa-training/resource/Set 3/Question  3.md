@@ -8,18 +8,19 @@ consumes the API as a client is deployed in a second account in private subnets.
 
 (Select TWO)**
 
-- [x] Configure a VPC peering connection between the two VPCs. Access the API using the private address
+- [x] :  Configure a VPC peering connection between the two VPCs. Access the API using the private address
 
-- [ ] Configure an AWS Direct Connect connection between the two VPCs. Access the API using the private address
+- [ ] :  Configure an AWS Direct Connect connection between the two VPCs. Access the API using the private address
 
-- [ ] Configure a ClassicLink connection for the API into the client VPC. Access the API using the ClassicLink address
+- [ ] :  Configure a ClassicLink connection for the API into the client VPC. Access the API using the ClassicLink address
 
-- [x] Configure a PrivateLink connection for the API into the client VPC. Access the API using the PrivateLink address
+- [x] :  Configure a PrivateLink connection for the API into the client VPC. Access the API using the PrivateLink address
 
-- [ ] Configure an AWS Resource Access Manager connection between the two accounts. Access the API using the private
+- [ ] :  Configure an AWS Resource Access Manager connection between the two accounts. Access the API using the private
 
 address
 
-- hasExplain:: [[explanation_Question  3.md]]
+----
 
-# aws_resource_access_manager_connection #aws #client_vpc #vpc #vpcs
+- #aws_resource_access_manager_connection #client_vpc #aws #vpc #vpcs
+- hasExplain:: [[explanation_Question  3.md]]

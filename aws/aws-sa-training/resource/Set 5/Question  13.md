@@ -6,9 +6,9 @@ to the AWS cloud. The company require a highly available, scalable and cost-effe
 
 Architect recommend?**
 
-- [ ] Migrate the API to Amazon API Gateway and migrate the backend to Amazon EC2
+- [ ] :  Migrate the API to Amazon API Gateway and migrate the backend to Amazon EC2
 
-- [ ] Migrate the API server to Amazon EC2 instances in an Auto Scaling group and attach an Application Load Balancer
+- [ ] :  Migrate the API server to Amazon EC2 instances in an Auto Scaling group and attach an Application Load Balancer
 
 ```
 
@@ -74,8 +74,11 @@ CIDR: 192. 168. 0. 0 / 16
 
 ```
 
-- [x] Migrate the API to Amazon API Gateway and use AWS Lambda as the backend
+- [x] :  Migrate the API to Amazon API Gateway and use AWS Lambda as the backend
 
-- [ ] Migrate the API to Amazon CloudFront and use AWS Lambda as the origin
+- [ ] :  Migrate the API to Amazon CloudFront and use AWS Lambda as the origin
 
+----
+
+- #amazon_api_gateway #aws_cloud #aws_lambda #amazon_ec2 #api_server
 - hasExplain:: [[explanation_Question  13.md]]

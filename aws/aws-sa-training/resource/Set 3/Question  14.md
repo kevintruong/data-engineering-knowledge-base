@@ -8,22 +8,23 @@ this is correct.**
 
 **What should a solutions architect recommend?**
 
-- [ ] Configure an Amazon CloudWatch SwapUsage metric dimension. Monitor the SwapUsage dimension in the EC2 metrics in
+- [ ] :  Configure an Amazon CloudWatch SwapUsage metric dimension. Monitor the SwapUsage dimension in the EC2 metrics in
 
 CloudWatch
 
-- [ ] Use EC2 metadata to collect information, then publish it to Amazon CloudWatch custom metrics. Monitor SwapUsage
+- [ ] :  Use EC2 metadata to collect information, then publish it to Amazon CloudWatch custom metrics. Monitor SwapUsage
 
 metrics in CloudWatch
 
-- [x] Install an Amazon CloudWatch agent on the instances. Run an appropriate script on a set schedule. Monitor
+- [x] :  Install an Amazon CloudWatch agent on the instances. Run an appropriate script on a set schedule. Monitor
 
 SwapUtilization metrics in CloudWatch
 
-- [ ] Enable detailed monitoring in the EC2 console. Create an Amazon CloudWatch SwapUtilization custom metric. Monitor
+- [ ] :  Enable detailed monitoring in the EC2 console. Create an Amazon CloudWatch SwapUtilization custom metric. Monitor
 
 SwapUtilization metrics in CloudWatch
 
+----
+
+- #amazon_cloudwatch_swaputilization_custom_metric #amazon_cloudwatch_swapusage #amazon_cloudwatch_custom_metrics #amazon_cloudwatch_agent #cloudwatch
 - hasExplain:: [[explanation_Question  14.md]]
-
-# amazon_cloudwatch_swaputilization_custom_metric #amazon_cloudwatch_swapusage #amazon_cloudwatch_custom_metrics #amazon_cloudwatch_agent #cloudwatch

@@ -8,14 +8,15 @@ with a TCP listener on port 80 and is using active health checks.**
 
 **What is the most likely problem?**
 
-- [ ] There is no HTTP listener
+- [ ] :  There is no HTTP listener
 
-- [ ] Health checks are failing in one AZ due to latency
+- [ ] :  Health checks are failing in one AZ due to latency
 
-- [ ] NLB can only load balance within a single AZ
+- [ ] :  NLB can only load balance within a single AZ
 
-- [x] Cross-zone load balancing is disabled
+- [x] :  Cross-zone load balancing is disabled
 
-*
+*----
 
+- #ec2_instances #cross_-_zone_load_balancing #azs #network_load_balancer #vpcs
 - hasExplain:: [[explanation_Question  22.md]]

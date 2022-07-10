@@ -10,12 +10,15 @@ and password.**
 
 **You have been asked to recommend the best solution. What is your recommendation?**
 
-- [x] Use multi-factor authentication (MFA) with a Cognito user pool
+- [x] :  Use multi-factor authentication (MFA) with a Cognito user pool
 
-- [ ] Integrate a third-party identity provider (IdP)
+- [ ] :  Integrate a third-party identity provider (IdP)
 
-- [ ] Enable multi-factor authentication (MFA) in IAM
+- [ ] :  Enable multi-factor authentication (MFA) in IAM
 
-- [ ] Integrate IAM with a user pool in Cognito
+- [ ] :  Integrate IAM with a user pool in Cognito
 
+----
+
+- #multi_-_factor_authentication #authentication #amazon_cognito #authorization #cognito_user_pool
 - hasExplain:: [[explanation_Question  50.md]]

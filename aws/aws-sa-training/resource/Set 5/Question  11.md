@@ -6,12 +6,15 @@ The Solutions Architect does not want the application exposed to inbound connect
 
 taken?**
 
-- [ ] Create a NAT gateway but do not create attach an internet gateway to the VPC
+- [ ] :  Create a NAT gateway but do not create attach an internet gateway to the VPC
 
-- [ ] Attach an internet gateway to the private subnet and create a NAT gateway
+- [ ] :  Attach an internet gateway to the private subnet and create a NAT gateway
 
-- [ ] Attach an internet gateway to the VPC but do not create a NAT gateway
+- [ ] :  Attach an internet gateway to the VPC but do not create a NAT gateway
 
-- [x] Create a NAT gateway and attach an internet gateway to the VPC
+- [x] :  Create a NAT gateway and attach an internet gateway to the VPC
 
+----
+
+- #amazon_vpc #nat_gateway #outbound_internet_access #internet_gateway #vpc
 - hasExplain:: [[explanation_Question  11.md]]

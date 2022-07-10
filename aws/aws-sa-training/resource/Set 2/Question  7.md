@@ -8,14 +8,15 @@ attacks.**
 
 **What should a solutions architect do to remediate the vulnerability?**
 
-- [ ] Create a Classic Load Balancer. Put the web layer behind the load balancer and enable AWS WAF
+- [ ] :  Create a Classic Load Balancer. Put the web layer behind the load balancer and enable AWS WAF
 
-- [ ] Create a Network Load Balancer. Put the web layer behind the load balancer and enable AWS WAF
+- [ ] :  Create a Network Load Balancer. Put the web layer behind the load balancer and enable AWS WAF
 
-- [x] Create an Application Load Balancer. Put the web layer behind the load balancer and enable AWS WAF
+- [x] :  Create an Application Load Balancer. Put the web layer behind the load balancer and enable AWS WAF
 
-- [ ] Create an Application Load Balancer. Put the web layer behind the load balancer and use AWS Shield Standard
+- [ ] :  Create an Application Load Balancer. Put the web layer behind the load balancer and use AWS Shield Standard
 
+----
+
+- #aws_waf #aws #application_load_balancer #web_server_layer #cross_-_site_scripting
 - hasExplain:: [[explanation_Question  7.md]]
-
-# aws_waf #aws_shield_standard #aws #application_load_balancer #web_server_layer

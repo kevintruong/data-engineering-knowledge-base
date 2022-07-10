@@ -8,14 +8,15 @@ on-demand streaming.**
 
 **Which service should the solutions architect choose?**
 
-- [x] Amazon CloudFront
+- [x] :  Amazon CloudFront
 
-- [ ] AWS Global Accelerator
+- [ ] :  AWS Global Accelerator
 
-- [ ] Amazon Route 53
+- [ ] :  Amazon Route 53
 
-- [ ] Amazon S3 Transfer Acceleration
+- [ ] :  Amazon S3 Transfer Acceleration
 
+----
+
+- #amazon_cloudfront #solutions_architect #aws #amazon_s3_transfer_acceleration #demand_streaming
 - hasExplain:: [[explanation_Question  21.md]]
-
-# amazon_cloudfront #solutions_architect #aws #amazon_s3_transfer_acceleration #demand_streaming
