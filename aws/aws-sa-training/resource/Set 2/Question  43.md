@@ -35,4 +35,4 @@ security group
 
 - hasExplain:: [[explanation_Question  43.md]]
 
-#ssl #security #mysql #https #database 
+#db_server_security_group #amazon_rds_mysql_db_instance #web_server_security_group #web_server_security #db_subnet 

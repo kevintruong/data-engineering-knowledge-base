@@ -1,5 +1,6 @@
 #  Copyright (c) 2021 Vu Truong - kevin.truong.ds@gmail.com all rights reserved
 import re
+
 from utils.logger.logger import app_logger
 from utils.md_utils.standard_quiz_fmt import StandardQuizFormatter
 
@@ -169,7 +170,8 @@ class MarkdownTree:
                                                  deck_tags=deck_tags,
                                                  note_format_rule=note_format_rule
                                                  )
-                card = StandardQuizFormatter(content=card_content, title=title, childs=new_cards,
+                card = StandardQuizFormatter(content=card_content,
+                                             title=title, childs=new_cards,
                                              rule=note_format_rule)
                 cards.append(card)
             else:

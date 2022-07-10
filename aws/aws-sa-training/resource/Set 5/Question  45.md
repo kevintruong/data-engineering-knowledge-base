@@ -31,5 +31,3 @@ else’s? (Select TWO)**
 *
 
 - hasExplain:: [[explanation_Question  45.md]]
-
-#permissions #acls #acl #s3 #bucket 

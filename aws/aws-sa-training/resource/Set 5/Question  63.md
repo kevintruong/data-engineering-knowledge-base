@@ -26,5 +26,3 @@ data that will be stored on the file system will be sensitive, it must be encryp
 *
 
 - hasExplain:: [[explanation_Question  63.md]]
-
-#ec2 #availability #replication #efs #storage 

@@ -30,4 +30,4 @@ Tool (SCT) to enable conversion from Microsoft SQL Server to Amazon RDS
 
 - hasExplain:: [[explanation_Question  24.md]]
 
-#migrate #migration #aws #rds #ec2 
+#aws_database_migration_service #amazon_ec2.use_aws_database_migration_service #aws_server_migration_service #amazon_rds_instance #aws_datasync 

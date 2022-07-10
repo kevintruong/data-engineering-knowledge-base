@@ -22,5 +22,3 @@ performance and low latency?**
 
 
 - hasExplain:: [[explanation_Question  9.md]]
-
-#ssd #hdd #performance #latency #ebs 

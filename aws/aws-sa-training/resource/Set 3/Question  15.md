@@ -25,5 +25,3 @@ database that supports data replication.**
 
 
 - hasExplain:: [[explanation_Question  15.md]]
-
-#aws #database #replication #amazon #rds 

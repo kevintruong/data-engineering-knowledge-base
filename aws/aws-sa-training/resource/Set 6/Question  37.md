@@ -30,5 +30,3 @@ queue before sending a response
 *
 
 - hasExplain:: [[explanation_Question  37.md]]
-
-#queue #dynamodb #messages #receivemessage #delivery 

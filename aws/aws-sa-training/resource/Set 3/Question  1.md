@@ -31,5 +31,3 @@ bucket that houses the reports. Log these events to a new bucket, and enable log
 
 
 - hasExplain:: [[explanation_Question  1.md]]
-
-#logging #s3 #aws #reports #log 

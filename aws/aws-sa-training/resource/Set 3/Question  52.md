@@ -26,5 +26,3 @@ write it to the database
 
 
 - hasExplain:: [[explanation_Question  52.md]]
-
-#cloudfront #ec2 #azs #writes #queue 

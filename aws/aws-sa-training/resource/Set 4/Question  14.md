@@ -23,5 +23,3 @@ asynchronously invoke and AWS Lambda function to analyze thousands of .CSV files
 
 
 - hasExplain:: [[explanation_Question  14.md]]
-
-#aws #ec2 #services #lambda #service 

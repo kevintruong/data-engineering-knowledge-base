@@ -25,5 +25,3 @@ concurrent access to all files.**
 
 
 - hasExplain:: [[explanation_Question  4.md]]
-
-#storage #ec2 #efs #amazon #s3 

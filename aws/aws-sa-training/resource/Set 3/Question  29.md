@@ -23,5 +23,3 @@ CPU usage in the fleet is kept at 40%.**
 
 
 - hasExplain:: [[explanation_Question  29.md]]
-
-#scaling #cloudwatch #utilization #ec2 #cpu 

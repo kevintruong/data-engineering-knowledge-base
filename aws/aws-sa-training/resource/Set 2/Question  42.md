@@ -21,4 +21,4 @@ track memory usage on the Amazon EC2 instance?**
 
 - hasExplain:: [[explanation_Question  42.md]]
 
-#cloudwatch #ec2 #memory #instance #amazon 
+#track_memory_usage #amazon_cloudwatch_custom #amazon_cloudwatch #ec2_instance #amazon_ec2_instance 

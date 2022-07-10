@@ -25,5 +25,3 @@ available for retrieval immediately.**
 
 
 - hasExplain:: [[explanation_Question  62.md]]
-
-#backups #aws #storage #amazon #s3 

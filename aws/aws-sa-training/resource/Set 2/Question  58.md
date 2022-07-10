@@ -23,4 +23,4 @@ types. What configuration will cater to these requirements taking cost-effective
 
 - hasExplain:: [[explanation_Question  58.md]]
 
-#instances #ec2 #vpc #cluster #deploying 
+#ec2_instances #cluster_placement_group #instances #vpc #spread_placement_group 

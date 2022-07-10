@@ -26,5 +26,3 @@ should be a managed service including the replication.**
 *
 
 - hasExplain:: [[explanation_Question  33.md]]
-
-#aws #replication #regions #region #rds 

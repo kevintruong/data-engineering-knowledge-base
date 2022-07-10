@@ -20,5 +20,3 @@ that users are restricted to a specified template. How can this be achieved?**
 
 
 - hasExplain:: [[explanation_Question  61.md]]
-
-#cloudformation #restrict #s3 #resourcetypes #restricted 

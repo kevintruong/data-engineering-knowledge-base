@@ -24,4 +24,4 @@ and it is essential that the application receives the most up-to-date version of
 
 - hasExplain:: [[explanation_Question  52.md]]
 
-#aws #amazon #ec2 #s3 #redshift 
+#amazon_redshift #amazon_rds #aws_storage_gateway #amazon_s3 #amazon_ec2 

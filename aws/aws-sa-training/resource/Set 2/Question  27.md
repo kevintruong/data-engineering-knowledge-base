@@ -23,4 +23,4 @@ Manager
 
 - hasExplain:: [[explanation_Question  27.md]]
 
-#migrate #aws #divested #cloudformation #organizations 
+#destination_aws_organization #aws_organization #aws_account #aws_organizations_console #aws_resource_access 

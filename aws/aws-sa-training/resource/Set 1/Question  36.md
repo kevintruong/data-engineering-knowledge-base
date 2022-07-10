@@ -26,4 +26,4 @@ concurrently by all EC2 instances. Latency is not a concern however extremely hi
 
 - hasExplain:: [[explanation_Question  36.md]]
 
-#efs #ec2 #storage #s3 #ebs 
+#amazon_efs #storage_layer #amazon_s3 #amazon_ebs_piops #ec2 

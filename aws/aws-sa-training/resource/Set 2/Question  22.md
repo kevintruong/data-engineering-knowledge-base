@@ -35,4 +35,4 @@ after 180 days
 
 - hasExplain:: [[explanation_Question  22.md]]
 
-#s3 #restorable #lifecycle #storage #replication 
+#amazon_s3_bucket #amazon_s3 #new_storage_solution #lifecycle_rule #cross_-_region_replication 

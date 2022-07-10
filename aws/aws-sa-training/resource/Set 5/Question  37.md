@@ -29,5 +29,3 @@ environments.**
 *
 
 - hasExplain:: [[explanation_Question  37.md]]
-
-#ec2 #vpc #instances #groups #permissions 

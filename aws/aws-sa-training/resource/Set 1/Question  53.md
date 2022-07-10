@@ -26,4 +26,4 @@ the product is launched.**
 
 - hasExplain:: [[explanation_Question  53.md]]
 
-#capacity #aws #ec2 #scaling #performance 
+#capacity_requirements #step_scaling_policy #simple_scaling_policy #capacity #aws 

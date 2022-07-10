@@ -27,5 +27,3 @@ being constantly launched and terminated.**
 
 
 - hasExplain:: [[explanation_Question  9.md]]
-
-#tier #tiers #security #secure #restrict 

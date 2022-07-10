@@ -24,4 +24,4 @@ to Amazon DynamoDB.**
 
 - hasExplain:: [[explanation_Question  22.md]]
 
-#_amazonecstaskexecutionrolepolicy_ #dynamodb #permissions #_taskrolearn_ #ecs 
+#specific_ecs_task #amazon_dynamodb #amazon_ecs_container_instance #dynamodb #ec2_launch_type 

@@ -26,4 +26,4 @@ content will be regularly updated.**
 
 - hasExplain:: [[explanation_Question  5.md]]
 
-#aws #cloudfront #availability #ec2 #efs 
+#amazon_elastic_file_system #individual_amazon_ec2 #aws_storage_gateway #amazon_cloudfront #amazon_ec2_instances 

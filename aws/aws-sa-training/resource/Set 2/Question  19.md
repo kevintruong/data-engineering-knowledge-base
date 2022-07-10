@@ -25,4 +25,4 @@
 
 - hasExplain:: [[explanation_Question  19.md]]
 
-#root #aws #s3 #authentication #bucket 
+#aws_account_root_user_access #new_aws_account #root_user_account #amazon_s3_bucket #store_root_user_access_keys 

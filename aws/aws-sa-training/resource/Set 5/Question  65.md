@@ -21,5 +21,3 @@ a Solutions Architect recommend that is primarily used for software version cont
 *
 
 - hasExplain:: [[explanation_Question  65.md]]
-
-#cloudhsm #aws #cloud #sdlc #codecommit 

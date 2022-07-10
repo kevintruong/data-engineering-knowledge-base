@@ -25,5 +25,3 @@ require rewriting application code.**
 
 
 - hasExplain:: [[explanation_Question  7.md]]
-
-#aws #mqtt #ec2 #mq #sns 

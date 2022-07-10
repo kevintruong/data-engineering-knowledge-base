@@ -21,4 +21,4 @@ VPC. What should be done to secure access to the table?**
 
 - hasExplain:: [[explanation_Question  30.md]]
 
-#dynamodb #vpc #vpn #restrict #aws 
+#amazon_dynamodb_table #amazon_dynamodb_endpoint #aws_vpn_connection #gateway_vpc_endpoint #interface_vpc_endpoint 

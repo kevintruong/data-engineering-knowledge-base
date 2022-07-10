@@ -22,5 +22,3 @@ cost-effective compute solutions for this use case?**
 
 
 - hasExplain:: [[explanation_Question  3.md]]
-
-#aws #s3 #bucket #ec2 #processing 

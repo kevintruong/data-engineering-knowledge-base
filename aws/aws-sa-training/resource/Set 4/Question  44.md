@@ -28,5 +28,3 @@ different task definition profiles
 *
 
 - hasExplain:: [[explanation_Question  44.md]]
-
-#permissions #containers #ec2 #containerized #ecs 

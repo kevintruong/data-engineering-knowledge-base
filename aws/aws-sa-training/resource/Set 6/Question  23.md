@@ -23,5 +23,3 @@ best for this workload?**
 *
 
 - hasExplain:: [[explanation_Question  23.md]]
-
-#instances #ec2 #pricing #deploying #demand 

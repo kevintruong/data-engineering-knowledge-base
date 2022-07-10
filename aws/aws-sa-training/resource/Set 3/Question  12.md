@@ -27,5 +27,3 @@ downtime?**
 
 
 - hasExplain:: [[explanation_Question  12.md]]
-
-#cloudwatch #workload #cloudfront #elasticache #utilization 

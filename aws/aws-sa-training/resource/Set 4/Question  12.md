@@ -23,5 +23,3 @@ site ready to seamlessly take over the in the event of a disaster. All other ser
 
 
 - hasExplain:: [[explanation_Question  12.md]]
-
-#services #backup #disaster #recovery #restore 

@@ -38,4 +38,4 @@ S3 bucket as the origin
 
 - hasExplain:: [[explanation_Question  2.md]]
 
-#aws #cloudfront #dynamodb #ec2 #s3 
+#amazon_cloudfront_distribution #use_aws_lambda #amazon_dynamodb #amazon_s3 #customized_image 

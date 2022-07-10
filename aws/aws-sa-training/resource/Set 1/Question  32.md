@@ -21,4 +21,4 @@ does not require you to make capacity decisions upfront?**
 
 - hasExplain:: [[explanation_Question  32.md]]
 
-#dynamodb #aws #database #aurora #rds 
+#amazon_dynamodb #amazon_aurora_serverless #aws #database_service #amazon_rds 

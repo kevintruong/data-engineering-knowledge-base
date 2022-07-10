@@ -23,5 +23,3 @@ directly accessing the video assets in the bucket?**
 *
 
 - hasExplain:: [[explanation_Question  36.md]]
-
-#ec2 #cloud #restrict #bucket #amazon 

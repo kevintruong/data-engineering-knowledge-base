@@ -25,5 +25,3 @@ these actions.**
 
 
 - hasExplain:: [[explanation_Question  16.md]]
-
-#aws #acl #security #accounts #organization 

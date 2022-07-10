@@ -22,5 +22,3 @@ migration strategy for the filesystem?**
 
 
 - hasExplain:: [[explanation_Question  4.md]]
-
-#dfsn #filesystem #efs #aws #migration 

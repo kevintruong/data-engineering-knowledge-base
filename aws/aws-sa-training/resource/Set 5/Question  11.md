@@ -22,5 +22,3 @@ taken?**
 
 
 - hasExplain:: [[explanation_Question  11.md]]
-
-#vpc #gateway #nat #subnet #outbound 

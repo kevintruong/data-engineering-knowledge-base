@@ -22,5 +22,3 @@ under 5ms for these updates. Which solution will provide the BEST performance fo
 
 
 - hasExplain:: [[explanation_Question  1.md]]
-
-#streaming #dynamodb #cloudfront #s3 #latency 

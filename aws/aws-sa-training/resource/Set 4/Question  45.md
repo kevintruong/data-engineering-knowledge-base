@@ -28,5 +28,3 @@ use for this requirement?**
 *
 
 - hasExplain:: [[explanation_Question  45.md]]
-
-#instances #ec2 #instance #reserved #demand 

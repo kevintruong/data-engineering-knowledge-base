@@ -107,5 +107,3 @@ Region
 *
 
 - hasExplain:: [[explanation_Question  21.md]]
-
-#aws #vpcs #cloudwatch #cloudformation #vpn 

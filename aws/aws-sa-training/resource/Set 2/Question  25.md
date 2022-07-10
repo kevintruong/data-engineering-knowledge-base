@@ -23,4 +23,4 @@ completes
 
 - hasExplain:: [[explanation_Question  25.md]]
 
-#dynamodb #processing #ecs #process #queue 
+#separate_ecs_task #amazon_elastic_container_service #same_ecs_task #amazon_kinesis_firehose_stream #amazon_dynamodb_table 

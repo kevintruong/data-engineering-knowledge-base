@@ -32,4 +32,4 @@ routing policies to select the closest region
 
 - hasExplain:: [[explanation_Question  8.md]]
 
-#cloudfront #aws #amazon #ec2 #s3 
+#multiple_aws_regions #amazon_cloudfront #multiple_amazon_ec2 #amazon_s3_bucket #configure_amazon_route 

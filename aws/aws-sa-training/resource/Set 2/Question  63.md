@@ -25,5 +25,3 @@ customer.**
 
 
 - hasExplain:: [[explanation_Question  63.md]]
-
-#aws #ec2 #ecs #services #roles 

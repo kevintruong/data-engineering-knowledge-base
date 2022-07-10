@@ -26,5 +26,3 @@ ECS-Optimized AMI. What steps might you take to troubleshoot the issue? (Select 
 *
 
 - hasExplain:: [[explanation_Question  58.md]]
-
-#ecs #ami #disconnected #cluster #instances 

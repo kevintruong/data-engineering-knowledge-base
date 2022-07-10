@@ -26,4 +26,4 @@ using their AWS Direct Connect link.**
 
 - hasExplain:: [[explanation_Question  54.md]]
 
-#aws #efs #storage #s3 #amazon 
+#aws_storage_gateway #storage_service #amazon_efs #amazon_s3 #directory_system 

@@ -23,5 +23,3 @@ into?**
 *
 
 - hasExplain:: [[explanation_Question  65.md]]
-
-#subnet #subnets #aws #ec2 #vpc 

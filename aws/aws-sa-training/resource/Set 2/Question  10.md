@@ -29,4 +29,4 @@ Amazon S3 One Zone-Infrequent Access (S3 One Zone-A)
 
 - hasExplain:: [[explanation_Question  10.md]]
 
-#availability #ec2 #efs #resiliency #scaling 
+#multiple_amazon_ec2_linux_instances #multiple_availability_zones #ec2_instances #application_load_balancer #availability_zone 

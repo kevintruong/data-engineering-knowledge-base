@@ -27,5 +27,3 @@ database instance
 
 
 - hasExplain:: [[explanation_Question  2.md]]
-
-#encryption #encrypted #unencrypted #backups #backup 

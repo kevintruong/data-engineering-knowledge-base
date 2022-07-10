@@ -32,4 +32,4 @@ messages from the queue
 
 - hasExplain:: [[explanation_Question  17.md]]
 
-#microservices #microservice #queue #s3 #ecs 
+#microservices #microservice #amazon_sns_topic #amazon_sqs_queue #amazon_kinesis_data_firehose 

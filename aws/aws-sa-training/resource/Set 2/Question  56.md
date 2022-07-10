@@ -24,4 +24,4 @@ metadata to route traffic to specific services.**
 
 - hasExplain:: [[explanation_Question  56.md]]
 
-#cloudfront #aws #routing #traffic #metadata 
+#aws_application_load_balancer #amazon_route #amazon_cloudfront #aws_classic_load_balancer #aws_cli 

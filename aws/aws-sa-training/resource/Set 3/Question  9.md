@@ -25,5 +25,3 @@ where permissions can be maintained.**
 
 
 - hasExplain:: [[explanation_Question  9.md]]
-
-#permissions #accounts #security #aws #acl 

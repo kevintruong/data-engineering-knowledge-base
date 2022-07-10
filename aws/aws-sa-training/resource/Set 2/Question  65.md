@@ -25,5 +25,3 @@ display of account listings.**
 
 
 - hasExplain:: [[explanation_Question  65.md]]
-
-#dynamodb #cloudfront #elasticache #amazon #coast 

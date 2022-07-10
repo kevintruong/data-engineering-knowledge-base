@@ -26,4 +26,4 @@ whitelist of source IP addresses and only 2 IP addresses can be configured per c
 
 - hasExplain:: [[explanation_Question  50.md]]
 
-#saas #authentication #ec2 #gateways #routing 
+#saas_application #crm_saas_application #application_load_balancers #elastic_ip_addresses #configure_redundant_internet_gateways 

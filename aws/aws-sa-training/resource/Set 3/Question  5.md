@@ -27,5 +27,3 @@ from the replica
 
 
 - hasExplain:: [[explanation_Question  5.md]]
-
-#rds #reporting #az #snapshots #db 

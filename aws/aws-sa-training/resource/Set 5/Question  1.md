@@ -22,5 +22,3 @@ of requests. Other customers should not be affected. How should the solutions ar
 
 
 - hasExplain:: [[explanation_Question  1.md]]
-
-#throttling #api #limits #limit #requests 

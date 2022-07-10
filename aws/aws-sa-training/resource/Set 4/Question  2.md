@@ -30,5 +30,3 @@ available application endpoint.**
 
 
 - hasExplain:: [[explanation_Question  2.md]]
-
-#aws #routing #endpoints #endpoint #geolocation 

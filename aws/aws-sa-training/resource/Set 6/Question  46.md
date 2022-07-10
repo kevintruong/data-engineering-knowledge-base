@@ -26,5 +26,3 @@ like 80% of the traffic to hit the AWS-based web servers and 20% to be directed 
 *
 
 - hasExplain:: [[explanation_Question  46.md]]
-
-#aws #routing #traffic #distribute #cloud 

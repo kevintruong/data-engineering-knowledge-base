@@ -23,5 +23,3 @@ and reduce upload times?**
 *
 
 - hasExplain:: [[explanation_Question  53.md]]
-
-#uploading #uploads #s3 #throughput #upload 

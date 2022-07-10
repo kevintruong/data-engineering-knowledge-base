@@ -26,4 +26,4 @@ uses a fleet of Amazon EC2 instance in a private subnet behind an Application Lo
 
 - hasExplain:: [[explanation_Question  3.md]]
 
-#aws #cloudfront #deny #restrictions #ec2 
+#network_acl #amazon_cloudfront #alb_security_group #aws #private_subnet 

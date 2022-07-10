@@ -23,5 +23,3 @@ requests are from different IP addresses under the same CIDR range.**
 
 
 - hasExplain:: [[explanation_Question  16.md]]
-
-#acl #cidr #ip #deny #security 

@@ -32,4 +32,4 @@ sporadic increases in request rates.**
 
 - hasExplain:: [[explanation_Question  15.md]]
 
-#aws #availability #aurora #alb #cloudfront 
+#amazon_aurora_database #aws_global_accelerator_endpoint #amazon_aurora_replicas #aws_waf #application_load_balancer 

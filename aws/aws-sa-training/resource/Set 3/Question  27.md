@@ -26,5 +26,3 @@ the shared services VPC. The solution should not allow consumers to connect to o
 
 
 - hasExplain:: [[explanation_Question  27.md]]
-
-#vpc #aws #peering #shared #privatelink 

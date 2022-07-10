@@ -23,4 +23,4 @@ encrypted cross-region Read Replica
 
 - hasExplain:: [[explanation_Question  33.md]]
 
-#encryption #encrypt #encrypted #rds #region 
+#cross_-_region_read_replica #amazon_rds_read_replica #encryption #master_db_instance #separate_region 

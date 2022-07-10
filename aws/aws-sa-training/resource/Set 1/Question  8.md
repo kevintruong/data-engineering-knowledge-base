@@ -26,4 +26,4 @@ will be required for a minimum of 1 year.**
 
 - hasExplain:: [[explanation_Question  8.md]]
 
-#ec2 #instances #analytics #amazon #scheduled 
+#amazon_ec2_instances #reserved_instances #demand_instances #standard_reserved_instances #spot_instances 

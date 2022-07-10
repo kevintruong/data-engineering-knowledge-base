@@ -20,5 +20,3 @@ medium to high severity events. How can this be achieved?**
 
 
 - hasExplain:: [[explanation_Question  6.md]]
-
-#cloudwatch #monitored #notified #alarm #aws 

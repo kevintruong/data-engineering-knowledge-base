@@ -29,5 +29,3 @@ some controls to limit the number of requests per second that hit the applicatio
 *
 
 - hasExplain:: [[explanation_Question  43.md]]
-
-#throttling #aws #ec2 #gateway #lambda 

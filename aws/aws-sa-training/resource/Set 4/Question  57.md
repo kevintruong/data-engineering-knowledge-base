@@ -21,5 +21,3 @@ rate and burst limits?**
 *
 
 - hasExplain:: [[explanation_Question  57.md]]
-
-#throttling #requests #gateway #api #limits 

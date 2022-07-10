@@ -28,5 +28,3 @@ ProvisionedThroughputExceededException
 *
 
 - hasExplain:: [[explanation_Question  62.md]]
-
-#dynamodb #cloudwatch #capacity #throttled #amazon 

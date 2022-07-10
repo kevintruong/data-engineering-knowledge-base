@@ -26,5 +26,3 @@ redundancy is required.**
 *
 
 - hasExplain:: [[explanation_Question  61.md]]
-
-#subnets #subnet #vpc #requirement #zonal 

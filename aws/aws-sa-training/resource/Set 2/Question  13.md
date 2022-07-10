@@ -137,4 +137,4 @@ server
 
 - hasExplain:: [[explanation_Question  13.md]]
 
-#ec2 #cloud #availability #documents #ec 
+#amazon_ebs_volumes #single_amazon_ec2_instance #amazon_efs #ebs_volumes #amazon_ebs_volume 

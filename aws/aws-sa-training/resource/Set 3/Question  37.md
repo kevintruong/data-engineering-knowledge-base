@@ -25,5 +25,3 @@ redundant and have no constraints on bandwidth.**
 
 
 - hasExplain:: [[explanation_Question  37.md]]
-
-#bandwidth #nat #provisioning #gateway #internet 

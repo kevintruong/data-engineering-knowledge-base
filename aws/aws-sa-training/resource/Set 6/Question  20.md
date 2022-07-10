@@ -25,5 +25,3 @@ targets
 *
 
 - hasExplain:: [[explanation_Question  20.md]]
-
-#elb #ec2 #routes #vpc #elastic 

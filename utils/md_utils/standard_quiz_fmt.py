@@ -3,6 +3,8 @@ import os
 import re
 from keybert import KeyBERT
 
+from utils.vocabulary import vectorizer, full_vocob_list
+
 
 class CardObject:
     def __init__(self, **kwargs):
@@ -27,41 +29,53 @@ class StandardQuizFormatter(BaseQuizFormater):
     not_correct_opts_reg = r'^-{0,1}[\s*]{0,}\[[\s\]]{0,1}\]\s*'
     correct_opts_reg = r'^-{0,1}[\s*]{0,}\[[xX]\]\s*'
 
-    def __init__(self, content=None, title=None, childs=None, rule=None):
+    def __init__(self,
+                 content=None,
+                 title=None,
+                 childs=None,
+                 rule=None):
         super().__init__()
         self.content = content
         self.title = title
         self.childs = childs
         self.rule = rule
 
-    def regex_replace(self, source, target):
+    def regex_replace(self, content, source, target):
         def replace_by_target(match_object):
             return f"{target['prefix']}{match_object.group(target['match_group'])}{target['suffix']}"
 
-        self.question = re.sub(source, replace_by_target, self.question, 0, re.MULTILINE)
+        return re.sub(source, replace_by_target, self.question, 0, re.MULTILINE)
 
-    def refill_correct_options(self, option_regex):
+    def refill_correct_options(self, content, option_regex):
         def replace_collect_option(match_object):
             return f"- [x] {match_object}"
 
-        options = re.findall(option_regex, self.question, re.MULTILINE)
+        options = re.findall(option_regex, content, re.MULTILINE)
         for each_correct_option_index in self.correct_ops:
             correct_ops = options[each_correct_option_index - 1][0]
             re_fill = replace_collect_option(options[each_correct_option_index - 1][2])
-            self.question = self.question.replace(correct_ops, re_fill)
+            content = content.replace(correct_ops, re_fill)
+        return content
 
-    def add_explain_link_type(self, link_type, target_fmt):
+    def add_explain_link_type(self, content, link_type, target_fmt):
         append_link_type = "\n\n- {link_type} ".format(link_type=link_type) + target_fmt.format(
             question_title=self.title)
-        self.question += append_link_type
+        content += append_link_type
+        return content
 
-    def add_tags_with_bert(self):
+    def add_tags_with_bert(self, content):
         kw_model = KeyBERT()
-        keywords = kw_model.extract_keywords(docs=self.question)
-        tags = "\n\n"
-        for each_keyword in keywords:
-            tags += f"#{each_keyword[0]} "
-        self.question += tags
+        keywords = kw_model.extract_keywords(docs=content,
+                                             keyphrase_ngram_range=(1, 2),
+                                             vectorizer=vectorizer,
+                                             seed_keywords=full_vocob_list
+                                             )
+        if len(keywords):
+            tags = "\n\n"
+            for each_keyword in keywords:
+                tags += f"#{each_keyword[0].replace(' ', '_')} "
+            content += tags
+        return content
 
     def format(self):
         """
@@ -114,7 +128,7 @@ class StandardQuizFormatter(BaseQuizFormater):
                                          self.content,
                                          flags=re.MULTILINE)
             if card_determiners:
-                self.quiz_explaination = self.content[card_determiners.end() + 1:].rstrip("\n").lstrip("\n")
+                self.quiz_explanation = self.content[card_determiners.end() + 1:].rstrip("\n").lstrip("\n")
                 quiz_explaination_mark = card_determiners.start() - 1
                 self.question = self.content[:quiz_explaination_mark]
                 self.correct_ops = list(map(int, card_determiners[1].strip().split(",")))
@@ -126,7 +140,15 @@ class StandardQuizFormatter(BaseQuizFormater):
                     for each_transform in each_transforms_type['transform_rules']:
                         if hasattr(self, each_transform['name']):
                             transform_func = getattr(self, each_transform['name'])
-                            transform_func(**each_transform['kwargs'])
+                            self.question = transform_func(self.question,
+                                                           **each_transform['kwargs'])
+                        pass
+                if each_transforms_type['type'] == "explanation":
+                    for each_transform in each_transforms_type['transform_rules']:
+                        if hasattr(self, each_transform['name']):
+                            transform_func = getattr(self, each_transform['name'])
+                            self.quiz_explanation = transform_func(self.quiz_explanation,
+                                                                   **each_transform['kwargs'])
                         pass
 
         except  Exception as e:
@@ -146,6 +168,4 @@ class StandardQuizFormatter(BaseQuizFormater):
             with open(note_file, 'w') as note_fd:
                 note_fd.write(self.question)
             with open(explan_note_file, 'w') as explanation_fd:
-                explanation_fd.write(self.quiz_explaination)
-
-        pass
+                explanation_fd.write(self.quiz_explanation)

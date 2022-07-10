@@ -26,5 +26,3 @@ protocols are supported? (Select TWO)**
 *
 
 - hasExplain:: [[explanation_Question  55.md]]
-
-#protocols #sns #aws #notifications #distributed 

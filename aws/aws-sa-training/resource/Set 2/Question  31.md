@@ -26,4 +26,4 @@ performance.**
 
 - hasExplain:: [[explanation_Question  31.md]]
 
-#failover #aws #cloudfront #availability #elb 
+#elb_application_load_balancer #high_availability #cloudfront_distribution #automatic_failover #configure_automatic_failover 

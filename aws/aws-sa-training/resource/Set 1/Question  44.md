@@ -24,4 +24,4 @@ Which lifecycle action should be taken to meet the requirements while reducing c
 
 - hasExplain:: [[explanation_Question  44.md]]
 
-#lifecycle #storage #s3 #glacier #data 
+#glacier_storage_class #lifecycle_action #infrequent_access #amazon_s3 #amazon_s3_standard 

@@ -24,5 +24,3 @@ of the long-running API calls?**
 
 
 - hasExplain:: [[explanation_Question  4.md]]
-
-#ec2 #latency #timeout #alb #tls 

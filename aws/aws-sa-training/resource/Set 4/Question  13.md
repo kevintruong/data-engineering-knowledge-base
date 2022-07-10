@@ -23,5 +23,3 @@ MPI protocol and runs across many nodes. A service-managed deployment is require
 
 
 - hasExplain:: [[explanation_Question  13.md]]
-
-#cloudformation #deployment #provisioning #aws #cluster 

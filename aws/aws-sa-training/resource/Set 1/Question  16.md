@@ -27,4 +27,4 @@ solutions architect needs to ensure that the API calls do not traverse the inter
 
 - hasExplain:: [[explanation_Question  16.md]]
 
-#dynamodb #peering #vpc #gateway #route 
+#amazon_dynamodb #dynamodb #amazon_vpc #gateway_endpoint #new_dynamodb_table 

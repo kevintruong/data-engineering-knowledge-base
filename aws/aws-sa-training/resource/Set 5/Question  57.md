@@ -29,5 +29,3 @@ key.**
 *
 
 - hasExplain:: [[explanation_Question  57.md]]
-
-#encryption #encrypt #cloudhsm #encrypted #unencrypt 

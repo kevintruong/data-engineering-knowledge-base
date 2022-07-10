@@ -23,5 +23,3 @@ information should include the source, destination, and protocol.**
 
 
 - hasExplain:: [[explanation_Question  10.md]]
-
-#elb #logs #traffic #cloudtrail #logging 

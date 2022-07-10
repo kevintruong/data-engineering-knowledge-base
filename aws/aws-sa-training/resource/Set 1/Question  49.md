@@ -28,4 +28,4 @@ would you implement? (Select TWO)**
 
 - hasExplain:: [[explanation_Question  49.md]]
 
-#cloudwatch #scaling #ec2 #timers #scale 
+#cloudwatch_alarm_period #auto_scaling_policy #auto_scaling_group_termination_policy #auto_scaling #auto_scaling_group_cool 

@@ -33,4 +33,4 @@ multi-AZ deployment
 
 - hasExplain:: [[explanation_Question  21.md]]
 
-#availability #ec2 #tier #azs #scaling 
+#high_availability #single_availability_zone #multiple_azs #amazon_ec2_auto_scaling_group #application_load_balancer 

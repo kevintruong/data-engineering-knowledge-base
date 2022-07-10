@@ -28,4 +28,4 @@ metadata
 
 - hasExplain:: [[explanation_Question  63.md]]
 
-#s3 #uploads #ec2 #workload #files 
+#s3_bucket #multiple_uploads #workload #amazon_s3_event_notification #ec2_instances 

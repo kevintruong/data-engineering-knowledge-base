@@ -29,4 +29,4 @@ around 1 GB and future growth is unknown. Requests can range from 0 to over 800 
 
 - hasExplain:: [[explanation_Question  10.md]]
 
-#dynamodb #aws #api #gateway #rds 
+#amazon_api_gateway_api #amazon_dynamodb #aws_services #aws_lambda #aws_fargate 

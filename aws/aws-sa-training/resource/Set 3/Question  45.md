@@ -20,5 +20,3 @@ on structured data that is being received at a high velocity?**
 
 
 - hasExplain:: [[explanation_Question  45.md]]
-
-#redshift #queries #hive #sql #spark 

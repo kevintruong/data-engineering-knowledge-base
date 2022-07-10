@@ -26,5 +26,3 @@ instances that ensures close proximity, low latency and high network throughput.
 
 
 - hasExplain:: [[explanation_Question  43.md]]
-
-#ec2 #aws #cluster #ebs #instances 

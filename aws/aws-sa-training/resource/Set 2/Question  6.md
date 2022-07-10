@@ -32,4 +32,4 @@ geolocation record to point to the S3 buckets
 
 - hasExplain:: [[explanation_Question  6.md]]
 
-#cloudfront #aws #ec2 #amazon #performance 
+#amazon_cloudfront_distribution #cloudfront_distribution #amazon_route #amazon_ec2_instances #website_performance 

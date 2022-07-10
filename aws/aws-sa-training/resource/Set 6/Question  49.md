@@ -23,5 +23,3 @@ execute the script on all target EC2 instances?**
 *
 
 - hasExplain:: [[explanation_Question  49.md]]
-
-#powershell #aws #ec2 #script #execute 

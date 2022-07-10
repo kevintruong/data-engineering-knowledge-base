@@ -96,5 +96,3 @@ CIDR: 192. 168. 0. 0 / 16
 
 
 - hasExplain:: [[explanation_Question  13.md]]
-
-#aws #gateway #ec2 #migrate #cloud 

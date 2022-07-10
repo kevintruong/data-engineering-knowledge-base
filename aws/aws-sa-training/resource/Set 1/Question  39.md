@@ -25,4 +25,4 @@ From the list below what AWS service would you recommend for this requirement?**
 
 - hasExplain:: [[explanation_Question  39.md]]
 
-#aws #elasticache #rds #memcached #persistent 
+#persistent_data_store #aws_service #aws #elasticache #rds 

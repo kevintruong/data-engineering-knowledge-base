@@ -35,4 +35,4 @@ group for the web tier
 
 - hasExplain:: [[explanation_Question  18.md]]
 
-#security #tier #groups #group #ec2 
+#security_groups #security_group #tier_web_application #web_tier #database_tier 

@@ -30,4 +30,4 @@ transition the S3 objects to Amazon S3 Glacier
 
 - hasExplain:: [[explanation_Question  16.md]]
 
-#aws #glacier #s3 #migrate #bucket 
+#amazon_s3_glacier #s3_glacier_vault #amazon_s3_bucket #amazon_glacier #aws 

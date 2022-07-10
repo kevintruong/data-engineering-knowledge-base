@@ -21,4 +21,4 @@ application team use to decouple the client interface from the underlying servic
 
 - hasExplain:: [[explanation_Question  40.md]]
 
-#api #client #application #mobile #services 
+#mobile_client #client_interface #layer_services #aws_device_farm #amazon_api_gateway 

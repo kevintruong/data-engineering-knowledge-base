@@ -23,5 +23,3 @@ Amazon S3 and the storage solution must have seamless integration so objects can
 
 
 - hasExplain:: [[explanation_Question  23.md]]
-
-#storage #efs #files #s3 #stored 

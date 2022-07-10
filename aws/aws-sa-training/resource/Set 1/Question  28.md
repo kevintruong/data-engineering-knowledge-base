@@ -24,4 +24,4 @@ The services should be decoupled.**
 
 - hasExplain:: [[explanation_Question  28.md]]
 
-#aws #ec2 #lambda #processing #services 
+#aws_lambda_function #compute_services #aws_step_functions #amazon_sns #amazon_ec2 

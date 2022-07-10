@@ -26,4 +26,4 @@ roadmap development rather than provisioning and managing instances.**
 
 - hasExplain:: [[explanation_Question  53.md]]
 
-#aws #cloudfront #scaling #ec2 #balancing 
+#aws_lambda #amazon_api_gateway #amazon_cloudfront #aws #solutions_architect 

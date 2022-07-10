@@ -26,5 +26,3 @@ the DB size is around 500 GB. The database is infrequently used with small amoun
 
 
 - hasExplain:: [[explanation_Question  33.md]]
-
-#ssd #storage #hdd #efs #aws 

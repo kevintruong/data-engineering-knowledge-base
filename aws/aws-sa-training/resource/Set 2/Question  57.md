@@ -76,4 +76,4 @@ subdirectory to the users’ home directory
 
 - hasExplain:: [[explanation_Question  57.md]]
 
-#efs #permissions #users #amazon #files 
+#amazon_elastic_file_system #separate_efs_file_system #efs_file_system #execute_permissions #efs 

@@ -134,4 +134,4 @@ configure the back-end instances to poll the queue and pick up messages in the o
 
 - hasExplain:: [[explanation_Question  33.md]]
 
-#cloudfront #ec2 #streaming #queue #http 
+#amazon_cloudfront #web_distribution #adobe_flash_media_rtmp_protocol #end_ec2_instances #specific_queue 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8910fc2df9c31476",
+        "id": "2cebdabbb6f3b6f6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aws/aws-sa-training/resource/Set 1/Question  9.md",
+            "file": "aws/aws-sa-training/resource/Set 1/Question  1.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#s3",
+                "query": "tag:#amazon_efs_filesystem",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 460
+    "width": 460,
+    "collapsed": true
   },
   "right": {
     "id": "f2829be25feaab28",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/aws-sa-training/resource/Set 1/Question  9.md",
+                "file": "aws/aws-sa-training/resource/Set 1/Question  1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,17 +232,17 @@
     "direction": "horizontal",
     "width": 664
   },
-  "active": "8910fc2df9c31476",
+  "active": "2cebdabbb6f3b6f6",
   "lastOpenFiles": [
-    "aws/aws-sa-training/resource/Set 1/Question  9.md",
-    "aws/aws-sa-training/resource/Set 2/Question  2.md",
-    "aws/aws-sa-training/resource/Set 1/Question  52.md",
-    "aws/aws-sa-training/resource/Set 1/Question  37.md",
-    "aws/aws-sa-training/resource/Set 1/Question  22.md",
-    "aws/aws-sa-training/resource/Set 1/explanation_Question  5.md",
-    "aws/aws-sa-training/resource/Set 1/Question  15.md",
-    "aws/aws-sa-training/resource/Set 1/explanation_Question  15.md",
-    "aws/aws-sa-training/resource/aws_csaa_practice_question.md",
-    "aws/aws-sa-training/resource/Set 1/Question  12.md"
+    "aws/aws-sa-training/resource/Set 1/Question  1.md",
+    "aws/aws-sa-training/resource/Set 1/explanation_Question  13.md",
+    "aws/aws-sa-training/resource/Set 1/explanation_Question  2.md",
+    "aws/aws-sa-training/resource/Set 6/Question  23.md",
+    "aws/aws-sa-training/resource/Set 6/Question  40.md",
+    "aws/aws-sa-training/resource/Set 1/explanation_Question  7.md",
+    "aws/aws-sa-training/resource/Set 2/Question  50.md",
+    "aws/aws-sa-training/resource/Set 5/Question  56.md",
+    "aws/aws-sa-training/resource/Set 5/Question  1.md",
+    "aws/aws-sa-training/resource/Set 4/Question  48.md"
   ]
 }

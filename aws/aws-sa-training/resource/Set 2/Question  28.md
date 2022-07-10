@@ -21,4 +21,4 @@ optimized for high-throughput use cases?**
 
 - hasExplain:: [[explanation_Question  28.md]]
 
-#throughput #performance #aws #s3 #cloudfront 
+#amazon_s3_transfer_acceleration #aws_global_accelerator #throughput_use_cases #amazon_s3 #amazon_cloudfront 

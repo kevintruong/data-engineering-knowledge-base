@@ -26,4 +26,4 @@ regional failover.**
 
 - hasExplain:: [[explanation_Question  35.md]]
 
-#failover #aws #ec2 #routing #regions 
+#regional_failover #failover #multiple_regions #aws_global_accelerator #amazon_cloudfront 

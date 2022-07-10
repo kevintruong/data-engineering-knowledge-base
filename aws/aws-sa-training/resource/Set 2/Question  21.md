@@ -26,4 +26,4 @@ on-demand streaming.**
 
 - hasExplain:: [[explanation_Question  21.md]]
 
-#cloudfront #aws #streaming #s3 #performance 
+#amazon_cloudfront #solutions_architect #amazon_s3_transfer_acceleration #aws #demand_streaming 

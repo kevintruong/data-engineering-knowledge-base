@@ -23,5 +23,3 @@ that only one subnet has EC2 instances running in it. What might be the cause of
 *
 
 - hasExplain:: [[explanation_Question  49.md]]
-
-#ec2 #elb #ami #subnets #instances 

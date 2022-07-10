@@ -21,5 +21,3 @@ user does not have permissions to perform any actions, which statement is true a
 *
 
 - hasExplain:: [[explanation_Question  18.md]]
-
-#permissions #privileges #iam #users #account 

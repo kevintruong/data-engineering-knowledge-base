@@ -28,4 +28,4 @@ traffic
 
 - hasExplain:: [[explanation_Question  55.md]]
 
-#availability #aws #ec2 #scaling #api 
+#high_availability #aws_lambda #single_c4.large_ec2_instance #api_gateway #application_load_balancer 

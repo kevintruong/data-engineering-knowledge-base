@@ -24,5 +24,3 @@ between cloud data centers, bypassing ISPs.**
 *
 
 - hasExplain:: [[explanation_Question  31.md]]
-
-#aws #cloud #vpn #isps #hybrid 

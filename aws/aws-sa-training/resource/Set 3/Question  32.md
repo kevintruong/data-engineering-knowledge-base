@@ -20,5 +20,3 @@ ensure that the users are able to make API calls to AWS services. What else need
 
 
 - hasExplain:: [[explanation_Question  32.md]]
-
-#aws #iam #cloud #authentication #api 

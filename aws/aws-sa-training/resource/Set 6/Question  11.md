@@ -26,5 +26,3 @@ launched in another AWS Region in the event of a disaster.**
 
 
 - hasExplain:: [[explanation_Question  11.md]]
-
-#aws #ec2 #region #amis #replication 

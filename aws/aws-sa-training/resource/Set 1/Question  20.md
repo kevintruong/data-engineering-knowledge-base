@@ -32,4 +32,4 @@ ap-southeast- 2
 
 - hasExplain:: [[explanation_Question  20.md]]
 
-#dynamodb #mysql #migrate #replication #aurora 
+#amazon_dynamodb #database_tier #amazon_route #amazon_rds #global_database 

@@ -24,4 +24,4 @@ recovered in case of accidental deletion.**
 
 - hasExplain:: [[explanation_Question  4.md]]
 
-#s3 #replication #versioning #deletion #amazon 
+#amazon_s3_lifecycle_policy #amazon_s3_bucket #amazon_s3 #amazon_s3_intelligent #cross_-_region_replication 

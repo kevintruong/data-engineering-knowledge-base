@@ -31,5 +31,3 @@ an attack? (Select TWO)**
 *
 
 - hasExplain:: [[explanation_Question  52.md]]
-
-#ddos #cloudfront #mitigation #scaling #availability 

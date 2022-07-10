@@ -26,4 +26,4 @@ administrator policy, which would allow the developers to circumvent any other s
 
 - hasExplain:: [[explanation_Question  20.md]]
 
-#policies #administrator #security #permissions #policy 
+#iam_policies #iam_permissions #iam_roles #administrator_policy #other_security_policies 

@@ -20,5 +20,3 @@ volumes. What is the best solution for ingesting and processing a very large num
 
 
 - hasExplain:: [[explanation_Question  34.md]]
-
-#streams #processing #data #redshift #trading 

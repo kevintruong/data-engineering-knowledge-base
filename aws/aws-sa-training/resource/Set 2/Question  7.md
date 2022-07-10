@@ -26,4 +26,4 @@ attacks.**
 
 - hasExplain:: [[explanation_Question  7.md]]
 
-#aws #vulnerability #vulnerable #balancer #waf 
+#aws_waf #application_load_balancer #web_server_layer #aws_shield_standard #cross_-_site_scripting 

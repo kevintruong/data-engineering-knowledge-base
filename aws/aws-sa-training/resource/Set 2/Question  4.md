@@ -36,4 +36,4 @@ endpoints. Route 53 will only send requests to the instance if the health checks
 
 - hasExplain:: [[explanation_Question  4.md]]
 
-#failover #cloudfront #balancer #amazon #ec2 
+#failover #passive_failover_configuration #application_load_balancer #amazon_route #amazon_cloudfront_distribution 

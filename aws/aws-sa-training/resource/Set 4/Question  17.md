@@ -20,5 +20,3 @@ endpoints must be avoided. What is the most EFFICIENT and secure method of enabl
 
 
 - hasExplain:: [[explanation_Question  17.md]]
-
-#dynamodb #aws #vpn #vpc #subnet 

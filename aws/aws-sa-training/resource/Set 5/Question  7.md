@@ -26,5 +26,3 @@ analyze the data
 
 
 - hasExplain:: [[explanation_Question  7.md]]
-
-#aws #analytics #amazon #s3 #data 

@@ -29,4 +29,4 @@ more cost-effective.**
 
 - hasExplain:: [[explanation_Question  2.md]]
 
-#availability #ec2 #aws #instances #scaling 
+#ec2_instances #smaller_ec2_instance_types #multiple_availability_zones #single_availability_zone #aws 

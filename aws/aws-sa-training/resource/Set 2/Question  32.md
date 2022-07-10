@@ -23,4 +23,4 @@ allow you to share the videos?**
 
 - hasExplain:: [[explanation_Question  32.md]]
 
-#cloudfront #videos #ec2 #onboarding #s3 
+#training_videos #use_cloudfront #videos #ec2_instance #s3_bucket 

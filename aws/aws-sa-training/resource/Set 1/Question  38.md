@@ -26,4 +26,4 @@ applications for a global user base. The database should be a fully managed serv
 
 - hasExplain:: [[explanation_Question  38.md]]
 
-#dynamodb #aws #replication #ec2 #cloud 
+#multi_-_region_replication #cross_region_replication #ebs_replication #aws_service #multi_-_master_database 

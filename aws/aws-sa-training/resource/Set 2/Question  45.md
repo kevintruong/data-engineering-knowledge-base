@@ -24,4 +24,4 @@ must access the data without code changes. The data is critical and is accessed 
 
 - hasExplain:: [[explanation_Question  45.md]]
 
-#aws #storage #cloud #availability #amazon 
+#amazon_elastic_file_system #amazon_simple_storage_service #aws_storage_gateway #storage_solution #aws_cloud 

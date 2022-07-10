@@ -26,5 +26,3 @@ development team wants to modify the process so that they can release code direc
 *
 
 - hasExplain:: [[explanation_Question  47.md]]
-
-#peering #vpc #vpcs #routing #peered 

@@ -26,4 +26,4 @@ solution should be scalable as the company continues to grow.**
 
 - hasExplain:: [[explanation_Question  47.md]]
 
-#cloudfront #aws #https #ec2 #amazon 
+#amazon_cloudfront #static_website #static_web_content #amazon_s3_bucket_origin #amazon_s3 

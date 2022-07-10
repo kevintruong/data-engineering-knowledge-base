@@ -26,5 +26,3 @@ instances.**
 *
 
 - hasExplain:: [[explanation_Question  30.md]]
-
-#ami #ec2 #launch #launching #instances 

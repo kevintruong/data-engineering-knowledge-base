@@ -23,5 +23,3 @@ public IP addresses. Some users are experiencing poor performance when accessing
 
 
 - hasExplain:: [[explanation_Question  7.md]]
-
-#cloudfront #aws #latency #geoproximity #routing 

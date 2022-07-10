@@ -26,5 +26,3 @@ cloud.**
 *
 
 - hasExplain:: [[explanation_Question  41.md]]
-
-#aws #ldap #mfa #cloud #manage 

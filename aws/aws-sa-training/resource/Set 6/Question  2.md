@@ -27,5 +27,3 @@ Z.**
 
 
 - hasExplain:: [[explanation_Question  2.md]]
-
-#gateway #connections #transit #aws #route 

@@ -24,4 +24,4 @@ analyzed infrequently and discarded after 30 days.**
 
 - hasExplain:: [[explanation_Question  48.md]]
 
-#dynamodb #csv #aws #billing #logs 
+#aws_data_pipeline #incoming_billing_reports #amazon_redshift_cluster #dynamodb_table #storage_solution 

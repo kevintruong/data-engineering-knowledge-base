@@ -24,4 +24,4 @@ that applications are deployed in secure configurations.**
 
 - hasExplain:: [[explanation_Question  47.md]]
 
-#vpc #cloudformation #aws #deployment #deploy 
+#secure_configurations #vpc #use_aws_inspector #cloudformation #deployment 

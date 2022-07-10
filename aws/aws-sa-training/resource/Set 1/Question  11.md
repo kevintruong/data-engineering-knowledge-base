@@ -29,4 +29,4 @@ using that EBS volume
 
 - hasExplain:: [[explanation_Question  11.md]]
 
-#ec2 #region #instances #ebs #ami 
+#amazon_ec2_instances #ec2_instance #new_ec2_instance #second_region #single_region 

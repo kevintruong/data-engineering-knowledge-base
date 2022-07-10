@@ -26,4 +26,4 @@ costs as low as possible by using the appropriate S3 storage class.**
 
 - hasExplain:: [[explanation_Question  9.md]]
 
-#s3 #storage #logs #backup #log 
+#appropriate_s3_storage_class #s3_storage_class #amazon_s3 #s3_glacier #s3 

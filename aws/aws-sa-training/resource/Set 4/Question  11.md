@@ -27,5 +27,3 @@ KMS
 
 
 - hasExplain:: [[explanation_Question  11.md]]
-
-#credentials #awsauthenticationplugin #aws #aurora #authenticate 

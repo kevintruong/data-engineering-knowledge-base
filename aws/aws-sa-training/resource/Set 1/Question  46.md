@@ -27,4 +27,4 @@ the index
 
 - hasExplain:: [[explanation_Question  46.md]]
 
-#dynamodb #aws #s3 #cloud #bucket 
+#enable_dynamodb_streams #dynamodb_table #aws_lambda #use_kinesis_data_streams #s3_bucket 

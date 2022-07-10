@@ -23,5 +23,3 @@ retained for compliance reasons for seven years and is rarely accessed.**
 
 
 - hasExplain:: [[explanation_Question  30.md]]
-
-#storage #s3 #data #deep_archive #amazon 

@@ -26,4 +26,4 @@ network-attached storage (NAS) device.**
 
 - hasExplain:: [[explanation_Question  11.md]]
 
-#efs #aws #nas #ec2 #availability 
+#amazon_elastic_file_system #amazon_efs #aws_storage_gateway #nas_file_share #windows_file_server 

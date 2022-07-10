@@ -29,5 +29,3 @@ Additionally, the Architect will also need to perform some analysis on the log f
 *
 
 - hasExplain:: [[explanation_Question  59.md]]
-
-#dynamodb #logs #aws #ec2 #elb 

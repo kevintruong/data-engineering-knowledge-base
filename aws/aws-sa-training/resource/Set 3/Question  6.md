@@ -25,5 +25,3 @@ requests.**
 
 
 - hasExplain:: [[explanation_Question  6.md]]
-
-#aurora #az #amazon #read #replica 

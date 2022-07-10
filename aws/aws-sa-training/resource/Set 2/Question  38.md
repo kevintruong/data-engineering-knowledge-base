@@ -28,4 +28,4 @@ database?**
 
 - hasExplain:: [[explanation_Question  38.md]]
 
-#dynamodb #throughput #memory #bidding #bid 
+#dynamodb #configure_dynamodb_auto_scaling #end_dynamodb #configure_amazon_dax #throughput 

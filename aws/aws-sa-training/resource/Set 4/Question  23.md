@@ -24,5 +24,3 @@ application facing services from the AWS serverless infrastructure? (Select TWO)
 *
 
 - hasExplain:: [[explanation_Question  23.md]]
-
-#aws #serverless #services #gateway #infrastructure 

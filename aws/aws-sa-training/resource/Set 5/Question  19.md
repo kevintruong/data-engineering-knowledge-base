@@ -22,5 +22,3 @@ replacement for the database cache?**
 
 
 - hasExplain:: [[explanation_Question  19.md]]
-
-#aws #dynamodb #elasticache #caching #cache 

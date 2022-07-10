@@ -18,5 +18,3 @@
 
 
 - hasExplain:: [[explanation_Question  40.md]]
-
-#_insufficient #volume #ebs #ec2 #checks 

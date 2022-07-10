@@ -27,5 +27,3 @@ application will use API calls to interact with the EC2 instance and S3 bucket.*
 *
 
 - hasExplain:: [[explanation_Question  61.md]]
-
-#aws #ec2 #s3 #bucket #access 

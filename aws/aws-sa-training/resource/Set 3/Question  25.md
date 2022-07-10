@@ -23,5 +23,3 @@ Organization. The accounts also need to be moved into an OU and have VPCs and su
 
 
 - hasExplain:: [[explanation_Question  25.md]]
-
-#cloudformation #aws #organization #organizations #accounts 

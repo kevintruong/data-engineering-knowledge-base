@@ -23,5 +23,3 @@ systems running in the cloud. Other services can be replicated but switched off.
 
 
 - hasExplain:: [[explanation_Question  16.md]]
-
-#backup #disaster #cloud #services #systems 

@@ -26,4 +26,4 @@ logged with the intent to be analyzed in the future as needed.**
 
 - hasExplain:: [[explanation_Question  41.md]]
 
-#ec2 #streaming #elb #amazon #elbs 
+#amazon_kinesis_firehose_delivery_stream #streaming_data #amazon_sqs_queue #amazon_ec2_instance_farm #amazon_ec2 

@@ -40,4 +40,4 @@ of messages published to the SNS topic
 
 - hasExplain:: [[explanation_Question  13.md]]
 
-#aws #ec2 #scaling #queue #nodes 
+#amazon_ec2_auto_scaling_group #amazon_sqs_queue #ec2_instances #compute_application #amazon_sns_topic 

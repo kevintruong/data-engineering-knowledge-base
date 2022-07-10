@@ -25,5 +25,3 @@ caching layer.**
 
 
 - hasExplain:: [[explanation_Question  15.md]]
-
-#dynamodb #aws #elasticache #availability #caching 

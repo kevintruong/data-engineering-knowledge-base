@@ -23,5 +23,3 @@ cost-effectively and reduce the load on the web server?**
 *
 
 - hasExplain:: [[explanation_Question  60.md]]
-
-#aws #cloudfront #ec2 #amazon #s3 

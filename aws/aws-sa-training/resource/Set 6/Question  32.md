@@ -31,5 +31,3 @@ restricted by user or group.**
 *
 
 - hasExplain:: [[explanation_Question  32.md]]
-
-#efs #firewall #ec2 #aws #permissions 

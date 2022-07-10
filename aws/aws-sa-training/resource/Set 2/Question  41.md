@@ -152,4 +152,4 @@ Any public endpoint
 
 - hasExplain:: [[explanation_Question  41.md]]
 
-#ssl #ec2 #encryption #aws #encrypted 
+#encryption_requirement #amazon_api_gateway #aws_lambda #other_aws_service #application_load_balancer 

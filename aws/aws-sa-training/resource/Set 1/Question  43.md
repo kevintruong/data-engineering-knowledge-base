@@ -28,4 +28,4 @@ geographic location.**
 
 - hasExplain:: [[explanation_Question  43.md]]
 
-#cloudfront #ec2 #scaling #elb #efs 
+#elb_application_load_balancer #ec2_instances #amazon_cloudfront_distribution #implement_amazon_redshift #amazon_efs 

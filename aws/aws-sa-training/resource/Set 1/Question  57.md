@@ -27,4 +27,4 @@ polls the queue and writes messages to the database
 
 - hasExplain:: [[explanation_Question  57.md]]
 
-#dynamodb #s3 #queue #messages #rds 
+#dynamodb #rds_auto_scaling #s3_bucket #sqs_queue #queue 

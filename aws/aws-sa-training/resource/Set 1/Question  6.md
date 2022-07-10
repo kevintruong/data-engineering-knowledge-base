@@ -28,4 +28,4 @@ the website.**
 
 - hasExplain:: [[explanation_Question  6.md]]
 
-#cloudfront #protect #aws #security #ec2 
+#aws_waf #amazon_cloudfront_distribution #external_malicious_ip #network_acl #cloudfront_distribution 

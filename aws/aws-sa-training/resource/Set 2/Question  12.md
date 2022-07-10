@@ -147,4 +147,4 @@ AZ
 
 - hasExplain:: [[explanation_Question  12.md]]
 
-#aws #storage #cloud #s3 #availability 
+#cold_data_storage #performance_parallel_storage #aws_cloud #economical_cold_storage #storage_needs 

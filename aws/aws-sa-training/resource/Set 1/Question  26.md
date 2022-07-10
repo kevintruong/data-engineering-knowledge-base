@@ -33,4 +33,4 @@ TWO)**
 
 - hasExplain:: [[explanation_Question  26.md]]
 
-#storage #s3 #aws #deep_archive #glacier 
+#amazon_s3_storage_classes #amazon_s3 #aws_lambda_function #processed_images #glacier 

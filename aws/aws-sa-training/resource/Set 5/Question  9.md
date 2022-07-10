@@ -22,5 +22,3 @@ ongoing systems management effort. How should the Solutions Architect proceed?**
 
 
 - hasExplain:: [[explanation_Question  9.md]]
-
-#ec2 #nat #gateway #subnet #elastic 

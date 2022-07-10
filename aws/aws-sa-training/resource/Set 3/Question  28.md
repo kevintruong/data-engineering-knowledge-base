@@ -122,5 +122,3 @@ Endpoint Service
 
 
 - hasExplain:: [[explanation_Question  28.md]]
-
-#cloudwatch #queue #scaling #tracking #asg 

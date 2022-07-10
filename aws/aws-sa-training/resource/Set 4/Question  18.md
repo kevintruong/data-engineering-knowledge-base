@@ -20,5 +20,3 @@ connection. What is the MOST cost-effective solution to provide a backup for the
 
 
 - hasExplain:: [[explanation_Question  18.md]]
-
-#aws #backup #ipsec #vpn #resilience 

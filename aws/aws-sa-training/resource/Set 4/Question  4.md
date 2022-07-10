@@ -22,5 +22,3 @@ cost without impacting performance or reliability. How can they achieve this goa
 
 
 - hasExplain:: [[explanation_Question  4.md]]
-
-#instances #ec2 #coupons #demand #instance 

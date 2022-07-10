@@ -26,4 +26,4 @@ highly available without modifying the application.**
 
 - hasExplain:: [[explanation_Question  9.md]]
 
-#availability #tier #scaling #instances #architecture 
+#amazon_ec2_auto_scaling_group #multi_-_tier_application #high_availability #availability_zones #availability_zone 

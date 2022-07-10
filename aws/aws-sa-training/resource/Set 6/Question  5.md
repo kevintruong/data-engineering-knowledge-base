@@ -26,5 +26,3 @@ internet-bound traffic to the NAT gateway
 
 
 - hasExplain:: [[explanation_Question  5.md]]
-
-#gateway #subnet #nat #ec2 #vpc 

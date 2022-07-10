@@ -23,5 +23,3 @@ replicated across all instances in a cluster.**
 
 
 - hasExplain:: [[explanation_Question  22.md]]
-
-#storage #iops #throughput #hdd #cluster 

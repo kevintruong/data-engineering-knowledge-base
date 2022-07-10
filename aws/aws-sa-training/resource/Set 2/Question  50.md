@@ -26,4 +26,4 @@ fast, repeat queries and update dashboards for customer support staff.**
 
 - hasExplain:: [[explanation_Question  50.md]]
 
-#dashboards #analytics #redshift #rds #dashboard 
+#analytics_use_case #data_warehouse #dashboards #customer_support_dashboard #appropriate_database_service 

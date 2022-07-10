@@ -26,5 +26,3 @@ the effects that implementing updates to the resources might have on other resou
 *
 
 - hasExplain:: [[explanation_Question  44.md]]
-
-#cloudformation #aws #deploy #deployed #changes 

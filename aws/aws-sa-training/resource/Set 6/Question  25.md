@@ -26,5 +26,3 @@ hostnames be assigned by default? (Select TWO)**
 *
 
 - hasExplain:: [[explanation_Question  25.md]]
-
-#hostnames #dns #vpc #vpcs #hostname 

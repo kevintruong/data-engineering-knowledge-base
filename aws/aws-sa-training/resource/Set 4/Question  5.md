@@ -22,5 +22,3 @@ services are most suitable for performing analytics on the data?**
 
 
 - hasExplain:: [[explanation_Question  5.md]]
-
-#dynamodb #aws #analytics #data #dataset 

@@ -28,5 +28,3 @@ connect to the Internet. What is the MOST likely reason?**
 *
 
 - hasExplain:: [[explanation_Question  35.md]]
-
-#subnet #gateway #route #vpn #vpc 

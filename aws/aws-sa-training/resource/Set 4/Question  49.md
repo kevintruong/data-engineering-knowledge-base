@@ -23,5 +23,3 @@ enable the use of existing Chef cookbooks?**
 *
 
 - hasExplain:: [[explanation_Question  49.md]]
-
-#chef #aws #cookbooks #cloudformation #beanstalk 

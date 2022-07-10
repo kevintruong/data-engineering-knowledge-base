@@ -27,5 +27,3 @@ database is the bottleneck.**
 
 
 - hasExplain:: [[explanation_Question  62.md]]
-
-#storage #bottleneck #ebs #efficient #ec2 

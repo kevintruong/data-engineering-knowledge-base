@@ -23,5 +23,3 @@ EBS (gp2) volume. At peak load times, logs show excessive wait time.**
 
 
 - hasExplain:: [[explanation_Question  60.md]]
-
-#ssd #ec2 #storage #aws #ebs 

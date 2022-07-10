@@ -28,4 +28,4 @@ user?**
 
 - hasExplain:: [[explanation_Question  64.md]]
 
-#clicks #queue #requests #navigation #application 
+#page_clicks #amazon_kinesis_data_streams #amazon_sqs_fifo_queue #navigation_patterns #requests 

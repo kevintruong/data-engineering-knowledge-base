@@ -23,5 +23,3 @@ private subnets. The architecture should be simple and allow transitive routing 
 
 
 - hasExplain:: [[explanation_Question  15.md]]
-
-#routing #vpc #vpcs #subnets #aws 

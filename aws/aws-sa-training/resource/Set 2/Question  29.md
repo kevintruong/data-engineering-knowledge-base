@@ -21,4 +21,4 @@ the solution must be configured for high availability. What is the most cost-eff
 
 - hasExplain:: [[explanation_Question  29.md]]
 
-#availability #az #postgresql #amazon #replica 
+#multi_-_az_db_instance #amazon_rds_postgresql_database #multi_-_az #high_availability #read_replica 

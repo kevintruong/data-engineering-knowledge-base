@@ -26,4 +26,4 @@ to keep information in sync.**
 
 - hasExplain:: [[explanation_Question  45.md]]
 
-#dynamodb #replication #aws #migration #databases 
+#aws_database_migration_service #cross_-_region_replication #amazon_aurora_global_database #different_aws_regions #amazon_athena 

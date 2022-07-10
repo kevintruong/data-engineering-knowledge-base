@@ -25,5 +25,3 @@ minutes if required thereafter.**
 
 
 - hasExplain:: [[explanation_Question  8.md]]
-
-#s3 #lifecycle #records #employment #amazon 

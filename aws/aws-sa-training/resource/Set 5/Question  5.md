@@ -22,5 +22,3 @@ sensitive data?**
 
 
 - hasExplain:: [[explanation_Question  5.md]]
-
-#redis #encryption #security #protect #auth 

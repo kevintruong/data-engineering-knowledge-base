@@ -31,5 +31,3 @@ days old
 *
 
 - hasExplain:: [[explanation_Question  43.md]]
-
-#storage #lifecycle #deletes #s3 #log 

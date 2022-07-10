@@ -28,5 +28,3 @@ if required?**
 *
 
 - hasExplain:: [[explanation_Question  35.md]]
-
-#storage #archival #s3 #data #glacier 

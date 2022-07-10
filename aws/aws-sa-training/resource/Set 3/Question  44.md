@@ -20,5 +20,3 @@ ELB when traffic volumes are low. How can this be fixed?**
 
 
 - hasExplain:: [[explanation_Question  44.md]]
-
-#elb #ec2 #scaling #scale #threshold 

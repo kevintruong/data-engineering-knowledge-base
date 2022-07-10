@@ -22,5 +22,3 @@ How can you ensure this sensitive information is properly secured?**
 
 
 - hasExplain:: [[explanation_Question  57.md]]
-
-#dynamodb #lambda #encryption #aws #credentials 

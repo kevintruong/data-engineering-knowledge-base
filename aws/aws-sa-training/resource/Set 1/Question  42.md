@@ -23,4 +23,4 @@ this access?**
 
 - hasExplain:: [[explanation_Question  42.md]]
 
-#cloudfront #aws #s3 #authorization #share 
+#private_s3_bucket #use_cloudfront #s3_bucket #aws_accounts #video_files 

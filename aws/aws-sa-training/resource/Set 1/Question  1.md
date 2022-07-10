@@ -26,4 +26,4 @@ time. The application architects require a storage solution.**
 
 - hasExplain:: [[explanation_Question  1.md]]
 
-#aws #storage #ec2 #glacier #s3 
+#aws_storage_gateway #amazon_s3_glacier #amazon_efs_filesystem #setup_aws #amazon_ec2 

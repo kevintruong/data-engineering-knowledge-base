@@ -23,5 +23,3 @@ minimal downtime and data loss. The applications will run in an active-active co
 
 
 - hasExplain:: [[explanation_Question  12.md]]
-
-#failover #aws #standby #backup #configuration 

@@ -20,5 +20,3 @@ needs to provide automatic instantiation and scaling. Which database service is 
 
 
 - hasExplain:: [[explanation_Question  24.md]]
-
-#mysql #database #aurora #ec2 #rds 

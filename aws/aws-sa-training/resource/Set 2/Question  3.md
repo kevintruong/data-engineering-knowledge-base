@@ -28,4 +28,4 @@ second per server.**
 
 - hasExplain:: [[explanation_Question  3.md]]
 
-#ec2 #storage #efs #s3 #distributed 
+#amazon_efs #storage_solution #amazon_s3 #ec2_instances #amazon_ec2_instance 

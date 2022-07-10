@@ -24,5 +24,3 @@ suggests that the performance of the disk should be up to 3 IOPS per GB. The cap
 *
 
 - hasExplain:: [[explanation_Question  53.md]]
-
-#ebs #hdd #ec2 #disk #capacity 

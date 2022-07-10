@@ -33,5 +33,3 @@ process the files
 
 
 - hasExplain:: [[explanation_Question  20.md]]
-
-#aws #log #ec2 #queue #s3 

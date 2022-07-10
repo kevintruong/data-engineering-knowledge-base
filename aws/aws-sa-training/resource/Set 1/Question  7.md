@@ -26,4 +26,4 @@ the time at least 40 instances are required.**
 
 - hasExplain:: [[explanation_Question  7.md]]
 
-#instances #ecommerce #ec2 #amazon #balancer 
+#demand_instances #purchase_reserved_instances #amazon_ec2_instances #spot_instances #instances 

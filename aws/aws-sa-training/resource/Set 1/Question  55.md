@@ -29,4 +29,4 @@ the following text:**
 
 - hasExplain:: [[explanation_Question  55.md]]
 
-#api #requests #cors #acl #apis 
+#amazon_api_gateway #cross_-_origin_request #api_gateway #same_origin_policy_disallows #enable_cors 

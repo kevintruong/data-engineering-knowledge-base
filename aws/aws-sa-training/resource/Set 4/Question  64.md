@@ -29,5 +29,3 @@ group from launching new instances temporarily.**
 *
 
 - hasExplain:: [[explanation_Question  64.md]]
-
-#scaling #ec2 #instances #disable #prevent 

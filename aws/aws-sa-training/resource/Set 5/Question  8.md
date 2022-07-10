@@ -22,5 +22,3 @@ performance for the reads without negatively impacting the rest of the applicati
 
 
 - hasExplain:: [[explanation_Question  8.md]]
-
-#dynamodb #reads #performance #latency #queue 

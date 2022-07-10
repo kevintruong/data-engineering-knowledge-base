@@ -24,4 +24,4 @@ They would like to use standard SQL queries to query the streaming data.**
 
 - hasExplain:: [[explanation_Question  52.md]]
 
-#dynamodb #aws #streams #streaming #analytics 
+#kinesis_data_streams #aws_services #streaming_data #kinesis_data_analytics #kinesis_firehose 

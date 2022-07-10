@@ -24,5 +24,3 @@ mapping. Which block device can be specified in a block device mapping to be use
 *
 
 - hasExplain:: [[explanation_Question  55.md]]
-
-#volumes #ec2 #efs #ebs #mapping 

@@ -24,4 +24,4 @@ infrequently accessed for up to 90 days. After that, the objects are no longer n
 
 - hasExplain:: [[explanation_Question  23.md]]
 
-#lifecycle #s3 #glacier #expire #days 
+#amazon_s3 #days_transition #glacier #days #standard_ia 

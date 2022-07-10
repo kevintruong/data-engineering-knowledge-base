@@ -24,4 +24,4 @@ about customers using Amazon SNS. The application is launched in private subnets
 
 - hasExplain:: [[explanation_Question  39.md]]
 
-#aws #sns #ec2 #endpoints #proxy 
+#amazon_sns #aws_privatelink #service_endpoints #amazon_ec2_instances #amazon_vpc 

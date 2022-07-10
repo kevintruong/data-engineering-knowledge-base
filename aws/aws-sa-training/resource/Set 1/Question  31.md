@@ -21,4 +21,4 @@ only specific Amazon EC2 instance types. How can this policy be applied across t
 
 - hasExplain:: [[explanation_Question  31.md]]
 
-#restrict #ec2 #aws #allow #allows 
+#specific_amazon_ec2_instance_types #specific_instance_types #aws_resource_access_manager #aws_organization #iam_policy 

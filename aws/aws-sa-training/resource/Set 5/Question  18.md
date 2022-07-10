@@ -23,5 +23,3 @@ require a managed service for hosting the filesystem and a tool to automate the 
 
 
 - hasExplain:: [[explanation_Question  18.md]]
-
-#nas #efs #aws #filesystem #migrate 

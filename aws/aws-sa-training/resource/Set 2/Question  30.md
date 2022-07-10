@@ -24,4 +24,4 @@ and high throughput between nodes and will be deployed in a single AZ.**
 
 - hasExplain:: [[explanation_Question  30.md]]
 
-#cluster #aws #hpc #placement #performance 
+#best_inter_-_node_performance #cluster_placement_group #aws #high_performance_computing #partition_placement_group 

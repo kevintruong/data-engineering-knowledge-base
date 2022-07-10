@@ -27,5 +27,3 @@ write to the Amazon S3 bucket
 
 
 - hasExplain:: [[explanation_Question  39.md]]
-
-#s3 #uploading #upload #bucket #amazon 

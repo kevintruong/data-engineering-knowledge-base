@@ -25,5 +25,3 @@ instances
 
 
 - hasExplain:: [[explanation_Question  13.md]]
-
-#ec2 #cluster #availability #scaling #hpc 

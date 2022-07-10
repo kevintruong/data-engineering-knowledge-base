@@ -26,5 +26,3 @@ instance types and c5.large instances. The load on the CPUs on the c5.large inst
 *
 
 - hasExplain:: [[explanation_Question  17.md]]
-
-#ec2 #elb #instances #elastic #weighting 

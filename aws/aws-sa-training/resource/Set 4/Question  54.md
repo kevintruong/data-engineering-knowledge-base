@@ -16,7 +16,7 @@ instance?**
 be randomly selected
 
 
-- [x] Send an SNS notification, if configured to do so
+- [ ] Send an SNS notification, if configured to do so
 
 
 4 : Wait for the cooldown period and then terminate the instance that has been running the longest

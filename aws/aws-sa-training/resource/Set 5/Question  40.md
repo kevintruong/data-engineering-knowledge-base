@@ -23,5 +23,3 @@ choose?**
 *
 
 - hasExplain:: [[explanation_Question  40.md]]
-
-#aws #efs #storage #elasticache #amazon 

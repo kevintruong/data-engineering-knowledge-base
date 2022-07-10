@@ -26,5 +26,3 @@ TWO)**
 *
 
 - hasExplain:: [[explanation_Question  48.md]]
-
-#authentication #api #iam #openid #https 

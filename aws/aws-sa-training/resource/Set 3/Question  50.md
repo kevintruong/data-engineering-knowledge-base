@@ -27,5 +27,3 @@ and password.**
 
 
 - hasExplain:: [[explanation_Question  50.md]]
-
-#authentication #authorization #password #mfa #cognito 

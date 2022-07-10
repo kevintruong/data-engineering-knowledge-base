@@ -24,4 +24,4 @@ logs is unknown and data will persist for 24 hours only.**
 
 - hasExplain:: [[explanation_Question  14.md]]
 
-#storage #logs #analytics #archive #s3 
+#storage_solution #amazon_s3_glacier_deep_archive #analytics_jobs #log_files #amazon_s3 

@@ -20,5 +20,3 @@ IPv6 protocol. What needs to be configured to enable this connectivity?**
 
 
 - hasExplain:: [[explanation_Question  59.md]]
-
-#ipv6 #ec2 #cloudhub #vpc #gateway 

@@ -25,5 +25,3 @@ from no requests to large bursts of traffic.**
 
 
 - hasExplain:: [[explanation_Question  11.md]]
-
-#aws #api #ec2 #rds #amazon 

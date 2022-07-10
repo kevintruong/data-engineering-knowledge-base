@@ -23,5 +23,3 @@ testing?**
 *
 
 - hasExplain:: [[explanation_Question  52.md]]
-
-#aws #penetration #security #allow #policy 

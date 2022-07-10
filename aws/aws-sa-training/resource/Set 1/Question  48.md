@@ -29,4 +29,4 @@ trigger the ETL job
 
 - hasExplain:: [[explanation_Question  48.md]]
 
-#cloudformation #s3 #cloudwatch #aws #uploads 
+#aws_data_pipeline #cloudformation #configure_s3_event_notifications #s3 #kinesis_data_stream 

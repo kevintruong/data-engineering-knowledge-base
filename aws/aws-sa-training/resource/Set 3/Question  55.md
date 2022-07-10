@@ -23,5 +23,3 @@ be able to failover if the primary instance fails.**
 
 
 - hasExplain:: [[explanation_Question  55.md]]
-
-#aurora #availability #cluster #failover #db 

@@ -26,4 +26,4 @@ running on the cluster.**
 
 - hasExplain:: [[explanation_Question  36.md]]
 
-#ecs #ec2 #permissions #containers #container 
+#individual_ecs_application_container #ecs_containers #ecs_cluster #use_ec2_instances #different_iam_roles 

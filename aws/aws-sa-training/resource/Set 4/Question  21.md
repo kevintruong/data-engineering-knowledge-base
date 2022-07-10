@@ -23,5 +23,3 @@ pairs and Security Groups?**
 *
 
 - hasExplain:: [[explanation_Question  21.md]]
-
-#ec2 #instances #ami #configurations #settings 

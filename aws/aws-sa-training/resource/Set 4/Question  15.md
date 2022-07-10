@@ -30,5 +30,3 @@ the migration to Amazon DynamoDB using AWS DMS in the AWS Cloud
 
 
 - hasExplain:: [[explanation_Question  15.md]]
-
-#dynamodb #mongodb #aws #migrate #migration 

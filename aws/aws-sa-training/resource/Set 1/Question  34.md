@@ -21,4 +21,4 @@ type should be used?**
 
 - hasExplain:: [[explanation_Question  34.md]]
 
-#aws #adapter #interface #elastic #network 
+#elastic_network_adapter #elastic_network_interface #elastic_ip_address #network_adapter #aws 

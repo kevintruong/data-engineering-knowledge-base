@@ -23,5 +23,3 @@ multiple Availability Zones.**
 
 
 - hasExplain:: [[explanation_Question  48.md]]
-
-#ebs #ec2 #availability #resilient #volumes 

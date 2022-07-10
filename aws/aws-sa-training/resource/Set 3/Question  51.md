@@ -29,5 +29,3 @@ content from
 
 
 - hasExplain:: [[explanation_Question  51.md]]
-
-#cloudfront #s3 #elasticache #amazon #http 

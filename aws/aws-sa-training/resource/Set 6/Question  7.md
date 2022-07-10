@@ -23,5 +23,3 @@ directly accessible from the internet to improve security.**
 
 
 - hasExplain:: [[explanation_Question  7.md]]
-
-#ec2 #aws #tier #subnet #gateway 

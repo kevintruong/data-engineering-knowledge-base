@@ -89,4 +89,4 @@ Note: Linux only
 
 - hasExplain:: [[explanation_Question  37.md]]
 
-#efs #nfs #files #s3 #amazon 
+#amazon_elastic_file #amazon_efs #amazon_s3 #file_system #amazon_ebs 

@@ -48,10 +48,8 @@ with open(md_file, encoding="utf-8-sig") as md_test_file:
                 "type": "explanation",
                 "transform_rules": [
                     {
-                        "name": "regex_replace",
+                        "name": "add_tags_with_bert",
                         "kwargs": {
-                            "source": "",
-                            "target": ""
                         }
 
                     }

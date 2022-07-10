@@ -21,4 +21,4 @@ simplest way to alleviate the performance issues?**
 
 - hasExplain:: [[explanation_Question  51.md]]
 
-#dynamodb #latency #performance #elasticache #ec2 
+#dynamodb #*_*_a_dynamodb_database #dynamodb_dax #heavy_read_requests #performance_issues 

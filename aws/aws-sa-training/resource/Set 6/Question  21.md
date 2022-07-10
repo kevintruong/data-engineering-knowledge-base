@@ -26,5 +26,3 @@ RDS database to a specific point-in-time? (Select TWO)**
 *
 
 - hasExplain:: [[explanation_Question  21.md]]
-
-#restoring #rds #restore #recover #db 

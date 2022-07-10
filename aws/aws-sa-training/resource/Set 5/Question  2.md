@@ -20,5 +20,3 @@ application requires extremely low inter-instance latency. How should the instan
 
 
 - hasExplain:: [[explanation_Question  2.md]]
-
-#ec2 #latency #performance #instances #cluster 

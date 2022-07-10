@@ -26,5 +26,3 @@ installed during the EC2 instance launch?**
 *
 
 - hasExplain:: [[explanation_Question  26.md]]
-
-#ec2 #scripts #aws #instances #application 

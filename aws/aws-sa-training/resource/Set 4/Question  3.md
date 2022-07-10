@@ -22,5 +22,3 @@ Connect gateway. How can the required connectivity be configured?**
 
 
 - hasExplain:: [[explanation_Question  3.md]]
-
-#vpcs #vpc #peering #gateway #connections 

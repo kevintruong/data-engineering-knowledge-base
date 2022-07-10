@@ -28,5 +28,3 @@ Amazon S3 bucket
 
 
 - hasExplain:: [[explanation_Question  16.md]]
-
-#dynamodb #aws #cloudwatch #cloudtrail #logs 

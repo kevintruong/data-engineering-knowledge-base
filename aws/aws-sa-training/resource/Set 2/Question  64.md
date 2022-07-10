@@ -36,5 +36,3 @@ replace the existing IAM role that is attached to the EC2 instance
 
 
 - hasExplain:: [[explanation_Question  64.md]]
-
-#ec2 #bucket #api #role #iam 

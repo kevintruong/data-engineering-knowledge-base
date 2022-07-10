@@ -26,5 +26,3 @@ available? (Select TWO)**
 *
 
 - hasExplain:: [[explanation_Question  51.md]]
-
-#http #protocol #https #ssl #ec2 

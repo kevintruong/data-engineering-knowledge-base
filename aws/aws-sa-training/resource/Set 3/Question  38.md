@@ -25,5 +25,3 @@ scripting, as well as creating custom rules for your own applications.**
 
 
 - hasExplain:: [[explanation_Question  38.md]]
-
-#cloudfront #aws #security #waf #allow 

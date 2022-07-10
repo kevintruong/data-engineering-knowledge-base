@@ -28,5 +28,3 @@ third-party software?**
 *
 
 - hasExplain:: [[explanation_Question  30.md]]
-
-#aws #ec2 #services #service #amazon 

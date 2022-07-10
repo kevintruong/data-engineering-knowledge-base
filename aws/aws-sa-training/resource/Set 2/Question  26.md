@@ -28,4 +28,4 @@ addresses when they change
 
 - hasExplain:: [[explanation_Question  26.md]]
 
-#cloudfront #aws #elb #ec2 #amazon 
+#cloudfront #elastic_load_balancer #aws_lambda #internal_service_ip #amazon_ec2 

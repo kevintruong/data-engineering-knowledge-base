@@ -23,4 +23,4 @@ Which database would you recommend for this scenario?**
 
 - hasExplain:: [[explanation_Question  65.md]]
 
-#dynamodb #database #redshift #rds #mysql 
+#database #redshift #rds #dynamic_data #mysql 

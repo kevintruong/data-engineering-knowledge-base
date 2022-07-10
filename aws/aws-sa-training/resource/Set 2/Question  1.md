@@ -26,4 +26,4 @@ website.**
 
 - hasExplain:: [[explanation_Question  1.md]]
 
-#aws #hosting #host #ec2 #server 
+#aws_fargate #web_server #amazon_s3_bucket #aws_lambda_target #application_load_balancer 

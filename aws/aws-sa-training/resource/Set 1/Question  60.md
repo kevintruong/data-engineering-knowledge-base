@@ -24,4 +24,4 @@ infrequent SQL queries only. In addition, the company wants to minimize infrastr
 
 - hasExplain:: [[explanation_Question  60.md]]
 
-#aws #aurora #s3 #amazon #rds 
+#aws_service #amazon_aurora #data_lake_solution #amazon_rds #amazon_redshift_spectrum 

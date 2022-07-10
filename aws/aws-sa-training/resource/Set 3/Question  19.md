@@ -33,5 +33,3 @@ years to Amazon S3 Glacier
 
 
 - hasExplain:: [[explanation_Question  19.md]]
-
-#s3 #archive #efs #availability #snapshots 

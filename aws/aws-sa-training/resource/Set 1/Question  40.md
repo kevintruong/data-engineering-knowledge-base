@@ -21,4 +21,4 @@ some commands. Which of the following can be used to securely access the instanc
 
 - hasExplain:: [[explanation_Question  40.md]]
 
-#vpc #ec2 #securely #ssl #tls 
+#ec2_password #vpc #linux_instance #ssl #tls_certificate 

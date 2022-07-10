@@ -21,4 +21,4 @@ solution. Which of the following options should an Architect use?**
 
 - hasExplain:: [[explanation_Question  29.md]]
 
-#cron #cloudformation #automated #aws #script 
+#aws_cloudformation #aws_batch #aws_lambda #cron_job #manual_script 

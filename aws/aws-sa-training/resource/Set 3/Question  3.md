@@ -30,5 +30,3 @@ address
 
 
 - hasExplain:: [[explanation_Question  3.md]]
-
-#peering #vpc #aws #vpcs #privatelink 

@@ -25,5 +25,3 @@ who can access those keys.**
 
 
 - hasExplain:: [[explanation_Question  10.md]]
-
-#encryption #encrypted #s3 #aws #bucket 

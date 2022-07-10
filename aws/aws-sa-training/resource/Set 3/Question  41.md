@@ -20,5 +20,3 @@ consumer applications have total reads exceeding the per-shard limits. How can t
 
 
 - hasExplain:: [[explanation_Question  41.md]]
-
-#shards #kinesis #throttling #shard #reads 

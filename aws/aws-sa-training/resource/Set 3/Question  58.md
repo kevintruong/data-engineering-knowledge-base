@@ -20,5 +20,3 @@ to the application should you use?**
 
 
 - hasExplain:: [[explanation_Question  58.md]]
-
-#credentials #aws #ec2 #securely #s3 

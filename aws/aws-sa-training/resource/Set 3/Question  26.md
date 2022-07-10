@@ -22,5 +22,3 @@ encryption?**
 
 
 - hasExplain:: [[explanation_Question  26.md]]
-
-#ipsec #encryption #vpc #secure #aws 

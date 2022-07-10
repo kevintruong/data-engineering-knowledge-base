@@ -22,5 +22,3 @@ addressing only and avoid the internet. How can this be achieved?**
 
 
 - hasExplain:: [[explanation_Question  6.md]]
-
-#vpn #gateway #tunnel #api #vpc 

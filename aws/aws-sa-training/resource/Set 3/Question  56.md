@@ -23,5 +23,3 @@ The application will make API calls to back-end services and save the session st
 
 
 - hasExplain:: [[explanation_Question  56.md]]
-
-#dynamodb #aws #cloudfront #serverless #s3 

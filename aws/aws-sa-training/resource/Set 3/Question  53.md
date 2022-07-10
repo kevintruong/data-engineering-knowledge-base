@@ -78,5 +78,3 @@ Decoupled integration
 
 
 - hasExplain:: [[explanation_Question  53.md]]
-
-#aws #ec2 #storage #ec #efs 

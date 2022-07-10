@@ -28,4 +28,4 @@ complaining that the application is very slow when the day begins, although it r
 
 - hasExplain:: [[explanation_Question  14.md]]
 
-#scaling #scales #availability #ec2 #scheduled 
+#amazon_ec2_auto_scaling_group #auto_scaling_group #scaling #application_load_balancer #amazon_ec2_instances 

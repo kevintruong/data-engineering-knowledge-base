@@ -31,4 +31,4 @@ which your company has services running.**
 
 - hasExplain:: [[explanation_Question  44.md]]
 
-#cloudwatch #cloudtrail #aws #encryption #encrypted 
+#aws_regions #cloudwatch #aws_account #cloudtrail_trail #enable_encryption 

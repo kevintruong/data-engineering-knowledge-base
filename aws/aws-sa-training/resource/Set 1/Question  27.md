@@ -24,4 +24,4 @@
 
 - hasExplain:: [[explanation_Question  27.md]]
 
-#ec2 #pricing #instances #amazon #production 
+#production_instances #demand_instances #reserved_instances #pricing_models #*_*_amazon_ec2 

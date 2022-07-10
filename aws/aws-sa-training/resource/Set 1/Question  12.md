@@ -29,4 +29,4 @@ the documents are available. Users must be able to upload and modify the documen
 
 - hasExplain:: [[explanation_Question  12.md]]
 
-#documents #s3 #aws #encrypt #bucket 
+#s3_bucket #aws_sse #documents #s3 #bucket 

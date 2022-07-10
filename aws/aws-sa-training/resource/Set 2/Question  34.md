@@ -33,4 +33,4 @@ The master RDS DB is not currently encrypted.**
 
 - hasExplain:: [[explanation_Question  34.md]]
 
-#encryption #rds #encrypted #security #pacific 
+#master_rds_db #rds_database #rds_db #encryption #read_replica 

@@ -97,4 +97,4 @@ Zones
 
 - hasExplain:: [[explanation_Question  17.md]]
 
-#scaling #availability #ec2 #amazonaws #vpce 
+#high_availability #application_load_balancer #auto_scaling_group #availability #solutions_architect 

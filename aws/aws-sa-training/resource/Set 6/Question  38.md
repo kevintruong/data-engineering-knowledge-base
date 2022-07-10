@@ -24,5 +24,3 @@ there is a default security group. What settings are configured within this secu
 *
 
 - hasExplain:: [[explanation_Question  38.md]]
-
-#vpc #security #aws #outbound #inbound 

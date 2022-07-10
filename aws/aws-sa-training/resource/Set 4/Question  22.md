@@ -26,5 +26,3 @@ with a TCP listener on port 80 and is using active health checks.**
 *
 
 - hasExplain:: [[explanation_Question  22.md]]
-
-#ec2 #azs #az #balancing #balancer 

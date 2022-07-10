@@ -25,5 +25,3 @@ queried using SQL. The solution should be fully serverless.**
 
 
 - hasExplain:: [[explanation_Question  17.md]]
-
-#encryption #encrypt #s3 #aws #encrypted 

@@ -26,5 +26,3 @@ provisioning and management of the underlying resources it will run on.**
 *
 
 - hasExplain:: [[explanation_Question  62.md]]
-
-#aws #cloudformation #provisioning #beanstalk #java 

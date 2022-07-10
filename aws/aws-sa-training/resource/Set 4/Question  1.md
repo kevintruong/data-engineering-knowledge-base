@@ -20,5 +20,3 @@ access the database. What should the solutions architect use?**
 
 
 - hasExplain:: [[explanation_Question  1.md]]
-
-#redis #security #auth #password #aws 

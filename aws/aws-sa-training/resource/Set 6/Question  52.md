@@ -24,5 +24,3 @@ MapReduce process that requires high throughput for a large dataset with large I
 *
 
 - hasExplain:: [[explanation_Question  52.md]]
-
-#ssd #mapreduce #hdd #ebs #raid 

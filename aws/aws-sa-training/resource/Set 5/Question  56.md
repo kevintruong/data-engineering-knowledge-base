@@ -21,5 +21,3 @@ a Solutions Architect use to display current usage and limits?**
 *
 
 - hasExplain:: [[explanation_Question  56.md]]
-
-#aws #cloudwatch #limits #dashboard #services 

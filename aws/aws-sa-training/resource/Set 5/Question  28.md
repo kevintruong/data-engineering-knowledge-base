@@ -24,5 +24,3 @@ evaluating the use of DynamoDB. Which of the following are AWS best practices fo
 *
 
 - hasExplain:: [[explanation_Question  28.md]]
-
-#dynamodb #aws #s3 #database #records 

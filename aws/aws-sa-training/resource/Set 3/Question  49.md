@@ -20,5 +20,3 @@ performance and reduce load on back-end services?**
 
 
 - hasExplain:: [[explanation_Question  49.md]]
-
-#cloudfront #throttling #cache #gateway #performance 

@@ -27,4 +27,4 @@ layer within the application architecture to store this information.**
 
 - hasExplain:: [[explanation_Question  54.md]]
 
-#elasticache #sessions #session #balancer #workflow 
+#sticky_sessions #elastic_load_balancer #elastic_block_store #elasticache_redis #amazon_simple_workflow_service 

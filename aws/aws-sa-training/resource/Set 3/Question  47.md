@@ -25,5 +25,3 @@ servers and database must be secure.**
 
 
 - hasExplain:: [[explanation_Question  47.md]]
-
-#ec2 #subnet #cluster #instances #architecture 

@@ -28,4 +28,4 @@ DynamoDB table
 
 - hasExplain:: [[explanation_Question  56.md]]
 
-#dynamodb #aws #lambda #permissions #access 
+#amazon_dynamodb_table #dynamodb_table #aws_lambda #aws_lambda_function #access_management 

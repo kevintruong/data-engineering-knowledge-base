@@ -23,5 +23,3 @@ message to users every time users sign up for an event.**
 
 
 - hasExplain:: [[explanation_Question  61.md]]
-
-#aws #sns #service #hasexplain #registrations 

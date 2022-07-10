@@ -26,4 +26,4 @@ to keep data in sync. A solutions architect needs to replace the file server far
 
 - hasExplain:: [[explanation_Question  5.md]]
 
-#aws #efs #dfsr #cloud #distributed 
+#distributed_file_system_replication #file_server_farm #aws_storage_gateway #windows_file_server_farm #amazon_efs 

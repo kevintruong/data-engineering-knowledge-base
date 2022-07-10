@@ -25,5 +25,3 @@ instance.**
 
 
 - hasExplain:: [[explanation_Question  6.md]]
-
-#ssd #hdd #ebs #ec2 #aws 

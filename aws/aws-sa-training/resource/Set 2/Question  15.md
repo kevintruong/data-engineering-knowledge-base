@@ -27,4 +27,4 @@ application over to the new master. Delete the old RDS instance
 
 - hasExplain:: [[explanation_Question  15.md]]
 
-#encrypt #encryption #encrypted #elasticache #ec2 
+#amazon_rds_mysql_database #encryption #old_rds_instance #amazon_elasticache_cluster #rds_instance 

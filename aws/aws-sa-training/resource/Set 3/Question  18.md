@@ -25,5 +25,3 @@ requires updating a DNS alias record to point to the secondary ALB.**
 
 
 - hasExplain:: [[explanation_Question  18.md]]
-
-#failover #cname #alb #aws #dns 

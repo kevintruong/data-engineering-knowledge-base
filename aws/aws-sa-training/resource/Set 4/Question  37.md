@@ -21,5 +21,3 @@ volume. What must be specified to associate the block store with the instance?**
 *
 
 - hasExplain:: [[explanation_Question  37.md]]
-
-#ec2 #cloudformation #ebs #provision #aws 

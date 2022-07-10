@@ -26,4 +26,4 @@ solutions architect has been asked to design an efficient and effective solution
 
 - hasExplain:: [[explanation_Question  19.md]]
 
-#cloudfront #amazon #s3 #replication #urls 
+#amazon_cloudfront #amazon_s3_bucket #amazon_route #cross_-_region_replication #s3_bucket 

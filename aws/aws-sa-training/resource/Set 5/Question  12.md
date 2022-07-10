@@ -133,5 +133,3 @@ dependency that the application must communicate with an on-premises server usin
 
 
 - hasExplain:: [[explanation_Question  12.md]]
-
-#gateway #aws #ec2 #subnet #route 

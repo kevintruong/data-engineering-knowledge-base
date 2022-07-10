@@ -117,4 +117,4 @@ Endpoint Service
 
 - hasExplain:: [[explanation_Question  59.md]]
 
-#encryption #aws #encrypted #ec #vpc 
+#aws_kms_api #aws_certificate_manager #encryption_solution #iam_access_key #api_gateway 
