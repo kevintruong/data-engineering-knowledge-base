@@ -13745,7 +13745,7 @@ https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-volume-types.html
 
 **What is the most secure and reliable method for gathering this data?**
 
-1 : Create a VPC flow log for each network interface associated with the ELB
+1: Create a VPC flow log for each network interface associated with the ELB
 
 - [ ] Enable Amazon CloudTrail logging and configure packet capturing
 

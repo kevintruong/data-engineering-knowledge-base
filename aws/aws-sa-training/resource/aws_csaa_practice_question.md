@@ -1440,7 +1440,7 @@ would like to reduce-interdependencies so failures do no impact other components
 
 **Which solution should the Architect use?**
 
-1 : Create an Amazon Kinesis Firehose delivery stream and configure the front-end to add data to the stream and the
+1: Create an Amazon Kinesis Firehose delivery stream and configure the front-end to add data to the stream and the
 back-end to read data from the stream
 
 2: Create an Amazon Kinesis Firehose delivery stream that delivers data to an Amazon S3 bucket, configure the front-end
@@ -18988,7 +18988,7 @@ information should include the source, destination, and protocol.**
 
 **What is the most secure and reliable method for gathering this data?**
 
-1 : Create a VPC flow log for each network interface associated with the ELB
+1: Create a VPC flow log for each network interface associated with the ELB
 
 2: Enable Amazon CloudTrail logging and configure packet capturing
 

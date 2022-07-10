@@ -170,14 +170,21 @@ class MarkdownTree:
                                                  deck_tags=deck_tags,
                                                  note_format_rule=note_format_rule
                                                  )
-                card = StandardQuizFormatter(content=card_content,
-                                             title=title, childs=new_cards,
-                                             rule=note_format_rule)
-                cards.append(card)
+                try:
+                    card = StandardQuizFormatter(content=card_content,
+                                                 title=title,
+                                                 childs=new_cards,
+                                                 rule=note_format_rule)
+                    cards.append(card)
+                except Exception as e:
+                    raise e
+                    pass
             else:
                 card_content = "\n".join(deck_lines[current:next_]).replace("\n\n\n", "\n\n")
-
-                card = StandardQuizFormatter(content=card_content, title=title, rule=note_format_rule)
-                if card:
-                    cards.append(card)
+                try:
+                    card = StandardQuizFormatter(content=card_content, title=title, rule=note_format_rule)
+                    if card:
+                        cards.append(card)
+                except:
+                    continue
         return cards
