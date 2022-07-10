@@ -22,3 +22,8 @@ uses a fleet of Amazon EC2 instance in a private subnet behind an Application Lo
 
 - [ ] Use a network ACL to block the IP address ranges associated with the specific countries
 
+
+
+- hasExplain:: [[explanation_Question  3.md]]
+
+#aws #cloudfront #deny #restrictions #ec2 

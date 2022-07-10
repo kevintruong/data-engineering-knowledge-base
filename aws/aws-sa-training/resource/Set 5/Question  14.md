@@ -147,3 +147,8 @@ AWS Lambda
 
 script
 
+
+
+- hasExplain:: [[explanation_Question  14.md]]
+
+#aws #ec2 #backups #encryption #backup 

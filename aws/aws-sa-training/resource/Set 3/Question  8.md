@@ -103,3 +103,8 @@ addresses
 
 ```
 
+
+
+- hasExplain:: [[explanation_Question  8.md]]
+
+#ssd #hdd #storage #aws #optimized 

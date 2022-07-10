@@ -30,3 +30,8 @@ the SQS queue to save data to Amazon EFS
 
 from the SQS queue to save data to Amazon S3
 
+
+
+- hasExplain:: [[explanation_Question  18.md]]
+
+#aws #iot #s3 #streams #queue 

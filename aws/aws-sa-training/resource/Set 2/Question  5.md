@@ -22,3 +22,8 @@ content will be regularly updated.**
 
 - [ ] Create a volume gateway using AWS Storage Gateway to host the data and mount it to the Auto Scaling group
 
+
+
+- hasExplain:: [[explanation_Question  5.md]]
+
+#aws #cloudfront #availability #ec2 #efs 

@@ -17,3 +17,8 @@ solution. Which of the following options should an Architect use?**
 
 - [ ] Use AWS CloudFormation
 
+
+
+- hasExplain:: [[explanation_Question  29.md]]
+
+#cron #cloudformation #automated #aws #script 

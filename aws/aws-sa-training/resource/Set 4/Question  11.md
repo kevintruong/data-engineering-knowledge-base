@@ -24,3 +24,8 @@ KMS
 
 - [ ] Create an IAM policy and store the credentials in the policy. Attach the policy to the Lambda function execution role
 
+
+
+- hasExplain:: [[explanation_Question  11.md]]
+
+#credentials #awsauthenticationplugin #aws #aurora #authenticate 

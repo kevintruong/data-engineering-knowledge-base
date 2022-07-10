@@ -20,3 +20,8 @@ require a managed service for hosting the filesystem and a tool to automate the 
 
 - [ ] Migrate the data to Amazon S3 using and AWS Snowball Edge device
 
+
+
+- hasExplain:: [[explanation_Question  18.md]]
+
+#nas #efs #aws #filesystem #migrate 

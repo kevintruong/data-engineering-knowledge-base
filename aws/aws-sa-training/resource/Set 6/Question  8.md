@@ -106,3 +106,8 @@ The application code will be migrated to AWS Lambda and a highly scalable soluti
 
 - [x] Amazon DynamoDB
 
+
+
+- hasExplain:: [[explanation_Question  8.md]]
+
+#dynamodb #aws #datastore #availability #amazon 

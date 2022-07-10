@@ -17,3 +17,8 @@ occurrences of certain HTTP status code errors occur. Which tool should the Arch
 
 - [x] CloudWatch Logs
 
+
+
+- hasExplain:: [[explanation_Question  59.md]]
+
+#cloudwatch #logs #cloudtrail #notification #metrics 

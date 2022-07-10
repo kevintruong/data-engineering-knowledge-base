@@ -22,3 +22,7 @@ the resilience of the service. Which of the statements below is correct about Am
 
 
 *
+
+- hasExplain:: [[explanation_Question  54.md]]
+
+#glacier #storage #archives #availability #resilient 

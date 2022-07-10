@@ -17,3 +17,8 @@ the solution must be configured for high availability. What is the most cost-eff
 
 - [ ] Deploy a read replica in the same AZ as the master DB instance
 
+
+
+- hasExplain:: [[explanation_Question  29.md]]
+
+#availability #az #postgresql #amazon #replica 

@@ -20,3 +20,8 @@ The application will make API calls to back-end services and save the session st
 
 - [ ] API Gateway, Amazon S3, AWS Lambda, DynamoDB
 
+
+
+- hasExplain:: [[explanation_Question  56.md]]
+
+#dynamodb #aws #cloudfront #serverless #s3 

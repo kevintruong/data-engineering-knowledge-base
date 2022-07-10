@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "01b444d1ffec8ac9",
+        "id": "8910fc2df9c31476",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "aws/aws-sa-training/resource/Set 1/Question  5.md",
+            "file": "aws/aws-sa-training/resource/Set 1/Question  9.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#pricing",
+                "query": "tag:#s3",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,14 +70,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aws/aws-sa-training/resource/Set 1/Question  5.md",
+                "file": "aws/aws-sa-training/resource/Set 1/Question  9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -152,8 +153,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 9
+        ]
       },
       {
         "id": "42853a9b019e9023",
@@ -229,20 +229,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 664,
-    "collapsed": true
+    "width": 664
   },
-  "active": "01b444d1ffec8ac9",
+  "active": "8910fc2df9c31476",
   "lastOpenFiles": [
-    "aws/aws-sa-training/resource/Set 1/Question  5.md",
-    "data-engineering-fundamental/what is data enginerring ?.md",
-    "Excalidraw/data-engineering-lifecycle.excalidraw.md",
-    "aws/aws-sa-training/resource/Set 1/Question  1.md",
-    "Excalidraw/Drawing 2022-07-07 15.33.17.excalidraw.md",
-    "aws/aws-sa-training/99 Quiz/Quiz 2.md",
-    "aws/aws-sa-training/99 Quiz/Quiz 9.md",
-    "aws/aws-sa-training/99 Quiz/Quiz 17.md",
-    "aws/aws-sa-training/01 Compute Service/Elastic Compute Cloud EC2/EC2 Metadata and User Data.md",
-    "aws/aws-sa-training/99 Quiz/Quiz 10.md"
+    "aws/aws-sa-training/resource/Set 1/Question  9.md",
+    "aws/aws-sa-training/resource/Set 2/Question  2.md",
+    "aws/aws-sa-training/resource/Set 1/Question  52.md",
+    "aws/aws-sa-training/resource/Set 1/Question  37.md",
+    "aws/aws-sa-training/resource/Set 1/Question  22.md",
+    "aws/aws-sa-training/resource/Set 1/explanation_Question  5.md",
+    "aws/aws-sa-training/resource/Set 1/Question  15.md",
+    "aws/aws-sa-training/resource/Set 1/explanation_Question  15.md",
+    "aws/aws-sa-training/resource/aws_csaa_practice_question.md",
+    "aws/aws-sa-training/resource/Set 1/Question  12.md"
   ]
 }

@@ -29,3 +29,8 @@ instances in private subnets within the same Availability Zone.**
 
 deployment
 
+
+
+- hasExplain:: [[explanation_Question  13.md]]
+
+#availability #tier #ec2 #azs #instances 

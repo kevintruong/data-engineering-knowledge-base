@@ -22,3 +22,8 @@ applications for a global user base. The database should be a fully managed serv
 
 - [ ] RDS with Multi-AZ
 
+
+
+- hasExplain:: [[explanation_Question  38.md]]
+
+#dynamodb #aws #replication #ec2 #cloud 

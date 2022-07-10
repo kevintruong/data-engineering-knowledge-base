@@ -22,3 +22,8 @@ network-attached storage (NAS) device.**
 
 - [ ] Migrate the file share to Amazon Elastic File System (Amazon EFS)
 
+
+
+- hasExplain:: [[explanation_Question  11.md]]
+
+#efs #aws #nas #ec2 #availability 

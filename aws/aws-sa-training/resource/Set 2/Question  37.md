@@ -25,3 +25,8 @@ not want to manage EC2 instances.**
 
 - [x] Put your container images in the Elastic Container Registry (ECR)
 
+
+
+- hasExplain:: [[explanation_Question  37.md]]
+
+#docker #aws #ec2 #cloudfront #containers 

@@ -23,3 +23,8 @@ the index
 
 - [ ] Use Kinesis Data Streams and configure DynamoDB as a producer
 
+
+
+- hasExplain:: [[explanation_Question  46.md]]
+
+#dynamodb #aws #s3 #cloud #bucket 

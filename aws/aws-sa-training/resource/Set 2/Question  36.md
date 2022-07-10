@@ -22,3 +22,8 @@ running on the cluster.**
 
 - [ ] You cannot implement granular permissions with ECS containers
 
+
+
+- hasExplain:: [[explanation_Question  36.md]]
+
+#ecs #ec2 #permissions #containers #container 

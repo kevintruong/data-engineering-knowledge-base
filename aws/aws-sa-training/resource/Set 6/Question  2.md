@@ -24,3 +24,8 @@ Z.**
 
 - [ ] Create a PrivateLink connection in Account Z and ENIs in accounts A and B
 
+
+
+- hasExplain:: [[explanation_Question  2.md]]
+
+#gateway #connections #transit #aws #route 

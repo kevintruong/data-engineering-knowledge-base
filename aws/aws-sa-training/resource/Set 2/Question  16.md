@@ -26,3 +26,8 @@ a VPC endpoint
 
 transition the S3 objects to Amazon S3 Glacier
 
+
+
+- hasExplain:: [[explanation_Question  16.md]]
+
+#aws #glacier #s3 #migrate #bucket 

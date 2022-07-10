@@ -25,3 +25,8 @@ EFS and mount a target on each instance
 
 Amazon S3 One Zone-Infrequent Access (S3 One Zone-A)
 
+
+
+- hasExplain:: [[explanation_Question  10.md]]
+
+#availability #ec2 #efs #resiliency #scaling 

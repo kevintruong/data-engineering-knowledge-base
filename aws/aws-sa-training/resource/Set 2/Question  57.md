@@ -72,3 +72,8 @@ subdirectory and mount it to the users’ home directory
 
 subdirectory to the users’ home directory
 
+
+
+- hasExplain:: [[explanation_Question  57.md]]
+
+#efs #permissions #users #amazon #files 

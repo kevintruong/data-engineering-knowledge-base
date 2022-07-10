@@ -16,7 +16,11 @@ with open(md_file, encoding="utf-8-sig") as md_test_file:
                         "name": "regex_replace",
                         "kwargs": {
                             "source": r'^(\d): (.*$)',
-                            "target": r'- [ ] $2'
+                            "target": {
+                                "prefix": "- [ ] ",
+                                "suffix": "",
+                                "match_group": 2
+                            }
                         }
                     },
                     {
@@ -24,16 +28,32 @@ with open(md_file, encoding="utf-8-sig") as md_test_file:
                         "kwargs": {
                             "option_regex": r"^((\- \[ \]) (.*$))",
                         }
-                    }
+                    },
+                    {
+                        "name": "add_explain_link_type",
+                        "kwargs": {
+                            "link_type": "hasExplain::",
+                            "target_fmt": "[[explanation_{question_title}.md]]"
+                        }
+                    },
+                    {
+                        "name": "add_tags_with_bert",
+                        "kwargs": {
 
+                        }
+                    }
                 ]
             },
             {
                 "type": "explanation",
                 "transform_rules": [
                     {
-                        "source": "",
-                        "target": ""
+                        "name": "regex_replace",
+                        "kwargs": {
+                            "source": "",
+                            "target": ""
+                        }
+
                     }
                 ]
             }

@@ -22,3 +22,7 @@ statements below are correct regarding the default state of the security group? 
 
 
 *
+
+- hasExplain:: [[explanation_Question  63.md]]
+
+#security #inbound #outbound #ip #allowing 

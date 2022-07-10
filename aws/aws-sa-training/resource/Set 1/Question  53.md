@@ -22,3 +22,8 @@ the product is launched.**
 
 - [ ] Add Amazon EC2 Spot instances
 
+
+
+- hasExplain:: [[explanation_Question  53.md]]
+
+#capacity #aws #ec2 #scaling #performance 

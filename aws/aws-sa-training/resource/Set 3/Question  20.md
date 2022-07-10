@@ -24,3 +24,8 @@ Region for disaster recovery purposes.**
 
 (CORS)
 
+
+
+- hasExplain:: [[explanation_Question  20.md]]
+
+#replication #s3 #versioning #region #migrate 

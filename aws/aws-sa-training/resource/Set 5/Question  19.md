@@ -19,3 +19,8 @@ replacement for the database cache?**
 
 - [ ] Amazon RDS MySQL
 
+
+
+- hasExplain:: [[explanation_Question  19.md]]
+
+#aws #dynamodb #elasticache #caching #cache 

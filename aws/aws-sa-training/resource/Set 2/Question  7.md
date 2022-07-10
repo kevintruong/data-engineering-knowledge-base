@@ -22,3 +22,8 @@ attacks.**
 
 - [ ] Create an Application Load Balancer. Put the web layer behind the load balancer and use AWS Shield Standard
 
+
+
+- hasExplain:: [[explanation_Question  7.md]]
+
+#aws #vulnerability #vulnerable #balancer #waf 

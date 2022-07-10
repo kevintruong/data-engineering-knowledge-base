@@ -76,3 +76,8 @@ Origin Access Identity (OAI)
 
 - [ ] This cannot be done, ELBs are an AWS service and can only distribute traffic within the AWS cloud
 
+
+
+- hasExplain:: [[explanation_Question  62.md]]
+
+#aws #ec2 #cloudfront #elbs #elb 

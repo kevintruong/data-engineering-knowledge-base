@@ -25,3 +25,7 @@ load or transform the data in a data warehouse. The data resides in Amazon S3.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  27.md]]
+
+#aws #elasticsearch #cloud #data #amazon 

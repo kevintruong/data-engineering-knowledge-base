@@ -30,3 +30,8 @@ Amazon RDS MySQL Multi-AZ deployment from the snapshot
 
 Conversion Tool (SCT) to enable conversion from MySQL to Amazon RDS
 
+
+
+- hasExplain:: [[explanation_Question  14.md]]
+
+#aws #migrate #migration #failover #availability 

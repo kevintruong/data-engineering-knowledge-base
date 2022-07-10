@@ -22,3 +22,7 @@ authentication and authorization strategy. Select the correct statements regardi
 
 
 *
+
+- hasExplain:: [[explanation_Question  64.md]]
+
+#authorization #permissions #iam #aws #groups 

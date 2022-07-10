@@ -24,3 +24,7 @@ undertaken to troubleshoot the issue? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  48.md]]
+
+#subnet #ec2 #vpc #gateway #ping 

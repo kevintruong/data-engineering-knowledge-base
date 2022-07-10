@@ -27,3 +27,8 @@ consumes the API as a client is deployed in a second account in private subnets.
 
 address
 
+
+
+- hasExplain:: [[explanation_Question  3.md]]
+
+#peering #vpc #aws #vpcs #privatelink 

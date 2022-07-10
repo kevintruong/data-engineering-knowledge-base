@@ -22,3 +22,7 @@ requires heavy read/write IOPS. A single volume is required that is 500 GiB in s
 
 
 *
+
+- hasExplain:: [[explanation_Question  19.md]]
+
+#ssd #ebs #ec2 #hdd #raid 

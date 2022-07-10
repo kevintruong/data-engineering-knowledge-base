@@ -22,3 +22,8 @@ volumes increase with the LEAST amount of management and configuration.**
 
 - [ ] Amazon RDS
 
+
+
+- hasExplain:: [[explanation_Question  35.md]]
+
+#ec2 #storage #efs #amazon #ebs 

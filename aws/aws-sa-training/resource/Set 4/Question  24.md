@@ -22,3 +22,7 @@ terminated state. What are the most likely explanations? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  24.md]]
+
+#ec2 #ami #aws #ebs #restart 

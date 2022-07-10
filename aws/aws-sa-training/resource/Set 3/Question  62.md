@@ -22,3 +22,8 @@ available for retrieval immediately.**
 
 - [ ] Amazon S3 Standard
 
+
+
+- hasExplain:: [[explanation_Question  62.md]]
+
+#backups #aws #storage #amazon #s3 

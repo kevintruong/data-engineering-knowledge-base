@@ -19,3 +19,8 @@ Connect gateway. How can the required connectivity be configured?**
 
 - [ ] Create a transit virtual interface between the Direct Connect gateway and each VPC
 
+
+
+- hasExplain:: [[explanation_Question  3.md]]
+
+#vpcs #vpc #peering #gateway #connections 

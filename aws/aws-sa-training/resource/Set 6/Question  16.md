@@ -22,3 +22,8 @@ these actions.**
 
 - [x] Create a service control policy in the root organizational unit to deny access to the services or actions
 
+
+
+- hasExplain:: [[explanation_Question  16.md]]
+
+#aws #acl #security #accounts #organization 

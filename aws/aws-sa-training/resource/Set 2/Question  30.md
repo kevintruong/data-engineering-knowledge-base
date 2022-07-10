@@ -20,3 +20,8 @@ and high throughput between nodes and will be deployed in a single AZ.**
 
 - [ ] Behind a Network Load Balancer (NLB)
 
+
+
+- hasExplain:: [[explanation_Question  30.md]]
+
+#cluster #aws #hpc #placement #performance 

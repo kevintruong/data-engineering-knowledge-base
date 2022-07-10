@@ -77,3 +77,8 @@ Decoupled integration
 
 - [ ] Create an internal Application Load Balancer in the service provider VPC and put application servers behind it
 
+
+
+- hasExplain:: [[explanation_Question  58.md]]
+
+#vpc #vpcs #aws #ec2 #gateway 

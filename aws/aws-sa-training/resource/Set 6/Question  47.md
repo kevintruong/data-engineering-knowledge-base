@@ -22,3 +22,7 @@ statements below are correct regarding the default state of the Network ACL? (Se
 
 
 *
+
+- hasExplain:: [[explanation_Question  47.md]]
+
+#acl #vpc #statements #default #cidr 

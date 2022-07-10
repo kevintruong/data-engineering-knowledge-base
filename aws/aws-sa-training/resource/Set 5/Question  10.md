@@ -17,3 +17,8 @@ to enable secure user access with short-lived credentials. How can these require
 
 - [ ] Configure the MySQL databases to use AWS KMS data encryption keys
 
+
+
+- hasExplain:: [[explanation_Question  10.md]]
+
+#credentials #auth #awsauthenticationplugin #security #secure 

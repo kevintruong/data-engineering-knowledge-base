@@ -24,3 +24,7 @@ occur.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  31.md]]
+
+#deploys #aws #manages #infrastructure #cloudformation 

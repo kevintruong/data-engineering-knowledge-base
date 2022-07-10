@@ -20,3 +20,8 @@ Glacier is the right solution. Data must be delivered within 10 minutes of a ret
 
 - [ ] Vault Lock
 
+
+
+- hasExplain:: [[explanation_Question  63.md]]
+
+#retrieval #archive #documents #glacier #amazon 

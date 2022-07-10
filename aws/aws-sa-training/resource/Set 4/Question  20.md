@@ -21,3 +21,7 @@ the BEST solution?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  20.md]]
+
+#aurora #replication #failover #region #database 

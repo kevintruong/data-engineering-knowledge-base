@@ -20,3 +20,8 @@ infrequent SQL queries only. In addition, the company wants to minimize infrastr
 
 - [ ] Amazon Redshift Spectrum
 
+
+
+- hasExplain:: [[explanation_Question  60.md]]
+
+#aws #aurora #s3 #amazon #rds 

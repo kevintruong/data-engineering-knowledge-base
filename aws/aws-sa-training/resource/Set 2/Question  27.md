@@ -19,3 +19,8 @@ Manager
 
 - [x] Migrate the account using the AWS Organizations console
 
+
+
+- hasExplain:: [[explanation_Question  27.md]]
+
+#migrate #aws #divested #cloudformation #organizations 

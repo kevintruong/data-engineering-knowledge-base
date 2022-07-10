@@ -23,3 +23,8 @@ launched in another AWS Region in the event of a disaster.**
 
 - [ ] Copy the snapshots using Amazon S3 cross-region replication
 
+
+
+- hasExplain:: [[explanation_Question  11.md]]
+
+#aws #ec2 #region #amis #replication 

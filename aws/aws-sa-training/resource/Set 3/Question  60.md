@@ -26,3 +26,8 @@ instance
 
 endpoint
 
+
+
+- hasExplain:: [[explanation_Question  60.md]]
+
+#aws #elb #dns #ec2 #zone 

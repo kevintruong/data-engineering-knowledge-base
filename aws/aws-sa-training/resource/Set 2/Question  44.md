@@ -27,3 +27,8 @@ which your company has services running.**
 
 - [ ] Use CloudWatch to monitor API calls
 
+
+
+- hasExplain:: [[explanation_Question  44.md]]
+
+#cloudwatch #cloudtrail #aws #encryption #encrypted 

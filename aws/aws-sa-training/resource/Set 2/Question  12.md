@@ -143,3 +143,8 @@ AZ
 
 - [ ] Amazon FSx for Windows for high-performance parallel storage
 
+
+
+- hasExplain:: [[explanation_Question  12.md]]
+
+#aws #storage #cloud #s3 #availability 

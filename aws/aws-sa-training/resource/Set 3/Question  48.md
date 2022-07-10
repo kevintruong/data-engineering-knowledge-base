@@ -20,3 +20,8 @@ multiple Availability Zones.**
 
 - [ ] Create a script to copy data to an EC2 instance store
 
+
+
+- hasExplain:: [[explanation_Question  48.md]]
+
+#ebs #ec2 #availability #resilient #volumes 

@@ -22,3 +22,8 @@ display of account listings.**
 
 - [x] Create an ElastiCache database in the U.S east region
 
+
+
+- hasExplain:: [[explanation_Question  65.md]]
+
+#dynamodb #cloudfront #elasticache #amazon #coast 

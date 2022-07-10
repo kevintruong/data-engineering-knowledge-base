@@ -17,3 +17,8 @@ on structured data that is being received at a high velocity?**
 
 - [x] Kinesis Firehose with RedShift
 
+
+
+- hasExplain:: [[explanation_Question  45.md]]
+
+#redshift #queries #hive #sql #spark 

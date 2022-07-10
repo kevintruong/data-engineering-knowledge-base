@@ -24,3 +24,8 @@ and password.**
 
 - [ ] Integrate IAM with a user pool in Cognito
 
+
+
+- hasExplain:: [[explanation_Question  50.md]]
+
+#authentication #authorization #password #mfa #cognito 

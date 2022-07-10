@@ -27,3 +27,7 @@ TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  33.md]]
+
+#encryption #aws #documents #security #cloud 

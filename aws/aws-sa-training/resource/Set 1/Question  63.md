@@ -24,3 +24,8 @@ metadata
 
 - [ ] Place the files in an SQS queue, and use a fleet of EC2 instances to extract the metadata
 
+
+
+- hasExplain:: [[explanation_Question  63.md]]
+
+#s3 #uploads #ec2 #workload #files 

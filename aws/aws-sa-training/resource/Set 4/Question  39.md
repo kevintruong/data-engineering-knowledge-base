@@ -29,3 +29,7 @@ cloud.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  39.md]]
+
+#encryption #encrypt #encrypted #aes #aws 

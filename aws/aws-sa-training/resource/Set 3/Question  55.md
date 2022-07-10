@@ -20,3 +20,8 @@ be able to failover if the primary instance fails.**
 
 - [ ] Aurora Global Database
 
+
+
+- hasExplain:: [[explanation_Question  55.md]]
+
+#aurora #availability #cluster #failover #db 

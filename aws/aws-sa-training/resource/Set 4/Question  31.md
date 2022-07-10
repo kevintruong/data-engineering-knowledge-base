@@ -24,3 +24,7 @@ Cognito is used to obtain temporary credentials to access AWS services?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  31.md]]
+
+#dynamodb #credentials #authentication #aws #authorization 

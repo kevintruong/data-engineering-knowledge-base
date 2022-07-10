@@ -17,3 +17,8 @@ some commands. Which of the following can be used to securely access the instanc
 
 - [ ] EC2 password
 
+
+
+- hasExplain:: [[explanation_Question  40.md]]
+
+#vpc #ec2 #securely #ssl #tls 

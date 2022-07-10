@@ -22,3 +22,8 @@ the time at least 40 instances are required.**
 
 - [x] Purchase Reserved Instances to cover 40 instances. Use On-Demand and Spot Instances to cover the remaining instances
 
+
+
+- hasExplain:: [[explanation_Question  7.md]]
+
+#instances #ecommerce #ec2 #amazon #balancer 

@@ -22,3 +22,8 @@ from no requests to large bursts of traffic.**
 
 - [x] Set up an Amazon API Gateway and use Amazon EC2 with Auto Scaling
 
+
+
+- hasExplain:: [[explanation_Question  11.md]]
+
+#aws #api #ec2 #rds #amazon 

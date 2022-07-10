@@ -22,3 +22,8 @@ requests.**
 
 - [ ] Create a second Amazon Aurora database and link it to the primary database as a read replica
 
+
+
+- hasExplain:: [[explanation_Question  6.md]]
+
+#aurora #az #amazon #read #replica 

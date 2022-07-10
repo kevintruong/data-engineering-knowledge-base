@@ -15,3 +15,8 @@
 
 - [ ] Amazon ElastiCache
 
+
+
+- hasExplain:: [[explanation_Question  31.md]]
+
+#dynamodb #aws #amazon #database #elasticache 

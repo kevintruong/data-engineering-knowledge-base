@@ -26,3 +26,7 @@ can attach additional instance store volumes after your instance is running
 
 
 *
+
+- hasExplain:: [[explanation_Question  53.md]]
+
+#ec2 #ebs #storage #volumes #amazon 

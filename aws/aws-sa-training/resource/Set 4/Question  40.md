@@ -22,3 +22,7 @@ subnet. What advantages do NAT Gateways have over NAT Instances? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  40.md]]
+
+#nat #ec2 #aws #gateways #subnet 

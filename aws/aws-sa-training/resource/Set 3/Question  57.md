@@ -19,3 +19,8 @@ How can you ensure this sensitive information is properly secured?**
 
 - [ ] Store the environment variables in an encrypted DynamoDB table and configure Lambda to retrieve them as required
 
+
+
+- hasExplain:: [[explanation_Question  57.md]]
+
+#dynamodb #lambda #encryption #aws #credentials 

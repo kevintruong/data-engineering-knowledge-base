@@ -24,3 +24,7 @@ TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  29.md]]
+
+#redshift #migrate #migration #oracle #aws 

@@ -17,3 +17,8 @@ optimized for high-throughput use cases?**
 
 - [ ] Use AWS Global Accelerator
 
+
+
+- hasExplain:: [[explanation_Question  28.md]]
+
+#throughput #performance #aws #s3 #cloudfront 

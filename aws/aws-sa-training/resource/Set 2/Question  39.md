@@ -20,3 +20,8 @@ about customers using Amazon SNS. The application is launched in private subnets
 
 - [ ] Use a NAT gateway
 
+
+
+- hasExplain:: [[explanation_Question  39.md]]
+
+#aws #sns #ec2 #endpoints #proxy 

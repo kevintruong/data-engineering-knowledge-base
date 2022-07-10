@@ -24,3 +24,8 @@ would you implement? (Select TWO)**
 
 - [ ] Modify the Auto Scaling policy to use scheduled scaling actions
 
+
+
+- hasExplain:: [[explanation_Question  49.md]]
+
+#cloudwatch #scaling #ec2 #timers #scale 

@@ -36,3 +36,8 @@ the compute application. Set the scaling policy for the Auto Scaling group to ad
 
 of messages published to the SNS topic
 
+
+
+- hasExplain:: [[explanation_Question  13.md]]
+
+#aws #ec2 #scaling #queue #nodes 

@@ -21,3 +21,7 @@ the PII data is secured end-to-end?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  19.md]]
+
+#cloudfront #encryption #secured #identifiable #identity 

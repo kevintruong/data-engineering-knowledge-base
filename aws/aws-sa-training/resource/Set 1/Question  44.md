@@ -20,3 +20,8 @@ Which lifecycle action should be taken to meet the requirements while reducing c
 
 - [ ] Transition objects from Amazon S3 Standard to Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
 
+
+
+- hasExplain:: [[explanation_Question  44.md]]
+
+#lifecycle #storage #s3 #glacier #data 

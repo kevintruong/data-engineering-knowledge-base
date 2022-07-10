@@ -19,3 +19,8 @@ performance for the reads without negatively impacting the rest of the applicati
 
 - [ ] Use an Amazon Kinesis Data Stream to decouple requests
 
+
+
+- hasExplain:: [[explanation_Question  8.md]]
+
+#dynamodb #reads #performance #latency #queue 

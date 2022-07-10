@@ -28,3 +28,8 @@ sporadic increases in request rates.**
 
 - [x] Add an Amazon CloudFront distribution in front of the ALB
 
+
+
+- hasExplain:: [[explanation_Question  15.md]]
+
+#aws #availability #aurora #alb #cloudfront 

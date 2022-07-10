@@ -24,3 +24,7 @@ will further impact the performance of the DB and may lead to poor customer expe
 
 
 *
+
+- hasExplain:: [[explanation_Question  25.md]]
+
+#rds #availability #az #reporting #db 

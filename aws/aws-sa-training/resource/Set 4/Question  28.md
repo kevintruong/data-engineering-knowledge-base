@@ -22,3 +22,7 @@ application tier. The messages are typically around 128KB in size.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  28.md]]
+
+#scaling #messages #ec2 #elastic #queue 

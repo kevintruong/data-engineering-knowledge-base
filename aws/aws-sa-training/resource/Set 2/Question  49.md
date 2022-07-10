@@ -17,3 +17,8 @@ keys be generated and managed on premises. Which solution should the Architect u
 
 - [ ] AWS CloudHSM
 
+
+
+- hasExplain:: [[explanation_Question  49.md]]
+
+#encryption #encrypts #cloudhsm #s3 #aws 

@@ -22,3 +22,8 @@ to keep data in sync. A solutions architect needs to replace the file server far
 
 - [ ] AWS Storage Gateway
 
+
+
+- hasExplain:: [[explanation_Question  5.md]]
+
+#aws #efs #dfsr #cloud #distributed 

@@ -21,3 +21,8 @@ From the list below what AWS service would you recommend for this requirement?**
 
 - [ ] ElastiCache with the Memcached engine
 
+
+
+- hasExplain:: [[explanation_Question  39.md]]
+
+#aws #elasticache #rds #memcached #persistent 

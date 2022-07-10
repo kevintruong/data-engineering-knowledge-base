@@ -24,3 +24,7 @@ analyzing traffic patterns to better understand their customer base.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  48.md]]
+
+#cloudwatch #monitoring #cloudtrail #requests #api 

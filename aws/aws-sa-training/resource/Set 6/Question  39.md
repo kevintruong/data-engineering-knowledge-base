@@ -27,3 +27,7 @@ ELB. What rules should be added? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  39.md]]
+
+#dynamodb #ec2 #elb #https #security 

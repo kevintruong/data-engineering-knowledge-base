@@ -24,3 +24,8 @@ user?**
 
 - [ ] Amazon SQS standard queue
 
+
+
+- hasExplain:: [[explanation_Question  64.md]]
+
+#clicks #queue #requests #navigation #application 

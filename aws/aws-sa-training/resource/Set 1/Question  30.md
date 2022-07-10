@@ -17,3 +17,8 @@ VPC. What should be done to secure access to the table?**
 
 - [ ] Create an AWS VPN connection to the Amazon DynamoDB endpoint
 
+
+
+- hasExplain:: [[explanation_Question  30.md]]
+
+#dynamodb #vpc #vpn #restrict #aws 

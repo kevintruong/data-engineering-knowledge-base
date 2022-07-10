@@ -29,3 +29,7 @@ on is example.com. AWS Route 53 will be used to perform DNS resolution for the a
 
 
 *
+
+- hasExplain:: [[explanation_Question  51.md]]
+
+#aws #cname #routing #ec2 #elbs 

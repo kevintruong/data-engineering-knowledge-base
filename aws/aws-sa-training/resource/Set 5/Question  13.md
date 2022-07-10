@@ -93,3 +93,8 @@ CIDR: 192. 168. 0. 0 / 16
 
 - [ ] Migrate the API to Amazon CloudFront and use AWS Lambda as the origin
 
+
+
+- hasExplain:: [[explanation_Question  13.md]]
+
+#aws #gateway #ec2 #migrate #cloud 

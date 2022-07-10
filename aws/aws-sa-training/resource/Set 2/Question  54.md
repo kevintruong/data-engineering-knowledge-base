@@ -22,3 +22,8 @@ using their AWS Direct Connect link.**
 
 - [ ] Amazon S3
 
+
+
+- hasExplain:: [[explanation_Question  54.md]]
+
+#aws #efs #storage #s3 #amazon 

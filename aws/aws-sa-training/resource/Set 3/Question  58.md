@@ -17,3 +17,8 @@ to the application should you use?**
 
 - [x] Assign IAM roles to the EC2 instances
 
+
+
+- hasExplain:: [[explanation_Question  58.md]]
+
+#credentials #aws #ec2 #securely #s3 

@@ -22,3 +22,7 @@ options below would help to increase storage performance? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  57.md]]
+
+#ec2 #storage #ebs #raid #performance 

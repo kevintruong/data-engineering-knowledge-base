@@ -22,3 +22,8 @@ where permissions can be maintained.**
 
 - [x] Create a service control policy in the root organizational unit to deny access to the services or actions
 
+
+
+- hasExplain:: [[explanation_Question  9.md]]
+
+#permissions #accounts #security #aws #acl 

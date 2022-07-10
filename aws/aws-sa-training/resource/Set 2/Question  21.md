@@ -22,3 +22,8 @@ on-demand streaming.**
 
 - [ ] Amazon S3 Transfer Acceleration
 
+
+
+- hasExplain:: [[explanation_Question  21.md]]
+
+#cloudfront #aws #streaming #s3 #performance 

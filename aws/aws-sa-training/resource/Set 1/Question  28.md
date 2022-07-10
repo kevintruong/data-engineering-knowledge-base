@@ -20,3 +20,8 @@ The services should be decoupled.**
 
 - [ ] AWS Step Functions
 
+
+
+- hasExplain:: [[explanation_Question  28.md]]
+
+#aws #ec2 #lambda #processing #services 

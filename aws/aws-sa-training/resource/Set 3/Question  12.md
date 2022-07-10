@@ -24,3 +24,8 @@ downtime?**
 
 - [ ] Configure Amazon ElastiCache to remove some of the workload from the EC2 instances
 
+
+
+- hasExplain:: [[explanation_Question  12.md]]
+
+#cloudwatch #workload #cloudfront #elasticache #utilization 

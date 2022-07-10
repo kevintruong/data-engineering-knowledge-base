@@ -19,3 +19,7 @@ feature is used to allow existing connections to close cleanly?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  56.md]]
+
+#elb #connections #ec2 #connection #sessions 

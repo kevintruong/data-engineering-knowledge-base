@@ -20,3 +20,8 @@ that applications are deployed in secure configurations.**
 
 - [ ] Use AWS Inspector to apply secure configurations
 
+
+
+- hasExplain:: [[explanation_Question  47.md]]
+
+#vpc #cloudformation #aws #deployment #deploy 

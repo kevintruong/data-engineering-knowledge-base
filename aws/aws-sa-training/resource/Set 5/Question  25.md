@@ -21,3 +21,7 @@ volume from the snapshot?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  25.md]]
+
+#snapshots #snapshot #ebs #volumes #unused 

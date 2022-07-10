@@ -23,3 +23,8 @@ solutions architect needs to ensure that the API calls do not traverse the inter
 
 - [ ] Create a VPC peering connection between the VPC and DynamoDB
 
+
+
+- hasExplain:: [[explanation_Question  16.md]]
+
+#dynamodb #peering #vpc #gateway #route 

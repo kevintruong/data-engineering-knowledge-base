@@ -113,3 +113,8 @@ Endpoint Service
 
 - [x] AWS KMS API
 
+
+
+- hasExplain:: [[explanation_Question  59.md]]
+
+#encryption #aws #encrypted #ec #vpc 

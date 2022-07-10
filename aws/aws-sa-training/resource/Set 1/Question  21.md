@@ -29,3 +29,8 @@ Select TWO)**
 
 multi-AZ deployment
 
+
+
+- hasExplain:: [[explanation_Question  21.md]]
+
+#availability #ec2 #tier #azs #scaling 

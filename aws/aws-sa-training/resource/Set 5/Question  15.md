@@ -20,3 +20,8 @@ private subnets. The architecture should be simple and allow transitive routing 
 
 - [ ] Create a hub-and-spoke topology with AWS App Mesh and use AWS Resource Access Manager to share route tables
 
+
+
+- hasExplain:: [[explanation_Question  15.md]]
+
+#routing #vpc #vpcs #subnets #aws 

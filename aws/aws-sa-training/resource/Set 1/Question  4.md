@@ -20,3 +20,8 @@ recovered in case of accidental deletion.**
 
 - [ ] Enable Amazon S3 cross-Region replication
 
+
+
+- hasExplain:: [[explanation_Question  4.md]]
+
+#s3 #replication #versioning #deletion #amazon 

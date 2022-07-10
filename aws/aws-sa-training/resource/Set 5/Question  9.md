@@ -19,3 +19,8 @@ ongoing systems management effort. How should the Solutions Architect proceed?**
 
 - [ ] Attach Elastic IP addresses
 
+
+
+- hasExplain:: [[explanation_Question  9.md]]
+
+#ec2 #nat #gateway #subnet #elastic 

@@ -21,3 +21,7 @@ instance?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  39.md]]
+
+#replication #failover #rds #azs #standby 

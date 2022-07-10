@@ -25,3 +25,8 @@ more cost-effective.**
 
 - [x] Configure an Auto Scaling group to add or remove instances in multiple Availability Zones automatically
 
+
+
+- hasExplain:: [[explanation_Question  2.md]]
+
+#availability #ec2 #aws #instances #scaling 

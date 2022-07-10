@@ -24,3 +24,8 @@ second per server.**
 
 - [ ] Amazon S3
 
+
+
+- hasExplain:: [[explanation_Question  3.md]]
+
+#ec2 #storage #efs #s3 #distributed 

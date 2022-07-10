@@ -20,3 +20,8 @@ EBS (gp2) volume. At peak load times, logs show excessive wait time.**
 
 - [x] Migrate the data on the EBS volume to provisioned IOPS SSD (io1)
 
+
+
+- hasExplain:: [[explanation_Question  60.md]]
+
+#ssd #ec2 #storage #aws #ebs 

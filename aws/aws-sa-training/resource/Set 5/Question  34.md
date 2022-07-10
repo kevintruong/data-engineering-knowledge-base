@@ -26,3 +26,7 @@ and network interfaces? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  34.md]]
+
+#ec2 #metadata #instances #instance #properties 

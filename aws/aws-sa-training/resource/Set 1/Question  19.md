@@ -22,3 +22,8 @@ solutions architect has been asked to design an efficient and effective solution
 
 - [x] Use Amazon CloudFront with the S3 bucket as its origin
 
+
+
+- hasExplain:: [[explanation_Question  19.md]]
+
+#cloudfront #amazon #s3 #replication #urls 

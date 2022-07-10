@@ -19,3 +19,8 @@ addressing only and avoid the internet. How can this be achieved?**
 
 - [ ] Use a public virtual interface and an AWS VPN to create a secure tunnel to Amazon API Gateway
 
+
+
+- hasExplain:: [[explanation_Question  6.md]]
+
+#vpn #gateway #tunnel #api #vpc 

@@ -22,3 +22,8 @@ solution should be scalable as the company continues to grow.**
 
 - [ ] Amazon EC2 instance with Amazon EBS
 
+
+
+- hasExplain:: [[explanation_Question  47.md]]
+
+#cloudfront #aws #https #ec2 #amazon 

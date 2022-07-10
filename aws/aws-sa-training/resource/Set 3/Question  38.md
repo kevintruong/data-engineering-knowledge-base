@@ -22,3 +22,8 @@ scripting, as well as creating custom rules for your own applications.**
 
 - [ ] Route 53
 
+
+
+- hasExplain:: [[explanation_Question  38.md]]
+
+#cloudfront #aws #security #waf #allow 

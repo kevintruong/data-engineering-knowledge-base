@@ -19,3 +19,8 @@ of requests. Other customers should not be affected. How should the solutions ar
 
 - [ ] Configure the account-level throttling limits
 
+
+
+- hasExplain:: [[explanation_Question  1.md]]
+
+#throttling #api #limits #limit #requests 

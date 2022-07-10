@@ -20,3 +20,8 @@ be shared with multiple Amazon EC2 instances.**
 
 - [ ] Amazon EBS
 
+
+
+- hasExplain:: [[explanation_Question  42.md]]
+
+#aws #ec2 #efs #ebs #s3 

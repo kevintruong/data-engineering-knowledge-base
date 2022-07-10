@@ -24,3 +24,7 @@ TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  64.md]]
+
+#encryption #encrypted #ebs #volumes #elastic 

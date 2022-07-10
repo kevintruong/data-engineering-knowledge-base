@@ -29,3 +29,7 @@ instance
 
 
 *
+
+- hasExplain:: [[explanation_Question  33.md]]
+
+#rds #aws #cloud #nat #subnet 

@@ -25,3 +25,8 @@ the documents are available. Users must be able to upload and modify the documen
 
 - [ ] Encrypt the bucket using AWS SSE-S3
 
+
+
+- hasExplain:: [[explanation_Question  12.md]]
+
+#documents #s3 #aws #encrypt #bucket 

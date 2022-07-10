@@ -22,3 +22,8 @@ database that supports data replication.**
 
 - [ ] Amazon ElastiCache for Memcached
 
+
+
+- hasExplain:: [[explanation_Question  15.md]]
+
+#aws #database #replication #amazon #rds 

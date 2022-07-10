@@ -22,3 +22,7 @@ impacted. A Solutions Architect needs to determine a resolution to the issue tha
 
 
 *
+
+- hasExplain:: [[explanation_Question  42.md]]
+
+#ec2 #performance #ebs #raid #networking 

@@ -17,3 +17,8 @@ type should be used?**
 
 - [ ] Elastic IP Address
 
+
+
+- hasExplain:: [[explanation_Question  34.md]]
+
+#aws #adapter #interface #elastic #network 

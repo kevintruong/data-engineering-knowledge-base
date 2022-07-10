@@ -17,3 +17,8 @@ track memory usage on the Amazon EC2 instance?**
 
 - [ ] Assign an IAM role to the EC2 instance with an IAM policy granting access to the desired metric
 
+
+
+- hasExplain:: [[explanation_Question  42.md]]
+
+#cloudwatch #ec2 #memory #instance #amazon 

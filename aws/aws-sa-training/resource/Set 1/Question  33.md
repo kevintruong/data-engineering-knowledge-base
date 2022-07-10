@@ -19,3 +19,8 @@ in the new region must be encrypted. How can this be achieved?**
 
 encrypted cross-region Read Replica
 
+
+
+- hasExplain:: [[explanation_Question  33.md]]
+
+#encryption #encrypt #encrypted #rds #region 

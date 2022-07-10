@@ -19,3 +19,8 @@ encryption?**
 
 - [ ] Configure an AWS Direct Connect Gateway
 
+
+
+- hasExplain:: [[explanation_Question  26.md]]
+
+#ipsec #encryption #vpc #secure #aws 

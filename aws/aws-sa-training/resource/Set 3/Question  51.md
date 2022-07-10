@@ -26,3 +26,8 @@ content from
 
 - [ ] Place an Amazon ElastiCache cluster in front of the S3 bucket
 
+
+
+- hasExplain:: [[explanation_Question  51.md]]
+
+#cloudfront #s3 #elasticache #amazon #http 

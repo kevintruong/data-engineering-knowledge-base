@@ -93,3 +93,8 @@ Amazon DynamoDB
 
 Zones
 
+
+
+- hasExplain:: [[explanation_Question  17.md]]
+
+#scaling #availability #ec2 #amazonaws #vpce 

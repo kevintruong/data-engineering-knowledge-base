@@ -17,3 +17,8 @@ consumer applications have total reads exceeding the per-shard limits. How can t
 
 - [ ] Implement read throttling for the Kinesis data stream
 
+
+
+- hasExplain:: [[explanation_Question  41.md]]
+
+#shards #kinesis #throttling #shard #reads 

@@ -35,3 +35,8 @@ source
 
 source
 
+
+
+- hasExplain:: [[explanation_Question  46.md]]
+
+#dbsg #vpc #3306 #configure #tcp 

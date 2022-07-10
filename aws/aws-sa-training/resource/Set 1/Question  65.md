@@ -19,3 +19,8 @@ Which database would you recommend for this scenario?**
 
 - [ ] RDS with Microsoft SQL
 
+
+
+- hasExplain:: [[explanation_Question  65.md]]
+
+#dynamodb #database #redshift #rds #mysql 

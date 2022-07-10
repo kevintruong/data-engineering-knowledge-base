@@ -24,3 +24,8 @@ database?**
 
 - [ ] Increase the provisioned throughput
 
+
+
+- hasExplain:: [[explanation_Question  38.md]]
+
+#dynamodb #throughput #memory #bidding #bid 

@@ -25,3 +25,8 @@ trigger the ETL job
 
 - [ ] Configure CloudFormation to provision AWS Data Pipeline to transform the data
 
+
+
+- hasExplain:: [[explanation_Question  48.md]]
+
+#cloudformation #s3 #cloudwatch #aws #uploads 

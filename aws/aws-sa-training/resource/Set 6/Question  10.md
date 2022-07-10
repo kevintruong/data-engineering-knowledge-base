@@ -20,3 +20,8 @@ information should include the source, destination, and protocol.**
 
 - [ ] Create a VPC flow log for the subnets in which the ELB is running
 
+
+
+- hasExplain:: [[explanation_Question  10.md]]
+
+#elb #logs #traffic #cloudtrail #logging 

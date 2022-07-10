@@ -28,3 +28,8 @@ Transit Gateway to connect customers to the closest region
 
 geolocation record to point to the S3 buckets
 
+
+
+- hasExplain:: [[explanation_Question  6.md]]
+
+#cloudfront #aws #ec2 #amazon #performance 

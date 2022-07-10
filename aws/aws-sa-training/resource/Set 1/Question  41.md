@@ -22,3 +22,8 @@ logged with the intent to be analyzed in the future as needed.**
 
 - [ ] Create an Auto Scaling Group of Amazon EC2 instances behind ELBs to write data into Amazon RDS
 
+
+
+- hasExplain:: [[explanation_Question  41.md]]
+
+#ec2 #streaming #elb #amazon #elbs 

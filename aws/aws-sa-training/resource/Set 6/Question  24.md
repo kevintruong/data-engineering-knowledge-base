@@ -24,3 +24,7 @@ The client has explained that the attacks always come from the same small block 
 
 
 *
+
+- hasExplain:: [[explanation_Question  24.md]]
+
+#ddos #security #attacks #vpc #restrict 

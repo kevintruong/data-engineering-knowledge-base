@@ -23,3 +23,8 @@ polls the queue and writes messages to the database
 
 - [ ] Use RDS Auto Scaling for the database layer which will automatically scale as required
 
+
+
+- hasExplain:: [[explanation_Question  57.md]]
+
+#dynamodb #s3 #queue #messages #rds 

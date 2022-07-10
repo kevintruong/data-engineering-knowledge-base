@@ -22,3 +22,8 @@ regional failover.**
 
 - [ ] Launch EC2 instances into multiple regions behind an ALB and use Amazon CloudFront with a pair of static IP addresses
 
+
+
+- hasExplain:: [[explanation_Question  35.md]]
+
+#failover #aws #ec2 #routing #regions 

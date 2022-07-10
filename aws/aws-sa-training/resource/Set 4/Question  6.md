@@ -17,3 +17,8 @@ medium to high severity events. How can this be achieved?**
 
 - [ ] Configure an Amazon CloudTrail alarm the triggers based on GuardDuty API activity
 
+
+
+- hasExplain:: [[explanation_Question  6.md]]
+
+#cloudwatch #monitored #notified #alarm #aws 

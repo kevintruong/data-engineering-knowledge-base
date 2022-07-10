@@ -22,3 +22,7 @@ looking for a way to easily deploy the application whilst maintaining full contr
 
 
 *
+
+- hasExplain:: [[explanation_Question  59.md]]
+
+#cloudfront #cloudformation #aws #paas #deploy 

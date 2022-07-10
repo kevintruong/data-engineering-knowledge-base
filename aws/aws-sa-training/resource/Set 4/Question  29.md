@@ -22,3 +22,7 @@ cannot be interrupted and must be completed within a short time period.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  29.md]]
+
+#instances #ec2 #instance #batch #production 

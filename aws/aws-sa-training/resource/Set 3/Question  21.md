@@ -22,3 +22,8 @@ EC2 instances is at or near 40%.**
 
 - [ ] Use scheduled scaling actions to scale up and scale down the Auto Scaling group
 
+
+
+- hasExplain:: [[explanation_Question  21.md]]
+
+#scaling #scale #utilization #availability #aws 

@@ -24,3 +24,8 @@ enabled for backups. Unencrypted backups will be destroyed after the first encry
 
 database instance
 
+
+
+- hasExplain:: [[explanation_Question  2.md]]
+
+#encryption #encrypted #unencrypted #backups #backup 

@@ -28,3 +28,8 @@ houses the reports. Log these events to a new bucket, and enable log file valida
 
 bucket that houses the reports. Log these events to a new bucket, and enable log file validation
 
+
+
+- hasExplain:: [[explanation_Question  1.md]]
+
+#logging #s3 #aws #reports #log 

@@ -20,3 +20,8 @@ metadata to route traffic to specific services.**
 
 - [ ] Use Amazon CloudFront to manage and route traffic to the correct service
 
+
+
+- hasExplain:: [[explanation_Question  56.md]]
+
+#cloudfront #aws #routing #traffic #metadata 

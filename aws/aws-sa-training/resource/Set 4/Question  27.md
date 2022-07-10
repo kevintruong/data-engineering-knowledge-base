@@ -22,3 +22,7 @@ in an Amazon VPC using the Internet. Which of the following items are required t
 
 
 *
+
+- hasExplain:: [[explanation_Question  27.md]]
+
+#vpn #ec2 #vpc #ipsec #gateway 

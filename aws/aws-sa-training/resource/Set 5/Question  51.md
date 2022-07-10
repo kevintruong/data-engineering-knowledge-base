@@ -24,3 +24,7 @@ already has ten EC2 instances running in the Target Group.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  51.md]]
+
+#ec2 #instances #asgs #asg #elb 

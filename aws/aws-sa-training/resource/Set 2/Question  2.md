@@ -34,3 +34,8 @@ images in Amazon S3 and the manipulated images in Amazon DynamoDB. Configure an 
 
 S3 bucket as the origin
 
+
+
+- hasExplain:: [[explanation_Question  2.md]]
+
+#aws #cloudfront #dynamodb #ec2 #s3 

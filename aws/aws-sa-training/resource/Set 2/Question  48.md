@@ -20,3 +20,8 @@ analyzed infrequently and discarded after 30 days.**
 
 - [ ] Import the logs into an RDS MySQL instance
 
+
+
+- hasExplain:: [[explanation_Question  48.md]]
+
+#dynamodb #csv #aws #billing #logs 

@@ -31,3 +31,8 @@ group for the web tier
 
 group for the web tier
 
+
+
+- hasExplain:: [[explanation_Question  18.md]]
+
+#security #tier #groups #group #ec2 

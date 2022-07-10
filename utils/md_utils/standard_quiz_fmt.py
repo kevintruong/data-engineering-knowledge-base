@@ -1,12 +1,7 @@
-import self as self
-import subst as subst
-from ast import literal_eval
-
-import re
-
-import os
-
 import abc
+import os
+import re
+from keybert import KeyBERT
 
 
 class CardObject:
@@ -41,7 +36,7 @@ class StandardQuizFormatter(BaseQuizFormater):
 
     def regex_replace(self, source, target):
         def replace_by_target(match_object):
-            return f"- [ ] {match_object.group(2)}"
+            return f"{target['prefix']}{match_object.group(target['match_group'])}{target['suffix']}"
 
         self.question = re.sub(source, replace_by_target, self.question, 0, re.MULTILINE)
 
@@ -54,6 +49,19 @@ class StandardQuizFormatter(BaseQuizFormater):
             correct_ops = options[each_correct_option_index - 1][0]
             re_fill = replace_collect_option(options[each_correct_option_index - 1][2])
             self.question = self.question.replace(correct_ops, re_fill)
+
+    def add_explain_link_type(self, link_type, target_fmt):
+        append_link_type = "\n\n- {link_type} ".format(link_type=link_type) + target_fmt.format(
+            question_title=self.title)
+        self.question += append_link_type
+
+    def add_tags_with_bert(self):
+        kw_model = KeyBERT()
+        keywords = kw_model.extract_keywords(docs=self.question)
+        tags = "\n\n"
+        for each_keyword in keywords:
+            tags += f"#{each_keyword[0]} "
+        self.question += tags
 
     def format(self):
         """

@@ -27,3 +27,7 @@ about right-sizing the database.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  22.md]]
+
+#scaling #rds #tier #mysql #db 

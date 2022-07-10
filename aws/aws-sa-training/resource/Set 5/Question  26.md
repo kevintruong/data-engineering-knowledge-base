@@ -30,3 +30,7 @@ user pool with the social IdP
 
 
 *
+
+- hasExplain:: [[explanation_Question  26.md]]
+
+#alb #authentication #authenticate #authenticated #aws 

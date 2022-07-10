@@ -27,3 +27,8 @@ available application endpoint.**
 
 - [ ] Create PTR records to map existing public IP addresses to an Alias
 
+
+
+- hasExplain:: [[explanation_Question  2.md]]
+
+#aws #routing #endpoints #endpoint #geolocation 

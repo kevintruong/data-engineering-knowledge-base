@@ -22,3 +22,8 @@ highly available without modifying the application.**
 
 - [ ] Create an Auto Scaling group that uses four instances across each of two subnets
 
+
+
+- hasExplain:: [[explanation_Question  9.md]]
+
+#availability #tier #scaling #instances #architecture 

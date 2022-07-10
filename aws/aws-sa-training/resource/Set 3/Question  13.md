@@ -22,3 +22,8 @@ instances
 
 - [ ] Launch the EC2 instances in an Auto Scaling group spanning multiple Availability Zones
 
+
+
+- hasExplain:: [[explanation_Question  13.md]]
+
+#ec2 #cluster #availability #scaling #hpc 

@@ -17,3 +17,8 @@ application requires extremely low inter-instance latency. How should the instan
 
 - [ ] Use an EBS-optimized instance with 10 Gigabit networking and deploy to a single subnet
 
+
+
+- hasExplain:: [[explanation_Question  2.md]]
+
+#ec2 #latency #performance #instances #cluster 

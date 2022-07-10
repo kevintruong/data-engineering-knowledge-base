@@ -24,3 +24,7 @@ must be included in the function to enable this configuration? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  47.md]]
+
+#vpc #lambda #peering #aws #subnet 

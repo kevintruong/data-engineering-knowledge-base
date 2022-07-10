@@ -31,3 +31,8 @@ after 180 days
 
 after 180 days
 
+
+
+- hasExplain:: [[explanation_Question  22.md]]
+
+#s3 #restorable #lifecycle #storage #replication 

@@ -17,3 +17,8 @@ endpoints must be avoided. What is the most EFFICIENT and secure method of enabl
 
 - [ ] Create a software VPN between DynamoDB and the application in the private subnet
 
+
+
+- hasExplain:: [[explanation_Question  17.md]]
+
+#dynamodb #aws #vpn #vpc #subnet 

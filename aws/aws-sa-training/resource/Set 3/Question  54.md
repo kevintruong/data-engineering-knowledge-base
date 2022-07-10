@@ -101,3 +101,8 @@ client
 
 - [ ] Amazon ElastiCache
 
+
+
+- hasExplain:: [[explanation_Question  54.md]]
+
+#dynamodb #storage #amazon #elasticache #efs 

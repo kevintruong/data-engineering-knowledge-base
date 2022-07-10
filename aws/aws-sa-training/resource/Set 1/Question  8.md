@@ -22,3 +22,8 @@ will be required for a minimum of 1 year.**
 
 - [x] Scheduled Reserved Instances
 
+
+
+- hasExplain:: [[explanation_Question  8.md]]
+
+#ec2 #instances #analytics #amazon #scheduled 

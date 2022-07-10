@@ -19,3 +19,7 @@ Architect automate this process for the operations team?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  36.md]]
+
+#rds #cloudwatch #automate #sns #notification 

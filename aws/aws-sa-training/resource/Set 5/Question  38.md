@@ -26,3 +26,7 @@ content.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  38.md]]
+
+#cloud #aws #nfs #storage #efs 

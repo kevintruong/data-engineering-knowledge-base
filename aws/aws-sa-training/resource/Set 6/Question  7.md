@@ -20,3 +20,8 @@ directly accessible from the internet to improve security.**
 
 - [ ] Launch the EC2 instances in a public subnet and create an Application Load Balancer in a public subnet
 
+
+
+- hasExplain:: [[explanation_Question  7.md]]
+
+#ec2 #aws #tier #subnet #gateway 

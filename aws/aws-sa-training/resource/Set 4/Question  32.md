@@ -28,3 +28,7 @@ the customer’s DNS zone apex record at the ELB?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  32.md]]
+
+#elb #dns #cname #hasexplain #zone 

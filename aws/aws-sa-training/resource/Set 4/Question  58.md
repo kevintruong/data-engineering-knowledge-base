@@ -29,3 +29,7 @@ TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  58.md]]
+
+#ec2 #subnets #subnet #vpc #elastic 

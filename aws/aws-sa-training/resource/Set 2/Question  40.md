@@ -17,3 +17,8 @@ application team use to decouple the client interface from the underlying servic
 
 - [ ] Application Load Balancer
 
+
+
+- hasExplain:: [[explanation_Question  40.md]]
+
+#api #client #application #mobile #services 

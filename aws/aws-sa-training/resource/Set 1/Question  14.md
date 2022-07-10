@@ -20,3 +20,8 @@ logs is unknown and data will persist for 24 hours only.**
 
 - [ ] Amazon S3 One Zone-Infrequent Access (S3 One Zone-IA)
 
+
+
+- hasExplain:: [[explanation_Question  14.md]]
+
+#storage #logs #analytics #archive #s3 

@@ -85,3 +85,8 @@ Note: Linux only
 
 - [ ] Store the files on Amazon EFS, and create a lifecycle policy to remove the files after three months
 
+
+
+- hasExplain:: [[explanation_Question  37.md]]
+
+#efs #nfs #files #s3 #amazon 

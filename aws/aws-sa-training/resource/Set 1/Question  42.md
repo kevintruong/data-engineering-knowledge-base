@@ -19,3 +19,8 @@ this access?**
 
 - [ ] Configure an allow rule in the Security Group for the IP addresses of the consumers
 
+
+
+- hasExplain:: [[explanation_Question  42.md]]
+
+#cloudfront #aws #s3 #authorization #share 

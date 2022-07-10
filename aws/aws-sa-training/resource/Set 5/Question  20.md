@@ -30,3 +30,8 @@ files and save to an Amazon S3 bucket
 
 process the files
 
+
+
+- hasExplain:: [[explanation_Question  20.md]]
+
+#aws #log #ec2 #queue #s3 

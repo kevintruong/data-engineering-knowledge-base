@@ -22,3 +22,8 @@ costs as low as possible by using the appropriate S3 storage class.**
 
 - [ ] S3 One Zone-Infrequent Access (S3 One Zone-IA)
 
+
+
+- hasExplain:: [[explanation_Question  9.md]]
+
+#s3 #storage #logs #backup #log 

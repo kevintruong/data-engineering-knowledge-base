@@ -24,3 +24,8 @@ geographic location.**
 
 - [ ] Re-deploy the application in a new VPC that is closer to the users making the requests
 
+
+
+- hasExplain:: [[explanation_Question  43.md]]
+
+#cloudfront #ec2 #scaling #elb #efs 

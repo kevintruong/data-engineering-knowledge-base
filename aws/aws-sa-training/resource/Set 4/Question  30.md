@@ -19,3 +19,7 @@ for the Amazon EBS volumes in an Amazon VPC. What is the easiest way to automate
 
 
 *
+
+- hasExplain:: [[explanation_Question  30.md]]
+
+#backups #automate #ebs #automating #backup 

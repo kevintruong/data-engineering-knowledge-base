@@ -27,3 +27,7 @@ fine-grained control must be implemented over access to the S3 bucket.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  38.md]]
+
+#s3 #aws #buckets #bucket #encrypted 

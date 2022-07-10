@@ -24,3 +24,8 @@ traffic
 
 - [ ] Recreate the API using API Gateway and integrate the API with the existing back-end
 
+
+
+- hasExplain:: [[explanation_Question  55.md]]
+
+#availability #aws #ec2 #scaling #api 

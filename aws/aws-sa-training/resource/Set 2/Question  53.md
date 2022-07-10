@@ -22,3 +22,8 @@ roadmap development rather than provisioning and managing instances.**
 
 - [ ] Amazon API Gateway and Amazon EC2
 
+
+
+- hasExplain:: [[explanation_Question  53.md]]
+
+#aws #cloudfront #scaling #ec2 #balancing 

@@ -22,3 +22,8 @@ requires updating a DNS alias record to point to the secondary ALB.**
 
 - [ ] Create a latency based routing policy on Amazon Route 53
 
+
+
+- hasExplain:: [[explanation_Question  18.md]]
+
+#failover #cname #alb #aws #dns 

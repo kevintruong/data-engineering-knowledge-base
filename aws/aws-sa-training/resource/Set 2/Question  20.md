@@ -22,3 +22,8 @@ administrator policy, which would allow the developers to circumvent any other s
 
 - [x] Set an IAM permissions boundary on the developer IAM role that explicitly denies attaching the administrator policy
 
+
+
+- hasExplain:: [[explanation_Question  20.md]]
+
+#policies #administrator #security #permissions #policy 

@@ -19,3 +19,8 @@ migration strategy for the filesystem?**
 
 - [x] Use AWS DataSync to migrate to Amazon FSx for Windows File Server
 
+
+
+- hasExplain:: [[explanation_Question  4.md]]
+
+#dfsn #filesystem #efs #aws #migration 

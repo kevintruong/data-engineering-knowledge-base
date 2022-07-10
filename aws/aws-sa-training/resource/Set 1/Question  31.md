@@ -17,3 +17,8 @@ only specific Amazon EC2 instance types. How can this policy be applied across t
 
 - [ ] Use AWS Resource Access Manager to control which launch types can be used
 
+
+
+- hasExplain:: [[explanation_Question  31.md]]
+
+#restrict #ec2 #aws #allow #allows 

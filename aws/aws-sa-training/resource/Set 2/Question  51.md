@@ -17,3 +17,8 @@ simplest way to alleviate the performance issues?**
 
 - [x] Enable DynamoDB DAX
 
+
+
+- hasExplain:: [[explanation_Question  51.md]]
+
+#dynamodb #latency #performance #elasticache #ec2 

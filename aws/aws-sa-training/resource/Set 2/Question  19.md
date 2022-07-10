@@ -21,3 +21,8 @@
 
 - [ ] Delete the root user account
 
+
+
+- hasExplain:: [[explanation_Question  19.md]]
+
+#root #aws #s3 #authentication #bucket 

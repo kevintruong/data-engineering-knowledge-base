@@ -31,3 +31,8 @@ security group
 
 - [ ] Create a network ACL on the DB subnet, allow MySQL port 3306 inbound for web servers, and deny all outbound traffic
 
+
+
+- hasExplain:: [[explanation_Question  43.md]]
+
+#ssl #security #mysql #https #database 

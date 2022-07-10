@@ -22,3 +22,7 @@ dedicated to the client. Instance placement must be automatic and billing should
 
 
 *
+
+- hasExplain:: [[explanation_Question  27.md]]
+
+#ec2 #deployment #cluster #instance #placement 

@@ -32,3 +32,8 @@ weighting
 
 endpoints. Route 53 will only send requests to the instance if the health checks fail for the ALB
 
+
+
+- hasExplain:: [[explanation_Question  4.md]]
+
+#failover #cloudfront #balancer #amazon #ec2 

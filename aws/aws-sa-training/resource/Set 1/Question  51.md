@@ -19,3 +19,8 @@ traffic to the service based on the incoming request path?**
 
 - [ ] Classic Load Balancer (CLB)
 
+
+
+- hasExplain:: [[explanation_Question  51.md]]
+
+#aws #cloudfront #traffic #route #tier 

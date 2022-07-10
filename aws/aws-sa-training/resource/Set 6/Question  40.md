@@ -19,3 +19,7 @@ uninterrupted for a few hours. Which EC2 pricing option would be most suitable?*
 
 
 *
+
+- hasExplain:: [[explanation_Question  40.md]]
+
+#ec2 #pricing #servers #instances #demand 

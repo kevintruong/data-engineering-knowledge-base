@@ -22,3 +22,7 @@ categorization that allows for identification of Amazon EC2 resources by busines
 
 
 *
+
+- hasExplain:: [[explanation_Question  55.md]]
+
+#ec2 #aws #categorization #environments #metadata 

@@ -22,3 +22,8 @@ whitelist of source IP addresses and only 2 IP addresses can be configured per c
 
 - [x] Configure a NAT Gateway for each AZ with an Elastic IP address
 
+
+
+- hasExplain:: [[explanation_Question  50.md]]
+
+#saas #authentication #ec2 #gateways #routing 

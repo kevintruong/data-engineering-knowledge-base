@@ -27,3 +27,7 @@ large number of concurrent users using BI tools.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  56.md]]
+
+#aws #queries #querying #s3 #amazon 

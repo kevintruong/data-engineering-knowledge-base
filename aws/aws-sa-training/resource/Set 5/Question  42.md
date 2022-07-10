@@ -24,3 +24,7 @@ operational reasons, it will be necessary to access the operating system of the 
 
 
 *
+
+- hasExplain:: [[explanation_Question  42.md]]
+
+#docker #kubernetes #containers #ecs #aws 

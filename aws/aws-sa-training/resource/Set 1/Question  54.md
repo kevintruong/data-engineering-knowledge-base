@@ -23,3 +23,8 @@ layer within the application architecture to store this information.**
 
 - [x] A key/value store such as ElastiCache Redis
 
+
+
+- hasExplain:: [[explanation_Question  54.md]]
+
+#elasticache #sessions #session #balancer #workflow 

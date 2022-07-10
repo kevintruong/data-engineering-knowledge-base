@@ -20,3 +20,8 @@ infrequently accessed for up to 90 days. After that, the objects are no longer n
 
 - [ ] Transition to REDUCED_REDUNDANCY after 30 days. After 90 days expire the objects
 
+
+
+- hasExplain:: [[explanation_Question  23.md]]
+
+#lifecycle #s3 #glacier #expire #days 

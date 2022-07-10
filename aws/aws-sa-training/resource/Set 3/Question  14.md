@@ -30,3 +30,8 @@ SwapUtilization metrics in CloudWatch
 
 SwapUtilization metrics in CloudWatch
 
+
+
+- hasExplain:: [[explanation_Question  14.md]]
+
+#cloudwatch #monitoring #swapusage #swap #ec2 

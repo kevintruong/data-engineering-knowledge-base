@@ -21,3 +21,7 @@ practices, how can performance be optimized?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  28.md]]
+
+#cloudfront #aws #s3 #performance #optimized 

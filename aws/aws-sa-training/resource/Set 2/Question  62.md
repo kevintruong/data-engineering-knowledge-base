@@ -24,3 +24,8 @@ database is the bottleneck.**
 
 - [ ] Enable EBS optimization on the instance and keep the temporary files on the existing volume
 
+
+
+- hasExplain:: [[explanation_Question  62.md]]
+
+#storage #bottleneck #ebs #efficient #ec2 

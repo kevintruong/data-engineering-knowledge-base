@@ -20,3 +20,8 @@ public IP addresses. Some users are experiencing poor performance when accessing
 
 - [ ] Set up an Amazon Route 53 geoproximity routing policy to route traffic
 
+
+
+- hasExplain:: [[explanation_Question  7.md]]
+
+#cloudfront #aws #latency #geoproximity #routing 

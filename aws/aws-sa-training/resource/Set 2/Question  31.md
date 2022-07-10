@@ -22,3 +22,8 @@ performance.**
 
 - [ ] Use a CloudFront distribution with multiple custom origins in each region and configure for high availability
 
+
+
+- hasExplain:: [[explanation_Question  31.md]]
+
+#failover #aws #cloudfront #availability #elb 

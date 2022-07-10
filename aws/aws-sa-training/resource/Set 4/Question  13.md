@@ -20,3 +20,8 @@ MPI protocol and runs across many nodes. A service-managed deployment is require
 
 - [ ] Use AWS Elastic Beanstalk to provision and manage the EC2 instances
 
+
+
+- hasExplain:: [[explanation_Question  13.md]]
+
+#cloudformation #deployment #provisioning #aws #cluster 

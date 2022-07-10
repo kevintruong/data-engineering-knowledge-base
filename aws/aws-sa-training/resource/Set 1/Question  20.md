@@ -28,3 +28,8 @@ the primary instance
 
 ap-southeast- 2
 
+
+
+- hasExplain:: [[explanation_Question  20.md]]
+
+#dynamodb #mysql #migrate #replication #aurora 

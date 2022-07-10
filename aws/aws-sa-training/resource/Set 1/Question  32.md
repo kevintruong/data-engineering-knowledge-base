@@ -17,3 +17,8 @@ does not require you to make capacity decisions upfront?**
 
 - [ ] Amazon RDS
 
+
+
+- hasExplain:: [[explanation_Question  32.md]]
+
+#dynamodb #aws #database #aurora #rds 

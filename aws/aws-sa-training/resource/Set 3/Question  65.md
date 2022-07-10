@@ -17,3 +17,8 @@ DB to be taken offline during a maintenance window?**
 
 - [ ] Updating DB parameter groups
 
+
+
+- hasExplain:: [[explanation_Question  65.md]]
+
+#rds #availability #maintenance #vpc #az 

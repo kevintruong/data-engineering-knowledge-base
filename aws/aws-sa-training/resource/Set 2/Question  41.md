@@ -148,3 +148,8 @@ Any public endpoint
 
 - [ ] Use an Application Load Balancer (ALB) with a TCP listener, then terminate SSL on EC2 instances
 
+
+
+- hasExplain:: [[explanation_Question  41.md]]
+
+#ssl #ec2 #encryption #aws #encrypted 

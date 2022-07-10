@@ -22,3 +22,8 @@ website.**
 
 - [ ] Configure an Application Load Balancer with an AWS Lambda target
 
+
+
+- hasExplain:: [[explanation_Question  1.md]]
+
+#aws #hosting #host #ec2 #server 

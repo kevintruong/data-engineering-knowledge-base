@@ -20,3 +20,8 @@ Organization. The accounts also need to be moved into an OU and have VPCs and su
 
 - [ ] Use the AWS CLI
 
+
+
+- hasExplain:: [[explanation_Question  25.md]]
+
+#cloudformation #aws #organization #organizations #accounts 

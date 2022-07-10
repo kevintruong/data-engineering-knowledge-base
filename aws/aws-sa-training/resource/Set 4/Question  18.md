@@ -17,3 +17,8 @@ connection. What is the MOST cost-effective solution to provide a backup for the
 
 - [ ] Configure an IPSec VPN connection over the Direct Connect link
 
+
+
+- hasExplain:: [[explanation_Question  18.md]]
+
+#aws #backup #ipsec #vpn #resilience 

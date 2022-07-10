@@ -24,3 +24,8 @@ write to the Amazon S3 bucket
 
 - [x] Upload directly to S3 using a pre-signed URL
 
+
+
+- hasExplain:: [[explanation_Question  39.md]]
+
+#s3 #uploading #upload #bucket #amazon 

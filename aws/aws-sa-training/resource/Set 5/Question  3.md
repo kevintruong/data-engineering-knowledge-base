@@ -20,3 +20,8 @@ been asked to implement measures to reduce request latency and the number of cal
 
 - [ ] Configure a private endpoint place ElastiCache in front
 
+
+
+- hasExplain:: [[explanation_Question  3.md]]
+
+#elasticache #cloudfront #endpoint #ec2 #api 

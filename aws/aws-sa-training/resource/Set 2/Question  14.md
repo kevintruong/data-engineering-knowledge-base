@@ -24,3 +24,8 @@ complaining that the application is very slow when the day begins, although it r
 
 - [x] Implement a scheduled action that sets the minimum and maximum capacity to 20 shortly before the office opens
 
+
+
+- hasExplain:: [[explanation_Question  14.md]]
+
+#scaling #scales #availability #ec2 #scheduled 

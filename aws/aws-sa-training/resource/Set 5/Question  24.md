@@ -26,3 +26,7 @@ maintain the order of the messages.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  24.md]]
+
+#queue #queues #messages #stack #polling 

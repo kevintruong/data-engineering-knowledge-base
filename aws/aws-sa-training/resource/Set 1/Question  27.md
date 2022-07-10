@@ -20,3 +20,8 @@
 
 - [ ] Use On-Demand instances for the production environment
 
+
+
+- hasExplain:: [[explanation_Question  27.md]]
+
+#ec2 #pricing #instances #amazon #production 

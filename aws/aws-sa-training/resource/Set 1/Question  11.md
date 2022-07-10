@@ -25,3 +25,8 @@ architect needs to ensure that the resources can also be deployed to a second Re
 
 using that EBS volume
 
+
+
+- hasExplain:: [[explanation_Question  11.md]]
+
+#ec2 #region #instances #ebs #ami 

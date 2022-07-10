@@ -19,3 +19,8 @@ allow you to share the videos?**
 
 - [ ] Use CloudFront and use a custom origin pointing to an EC2 instance
 
+
+
+- hasExplain:: [[explanation_Question  32.md]]
+
+#cloudfront #videos #ec2 #onboarding #s3 

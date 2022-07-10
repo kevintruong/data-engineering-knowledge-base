@@ -20,3 +20,8 @@
 
 - [ ] Create an AWS Step Functions state machine
 
+
+
+- hasExplain:: [[explanation_Question  10.md]]
+
+#queue #aws #decoupling #messages #sns 

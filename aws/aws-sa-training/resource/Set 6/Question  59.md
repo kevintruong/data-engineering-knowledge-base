@@ -26,3 +26,7 @@ target
 
 
 *
+
+- hasExplain:: [[explanation_Question  59.md]]
+
+#vpn #subnet #subnets #vpc #gateway 

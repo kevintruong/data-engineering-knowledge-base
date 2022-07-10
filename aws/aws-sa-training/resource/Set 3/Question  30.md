@@ -20,3 +20,8 @@ retained for compliance reasons for seven years and is rarely accessed.**
 
 - [ ] Store data in STANDARD for 90 days then transition to REDUCED_REDUNDANCY
 
+
+
+- hasExplain:: [[explanation_Question  30.md]]
+
+#storage #s3 #data #deep_archive #amazon 

@@ -22,3 +22,8 @@ time. The application architects require a storage solution.**
 
 - [ ] Store the data in AWS Storage Gateway. Setup AWS Direct Connect between the Gateway appliance and the EC2 instances
 
+
+
+- hasExplain:: [[explanation_Question  1.md]]
+
+#aws #storage #ec2 #glacier #s3 

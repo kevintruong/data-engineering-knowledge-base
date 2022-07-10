@@ -22,3 +22,8 @@ fast, repeat queries and update dashboards for customer support staff.**
 
 - [ ] RedShift for the analytics use case and RDS for the customer support dashboard
 
+
+
+- hasExplain:: [[explanation_Question  50.md]]
+
+#dashboards #analytics #redshift #rds #dashboard 

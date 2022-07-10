@@ -22,3 +22,8 @@ who can access those keys.**
 
 - [x] Server-Side Encryption with AWS KMS-Managed Keys (SSE-KMS)
 
+
+
+- hasExplain:: [[explanation_Question  10.md]]
+
+#encryption #encrypted #s3 #aws #bucket 

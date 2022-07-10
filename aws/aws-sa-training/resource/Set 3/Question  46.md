@@ -20,3 +20,8 @@ allow you to encrypt data stored in S3 buckets at rest cost-efficiently? (Select
 
 - [ ] Use Multipart upload with SSL
 
+
+
+- hasExplain:: [[explanation_Question  46.md]]
+
+#encryption #encrypt #encrypted #s3 #cloudhsm 

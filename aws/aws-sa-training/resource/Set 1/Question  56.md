@@ -24,3 +24,8 @@ necessary permissions to access the DynamoDB table. Have the Developer use these
 
 DynamoDB table
 
+
+
+- hasExplain:: [[explanation_Question  56.md]]
+
+#dynamodb #aws #lambda #permissions #access 

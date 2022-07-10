@@ -22,3 +22,7 @@ primary RDS database instance. What actions will take place in this circumstance
 
 
 *
+
+- hasExplain:: [[explanation_Question  50.md]]
+
+#failover #availability #outage #rds #standby 

@@ -24,3 +24,7 @@ the Internet and to ensure all traffic uses private IP addresses only.**
 
 
 *
+
+- hasExplain:: [[explanation_Question  23.md]]
+
+#gateway #subnet #ec2 #nat #vpc 

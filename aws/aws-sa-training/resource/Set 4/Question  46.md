@@ -21,3 +21,7 @@ terminate it, and then launch a replacement
 
 
 *
+
+- hasExplain:: [[explanation_Question  46.md]]
+
+#ec2 #availability #scaling #status #auto 

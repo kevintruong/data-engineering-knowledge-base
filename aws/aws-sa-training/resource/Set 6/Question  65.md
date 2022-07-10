@@ -22,3 +22,7 @@ devices will collect information and send it to cloud applications running on AW
 
 
 *
+
+- hasExplain:: [[explanation_Question  65.md]]
+
+#aws #iot #cloud #devices #sensors 

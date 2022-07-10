@@ -17,3 +17,8 @@ volumes. What is the best solution for ingesting and processing a very large num
 
 - [x] Amazon Kinesis Data Streams
 
+
+
+- hasExplain:: [[explanation_Question  34.md]]
+
+#streams #processing #data #redshift #trading 

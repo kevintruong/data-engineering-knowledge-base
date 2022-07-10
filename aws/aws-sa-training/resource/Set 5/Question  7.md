@@ -23,3 +23,8 @@ analyze the data
 
 - [ ] Create an AWS Lambda function that copies the data onto Amazon S3. Use Amazon S3 Select to query the data
 
+
+
+- hasExplain:: [[explanation_Question  7.md]]
+
+#aws #analytics #amazon #s3 #data 

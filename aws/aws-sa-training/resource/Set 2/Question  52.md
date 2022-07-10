@@ -20,3 +20,8 @@ and it is essential that the application receives the most up-to-date version of
 
 - [x] Amazon RDS
 
+
+
+- hasExplain:: [[explanation_Question  52.md]]
+
+#aws #amazon #ec2 #s3 #redshift 

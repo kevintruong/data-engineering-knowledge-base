@@ -24,3 +24,8 @@ being constantly launched and terminated.**
 
 - [ ] Configure a Network ACL on the database subnet to allow all traffic from the application subnet
 
+
+
+- hasExplain:: [[explanation_Question  9.md]]
+
+#tier #tiers #security #secure #restrict 

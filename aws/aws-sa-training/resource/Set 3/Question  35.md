@@ -19,3 +19,8 @@ service will be used to offer the service for consumption?**
 
 - [ ] API Gateway
 
+
+
+- hasExplain:: [[explanation_Question  35.md]]
+
+#aws #vpc #gateway #balancer #service 

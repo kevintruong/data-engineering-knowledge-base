@@ -20,3 +20,8 @@ requests are from different IP addresses under the same CIDR range.**
 
 - [ ] Add a deny rule in the outbound table of the network ACL with a lower rule number than other rules
 
+
+
+- hasExplain:: [[explanation_Question  16.md]]
+
+#acl #cidr #ip #deny #security 

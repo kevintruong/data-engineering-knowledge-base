@@ -21,3 +21,8 @@ of the long-running API calls?**
 
 - [ ] Change the ALB to a Network Load Balancer (NLB) and use SSL/TLS termination
 
+
+
+- hasExplain:: [[explanation_Question  4.md]]
+
+#ec2 #latency #timeout #alb #tls 

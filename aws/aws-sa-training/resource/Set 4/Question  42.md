@@ -24,3 +24,7 @@ only through the Elastic Load Balancer and that none of the web servers are dire
 
 
 *
+
+- hasExplain:: [[explanation_Question  42.md]]
+
+#cloudfront #ec2 #tier #balancer #elastic 

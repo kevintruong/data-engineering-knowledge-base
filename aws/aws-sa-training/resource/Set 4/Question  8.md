@@ -22,3 +22,8 @@ minutes if required thereafter.**
 
 - [ ] Store the data in S3 Intelligent Tiering for 3 months, then transition to S3 Standard-IA
 
+
+
+- hasExplain:: [[explanation_Question  8.md]]
+
+#s3 #lifecycle #records #employment #amazon 

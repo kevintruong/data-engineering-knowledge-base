@@ -19,3 +19,7 @@ using a hosted Hadoop service. What configuration changes and services can be le
 
 
 *
+
+- hasExplain:: [[explanation_Question  36.md]]
+
+#dynamodb #logs #hadoop #log #balancer 

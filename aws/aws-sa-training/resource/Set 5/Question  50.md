@@ -29,3 +29,7 @@ the messaging and streaming layers? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  50.md]]
+
+#aws #streaming #cloudtrail #messaging #sns 

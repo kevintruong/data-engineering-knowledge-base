@@ -19,3 +19,8 @@ performance and low latency?**
 
 - [ ] Cold HDD (sc1)
 
+
+
+- hasExplain:: [[explanation_Question  9.md]]
+
+#ssd #hdd #performance #latency #ebs 

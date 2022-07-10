@@ -28,3 +28,7 @@ determined to be unhealthy by the ELB and has been removed from service
 
 
 *
+
+- hasExplain:: [[explanation_Question  29.md]]
+
+#ec2 #elb #elastic #balancer #terminated 

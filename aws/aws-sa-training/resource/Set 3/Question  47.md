@@ -22,3 +22,8 @@ servers and database must be secure.**
 
 - [ ] Create a private subnet for the Amazon EC2 instances and a public subnet for the Amazon RDS cluster
 
+
+
+- hasExplain:: [[explanation_Question  47.md]]
+
+#ec2 #subnet #cluster #instances #architecture 

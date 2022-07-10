@@ -19,3 +19,8 @@ sensitive data?**
 
 - [ ] Set up MFA and API logging
 
+
+
+- hasExplain:: [[explanation_Question  5.md]]
+
+#redis #encryption #security #protect #auth 

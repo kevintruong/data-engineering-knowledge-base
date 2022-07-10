@@ -20,3 +20,8 @@ size and the business requirement is that replicate lag must be kept under 100 m
 
 - [ ] MySQL
 
+
+
+- hasExplain:: [[explanation_Question  36.md]]
+
+#aws #rds #amazon #aurora #mysql 

@@ -22,3 +22,7 @@ logged in CloudTrail? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  46.md]]
+
+#events #event #cloudtrail #aws #logged 

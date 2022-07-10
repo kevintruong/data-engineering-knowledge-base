@@ -26,3 +26,7 @@ architecture?**
 
 
 *
+
+- hasExplain:: [[explanation_Question  34.md]]
+
+#availability #replication #ec2 #mysql #replica 

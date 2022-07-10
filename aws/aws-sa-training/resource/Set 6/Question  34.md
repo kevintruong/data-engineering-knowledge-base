@@ -29,3 +29,7 @@ should be used for the system monitoring and deployment layers? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  34.md]]
+
+#aws #cloudwatch #cloudtrail #monitoring #serverless 

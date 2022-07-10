@@ -28,3 +28,8 @@ the closest origin
 
 routing policies to select the closest region
 
+
+
+- hasExplain:: [[explanation_Question  8.md]]
+
+#cloudfront #aws #amazon #ec2 #s3 

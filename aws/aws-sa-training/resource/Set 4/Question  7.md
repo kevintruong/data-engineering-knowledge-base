@@ -22,3 +22,8 @@ require rewriting application code.**
 
 - [ ] AWS Step Functions
 
+
+
+- hasExplain:: [[explanation_Question  7.md]]
+
+#aws #mqtt #ec2 #mq #sns 

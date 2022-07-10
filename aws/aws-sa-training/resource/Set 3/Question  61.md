@@ -20,3 +20,8 @@ message to users every time users sign up for an event.**
 
 - [x] Amazon SNS
 
+
+
+- hasExplain:: [[explanation_Question  61.md]]
+
+#aws #sns #service #hasexplain #registrations 

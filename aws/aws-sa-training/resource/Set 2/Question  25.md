@@ -19,3 +19,8 @@ completes
 
 - [x] Process each part using a separate ECS task. Create an Amazon SQS queue
 
+
+
+- hasExplain:: [[explanation_Question  25.md]]
+
+#dynamodb #processing #ecs #process #queue 

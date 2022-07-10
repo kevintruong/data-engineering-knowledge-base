@@ -26,3 +26,7 @@ throughput
 
 
 *
+
+- hasExplain:: [[explanation_Question  60.md]]
+
+#dynamodb #throttling #cloudwatch #aws #optimize 

@@ -22,3 +22,8 @@ queried using SQL. The solution should be fully serverless.**
 
 - [ ] Use Amazon S3 server-side encryption and Amazon QuickSight to query the data
 
+
+
+- hasExplain:: [[explanation_Question  17.md]]
+
+#encryption #encrypt #s3 #aws #encrypted 

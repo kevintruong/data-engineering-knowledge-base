@@ -29,3 +29,8 @@ The master RDS DB is not currently encrypted.**
 
 - [ ] You can use an ELB to provide an encrypted transport layer in front of the RDS DB
 
+
+
+- hasExplain:: [[explanation_Question  34.md]]
+
+#encryption #rds #encrypted #security #pacific 

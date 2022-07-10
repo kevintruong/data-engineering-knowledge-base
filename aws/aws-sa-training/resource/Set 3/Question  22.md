@@ -20,3 +20,8 @@ replicated across all instances in a cluster.**
 
 - [ ] Use Amazon EC2 Enhanced Networking with an EBS HDD Throughput Optimized volume
 
+
+
+- hasExplain:: [[explanation_Question  22.md]]
+
+#storage #iops #throughput #hdd #cluster 

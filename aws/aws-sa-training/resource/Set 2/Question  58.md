@@ -19,3 +19,8 @@ types. What configuration will cater to these requirements taking cost-effective
 
 - [ ] Use a Cluster Placement Group within a single AZ
 
+
+
+- hasExplain:: [[explanation_Question  58.md]]
+
+#instances #ec2 #vpc #cluster #deploying 

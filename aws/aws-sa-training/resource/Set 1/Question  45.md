@@ -22,3 +22,8 @@ to keep information in sync.**
 
 - [ ] Amazon Aurora Global Database
 
+
+
+- hasExplain:: [[explanation_Question  45.md]]
+
+#dynamodb #replication #aws #migration #databases 

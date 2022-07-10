@@ -24,3 +24,8 @@ the website.**
 
 - [ ] Modify the security groups for the EC2 instances in the target groups behind the ALB to deny the malicious IP address
 
+
+
+- hasExplain:: [[explanation_Question  6.md]]
+
+#cloudfront #protect #aws #security #ec2 

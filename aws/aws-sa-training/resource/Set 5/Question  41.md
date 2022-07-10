@@ -22,3 +22,7 @@ Architect would like to use Alias records. Using Route 53 Alias records what tar
 
 
 *
+
+- hasExplain:: [[explanation_Question  41.md]]
+
+#alias #cloudfront #hasexplain #efs #elasticache 

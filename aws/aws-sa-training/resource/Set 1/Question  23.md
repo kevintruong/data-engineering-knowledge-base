@@ -22,3 +22,8 @@ Direct Connect link.**
 
 - [x] AWS DataSync
 
+
+
+- hasExplain:: [[explanation_Question  23.md]]
+
+#aws #s3 #cloudformation #datasync #smb 

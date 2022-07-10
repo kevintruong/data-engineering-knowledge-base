@@ -22,3 +22,8 @@ redundant and have no constraints on bandwidth.**
 
 - [x] Attach an Internet Gateway
 
+
+
+- hasExplain:: [[explanation_Question  37.md]]
+
+#bandwidth #nat #provisioning #gateway #internet 

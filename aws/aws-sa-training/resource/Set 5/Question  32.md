@@ -27,3 +27,7 @@ the compute layer? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  32.md]]
+
+#aws #cloudformation #serverless #services #ecs 

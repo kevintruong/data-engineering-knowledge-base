@@ -20,3 +20,8 @@ must access the data without code changes. The data is critical and is accessed 
 
 - [ ] Amazon Elastic File System
 
+
+
+- hasExplain:: [[explanation_Question  45.md]]
+
+#aws #storage #cloud #availability #amazon 

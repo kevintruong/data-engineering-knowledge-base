@@ -17,3 +17,8 @@ needs to provide automatic instantiation and scaling. Which database service is 
 
 - [x] Amazon Aurora Serverless
 
+
+
+- hasExplain:: [[explanation_Question  24.md]]
+
+#mysql #database #aurora #ec2 #rds 

@@ -130,3 +130,8 @@ relevant queue based on priority
 
 configure the back-end instances to poll the queue and pick up messages in the order they are presented
 
+
+
+- hasExplain:: [[explanation_Question  33.md]]
+
+#cloudfront #ec2 #streaming #queue #http 

@@ -19,3 +19,8 @@ taken?**
 
 - [x] Create a NAT gateway and attach an internet gateway to the VPC
 
+
+
+- hasExplain:: [[explanation_Question  11.md]]
+
+#vpc #gateway #nat #subnet #outbound 

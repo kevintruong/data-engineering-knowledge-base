@@ -15651,6 +15651,7 @@ https://digitalcloud.training/certification-training/aws-solutions-architect-ass
 delivery/amazon-vpc/
 
 #### Question  12
+
 ```
 Region
 ```
@@ -15717,7 +15718,6 @@ Elastic-IP
 dependency that the application must communicate with an on-premises server using private IP addresses.**
 
 **Which action should a solutions architect take to quickly provision the necessary connectivity?**
-
 
 1: Setup an AWS Direct Connect connection
 

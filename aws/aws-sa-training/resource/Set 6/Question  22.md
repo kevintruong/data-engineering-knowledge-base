@@ -22,3 +22,7 @@ to understand customer behavior and want to run complex analytics queries agains
 
 
 *
+
+- hasExplain:: [[explanation_Question  22.md]]
+
+#aws #s3 #clickstream #analytics #amazon 

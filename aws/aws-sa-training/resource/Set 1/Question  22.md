@@ -20,3 +20,8 @@ to Amazon DynamoDB.**
 
 - [ ] Modify the _AmazonECSTaskExecutionRolePolicy_ policy to add permissions for DynamoDB
 
+
+
+- hasExplain:: [[explanation_Question  22.md]]
+
+#_amazonecstaskexecutionrolepolicy_ #dynamodb #permissions #_taskrolearn_ #ecs 

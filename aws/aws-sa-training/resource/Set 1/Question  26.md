@@ -29,3 +29,8 @@ TWO)**
 
 - [ ] Store the original images in STANDARD for 30 days, transition to DEEP_ARCHIVE for 90 days, then expire the data
 
+
+
+- hasExplain:: [[explanation_Question  26.md]]
+
+#storage #s3 #aws #deep_archive #glacier 

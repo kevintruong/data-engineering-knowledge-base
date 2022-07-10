@@ -19,3 +19,8 @@ under 5ms for these updates. Which solution will provide the BEST performance fo
 
 - [ ] Implement an Instance store volume on the media catalog server
 
+
+
+- hasExplain:: [[explanation_Question  1.md]]
+
+#streaming #dynamodb #cloudfront #s3 #latency 

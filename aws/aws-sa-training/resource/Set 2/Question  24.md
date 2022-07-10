@@ -20,3 +20,8 @@ require a secure, reliable and private connection to the AWS cloud.**
 
 - [ ] Provision an AWS VPN CloudHub connection and migrate the data over redundant links
 
+
+
+- hasExplain:: [[explanation_Question  24.md]]
+
+#aws #migrate #cloud #vpn #cloudhub 

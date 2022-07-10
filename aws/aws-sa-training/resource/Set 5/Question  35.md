@@ -22,3 +22,7 @@ correct about using encryption with Amazon EBS volumes? (Select TWO)**
 
 
 *
+
+- hasExplain:: [[explanation_Question  35.md]]
+
+#encryption #encrypted #unencrypted #ec2 #ebs 

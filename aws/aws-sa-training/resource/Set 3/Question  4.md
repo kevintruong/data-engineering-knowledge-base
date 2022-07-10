@@ -22,3 +22,8 @@ concurrent access to all files.**
 
 - [x] Amazon S3
 
+
+
+- hasExplain:: [[explanation_Question  4.md]]
+
+#storage #ec2 #efs #amazon #s3 

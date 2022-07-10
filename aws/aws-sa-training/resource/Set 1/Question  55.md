@@ -25,3 +25,8 @@ the following text:**
 
 - [x] Enable CORS on the APIs resources using the selected methods under the API Gateway
 
+
+
+- hasExplain:: [[explanation_Question  55.md]]
+
+#api #requests #cors #acl #apis 

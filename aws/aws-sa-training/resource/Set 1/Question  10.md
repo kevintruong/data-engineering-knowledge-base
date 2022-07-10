@@ -25,3 +25,8 @@ around 1 GB and future growth is unknown. Requests can range from 0 to over 800 
 
 - [ ] Amazon RDS
 
+
+
+- hasExplain:: [[explanation_Question  10.md]]
+
+#dynamodb #aws #api #gateway #rds 

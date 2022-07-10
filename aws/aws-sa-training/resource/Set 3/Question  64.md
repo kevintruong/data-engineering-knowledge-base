@@ -19,3 +19,8 @@ instances?**
 
 - [ ] Network ACL
 
+
+
+- hasExplain:: [[explanation_Question  64.md]]
+
+#aws #ec2 #firewall #vpc #azs 
