@@ -1,0 +1,72 @@
+### Amazon Simple Workflow Service (SWF)
+
+
+Amazon Simple Workflow Service (SWF) is a web service that makes it easy to coordinate work across distributed
+
+application components.
+
+
+Create distributed asynchronous systems as workflows.
+
+
+Supports both sequential and parallel processing.
+
+
+Tracks the state of your workflow which you interact and update via API.
+
+
+Best suited for human-enabled workflows like an order fulfilment system or for procedural requests.
+
+
+AWS recommends that for new applications customers consider Step Functions instead of SWF.
+
+
+SWF enables applications for a range of use cases, including media processing, web application back-ends, business
+
+process workflows, and analytics pipelines, to be designed as a coordination of tasks.
+
+
+Registration is a one-time step that you perform for each different type of workflow and activity.
+
+
+SWF has a completion time of up to 1 year for workflow executions.
+
+
+SWF uses a task-oriented API.
+
+
+SWF ensures a task is assigned once and never duplicated.
+
+
+SWF keeps track of all the tasks and events in an application.
+
+
+A domain is a logical container for application resources such as workflows, activities, and
+
+
+executions.
+
+
+Workers are programs that interact with Amazon SWF to get tasks, process received tasks, and return the results.
+
+
+The decider is a program that controls the coordination of tasks, i.e. their ordering, concurrency, and scheduling
+
+according to the application logic.
+
+
+**SWF applications include the following logical components:**
+
+
+- Domains.
+
+- Workflows.
+
+- Activities.
+
+- Task Lists.
+
+- Workers.
+
+- Workflow Execution.
+
