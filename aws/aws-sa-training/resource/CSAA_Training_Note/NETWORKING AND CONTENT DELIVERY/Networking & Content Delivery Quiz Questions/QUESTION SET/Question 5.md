@@ -1,13 +1,12 @@
 ##### Question 5
 
+You created a new private subnet and created a route table with a path to a NAT
+gateway. However, EC2
 
-You created a new private subnet and created a route table with a path to a NAT gateway. However, EC2
-
-
-instances launched into this subnet are not able to reach the Internet. Security Groups for the EC2 instances are setup
+instances launched into this subnet are not able to reach the Internet. Security
+Groups for the EC2 instances are setup
 
 correctly. What is the most likely explanation?
-
 
 1. The security group for the NAT gateway is setup incorrectly.
 

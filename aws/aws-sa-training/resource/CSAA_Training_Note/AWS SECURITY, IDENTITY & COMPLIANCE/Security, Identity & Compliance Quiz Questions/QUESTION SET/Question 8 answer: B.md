@@ -1,8 +1,6 @@
 ##### Question 8 answer: B
 
-
 Explanation:
-
 
 ```
 
@@ -14,14 +12,13 @@ A user pool is a user directory in Amazon Cognito. With a user pool, users can s
 
 ```
 
+mobile apps through Amazon Cognito, or federate through a third-party identity
+provider (IdP).
 
-mobile apps through Amazon Cognito, or federate through a third-party identity provider (IdP).
-
-
-SAML Identity Providers are supported IDPs for identity pools but cannot be used for gaining temporary credentials for
+SAML Identity Providers are supported IDPs for identity pools but cannot be used
+for gaining temporary credentials for
 
 AWS services.
-
 
 Key pairs are used in Amazon EC2 for access to instances.
 

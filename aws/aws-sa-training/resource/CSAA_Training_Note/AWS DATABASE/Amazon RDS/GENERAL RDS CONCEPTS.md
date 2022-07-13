@@ -1,31 +1,24 @@
 #### GENERAL RDS CONCEPTS
 
-
-Amazon Relational Database Service (Amazon RDS) is a managed service that makes it easy to set up, operate, and scale a
+Amazon Relational Database Service (Amazon RDS) is a managed service that makes
+it easy to set up, operate, and scale a
 
 relational database in the cloud.
 
-
 RDS is an Online Transaction Processing (OLTP) type of database.
-
 
 Primary use case is a transactional database (rather than analytical).
 
-
 Best for structured, relational data store requirements.
 
-
-Aims to be drop-in replacement for existing on-premise instances of the same databases.
-
+Aims to be drop-in replacement for existing on-premise instances of the same
+databases.
 
 Automated backups and patching applied in customer-defined maintenance windows.
 
-
 Push-button scaling, replication and redundancy.
 
-
 **Amazon RDS supports the following database engines:**
-
 
 - Amazon Aurora
 
@@ -39,12 +32,10 @@ Push-button scaling, replication and redundancy.
 
 - PostgreSQL
 
-
-RDS is a managed service and you do not have access to the underlying EC2 instance (no root access).
-
+RDS is a managed service and you do not have access to the underlying EC2
+instance (no root access).
 
 **The RDS service includes the following:**
-
 
 - Security and patching of the DB instances.
 
@@ -60,43 +51,39 @@ RDS is a managed service and you do not have access to the underlying EC2 instan
 
 - Read replicas option for read heavy workloads.
 
-
-A DB instance is a database environment in the cloud with the compute and storage resources you specify.
-
+A DB instance is a database environment in the cloud with the compute and
+storage resources you specify.
 
 Database instances are accessed via endpoints.
 
-
-Endpoints can be retrieved via the DB instance description in the AWS Management Console,
+Endpoints can be retrieved via the DB instance description in the AWS Management
+Console,
 
 **DescribeDBInstances** API or **describe-db-instances** command.
 
-
-By default, customers are allowed to have up to a total of 40 Amazon RDS DB instances (only 10 of
-
+By default, customers are allowed to have up to a total of 40 Amazon RDS DB
+instances (only 10 of
 
 these can be Oracle or MS SQL unless you have your own licences).
 
-
-Maintenance windows are configured to allow DB instances modifications to take place such as scaling and software
+Maintenance windows are configured to allow DB instances modifications to take
+place such as scaling and software
 
 patching (some operations require the DB instance to be taken offline briefly).
 
-
 You can define the maintenance window or AWS will schedule a 30 - minute window.
 
-
-Windows integrated authentication for SQL only works with domains created using the AWS directory service – need to
+Windows integrated authentication for SQL only works with domains created using
+the AWS directory service – need to
 
 establish a trust with an on-premise AD directory.
 
-
 **Events and Notifications:**
-
 
 - Amazon RDS uses AWS SNS to send RDS events via SNS notifications.
 
-- You can use API calls to the Amazon RDS service to list the RDS events in the last 14 days
+- You can use API calls to the Amazon RDS service to list the RDS events in the
+  last 14 days
 
   (DescribeEvents API).
 

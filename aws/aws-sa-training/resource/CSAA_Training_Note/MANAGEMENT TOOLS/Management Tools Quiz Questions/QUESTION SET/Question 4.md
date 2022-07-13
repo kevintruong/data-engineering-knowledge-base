@@ -1,15 +1,14 @@
 ##### Question 4
 
+A systems integration consultancy regularly deploys and manages multi-tiered web
+services for customers on AWS. The
 
-A systems integration consultancy regularly deploys and manages multi-tiered web services for customers on AWS. The
-
-SysOps team are facing challenges in tracking changes that are made to the web services and rolling back when problems
+SysOps team are facing challenges in tracking changes that are made to the web
+services and rolling back when problems
 
 occur.
 
-
 Which of the approaches below would BEST assist the SysOps team?
-
 
 ```
 

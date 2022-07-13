@@ -1,8 +1,6 @@
 ##### Question 5 answer: A,C
 
-
 Explanation:
-
 
 ```
 

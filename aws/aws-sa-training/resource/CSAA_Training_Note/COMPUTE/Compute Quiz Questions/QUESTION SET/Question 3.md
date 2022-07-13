@@ -1,11 +1,9 @@
 ##### Question 3
 
-
-Which EC2 pricing model would you use for a short-term requirement that needs to complete over a
-
+Which EC2 pricing model would you use for a short-term requirement that needs to
+complete over a
 
 weekend?
-
 
 1. Reserved Instance
 

@@ -1,20 +1,15 @@
 #### CHARGES
 
-
 No charge for data transferred between EC2 and S3 in the same region.
-
 
 Data transfer into S3 is free of charge.
 
-
 Data transferred to other regions is charged.
 
-
-Data Retrieval (applies to S3 Standard-IA and S3 One Zone-IA, S3 Glacier and S3 Glacier Deep Archive).
-
+Data Retrieval (applies to S3 Standard-IA and S3 One Zone-IA, S3 Glacier and S3
+Glacier Deep Archive).
 
 **Charges are:**
-
 
 - Per GB/month storage fee.
 
@@ -24,9 +19,7 @@ Data Retrieval (applies to S3 Standard-IA and S3 One Zone-IA, S3 Glacier and S3 
 
 - Retrieval requests (S3-IA or Glacier).
 
-
 **Requester pays:**
-
 
 - The bucket owner will only pay for object storage fees.
 

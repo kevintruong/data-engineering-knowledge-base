@@ -1,10 +1,9 @@
 ##### Question 2
 
-
-To improve security in your AWS account you have decided to enable multi-factor authentication
+To improve security in your AWS account you have decided to enable multi-factor
+authentication
 
 (MFA). You can authenticate using an MFA device in which two ways? (choose 2)
-
 
 ```
 

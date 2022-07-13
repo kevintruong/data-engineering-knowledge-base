@@ -1,10 +1,9 @@
 ##### Question 5
 
-
-An event in CloudTrail is the record of an activity in an AWS account. What are the two types of events that can be
+An event in CloudTrail is the record of an activity in an AWS account. What are
+the two types of events that can be
 
 logged in CloudTrail? (choose 2)
-
 
 ```
 

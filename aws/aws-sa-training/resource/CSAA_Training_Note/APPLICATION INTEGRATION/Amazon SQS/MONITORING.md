@@ -1,19 +1,15 @@
 #### MONITORING
 
-
 CloudWatch is integrated with SQS and you can view and monitor queue metrics.
-
 
 CloudWatch metrics are automatically collected every 5 minutes.
 
-
-CloudWatch considers a queue to be active for up to 6 hours if it contains any messages or if any API action accesses
+CloudWatch considers a queue to be active for up to 6 hours if it contains any
+messages or if any API action accesses
 
 it.
 
-
 No charge for CloudWatch (no detailed monitoring).
-
 
 CloudTrail captures API calls from SQS and logs to a specified S3 bucket.
 

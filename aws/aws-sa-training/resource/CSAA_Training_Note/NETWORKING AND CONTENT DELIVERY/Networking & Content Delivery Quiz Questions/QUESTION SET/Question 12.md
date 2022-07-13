@@ -1,13 +1,13 @@
 ##### Question 12
 
+An Architect is designing a web application that has points of presence in
+several regions around the
 
-An Architect is designing a web application that has points of presence in several regions around the
+world. The Architect would like to provide automatic routing to the nearest
+region, with failover possible to other
 
-
-world. The Architect would like to provide automatic routing to the nearest region, with failover possible to other
-
-regions. Customers should receive 2 IP addresses for whitelisting. How can this be achieved?
-
+regions. Customers should receive 2 IP addresses for whitelisting. How can this
+be achieved?
 
 1. Use Route 53 latency-based routing
 

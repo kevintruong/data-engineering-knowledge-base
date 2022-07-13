@@ -1,13 +1,12 @@
 #### SUBNETS AND SUBNET SIZING
 
-
 **Types of subnet:**
 
+- If a subnet’s traffic is routed to an internet gateway, the subnet is known as
+  a **public subnet.**
 
-- If a subnet’s traffic is routed to an internet gateway, the subnet is known as a **public subnet.**
-
-- If a subnet doesn’t have a route to the internet gateway, the subnet is known as a **private**
-
+- If a subnet doesn’t have a route to the internet gateway, the subnet is known
+  as a **private**
 
 ```
 
@@ -15,55 +14,44 @@ subnet.
 
 ```
 
-
-- If a subnet doesn’t have a route to the internet gateway, but has its traffic routed to a virtual private gateway for
+- If a subnet doesn’t have a route to the internet gateway, but has its traffic
+  routed to a virtual private gateway for
 
   a VPN connection, the subnet is known as a **VPN-only subnet.**
 
-
-The VPC is created with a master address range (CIDR block, can be anywhere from 16 - 28 bits), and subnet ranges are
+The VPC is created with a master address range (CIDR block, can be anywhere from
+16 - 28 bits), and subnet ranges are
 
 created within that range.
 
-
 New subnets are always associated with the default route table.
-
 
 Once the VPC is created you cannot change the CIDR block.
 
-
 You cannot create additional CIDR blocks that overlap with existing CIDR blocks.
-
 
 You cannot create additional CIDR blocks in a different RFC 1918 range.
 
-
 Subnets with overlapping IP address ranges cannot be created.
-
 
 The first 4 and last 1 IP addresses in a subnet are reserved.
 
-
 Subnets are created within availability zones (AZs).
 
+Each subnet must reside entirely within one Availability Zone and cannot span
+zones.
 
-Each subnet must reside entirely within one Availability Zone and cannot span zones.
+Availability Zones are distinct locations that are engineered to be isolated
+from failures in other Availability Zones.
 
-
-Availability Zones are distinct locations that are engineered to be isolated from failures in other Availability Zones.
-
-
-Availability Zones are connected with low latency, high throughput, and highly redundant networking.
-
+Availability Zones are connected with low latency, high throughput, and highly
+redundant networking.
 
 Can create private, public or VPN subnets.
 
-
 Subnets map 1:1 to AZs and cannot span AZs.
 
-
 You can only attach one Internet gateway to a custom VPC.
-
 
 IPv6 addresses are all public and the range is allocated by AWS.
 

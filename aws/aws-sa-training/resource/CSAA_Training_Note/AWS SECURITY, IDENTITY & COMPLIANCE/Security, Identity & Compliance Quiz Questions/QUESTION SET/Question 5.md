@@ -1,10 +1,10 @@
 ##### Question 5
 
+The AWS Acceptable Use Policy describes permitted and prohibited behavior on AWS
+and includes descriptions of prohibited
 
-The AWS Acceptable Use Policy describes permitted and prohibited behavior on AWS and includes descriptions of prohibited
-
-security violations and network abuse. According to the policy, what is AWS's position on penetration testing?
-
+security violations and network abuse. According to the policy, what is AWS's
+position on penetration testing?
 
 ```
 

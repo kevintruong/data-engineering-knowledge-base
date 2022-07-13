@@ -1,17 +1,17 @@
 ##### Question 5
 
+A Solutions Architect is designing the messaging and streaming layers of a
+serverless application. The messaging layer
 
-A Solutions Architect is designing the messaging and streaming layers of a serverless application. The messaging layer
-
-will manage communications between components and the streaming layer will manage real-time analysis and processing of
+will manage communications between components and the streaming layer will
+manage real-time analysis and processing of
 
 streaming data.
 
-
-The Architect needs to select the most appropriate AWS services for these functions. Which services should be used for
+The Architect needs to select the most appropriate AWS services for these
+functions. Which services should be used for
 
 the messaging and streaming layers? (choose 2)
-
 
 ```
 

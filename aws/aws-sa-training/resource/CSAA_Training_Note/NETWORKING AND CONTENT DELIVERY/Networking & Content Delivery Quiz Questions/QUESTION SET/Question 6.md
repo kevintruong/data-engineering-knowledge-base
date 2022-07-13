@@ -1,11 +1,9 @@
 ##### Question 6
 
-
-You need to apply a firewall to a group of EC2 instances launched in multiple subnets. Which option should
-
+You need to apply a firewall to a group of EC2 instances launched in multiple
+subnets. Which option should
 
 be used?
-
 
 1. Network Access Control List (ACL)
 

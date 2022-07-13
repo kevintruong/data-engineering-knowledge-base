@@ -1,74 +1,69 @@
 ### Amazon MQ
 
+Amazon MQ is a managed message broker service for ActiveMQ that makes it easy to
+set up and operate message brokers in
 
-Amazon MQ is a managed message broker service for ActiveMQ that makes it easy to set up and operate message brokers in
+the cloud, so you can migrate your messaging and applications without rewriting
+code.
 
-the cloud, so you can migrate your messaging and applications without rewriting code.
-
-
-Amazon MQ supports industry-standard APIs and protocols so you can migrate messaging and applications without rewriting
+Amazon MQ supports industry-standard APIs and protocols so you can migrate
+messaging and applications without rewriting
 
 code.
 
-
-Amazon MQ provides cost-efficient and flexible messaging capacity – you pay for broker instance and storage usage as you
+Amazon MQ provides cost-efficient and flexible messaging capacity – you pay for
+broker instance and storage usage as you
 
 go.
 
-
-Amazon MQ manages the administration and maintenance of ActiveMQ brokers and automatically provisions infrastructure for
+Amazon MQ manages the administration and maintenance of ActiveMQ brokers and
+automatically provisions infrastructure for
 
 high availability.
 
-
-With Amazon MQ, you can use the AWS Management Console, AWS CloudFormation, the Command Line Interface (CLI), or simple
+With Amazon MQ, you can use the AWS Management Console, AWS CloudFormation, the
+Command Line Interface (CLI), or simple
 
 API calls to launch a production-ready message broker in minutes.
 
-
 It’s a managed implementation of Apache ActiveMQ.
-
 
 Fully managed and highly available within a region.
 
+Amazon MQ stores your messages redundantly across multiple Availability Zones (
+AZs).
 
-Amazon MQ stores your messages redundantly across multiple Availability Zones (AZs).
+Active/standby brokers are designed for high availability. In the event of a
+failure of the broker, or even a full AZ
 
-
-Active/standby brokers are designed for high availability. In the event of a failure of the broker, or even a full AZ
-
-outage, Amazon MQ automatically fails over to the standby broker so you can continue sending and receiving messages.
-
+outage, Amazon MQ automatically fails over to the standby broker so you can
+continue sending and receiving messages.
 
 ActiveMQ API and support for JMS, NMS, MQTT, and WebSockets.
 
-
 Designed as a drop-in replacement for on-premise message brokers.
-
 
 Use SQS if you’re creating a new application from scratch.
 
-
-Use MQ if you want an easy low-hassle path to migrate from existing message brokers to AWS.
-
+Use MQ if you want an easy low-hassle path to migrate from existing message
+brokers to AWS.
 
 Amazon MQ provides encryption of your messages at rest and in transit.
 
+It’s easy to ensure that your messages are securely stored in an encrypted
+format. Connections to the broker use SSL,
 
-It’s easy to ensure that your messages are securely stored in an encrypted format. Connections to the broker use SSL,
-
-and access can be restricted to a private endpoint within your Amazon VPC, which allows you to isolate your broker in
+and access can be restricted to a private endpoint within your Amazon VPC, which
+allows you to isolate your broker in
 
 your own virtual network.
 
-
 You can configure security groups to control network access to your broker.
 
-
-Amazon MQ is integrated with Amazon CloudWatch and AWS CloudTrail. With CloudWatch you can monitor metrics on your
+Amazon MQ is integrated with Amazon CloudWatch and AWS CloudTrail. With
+CloudWatch you can monitor metrics on your
 
 brokers, queues, and topics.
-
 
 The following table describes related services and typical use cases for them:
 

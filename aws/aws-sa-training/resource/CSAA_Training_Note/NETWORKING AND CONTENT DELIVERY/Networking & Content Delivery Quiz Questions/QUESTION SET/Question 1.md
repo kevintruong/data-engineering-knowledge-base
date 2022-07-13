@@ -1,8 +1,6 @@
 ##### Question 1
 
-
 At which level do you attach an Internet gateway
-
 
 1. Public Subnet
 

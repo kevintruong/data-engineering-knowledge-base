@@ -1,11 +1,9 @@
 ##### Question 12
 
-
-Which AWS storage service provides a NTFS filesystem that can be accessed by multiple EC2 instances using
-
+Which AWS storage service provides a NTFS filesystem that can be accessed by
+multiple EC2 instances using
 
 the SMB protocol?
-
 
 1. Amazon FSx for Windows File Server
 

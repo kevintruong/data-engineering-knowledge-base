@@ -1,15 +1,16 @@
 #### FAULT-TOLERANT AND SELF-HEALING STORAGE
 
+Each 10GB chunk of your database volume is replicated six ways, across three
+Availability Zones.
 
-Each 10GB chunk of your database volume is replicated six ways, across three Availability Zones.
+Amazon Aurora storage is fault-tolerant, transparently handling the loss of up
+to two copies of data without affecting
 
+database write availability and up to three copies without affecting read
+availability.
 
-Amazon Aurora storage is fault-tolerant, transparently handling the loss of up to two copies of data without affecting
-
-database write availability and up to three copies without affecting read availability.
-
-
-Amazon Aurora storage is also self-healing; data blocks and disks are continuously scanned for errors and replaced
+Amazon Aurora storage is also self-healing; data blocks and disks are
+continuously scanned for errors and replaced
 
 automatically.
 

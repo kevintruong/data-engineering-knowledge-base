@@ -1,11 +1,9 @@
 #### CHARGES
 
-
-There is an option for reserved capacity over 12 months or longer (starts at 10TB of data transfer in a single region).
-
+There is an option for reserved capacity over 12 months or longer (starts at
+10TB of data transfer in a single region).
 
 **You pay for:**
-
 
 - Data Transfer Out to Internet.
 
@@ -19,9 +17,7 @@ There is an option for reserved capacity over 12 months or longer (starts at 10T
 
 - Field level encryption requests.
 
-
 **You do not pay for:**
-
 
 - Data transfer between AWS regions and CloudFront.
 

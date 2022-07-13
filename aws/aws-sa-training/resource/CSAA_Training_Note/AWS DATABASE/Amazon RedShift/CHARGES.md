@@ -1,13 +1,12 @@
 #### CHARGES
 
-
-Charged for compute nodes hours, 1 unit per hour (only compute node, not leader node).
-
+Charged for compute nodes hours, 1 unit per hour (only compute node, not leader
+node).
 
 Backup storage – storage on S3.
 
-
-Data transfer – no charge for data transfer between RedShift and S3 within a region but for other scenarios you may pay
+Data transfer – no charge for data transfer between RedShift and S3 within a
+region but for other scenarios you may pay
 
 charges.
 

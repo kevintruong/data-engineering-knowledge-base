@@ -1,17 +1,17 @@
 ##### Question 7
 
+The operations team in your company are looking for a method to automatically
+respond to failed system status check
 
-The operations team in your company are looking for a method to automatically respond to failed system status check
-
-alarms that are being received from an EC2 instance. The system in question is experiencing intermittent problems with
+alarms that are being received from an EC2 instance. The system in question is
+experiencing intermittent problems with
 
 its operating system software.
 
-
-Which two steps will help you to automate the resolution of the operating system software issues?
+Which two steps will help you to automate the resolution of the operating system
+software issues?
 
 (choose 2)
-
 
 ```
 
@@ -21,12 +21,9 @@ B. Create a CloudWatch alarm that monitors the “StatusCheckFailed_Instance” 
 
 ```
 
-
 C. Configure an EC2 action that recovers the instance
 
-
 D. Configure an EC2 action that terminates the instance
-
 
 E. Configure an EC2 action that reboots the instance
 

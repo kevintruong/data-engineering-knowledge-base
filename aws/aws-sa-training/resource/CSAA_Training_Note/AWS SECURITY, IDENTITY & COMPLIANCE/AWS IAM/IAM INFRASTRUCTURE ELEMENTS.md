@@ -1,8 +1,6 @@
 #### IAM INFRASTRUCTURE ELEMENTS
 
-
 **Principals:**
-
 
 - An entity that can take an action on an AWS resource.
 
@@ -12,13 +10,12 @@
 
 - IAM supports federated users.
 
-- IAM supports programmatic access to allow an application to access your AWS account.
+- IAM supports programmatic access to allow an application to access your AWS
+  account.
 
 - IAM users, roles, federated users, and applications are all AWS principals
 
-
 **Requests:**
-
 
 - Principals send requests via the Console, CLI, SDKs, or APIs. Requests are:
 
@@ -26,41 +23,39 @@
 
 - Resources upon which the actions are performed.
 
-- Principal information including the environment from which the request was made.
-
+- Principal information including the environment from which the request was
+  made.
 
 **Request context - AWS gathers the request information:**
-
 
 - Principal (requester).
 
 - Aggregate permissions associated with the principal.
 
 
-
 - Environment data, such as IP address, user agent, SSL status etc.
 
 - Resource data, or data that is related to the resource being requested.
 
-
 **Authentication:**
-
 
 - A principal sending a request must be authenticated to send a request to AWS.
 
-- To authenticate from the console, you must sign in with your user name and password.
+- To authenticate from the console, you must sign in with your user name and
+  password.
 
-- To authenticate from the API or CLI, you must provide your access key and secret key.
-
+- To authenticate from the API or CLI, you must provide your access key and
+  secret key.
 
 **Authorization:**
 
-
-- IAM uses values from the request context to check for matching policies and determines whether to allow or deny the
+- IAM uses values from the request context to check for matching policies and
+  determines whether to allow or deny the
 
   request.
 
-- IAM policies are stored in IAM as JSON documents and specify the permissions that are allowed or denied.
+- IAM policies are stored in IAM as JSON documents and specify the permissions
+  that are allowed or denied.
 
 - IAM policies can be:
 
@@ -68,41 +63,43 @@
 
 - IAM checks each policy that matches the context of your request.
 
-- If a single policy has a deny action IAM denies the request and stops evaluating (explicit deny).
+- If a single policy has a deny action IAM denies the request and stops
+  evaluating (explicit deny).
 
 - **Evaluation logic:**
 
-  o By default, all requests are denied (implicit deny). o An explicit allow overrides the implicit deny. o An explicit
+  o By default, all requests are denied (implicit deny). o An explicit allow
+  overrides the implicit deny. o An explicit
 
   deny overrides any explicit allows.
 
 - Only the root user has access to all resources in the account by default.
 
-
 **Actions:**
-
 
 - Actions are defined by a service.
 
-- Actions are the things you can do to a resource such as viewing, creating, editing, deleting.
+- Actions are the things you can do to a resource such as viewing, creating,
+  editing, deleting.
 
 - Any actions on resources that are not explicitly allowed are denied.
 
-- To allow a principal to perform an action you must include the necessary actions in a policy that applies to the
+- To allow a principal to perform an action you must include the necessary
+  actions in a policy that applies to the
 
   principal or the affected resource.
 
-
 **Resources:**
-
 
 - A resource is an entity that exists within a service.
 
 - E.g. EC2 instances, S3 buckets, IAM users, and DynamoDB tables.
 
-- Each AWS service defines a set of actions that can be performed on the resource.
+- Each AWS service defines a set of actions that can be performed on the
+  resource.
 
-- After AWS approves the actions in your request, those actions can be performed on the related resources within your
+- After AWS approves the actions in your request, those actions can be performed
+  on the related resources within your
 
   account.
 

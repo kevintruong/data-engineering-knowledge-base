@@ -1,8 +1,6 @@
 ##### Question 3 answer: B,C
 
-
 Explanation:
-
 
 ```
 
@@ -14,10 +12,11 @@ SNS supports notifications over multiple transport protocols:
 
 ```
 
+- HTTP/HTTPS – subscribers specify a URL as part of the subscription
+  registration
 
-- HTTP/HTTPS – subscribers specify a URL as part of the subscription registration
-
-- Email/Email-JSON – messages are sent to registered addresses as email (text-based or JSON- object)
+- Email/Email-JSON – messages are sent to registered addresses as email (
+  text-based or JSON- object)
 
 - SQS – users can specify an SQS standard queue as the endpoint
 

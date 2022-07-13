@@ -1,8 +1,7 @@
 #### MULTI-AZ AND READ REPLICAS
 
-
-Multi-AZ and Read Replicas are used for high availability, fault tolerance and performance scaling.
-
+Multi-AZ and Read Replicas are used for high availability, fault tolerance and
+performance scaling.
 
 The table below compares multi-AZ deployments to Read Replicas:
 

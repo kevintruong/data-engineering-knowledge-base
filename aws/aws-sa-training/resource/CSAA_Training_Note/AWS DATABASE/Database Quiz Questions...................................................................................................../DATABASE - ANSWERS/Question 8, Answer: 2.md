@@ -1,8 +1,6 @@
 ##### Question 8, Answer: 2
 
-
 **Explanation:**
-
 
 ```
 

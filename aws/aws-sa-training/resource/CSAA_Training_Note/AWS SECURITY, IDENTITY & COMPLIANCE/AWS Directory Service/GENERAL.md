@@ -1,11 +1,9 @@
 #### GENERAL
 
-
 AWS provide a number of directory types.
 
-
-**The following three types currently feature on the exam and will be covered on this page:**
-
+**The following three types currently feature on the exam and will be covered on
+this page:**
 
 - Active Directory Service for Microsoft Active Directory
 
@@ -13,11 +11,11 @@ AWS provide a number of directory types.
 
 - AD Connector
 
+**As an alternative to the AWS Directory service you can build your own
+Microsoft AD DCs in the AWS cloud (on EC2):**
 
-**As an alternative to the AWS Directory service you can build your own Microsoft AD DCs in the AWS cloud (on EC2):**
-
-
-- When you build your own you can join an existing on-premise Active Directory domain
+- When you build your own you can join an existing on-premise Active Directory
+  domain
 
   (replication mode).
 
@@ -25,8 +23,8 @@ AWS provide a number of directory types.
 
 - Replication mode is less secure than establishing trust relationships.
 
-
-The table below summarizes the directory services covered on this page as well as a couple of others, and provides some
+The table below summarizes the directory services covered on this page as well
+as a couple of others, and provides some
 
 typical use cases:
 

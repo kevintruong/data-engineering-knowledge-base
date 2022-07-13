@@ -1,8 +1,7 @@
 ##### Question 1
 
-
-What do you need to securely connect using SSH to an EC2 instance launched from the Amazon Linux 2 AMI?
-
+What do you need to securely connect using SSH to an EC2 instance launched from
+the Amazon Linux 2 AMI?
 
 1. A signed cookie
 

@@ -1,11 +1,9 @@
 ##### Question 5
 
-
-A new application requires a database that can allow writes to DB instances in multiple availability zones
-
+A new application requires a database that can allow writes to DB instances in
+multiple availability zones
 
 with read after write consistency. Which solution meets these requirements?
-
 
 1. Amazon Aurora Global Database
 

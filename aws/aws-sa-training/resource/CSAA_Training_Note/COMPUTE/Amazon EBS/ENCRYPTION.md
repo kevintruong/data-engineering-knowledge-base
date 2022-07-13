@@ -1,10 +1,9 @@
 #### ENCRYPTION
 
-
-You can encrypt both the boot and data volumes of an EC2 instance. When you create an encrypted EBS volume and attach it
+You can encrypt both the boot and data volumes of an EC2 instance. When you
+create an encrypted EBS volume and attach it
 
 to a supported instance type, the following types of data are encrypted:
-
 
 - Data at rest inside the volume.
 
@@ -14,24 +13,20 @@ to a supported instance type, the following types of data are encrypted:
 
 - All volumes created from those snapshots.
 
-
 Encryption is supported by all EBS volume types.
-
 
 Expect the same IOPS performance on encrypted volumes as on unencrypted volumes.
 
-
 All instance families support encryption.
 
-
 **Amazon EBS encryption is available on the instance types listed below:**
-
 
 - General purpose: A1, M3, M4, M5, M5a, M5ad, M5d, T2, T3, and T3a.
 
 - Compute optimized: C3, C4, C5, C5d, and C5n.
 
-- Memory optimized: cr1.8xlarge, R3, R4, R5, R5a, R5ad, R5d, u-6tb1.metal, u-9tb1.metal, u- 12tb1.metal, X1, X1e, and
+- Memory optimized: cr1.8xlarge, R3, R4, R5, R5a, R5ad, R5d, u-6tb1.metal,
+  u-9tb1.metal, u- 12tb1.metal, X1, X1e, and
 
   z1d.
 
@@ -39,123 +34,113 @@ All instance families support encryption.
 
 - Accelerated computing: F1, G2, G3, G4, P2, and P3.
 
+EBS encrypts your volume with a data key using the industry-standard AES- 256
+algorithm.
 
-EBS encrypts your volume with a data key using the industry-standard AES- 256 algorithm.
-
-
-Your data key is stored on-disk with your encrypted data, but not before EBS encrypts it with your CMK. Your data key
+Your data key is stored on-disk with your encrypted data, but not before EBS
+encrypts it with your CMK. Your data key
 
 never appears on disk in plaintext..
 
-
-The same data key is shared by snapshots of the volume and any subsequent volumes created from those snapshots.
-
+The same data key is shared by snapshots of the volume and any subsequent
+volumes created from those snapshots.
 
 Snapshots of encrypted volumes are encrypted automatically.
 
-
 EBS volumes restored from encrypted snapshots are encrypted automatically.
-
 
 EBS volumes created from encrypted snapshots are also encrypted.
 
-
-You can share snapshots, but if they’re encrypted it must be with a custom CMK key.
-
+You can share snapshots, but if they’re encrypted it must be with a custom CMK
+key.
 
 There is no direct way to change the encryption state of a volume.
 
-
-Either create an encrypted volume and copy data to it or take a snapshot, encrypt it, and create a new encrypted volume
+Either create an encrypted volume and copy data to it or take a snapshot,
+encrypt it, and create a new encrypted volume
 
 from the snapshot.
 
-
-To encrypt a volume or snapshot you need an encryption key, these are customer managed keys
+To encrypt a volume or snapshot you need an encryption key, these are customer
+managed keys
 
 (CMK) and they are managed by the AWS Key Management Service (KMS).
 
-
 A default CMK key is generated for the first encrypted volumes.
-
 
 Subsequent encrypted volumes will use their own unique key (AES 256 bit).
 
-
-The CMK used to encrypt a volume is used by any snapshots and volumes created from snapshots.
-
+The CMK used to encrypt a volume is used by any snapshots and volumes created
+from snapshots.
 
 You cannot share encrypted volumes created using a default CMK key.
 
-
 You cannot change the CMK key that is used to encrypt a volume.
 
-
-You must create a copy of the snapshot and change encryption keys as part of the copy.
-
+You must create a copy of the snapshot and change encryption keys as part of the
+copy.
 
 This is required in order to be able to share the encrypted volume.
 
-
 By default, only the account owner can create volumes from snapshots.
 
+You can share unencrypted snapshots with the AWS community by making them
+public.
 
-You can share unencrypted snapshots with the AWS community by making them public.
-
-
-You can also share unencrypted snapshots with other AWS accounts by making them private and selecting the accounts to
+You can also share unencrypted snapshots with other AWS accounts by making them
+private and selecting the accounts to
 
 share them with.
 
-
 You cannot make encrypted snapshots public.
 
+You can share encrypted snapshots with other AWS accounts using a non-default
+CMK key and configuring cross-account
 
-You can share encrypted snapshots with other AWS accounts using a non-default CMK key and configuring cross-account
+permissions to give the account access to the key, mark as private and configure
+the account to share with.
 
-permissions to give the account access to the key, mark as private and configure the account to share with.
+The receiving account must copy the snapshot before they can then create volumes
+from the snapshot.
 
-
-The receiving account must copy the snapshot before they can then create volumes from the snapshot.
-
-
-It is recommended that the receiving account re-encrypt the shared and encrypted snapshot using their own CMK key.
-
+It is recommended that the receiving account re-encrypt the shared and encrypted
+snapshot using their own CMK key.
 
 **The following information applies to snapshots:**
-
 
 - Snapshots are created asynchronously and are incremental.
 
 - You can copy unencrypted snapshots (optionally encrypt).
 
-- You can copy an encrypted snapshot (optionally re-encrypt with a different key).
+- You can copy an encrypted snapshot (optionally re-encrypt with a different
+  key).
 
 - Snapshot copies receive a new unique ID.
 
 - You can copy within or between regions.
 
 
-
 - You cannot move snapshots, only copy them.
 
-- You cannot take a copy of a snapshot when it is in a “pending” state, it must be “complete”.
+- You cannot take a copy of a snapshot when it is in a “pending” state, it must
+  be “complete”.
 
 - S3 Server Side Encryption (SSE) protects data in transit while copying.
 
 - User defined tags are not copied.
 
-- You can have up to 5 snapshot copy requests running in a single destination per account.
+- You can have up to 5 snapshot copy requests running in a single destination
+  per account.
 
-- You can copy Import/Export service, AWS Marketplace, and AWS Storage Gateway snapshots.
+- You can copy Import/Export service, AWS Marketplace, and AWS Storage Gateway
+  snapshots.
 
-- If you try to copy an encrypted snapshot without having access to the encryption keys it will fail silently (
+- If you try to copy an encrypted snapshot without having access to the
+  encryption keys it will fail silently (
 
   cross-account permissions are required).
 
-
 **Copying snapshots may be required for:**
-
 
 - Creating services in other regions.
 
@@ -167,9 +152,7 @@ It is recommended that the receiving account re-encrypt the shared and encrypted
 
 - Data retention.
 
-
 **To take application-consistent snapshots of RAID arrays:**
-
 
 - Stop the application from writing to disk.
 

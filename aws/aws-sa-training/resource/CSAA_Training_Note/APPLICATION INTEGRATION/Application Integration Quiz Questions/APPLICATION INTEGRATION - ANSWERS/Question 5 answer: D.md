@@ -1,8 +1,6 @@
 ##### Question 5 answer: D
 
-
 Explanation:
-
 
 ```
 
@@ -20,14 +18,18 @@ FIFO (first-in-first-out) queues preserve the exact order in which messages are 
 
 ```
 
+- note that this is not required in the question but exactly once processing is.
+  FIFO queues provide exactly-once
 
-- note that this is not required in the question but exactly once processing is. FIFO queues provide exactly-once
+  processing, which means that each message is delivered once and remains
+  available until a consumer processes it and
 
-  processing, which means that each message is delivered once and remains available until a consumer processes it and
+  deletes it. Standard queues provide a loose-FIFO capability that attempts to
+  preserve the order of messages. Standard
 
-  deletes it. Standard queues provide a loose-FIFO capability that attempts to preserve the order of messages. Standard
+  queues provide at-least-once delivery, which means that each message is
+  delivered at least once. Long polling is
 
-  queues provide at-least-once delivery, which means that each message is delivered at least once. Long polling is
-
-  configuration you can apply to a queue, it is not a queue type. There is no such thing as an Auto Scaling queue.
+  configuration you can apply to a queue, it is not a queue type. There is no
+  such thing as an Auto Scaling queue.
 

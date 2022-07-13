@@ -1,10 +1,10 @@
 ##### Question 2
 
+A Solutions Architect needs to monitor application logs and receive a
+notification whenever a specific number of
 
-A Solutions Architect needs to monitor application logs and receive a notification whenever a specific number of
-
-occurrences of certain HTTP status code errors occur. Which tool should the Architect use?
-
+occurrences of certain HTTP status code errors occur. Which tool should the
+Architect use?
 
 ```
 

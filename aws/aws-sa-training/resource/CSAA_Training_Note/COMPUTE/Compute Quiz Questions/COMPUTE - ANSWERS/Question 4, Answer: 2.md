@@ -1,8 +1,6 @@
 ##### Question 4, Answer: 2
 
-
 **Explanation:**
-
 
 ```
 
@@ -21,7 +19,6 @@ hardware.
 4 is incorrect. With Reserved instances you do not have control of instance placement on
 
 ```
-
 
 ```
 

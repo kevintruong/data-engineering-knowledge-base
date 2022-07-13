@@ -1,14 +1,11 @@
 #### PERFORMANCE
 
-
 Amazon RDS uses EBS volumes (never uses instance store) for DB and log storage.
 
-
-There are three storage types available: General Purpose (SSD), Provisioned IOPS (SSD), and Magnetic.
-
+There are three storage types available: General Purpose (SSD), Provisioned
+IOPS (SSD), and Magnetic.
 
 **General Purpose (SSD):**
-
 
 - Use for Database workloads with moderate I/O requirement
 
@@ -20,9 +17,7 @@ There are three storage types available: General Purpose (SSD), Provisioned IOPS
 
 - Burst up to 3000 IOPS
 
-
 **Provisioned IOPS (SSD):**
-
 
 - Use for I/O intensive workloads
 
@@ -30,14 +25,12 @@ There are three storage types available: General Purpose (SSD), Provisioned IOPS
 
 - User specified IOPS (see table below)
 
-
-For provisioned IOPS storage the table below shows the range of Provisioned IOPS and storage size range for each
+For provisioned IOPS storage the table below shows the range of Provisioned IOPS
+and storage size range for each
 
 database engine.
 
-
 **Magnetic:**
-
 
 - Not recommended anymore, available for backwards compatibility.
 

@@ -1,8 +1,6 @@
 ##### Question 3
 
-
 How should subnets be used for fault tolerance?
-
 
 1. Create subnets that span multiple availability zones
 

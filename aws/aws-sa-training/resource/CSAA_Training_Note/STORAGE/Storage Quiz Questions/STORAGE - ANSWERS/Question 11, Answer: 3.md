@@ -1,8 +1,6 @@
 ##### Question 11, Answer: 3
 
-
 **Explanation:**
-
 
 ```
 
@@ -13,7 +11,6 @@
 3 is correct. This is a good use case for Amazon FSx for Lustre.
 
 ```
-
 
 ```
 

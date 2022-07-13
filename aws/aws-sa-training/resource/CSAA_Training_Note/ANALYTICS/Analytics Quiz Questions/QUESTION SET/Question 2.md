@@ -1,8 +1,7 @@
 ##### Question 2
 
-
-Which AWS service can be used to prepare and load data for analytics using an extract, transform and load (ETL) process?
-
+Which AWS service can be used to prepare and load data for analytics using an
+extract, transform and load (ETL) process?
 
 ```
 

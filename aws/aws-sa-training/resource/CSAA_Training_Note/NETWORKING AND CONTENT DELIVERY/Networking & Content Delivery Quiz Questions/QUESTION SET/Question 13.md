@@ -1,8 +1,6 @@
 ##### Question 13
 
-
 Which services does Amazon API Gateway use for its public endpoint?
-
 
 1. AWS Lambda
 

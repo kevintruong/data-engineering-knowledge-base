@@ -1,20 +1,15 @@
 #### TASKS
 
-
 A task definition is required to run Docker containers in Amazon ECS.
 
-
-A task definition is a text file in JSON format that describes one or more containers, up to a maximum of 10.
-
+A task definition is a text file in JSON format that describes one or more
+containers, up to a maximum of 10.
 
 Task definitions use Docker images to launch containers.
 
-
 You specify the number of tasks to run (i.e. the number of containers).
 
-
 **Some of the parameters you can specify in a task definition include:**
-
 
 - Which Docker images to use with the containers in your task.
 
@@ -24,7 +19,8 @@ You specify the number of tasks to run (i.e. the number of containers).
 
 - The Docker networking mode to use for the containers in your task.
 
-- What (if any) ports from the container are mapped to the host container instances.
+- What (if any) ports from the container are mapped to the host container
+  instances.
 
 - Whether the task should continue if the container finished or fails.
 
@@ -35,7 +31,6 @@ You specify the number of tasks to run (i.e. the number of containers).
 - Data volumes that should be used with the containers in the task.
 
 - IAM role the task should use for permissions.
-
 
 You can use Amazon ECS Run task to run one or more tasks once.
 

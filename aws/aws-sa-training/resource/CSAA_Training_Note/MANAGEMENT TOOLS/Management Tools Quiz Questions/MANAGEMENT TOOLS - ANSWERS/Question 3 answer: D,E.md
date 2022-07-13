@@ -1,8 +1,6 @@
 ##### Question 3 answer: D,E
 
-
 Explanation:
-
 
 ```
 
@@ -15,7 +13,6 @@ With Amazon CloudWatch, you can access system metrics on all the AWS services yo
 consolidate system and application level logs, and create business key performance indicators
 
 ```
-
 
 ```
 

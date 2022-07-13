@@ -1,12 +1,12 @@
 ##### Question 2
 
+You are using a series of Spot instances that process messages from an SQS queue
+and store results in a DynamoDB table.
 
-You are using a series of Spot instances that process messages from an SQS queue and store results in a DynamoDB table.
-
-Shortly after picking up a message from the queue AWS terminated the Spot instance. The Spot instance had not finished
+Shortly after picking up a message from the queue AWS terminated the Spot
+instance. The Spot instance had not finished
 
 processing the message. What will happen to the message?
-
 
 ```
 

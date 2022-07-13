@@ -1,13 +1,12 @@
 ##### Question 14
 
+A company provides videos for new employees around the world. They need to store
+the videos in one
 
-A company provides videos for new employees around the world. They need to store the videos in one
-
-
-location and then provide low-latency access for the employees around the world. Which service would be best suited to
+location and then provide low-latency access for the employees around the world.
+Which service would be best suited to
 
 providing fast access to the content?
-
 
 1. Amazon S3
 

@@ -1,8 +1,7 @@
 ##### Question 2
 
-
-Which type Amazon storage service uses standards-based REST web interfaces to manage objects?
-
+Which type Amazon storage service uses standards-based REST web interfaces to
+manage objects?
 
 1. Amazon Elastic File System (EFS)
 

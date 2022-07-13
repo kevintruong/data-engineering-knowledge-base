@@ -1,51 +1,39 @@
 #### TRANSFER ACCELERATION
 
-
-Amazon S3 Transfer Acceleration enables fast, easy, and secure transfers of files over long distances between your
+Amazon S3 Transfer Acceleration enables fast, easy, and secure transfers of
+files over long distances between your
 
 client and your Amazon S3 bucket.
 
-
-S3 Transfer Acceleration leverages Amazon CloudFront’s globally distributed AWS Edge Locations.
-
+S3 Transfer Acceleration leverages Amazon CloudFront’s globally distributed AWS
+Edge Locations.
 
 Used to accelerate object uploads to S3 over long distances (latency).
 
-
 Transfer acceleration is as secure as a direct upload to S3.
-
 
 You are charged only if there was a benefit in transfer times.
 
-
 Need to enable transfer acceleration on the S3 bucket.
-
 
 Cannot be disabled, can only be suspended.
 
-
 May take up to 30 minutes to implement.
-
 
 URL is: <bucketname>.s3-accelerate.amazonaws.com.
 
-
 Bucket names must be DNS compliance and cannot have periods between labels.
-
 
 Now HIPAA compliant.
 
-
 You can use multipart uploads with transfer acceleration.
 
-
 **Must use one of the following endpoints:**
-
 
 - .s3-accelerate.amazonaws.com.
 
 - .s3-accelerate.dualstack.amazonaws.com (dual-stack option).
 
-
-S3 Transfer Acceleration supports all bucket level features including multipart uploads.
+S3 Transfer Acceleration supports all bucket level features including multipart
+uploads.
 

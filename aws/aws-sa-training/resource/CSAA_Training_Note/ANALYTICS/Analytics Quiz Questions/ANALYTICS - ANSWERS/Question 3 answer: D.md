@@ -1,8 +1,6 @@
 ##### Question 3 answer: D
 
-
 Explanation:
-
 
 ```
 

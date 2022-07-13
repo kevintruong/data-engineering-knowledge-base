@@ -1,6 +1,5 @@
 #### IAM BEST PRACTICES
 
-
 - Lock Away Your AWS Account Root User Access Keys.
 
 - Create Individual IAM Users.

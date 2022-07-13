@@ -1,73 +1,61 @@
 #### HOSTED ZONES
 
-
 A hosted zone is a collection of records for a specified domain.
 
-
-A hosted zone is analogous to a traditional DNS zone file; it represents a collection of records that can be managed
+A hosted zone is analogous to a traditional DNS zone file; it represents a
+collection of records that can be managed
 
 together.
 
-
 **There are two types of zones:**
-
 
 - Public host zone – determines how traffic is routed on the Internet.
 
-- Private hosted zone for VPC – determines how traffic is routed within VPC (resources are not accessible outside the
+- Private hosted zone for VPC – determines how traffic is routed within VPC (
+  resources are not accessible outside the
 
   VPC).
 
+Amazon Route 53 automatically creates the Name Server (NS) and Start of
+Authority (SOA) records for the hosted zones.
 
-Amazon Route 53 automatically creates the Name Server (NS) and Start of Authority (SOA) records for the hosted zones.
-
-
-Amazon Route 53 creates a set of 4 unique name servers (a delegation set) within each hosted zone.
-
+Amazon Route 53 creates a set of 4 unique name servers (a delegation set) within
+each hosted zone.
 
 You can create multiple hosted zones with the same name and different records.
 
-
-NS servers are specified by Fully Qualified Domain Name (FQDN) but you can get the IP addresses from the command line (
+NS servers are specified by Fully Qualified Domain Name (FQDN) but you can get
+the IP addresses from the command line (
 
 e.g. dig or nslookup).
 
-
-For private hosted zones you can see a list of VPCs in each region and must select one.
-
+For private hosted zones you can see a list of VPCs in each region and must
+select one.
 
 **For private hosted zones you must set the following VPC settings to “true”:**
-
 
 - enableDnsHostname
 
 - enableDnsSupport
 
-
 You also need to create a DHCP options set.
-
 
 You can extend an on-premises DNS to VPC.
 
-
 You cannot extend Route 53 to on-premises instances.
 
-
-You cannot automatically register EC2 instances with private hosted zones (would need to be scripted).
-
+You cannot automatically register EC2 instances with private hosted zones (would
+need to be scripted).
 
 Health checks check the instance health by connecting to it.
 
-
 **Health checks can be pointed at:**
-
 
 - Endpoints
 
 - Status of other health checks
 
 - Status of a CloudWatch alarm
-
 
 Endpoints can be IP addresses or domain names.
 

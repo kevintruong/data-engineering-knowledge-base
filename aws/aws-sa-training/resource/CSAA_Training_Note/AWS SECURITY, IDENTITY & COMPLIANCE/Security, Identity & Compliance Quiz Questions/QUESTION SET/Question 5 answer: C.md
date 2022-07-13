@@ -1,8 +1,6 @@
 ##### Question 5 answer: C
 
-
 Explanation:
-
 
 ```
 
@@ -11,7 +9,6 @@ Permission is required for all penetration tests.
 You must complete and submit the AWS Vulnerability / Penetration Testing Request Form to
 
 ```
-
 
 ```
 

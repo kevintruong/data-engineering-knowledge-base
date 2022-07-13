@@ -1,11 +1,9 @@
 ##### Question 4
 
-
-An organization uses an application that uses per-socket licensing and they need full control over the
-
+An organization uses an application that uses per-socket licensing and they need
+full control over the
 
 placement of their EC2 instances on underlying hardware. What should they use?
-
 
 1. Dedicated instances
 

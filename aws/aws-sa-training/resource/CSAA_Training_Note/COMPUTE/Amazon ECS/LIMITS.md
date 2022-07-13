@@ -1,8 +1,6 @@
 #### LIMITS
 
-
 **Soft limits (default):**
-
 
 - Clusters per region = 1000.
 
@@ -10,9 +8,7 @@
 
 - Services per cluster = 500.
 
-
 **Hard limits:**
-
 
 - One load balancer per service.
 

@@ -1,11 +1,10 @@
 ##### Question 1
 
+An organization is migrating their relational databases to the AWS Cloud. They
+require full operating
 
-An organization is migrating their relational databases to the AWS Cloud. They require full operating
-
-
-system access to install custom operational toolsets. Which AWS service should they use to host their databases?
-
+system access to install custom operational toolsets. Which AWS service should
+they use to host their databases?
 
 1. Amazon EC2
 

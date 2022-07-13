@@ -1,88 +1,72 @@
 #### GENERAL
 
-
-EFS is a fully-managed service that makes it easy to set up and scale file storage in the Amazon Cloud.
-
+EFS is a fully-managed service that makes it easy to set up and scale file
+storage in the Amazon Cloud.
 
 Implementation of an NFS file share and is accessed using the NFSv4.1 protocol.
 
-
-Elastic storage capacity and pay for what you use (in contrast to EBS with which you pay for what you provision).
-
+Elastic storage capacity and pay for what you use (in contrast to EBS with which
+you pay for what you provision).
 
 Multi-AZ metadata and data storage.
 
-
 Can configure mount-points in one, or many, AZs.
 
-
-Can be mounted from on-premises systems ONLY if using Direct Connect or a VPN connection.
-
+Can be mounted from on-premises systems ONLY if using Direct Connect or a VPN
+connection.
 
 Alternatively, use the EFS File Sync agent.
 
-
-Good for big data and analytics, media processing workflows, content management, web serving, home directories etc.
-
+Good for big data and analytics, media processing workflows, content management,
+web serving, home directories etc.
 
 Pay for what you use (no pre-provisioning required).
 
-
 Can scale up to petabytes.
-
 
 EFS is elastic and grows and shrinks as you add and remove data.
 
-
 Can concurrently connect 1 to 1000s of EC2 instances, from multiple AZs.
 
+A file system can be accessed concurrently from all AZs in the region where it
+is located.
 
-A file system can be accessed concurrently from all AZs in the region where it is located.
-
-
-The following diagram depicts the various options for mounting an EFS filesystem:
-
+The following diagram depicts the various options for mounting an EFS
+filesystem:
 
 By default, you can create up to 10 file systems per account.
 
+Access to EFS file systems from on-premises servers can be enabled via Direct
+Connect or AWS VPN.
 
-Access to EFS file systems from on-premises servers can be enabled via Direct Connect or AWS VPN.
-
-
-You mount an EFS file system on your on-premises Linux server using the standard Linux mount command for mounting a file
+You mount an EFS file system on your on-premises Linux server using the standard
+Linux mount command for mounting a file
 
 system via the NFSv4.1 protocol.
 
-
 Can choose General Purpose or Max I/O (both SSD).
-
 
 The VPC of the connecting instance must have DNS hostnames enabled.
 
-
-EFS provides a file system interface, file system access semantics (such as strong consistency and file locking).
-
+EFS provides a file system interface, file system access semantics (such as
+strong consistency and file locking).
 
 Data is stored across multiple AZ’s within a region.
 
-
 Read after write consistency.
 
-
-Need to create mount targets and choose AZ’s to include (recommended to include all AZ’s).
-
+Need to create mount targets and choose AZ’s to include (recommended to include
+all AZ’s).
 
 Instances can be behind an ELB.
 
-
 EC2 Classic instances must mount via ClassicLink.
-
 
 EFS is compatible with all Linux-based AMIs for Amazon EC2.
 
+Using the EFS-to-EFS Backup solution, you can schedule automatic incremental
+backups of your Amazon EFS file system.
 
-Using the EFS-to-EFS Backup solution, you can schedule automatic incremental backups of your Amazon EFS file system.
-
-
-The following table provides a comparison of the **storage characteristics of EFS vs EBS** :
+The following table provides a comparison of the **storage characteristics of
+EFS vs EBS** :
 

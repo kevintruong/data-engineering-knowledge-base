@@ -1,8 +1,6 @@
 ##### Question 10
 
-
 Which of the following is a good use case for Amazon RedShift?
-
 
 1. Schema-less transactional database
 

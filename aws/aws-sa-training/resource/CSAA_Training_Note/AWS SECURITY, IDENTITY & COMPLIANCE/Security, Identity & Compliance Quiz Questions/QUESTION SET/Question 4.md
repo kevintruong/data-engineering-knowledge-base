@@ -1,15 +1,14 @@
 ##### Question 4
 
+Your company has started using the AWS CloudHSM for secure key storage. A recent
+administrative error resulted in the
 
-Your company has started using the AWS CloudHSM for secure key storage. A recent administrative error resulted in the
-
-loss of credentials to access the CloudHSM. You need access to data that was encrypted using keys stored on the hardware
+loss of credentials to access the CloudHSM. You need access to data that was
+encrypted using keys stored on the hardware
 
 security module.
 
-
 How can you recover the keys that are no longer accessible?
-
 
 ```
 

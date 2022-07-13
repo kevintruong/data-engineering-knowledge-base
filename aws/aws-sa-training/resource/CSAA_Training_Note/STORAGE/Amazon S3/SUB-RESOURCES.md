@@ -1,7 +1,7 @@
 #### SUB-RESOURCES
 
-
-- Sub-resources are subordinate to objects, they do not exist independently but are always associated with another
+- Sub-resources are subordinate to objects, they do not exist independently but
+  are always associated with another
 
   entity such as an object or bucket.
 

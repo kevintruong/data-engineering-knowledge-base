@@ -1,13 +1,12 @@
 ##### Question 9
 
+An Architect is designing an application that will use hundreds of EC2 instances
+across multiple
 
-An Architect is designing an application that will use hundreds of EC2 instances across multiple
-
-
-availability zones. A shared filesystem is required that can be mounted by all instances. Which storage service is
+availability zones. A shared filesystem is required that can be mounted by all
+instances. Which storage service is
 
 suitable for this requirement?
-
 
 1. Amazon Elastic File System (EFS)
 

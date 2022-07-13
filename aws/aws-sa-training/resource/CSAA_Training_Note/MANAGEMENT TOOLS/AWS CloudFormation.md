@@ -1,40 +1,32 @@
 ### AWS CloudFormation
 
-
-AWS CloudFormation is a service that gives developers and businesses an easy way to create a collection of related AWS
+AWS CloudFormation is a service that gives developers and businesses an easy way
+to create a collection of related AWS
 
 resources and provision them in an orderly and predictable fashion.
 
-
-AWS CloudFormation provides a common language for you to describe and provision all the
-
+AWS CloudFormation provides a common language for you to describe and provision
+all the
 
 infrastructure resources in your cloud environment.
 
-
 CloudFormation can be used to provision a broad range of AWS resources.
-
 
 Think of CloudFormation as deploying infrastructure as code.
 
-
 Elastic Beanstalk is more focused on deploying applications on EC2 (PaaS).
 
-
-CloudFormation can deploy Elastic Beanstalk-hosted applications however the reverse is not possible.
-
+CloudFormation can deploy Elastic Beanstalk-hosted applications however the
+reverse is not possible.
 
 Logical IDs are used to reference resources within the template.
 
-
-Physical IDs identify resources outside of AWS CloudFormation templates, but only after the resources have been created.
-
+Physical IDs identify resources outside of AWS CloudFormation templates, but
+only after the resources have been created.
 
 Concept of templates, stacks and change sets:
 
-
 **Templates:**
-
 
 - Architectural designs
 
@@ -50,9 +42,7 @@ Concept of templates, stacks and change sets:
 
 - Designer allows you to visualize using a drag and drop interface
 
-
 **Stacks:**
-
 
 - Deployed resources based on templates
 
@@ -60,16 +50,13 @@ Concept of templates, stacks and change sets:
 
 - Deployed through the Management Console, CLI or APIs
 
-
 **Template elements**
-
 
 ```
 
 Mandatory:
 
 ```
-
 
 - File format and version
 
@@ -82,86 +69,78 @@ Mandatory:
 - Output values (limited to 60)
 
 
-
 - List of data tables
-
 
 Puppet and Chef integration is supported.
 
-
 Can use bootstrap scripts.
-
 
 Can define deletion policies.
 
-
 Provides WaitCondition function.
-
 
 Can create roles in IAM.
 
-
 VPCs can be created and customized.
-
 
 VPC peering in the same AWS account can be performed.
 
-
 Route 53 is supported.
 
-
 **Stack creation errors:**
-
 
 - Automatic rollback on error is enabled by default.
 
 - You will be charged for resources provisioned even if there is an error.
 
-
 **Updating stacks:**
 
+- AWS CloudFormation provides two methods for updating stacks: direct update or
+  creating and executing change sets.
 
-- AWS CloudFormation provides two methods for updating stacks: direct update or creating and executing change sets.
-
-- When you directly update a stack, you submit changes and AWS CloudFormation immediately deploys them.
+- When you directly update a stack, you submit changes and AWS CloudFormation
+  immediately deploys them.
 
 - Use direct updates when you want to quickly deploy your updates.
 
-- With change sets, you can preview the changes AWS CloudFormation will make to your stack, and then decide whether to
+- With change sets, you can preview the changes AWS CloudFormation will make to
+  your stack, and then decide whether to
 
   apply those changes.
 
-
 **StackSets**
 
-
-- AWS CloudFormation StackSets extends the functionality of stacks by enabling you to create, update, or delete stacks
+- AWS CloudFormation StackSets extends the functionality of stacks by enabling
+  you to create, update, or delete stacks
 
   across multiple accounts and regions with a single operation.
 
-- Using an administrator account, you define and manage an AWS CloudFormation template, and use the template as the
+- Using an administrator account, you define and manage an AWS CloudFormation
+  template, and use the template as the
 
-  basis for provisioning stacks into selected target accounts across specified regions.
+  basis for provisioning stacks into selected target accounts across specified
+  regions.
 
 - An administrator account is the AWS account in which you create stack sets.
 
-- A stack set is managed by signing in to the AWS administrator account in which it was created.
+- A stack set is managed by signing in to the AWS administrator account in which
+  it was created.
 
-- A target account is the account into which you create, update, or delete one or more stacks in your stack set.
+- A target account is the account into which you create, update, or delete one
+  or more stacks in your stack set.
 
-
-Before you can use a stack set to create stacks in a target account, you must set up a trust relationship between the
+Before you can use a stack set to create stacks in a target account, you must
+set up a trust relationship between the
 
 administrator and target accounts.
 
-
 **Best Practices**
 
+- AWS provides Python “helper scripts” which can help you install software and
+  start services on your EC2 instances.
 
-- AWS provides Python “helper scripts” which can help you install software and start services on your EC2 instances.
-
-- Use CloudFormation to make changes to your landscape rather than going directly into the
-
+- Use CloudFormation to make changes to your landscape rather than going
+  directly into the
 
 ```
 
@@ -169,22 +148,22 @@ resources.
 
 ```
 
-
 - Make use of Change Sets to identify potential trouble spots in your updates.
 
 - Use Stack Policies to explicitly protect sensitive portions of your stack.
 
-- Use a version control system such as CodeCommit or GitHub to track changes to templates.
-
+- Use a version control system such as CodeCommit or GitHub to track changes to
+  templates.
 
 **Charges**
 
-
 - There is no additional charge for AWS CloudFormation.
 
-- You pay for AWS resources (such as Amazon EC2 instances, Elastic Load Balancing load balancers, etc.) created using
+- You pay for AWS resources (such as Amazon EC2 instances, Elastic Load
+  Balancing load balancers, etc.) created using
 
   AWS CloudFormation in the same manner as if you created them manually.
 
-- You only pay for what you use, as you use it; there are no minimum fees and no required upfront commitments.
+- You only pay for what you use, as you use it; there are no minimum fees and no
+  required upfront commitments.
 

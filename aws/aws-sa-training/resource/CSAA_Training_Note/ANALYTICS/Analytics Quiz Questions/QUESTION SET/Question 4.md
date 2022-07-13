@@ -1,12 +1,12 @@
 ##### Question 4
 
+You have recently enabled Access Logs on your Application Load Balancer (ALB).
+One of your colleagues would like to
 
-You have recently enabled Access Logs on your Application Load Balancer (ALB). One of your colleagues would like to
-
-process the log files using a hosted Hadoop service. What configuration changes and services can be leveraged to deliver
+process the log files using a hosted Hadoop service. What configuration changes
+and services can be leveraged to deliver
 
 this requirement?
-
 
 ```
 

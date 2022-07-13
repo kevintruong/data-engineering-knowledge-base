@@ -1,8 +1,6 @@
 ##### Question 6
 
-
 How can you create a hierarchy that mimics a filesystem in Amazon S3?
-
 
 1. Create buckets within other buckets
 

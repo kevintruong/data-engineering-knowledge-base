@@ -1,22 +1,20 @@
 #### GENERAL LAMBDA CONCEPTS
 
+AWS Lambda lets you run code as functions without provisioning or managing
+servers.
 
-AWS Lambda lets you run code as functions without provisioning or managing servers.
+Lambda-based applications (also referred to as serverless applications) are
+composed of functions triggered by events.
 
+With serverless computing, your application still runs on servers, but all the
+server management is done by AWS.
 
-Lambda-based applications (also referred to as serverless applications) are composed of functions triggered by events.
-
-
-With serverless computing, your application still runs on servers, but all the server management is done by AWS.
-
-
-You cannot log in to the compute instances that run Lambda functions or customize the operating system or language
+You cannot log in to the compute instances that run Lambda functions or
+customize the operating system or language
 
 runtime.
 
-
 **Lambda functions:**
-
 
 - Consist of code and any associated dependencies.
 
@@ -26,17 +24,14 @@ runtime.
 
 - API provided for updating configuration data.
 
-
 You specify the amount of memory you need allocated to your Lambda functions.
 
-
-AWS Lambda allocates CPU power proportional to the memory you specify using the same ratio as a general purpose EC2
+AWS Lambda allocates CPU power proportional to the memory you specify using the
+same ratio as a general purpose EC2
 
 instance type.
 
-
 **Functions can access:**
-
 
 - AWS services or non-AWS services.
 
@@ -44,27 +39,24 @@ instance type.
 
 - Non-AWS services running on EC2 instances in an AWS VPC.
 
-
-To enable your Lambda function to access resources inside your private VPC, you must provide additional VPC-specific
+To enable your Lambda function to access resources inside your private VPC, you
+must provide additional VPC-specific
 
 configuration information that includes VPC subnet IDs and security group IDs.
 
-
-AWS Lambda uses this information to set up elastic network interfaces (ENIs) that enable your function.
-
+AWS Lambda uses this information to set up elastic network interfaces (ENIs)
+that enable your function.
 
 **Compute resources:**
 
-
 - You can request additional memory in 64MB increments from 128MB to 3008MB.
 
-- Functions larger than 1536MB are allocated multiple CPU threads, and multi-threaded or multi-process code is needed to
+- Functions larger than 1536MB are allocated multiple CPU threads, and
+  multi-threaded or multi-process code is needed to
 
   take advantage.
 
-
 **There is a maximum execution timeout.**
-
 
 - Max is 15 minutes (900 seconds), default is 3 seconds.
 
@@ -72,50 +64,47 @@ AWS Lambda uses this information to set up elastic network interfaces (ENIs) tha
 
 - Lambda terminates the function at the timeout.
 
-
 Code is invoked using API calls made using AWS SDKs.
-
 
 Lambda assumes an IAM role when it executes the function.
 
-
-The handler name refers to the method in your code where Lambda begins execution.
-
+The handler name refers to the method in your code where Lambda begins
+execution.
 
 **The components of AWS Lambda are:**
 
+- A Lambda function which is comprised of your custom code and any dependent
+  libraries.
 
-- A Lambda function which is comprised of your custom code and any dependent libraries.
+- Event sources such as SNS or a custom service that triggers your function and
+  executes its logic.
 
-- Event sources such as SNS or a custom service that triggers your function and executes its logic.
+- Downstream resources such as DynamoDB or Amazon S3 buckets that your Lambda
+  function calls once it is triggered.
 
-- Downstream resources such as DynamoDB or Amazon S3 buckets that your Lambda function calls once it is triggered.
-
-- Log streams are custom logging statements that allow you to analyze the execution flow and performance of your Lambda
+- Log streams are custom logging statements that allow you to analyze the
+  execution flow and performance of your Lambda
 
   function.
 
-
-Lambda is an event-driven compute service where AWS Lambda runs code in response to events such as changes to data in an
+Lambda is an event-driven compute service where AWS Lambda runs code in response
+to events such as changes to data in an
 
 S3 bucket or a DynamoDB table.
 
-
-An event source is an AWS service or developer-created application that produces events that trigger an AWS Lambda
+An event source is an AWS service or developer-created application that produces
+events that trigger an AWS Lambda
 
 function to run.
 
-
 Event sources are mapped to Lambda functions.
 
-
-Event sources maintain the mapping configuration except for stream-based services (e.g. DynamoDB, Kinesis) for which the
+Event sources maintain the mapping configuration except for stream-based
+services (e.g. DynamoDB, Kinesis) for which the
 
 configuration is made on the Lambda side and Lambda performs the polling.
 
-
 **Supported AWS event sources include:**
-
 
 - Amazon S3.
 
@@ -157,80 +146,74 @@ configuration is made on the Lambda side and Lambda performs the polling.
 
 - Other Event Sources: Invoking a Lambda Function On Demand.
 
-
-Other event sources can invoke Lambda functions on-demand (application needs permissions to
-
+Other event sources can invoke Lambda functions on-demand (application needs
+permissions to
 
 invoke the Lambda function).
 
+Lambda can run code in response to HTTP requests using Amazon API gateway or API
+calls made using the AWS SDKs.
 
-Lambda can run code in response to HTTP requests using Amazon API gateway or API calls made using the AWS SDKs.
-
-
-AWS Lambda supports code written in Node.js (JavaScript), Python, Java (Java 8 compatible), C#
+AWS Lambda supports code written in Node.js (JavaScript), Python, Java (Java 8
+compatible), C#
 
 (.NET Core), Ruby, Go and PowerShell.
 
-
 AWS Lambda stores code in Amazon S3 and encrypts it at rest.
-
 
 Continuous scaling – scales out not up.
 
-
 Lambda scales concurrently executing functions up to your default limit (1000).
-
 
 Lambda functions are serverless and independent, 1 event = 1 function.
 
-
 Functions can trigger other functions so 1 event can trigger multiple functions.
 
-
-For non-stream-based event sources each published event is a unit of work, run in parallel up to your account limit (one
+For non-stream-based event sources each published event is a unit of work, run
+in parallel up to your account limit (one
 
 Lambda function per event)2.
 
-
-For stream-based event sources the number of shards indicates the unit of concurrency (one function per shard).
-
+For stream-based event sources the number of shards indicates the unit of
+concurrency (one function per shard).
 
 Lambda works globally.
 
-
-To enable VPC support, you need to specify one or more subnets in a single VPC and a security group as part of your
+To enable VPC support, you need to specify one or more subnets in a single VPC
+and a security group as part of your
 
 function configuration.
 
-
-Lambda functions provide access only to a single VPC. If multiple subnets are specified, they must all be in the same
+Lambda functions provide access only to a single VPC. If multiple subnets are
+specified, they must all be in the same
 
 VPC.
 
+Lambda functions configured to access resources in a particular VPC will not
+have access to the Internet as a default
 
-Lambda functions configured to access resources in a particular VPC will not have access to the Internet as a default
-
-configuration. If you need access to external endpoints, you will need to create a NAT in your VPC to forward this
+configuration. If you need access to external endpoints, you will need to create
+a NAT in your VPC to forward this
 
 traffic and configure your security group to allow this outbound traffic.
 
-
 Versioning can be used to run different versions of your code.
 
-
-Each Lambda function has a unique Amazon Resource Name (ARN) which cannot be changed after publishing.
-
+Each Lambda function has a unique Amazon Resource Name (ARN) which cannot be
+changed after publishing.
 
 **Use cases fall within the following categories:**
 
-
 - Using Lambda functions with AWS services as event sources.
 
-- On-demand Lambda function invocation over HTTPS using Amazon API Gateway (custom REST API and endpoint).
+- On-demand Lambda function invocation over HTTPS using Amazon API Gateway (
+  custom REST API and endpoint).
 
-- On-demand Lambda function invocation using custom applications (mobile, web apps, clients) and AWS SDKs, AWS Mobile
+- On-demand Lambda function invocation using custom applications (mobile, web
+  apps, clients) and AWS SDKs, AWS Mobile
 
   SDKs, and the AWS Mobile SDK for Android.
 
-- Scheduled events can be configured to run code on a scheduled basis through the AWS Lambda Console.
+- Scheduled events can be configured to run code on a scheduled basis through
+  the AWS Lambda Console.
 

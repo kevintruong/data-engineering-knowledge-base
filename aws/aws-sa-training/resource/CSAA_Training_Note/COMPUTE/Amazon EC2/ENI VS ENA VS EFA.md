@@ -1,24 +1,20 @@
 #### ENI VS ENA VS EFA
 
-
 **When to use ENI:**
 
-
-- This is the basic adapter type for when you don't have any high performance requirements.
+- This is the basic adapter type for when you don't have any high performance
+  requirements.
 
 - Can use with all instance types.
 
-
 **When to use ENA:**
 
-
-- Good for use cases that require higher bandwidth and lower inter-instance latency.
+- Good for use cases that require higher bandwidth and lower inter-instance
+  latency.
 
 - Supported for limited instance types (HVM only).
 
-
 **When to use EFA:**
-
 
 - High Performance Computing.
 

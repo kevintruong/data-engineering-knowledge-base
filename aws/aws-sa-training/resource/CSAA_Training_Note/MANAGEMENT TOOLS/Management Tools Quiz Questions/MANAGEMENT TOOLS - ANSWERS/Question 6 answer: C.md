@@ -1,8 +1,6 @@
 ##### Question 6 answer: C
 
-
 Explanation:
-
 
 ```
 
@@ -15,7 +13,6 @@ Puppet. OpsWorks lets you use Chef and Puppet to automate how servers are config
 deployed, and managed across your Amazon EC2 instances or on-premises compute
 
 ```
-
 
 ```
 

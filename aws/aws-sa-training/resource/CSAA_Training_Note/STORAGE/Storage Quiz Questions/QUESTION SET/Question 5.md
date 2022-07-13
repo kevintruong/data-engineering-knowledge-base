@@ -1,8 +1,7 @@
 ##### Question 5
 
-
-Which Amazon S3 capability uses Amazon CloudFront and enables fast uploads for objects?
-
+Which Amazon S3 capability uses Amazon CloudFront and enables fast uploads for
+objects?
 
 1. Multipart upload
 

@@ -1,19 +1,20 @@
 ##### Question 6
 
+A client is in the design phase of developing an application that will process
+orders for their online ticketing system.
 
-A client is in the design phase of developing an application that will process orders for their online ticketing system.
+The application will use a number of front-end EC2 instances that pick-up orders
+and place them in a queue for
 
-The application will use a number of front-end EC2 instances that pick-up orders and place them in a queue for
-
-processing by another set of back-end EC2 instances. The client will have multiple options for customers to choose the
+processing by another set of back-end EC2 instances. The client will have
+multiple options for customers to choose the
 
 level of service they want to pay for.
 
-
-The client has asked how he can design the application to process the orders in a prioritized way based on the level of
+The client has asked how he can design the application to process the orders in
+a prioritized way based on the level of
 
 service the customer has chosen?
-
 
 ```
 

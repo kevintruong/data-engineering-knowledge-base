@@ -1,19 +1,21 @@
 ##### Question 7
 
+You are a Developer working for Digital Cloud Training. You are planning to
+write some code that creates a URL that lets
 
-You are a Developer working for Digital Cloud Training. You are planning to write some code that creates a URL that lets
+users who sign in to your organization's network securely access the AWS
+Management Console. The URL will include a
 
-users who sign in to your organization's network securely access the AWS Management Console. The URL will include a
+sign-in token that you get from AWS that authenticates the user to AWS. You are
+using Microsoft Active Directory
 
-sign-in token that you get from AWS that authenticates the user to AWS. You are using Microsoft Active Directory
+Federation Services as your identity provider (IdP) which is compatible with
+SAML 2.0.
 
-Federation Services as your identity provider (IdP) which is compatible with SAML 2.0.
-
-
-Which of the steps below will you need to include when developing your custom identity broker?
+Which of the steps below will you need to include when developing your custom
+identity broker?
 
 (choose 2)
-
 
 ```
 

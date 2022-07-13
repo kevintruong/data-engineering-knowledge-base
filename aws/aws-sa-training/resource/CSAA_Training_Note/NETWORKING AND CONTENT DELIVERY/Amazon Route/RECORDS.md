@@ -1,8 +1,6 @@
 #### RECORDS
 
-
 **Amazon Route 53 currently supports the following DNS record types:**
-
 
 - A (address record)
 
@@ -30,44 +28,41 @@
 
 - Alias (an Amazon Route 53 - specific virtual record)
 
-
 The Alias record is a Route 53 specific record type.
 
+Alias records are used to map resource record sets in your hosted zone to Amazon
+Elastic Load Balancing load balancers,
 
-Alias records are used to map resource record sets in your hosted zone to Amazon Elastic Load Balancing load balancers,
-
-Amazon CloudFront distributions, AWS Elastic Beanstalk environments, or Amazon S3 buckets that are configured as
+Amazon CloudFront distributions, AWS Elastic Beanstalk environments, or Amazon
+S3 buckets that are configured as
 
 websites.
 
+You can use Alias records to map custom domain names (such as api.example.com)
+both to API
 
-You can use Alias records to map custom domain names (such as api.example.com) both to API
-
-
-Gateway custom regional APIs and edge-optimized APIs and to Amazon VPC interface endpoints.
-
+Gateway custom regional APIs and edge-optimized APIs and to Amazon VPC interface
+endpoints.
 
 The Alias is pointed to the DNS name of the service.
 
+You cannot set the TTL for Alias records for ELB, S3, or Elastic Beanstalk
+environment (uses the service’s default).
 
-You cannot set the TTL for Alias records for ELB, S3, or Elastic Beanstalk environment (uses the service’s default).
-
-
-Alias records work like a CNAME record in that you can map one DNS name (e.g. example.com) to another ‘target’ DNS
+Alias records work like a CNAME record in that you can map one DNS name (e.g.
+example.com) to another ‘target’ DNS
 
 name (e.g. elb1234.elb.amazonaws.com).
 
-
-An Alias record can be used for resolving apex / naked domain names (e.g. example.com rather than sub.example.com).
-
+An Alias record can be used for resolving apex / naked domain names (e.g.
+example.com rather than sub.example.com).
 
 A CNAME record can’t be used for resolving apex / naked domain names.
 
-
-Generally, use an Alias record where possible. The following table details the differences between Alias and CNAME
+Generally, use an Alias record where possible. The following table details the
+differences between Alias and CNAME
 
 records:
-
 
 Route 53 supports wildcard entries for all record types, except NS records.
 

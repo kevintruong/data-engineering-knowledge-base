@@ -1,8 +1,6 @@
 ##### Question 7 answer: B,D
 
-
 Explanation:
-
 
 ```
 
@@ -22,18 +20,21 @@ console are:
 
 ```
 
-
 1. Verify that the user is authenticated by your local identity system
 
-2. Call the AWS Security Token Service (AWS STS) AssumeRole or GetFederationToken API operations to obtain temporary
+2. Call the AWS Security Token Service (AWS STS) AssumeRole or
+   GetFederationToken API operations to obtain temporary
 
    security credentials for the user
 
-3. Call the AWS federation endpoint and supply the temporary security credentials to request a sign-in token
+3. Call the AWS federation endpoint and supply the temporary security
+   credentials to request a sign-in token
 
 4. Construct a URL for the console that includes the token
 
-5. Give the URL to the user or invoke the URL on the user's behalf You cannot generate a pre-signed URL for this purpose
+5. Give the URL to the user or invoke the URL on the user's behalf You cannot
+   generate a pre-signed URL for this purpose
 
-   using SDKs, delegate access through the IAM console or directly assume IAM roles.
+   using SDKs, delegate access through the IAM console or directly assume IAM
+   roles.
 

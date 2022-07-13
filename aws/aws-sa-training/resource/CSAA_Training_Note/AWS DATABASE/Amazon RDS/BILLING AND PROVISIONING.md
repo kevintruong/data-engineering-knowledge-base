@@ -1,8 +1,6 @@
 #### BILLING AND PROVISIONING
 
-
 **AWS Charge for:**
-
 
 - DB instance hours (partial hours are charged as full hours).
 
@@ -16,15 +14,13 @@
 
 - Backup storage (DB backups and manual snapshots).
 
+Backup storage for the automated RDS backup is free of charge up to the
+provisioned EBS volume size.
 
-Backup storage for the automated RDS backup is free of charge up to the provisioned EBS volume size.
-
-
-However, AWS replicate data across multiple AZs and so you are charged for the extra storage space on S3.
-
+However, AWS replicate data across multiple AZs and so you are charged for the
+extra storage space on S3.
 
 **For multi-AZ you are charged for:**
-
 
 - Multi-AZ DB hours.
 
@@ -32,21 +28,17 @@ However, AWS replicate data across multiple AZs and so you are charged for the e
 
 - Double write I/Os.
 
-
-For multi-AZ you are not charged for DB data transfer during replication from primary to standby.
-
+For multi-AZ you are not charged for DB data transfer during replication from
+primary to standby.
 
 Oracle and Microsoft SQL licences are included or you can bring your own (BYO).
 
-
 On-demand and reserved instance pricing available.
 
-
-**Reserved instances are defined based on the following attributes which must not be changed:**
-
+**Reserved instances are defined based on the following attributes which must
+not be changed:**
 
 - DB engine.
-
 
 
 - DB instance class
@@ -57,9 +49,7 @@ On-demand and reserved instance pricing available.
 
 - Region
 
-
 **Reserved instances:**
-
 
 - Can be moved between AZs in the same region.
 
@@ -67,7 +57,8 @@ On-demand and reserved instance pricing available.
 
 - Can be applied to Read Replicas if DB instance class and region are the same.
 
-- Scaling is achieved through changing the instance class for compute and modifying storage capacity for additional
+- Scaling is achieved through changing the instance class for compute and
+  modifying storage capacity for additional
 
   storage allocation.
 

@@ -1,8 +1,6 @@
 ##### Question 4 answer: C
 
-
 Explanation:
-
 
 ```
 
@@ -15,7 +13,6 @@ cost-effectively process vast amounts of data. EMR utilizes a hosted Hadoop fram
 on Amazon EC2 and Amazon S3.
 
 ```
-
 
 ```
 

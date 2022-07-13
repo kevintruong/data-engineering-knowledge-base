@@ -1,11 +1,8 @@
 #### DISTRIBUTIONS
 
-
 To distribute content with CloudFront you need to create a distribution.
 
-
 **The distribution includes the configuration of the CDN including:**
-
 
 - Content origins.
 
@@ -19,12 +16,9 @@ To distribute content with CloudFront you need to create a distribution.
 
 - Access logs (record viewer activity).
 
-
 **There are two types of distribution.**
 
-
 **Web Distribution:**
-
 
 - Static and dynamic content including .html, .css, .php, and graphics files.
 

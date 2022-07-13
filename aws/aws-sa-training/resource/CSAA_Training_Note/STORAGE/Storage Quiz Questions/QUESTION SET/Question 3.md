@@ -1,8 +1,6 @@
 ##### Question 3
 
-
 What is the maximum file size allowed in Amazon S3?
-
 
 1. 5 terabytes
 

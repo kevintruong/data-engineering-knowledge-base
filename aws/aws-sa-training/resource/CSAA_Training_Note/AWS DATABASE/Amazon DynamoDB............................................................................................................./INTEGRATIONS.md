@@ -1,30 +1,28 @@
 #### INTEGRATIONS
 
-
-ElastiCache can be used in front of DynamoDB for performance of reads on infrequently changed data.
-
+ElastiCache can be used in front of DynamoDB for performance of reads on
+infrequently changed data.
 
 Triggers integrate with AWS Lambda to respond to triggers.
 
-
 **Integration with RedShift:**
-
 
 - RedShift complements DynamoDB with advanced business intelligence.
 
-- When copying data from a DynamoDB table into RedShift you can perform complex data analysis queries including joins
+- When copying data from a DynamoDB table into RedShift you can perform complex
+  data analysis queries including joins
 
   with other tables.
 
-- A copy operation from a DynamoDB table counts against the table’s read capacity.
+- A copy operation from a DynamoDB table counts against the table’s read
+  capacity.
 
 - After data is copied, SQL queries do not affect the data in DynamoDB.
 
-
 **DynamoDB is integrated with Apache Hive on EMR. Hive can allow you to:**
 
-
-- Read and write data in DynamoDB tables allowing you to query DynamoDB data using a SQL-like language (HiveQL).
+- Read and write data in DynamoDB tables allowing you to query DynamoDB data
+  using a SQL-like language (HiveQL).
 
 - Copy data from a DynamoDB table to an S3 bucket and vice versa.
 

@@ -1,8 +1,6 @@
 ##### Question 7 answer: B,E
 
-
 Explanation:
-
 
 ```
 

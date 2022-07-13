@@ -1,11 +1,10 @@
 ##### Question 8
 
+An organization needs a private, high-bandwidth, low-latency connection to the
+AWS Cloud in order to
 
-An organization needs a private, high-bandwidth, low-latency connection to the AWS Cloud in order to
-
-
-establish hybrid cloud configuration with their on-premises cloud. What type of connection should they use?
-
+establish hybrid cloud configuration with their on-premises cloud. What type of
+connection should they use?
 
 1. AWS Managed VPN
 

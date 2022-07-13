@@ -1,8 +1,6 @@
 ##### Question 15
 
-
 Which of the following are NOT valid origins for Amazon CloudFront?
-
 
 1. Amazon S3 buckets
 
@@ -11,7 +9,6 @@ Which of the following are NOT valid origins for Amazon CloudFront?
 3. AWS Lambda function
 
 4. Elastic Load Balancer (ELB)
-
 
 **NETWORKING & CONTENT DELIVERY - ANSWERS**
 

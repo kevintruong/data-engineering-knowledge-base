@@ -1,11 +1,10 @@
 ##### Question 2
 
+An organization is migrating databases into the AWS Cloud. They require a
+managed service for their MySQL
 
-An organization is migrating databases into the AWS Cloud. They require a managed service for their MySQL
-
-
-database and need automatic failover to a secondary database. Which solution should they use?
-
+database and need automatic failover to a secondary database. Which solution
+should they use?
 
 1. Amazon RDS with Read Replicas
 

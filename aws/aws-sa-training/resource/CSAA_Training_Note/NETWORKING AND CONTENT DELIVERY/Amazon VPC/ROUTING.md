@@ -1,45 +1,36 @@
 #### ROUTING
 
-
 The VPC router performs routing between AZs within a region.
 
-
-The VPC router connects different AZs together and connects the VPC to the Internet Gateway.
-
+The VPC router connects different AZs together and connects the VPC to the
+Internet Gateway.
 
 Each subnet has a route table the router uses to forward traffic within the VPC.
 
-
 Route tables also have entries to external destinations.
-
 
 Up to 200 route tables per VPC.
 
-
 Up to 50 route entries per route table.
-
 
 Each subnet can only be associated with one route table.
 
-
 Can assign one route table to multiple subnets.
 
-
-If no route table is specified a subnet will be assigned to the main route table at creation time.
-
+If no route table is specified a subnet will be assigned to the main route table
+at creation time.
 
 Cannot delete the main route table.
 
-
 You can manually set another route table to become the main route table.
 
-
-There is a default rule that allows all VPC subnets to communicate with one another – this cannot be deleted or
+There is a default rule that allows all VPC subnets to communicate with one
+another – this cannot be deleted or
 
 modified.
 
-
-Routing between subnets is always possible because of this rule – any problems communicating is more likely to be
+Routing between subnets is always possible because of this rule – any problems
+communicating is more likely to be
 
 security groups or NACLs.
 

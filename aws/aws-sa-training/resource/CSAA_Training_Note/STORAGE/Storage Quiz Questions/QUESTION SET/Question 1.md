@@ -1,15 +1,15 @@
 ##### Question 1
 
-
-You would like to run some code when an object is uploaded to an Amazon S3 bucket. How can this be
-
+You would like to run some code when an object is uploaded to an Amazon S3
+bucket. How can this be
 
 achieved?
 
-
 1. Create an event notification on the S3 bucket that triggers a Lambda function
 
-2. Configure Lambda to poll the S3 bucket for changes and run a function when it finds new objects
+2. Configure Lambda to poll the S3 bucket for changes and run a function when it
+   finds new objects
 
-3. Create an event notification on the S3 bucket that notifies Amazon SNS to trigger a Lambda function
+3. Create an event notification on the S3 bucket that notifies Amazon SNS to
+   trigger a Lambda function
 

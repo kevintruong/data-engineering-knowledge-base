@@ -1,8 +1,6 @@
 ##### Question 6, Answer: 2
 
-
 **Explanation:**
-
 
 ```
 
@@ -11,7 +9,6 @@
 2 is correct. You can mimic the hierarchy of a filesystem by creating folder in your buckets.
 
 ```
-
 
 ```
 

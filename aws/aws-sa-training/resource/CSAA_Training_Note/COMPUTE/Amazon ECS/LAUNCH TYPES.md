@@ -1,11 +1,10 @@
 #### LAUNCH TYPES
 
+An Amazon ECS launch type determines the type of infrastructure on which your
+tasks and services are hosted.
 
-An Amazon ECS launch type determines the type of infrastructure on which your tasks and services are hosted.
-
-
-There are two launch types and the table below describes some of the differences between the two launch types:
-
+There are two launch types and the table below describes some of the differences
+between the two launch types:
 
 ```
 
@@ -13,24 +12,27 @@ Fargate Launch Type
 
 ```
 
+- The Fargate launch type allows you to run your containerized applications
+  without the need to provision and manage the
 
-- The Fargate launch type allows you to run your containerized applications without the need to provision and manage the
-
-  backend infrastructure. Just register your task definition and Fargate launches the container for you.
+  backend infrastructure. Just register your task definition and Fargate
+  launches the container for you.
 
 - Fargate Launch Type is a serverless infrastructure managed by AWS.
 
-- Fargate only supports container images hosted on Elastic Container Registry (ECR) or Docker Hub.
+- Fargate only supports container images hosted on Elastic Container Registry (
+  ECR) or Docker Hub.
 
   **EC2 Launch Type**
 
 
-
-- The EC2 launch type allows you to run your containerized applications on a cluster of Amazon EC2 instances that you
+- The EC2 launch type allows you to run your containerized applications on a
+  cluster of Amazon EC2 instances that you
 
   manage.
 
-- Private repositories are only supported by the EC2 Launch Type. The following diagram shows the two launch types and
+- Private repositories are only supported by the EC2 Launch Type. The following
+  diagram shows the two launch types and
 
   summaries some key differences:
 

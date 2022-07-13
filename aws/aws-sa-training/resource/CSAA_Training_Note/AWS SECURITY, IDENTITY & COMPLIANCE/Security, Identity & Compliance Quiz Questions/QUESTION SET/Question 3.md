@@ -1,13 +1,11 @@
 ##### Question 3
 
-
-Your company would like to restrict the ability of most users to change their own passwords whilst continuing to allow a
+Your company would like to restrict the ability of most users to change their
+own passwords whilst continuing to allow a
 
 select group of users within specific user groups.
 
-
 What is the best way to achieve this? (choose 2)
-
 
 ```
 

@@ -1,8 +1,6 @@
 ##### Question 6 answer: A
 
-
 Explanation:
-
 
 ```
 
@@ -26,8 +24,8 @@ that the messages would be picked up in the correct order.
 
 ```
 
-
-Creating multiple SQS queues and configuring exactly-once processing (only possible with FIFO)
+Creating multiple SQS queues and configuring exactly-once processing (only
+possible with FIFO)
 
 would not ensure that the order of the messages is prioritized.
 

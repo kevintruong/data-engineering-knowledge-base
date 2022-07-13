@@ -1,13 +1,13 @@
 ##### Question 6
 
+You have been asked to come up with a solution for providing single sign-on to
+existing staff in your company who manage
 
-You have been asked to come up with a solution for providing single sign-on to existing staff in your company who manage
+on-premise web applications and now need access to the AWS management console to
+manage resources in the AWS cloud.
 
-on-premise web applications and now need access to the AWS management console to manage resources in the AWS cloud.
-
-
-Which product combinations provide the best solution to achieve this requirement?
-
+Which product combinations provide the best solution to achieve this
+requirement?
 
 ```
 

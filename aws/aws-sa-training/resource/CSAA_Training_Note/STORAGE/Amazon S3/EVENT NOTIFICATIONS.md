@@ -1,24 +1,23 @@
 #### EVENT NOTIFICATIONS
 
+Amazon S3 event notifications can be sent in response to actions in Amazon S3
+like PUTs, POSTs, COPYs, or DELETEs.
 
-Amazon S3 event notifications can be sent in response to actions in Amazon S3 like PUTs, POSTs, COPYs, or DELETEs.
-
-
-Amazon S3 event notifications enable you to run workflows, send alerts, or perform other actions in response to changes
+Amazon S3 event notifications enable you to run workflows, send alerts, or
+perform other actions in response to changes
 
 in your objects stored in S3.
 
+To enable notifications, you must first add a notification configuration that
+identifies the events you want Amazon S3
 
-To enable notifications, you must first add a notification configuration that identifies the events you want Amazon S3
+to publish and the destinations where you want Amazon S3 to send the
+notifications.
 
-to publish and the destinations where you want Amazon S3 to send the notifications.
-
-
-You can configure notifications to be filtered by the prefix and suffix of the key name of objects.
-
+You can configure notifications to be filtered by the prefix and suffix of the
+key name of objects.
 
 **Amazon S3 can publish notifications for the following events:**
-
 
 - New object created events
 
@@ -30,21 +29,22 @@ You can configure notifications to be filtered by the prefix and suffix of the k
 
 - Replication events
 
+**Amazon S3 can send event notification messages to the following
+destinations:**
 
-**Amazon S3 can send event notification messages to the following destinations:**
-
-
-- Publish event messages to an Amazon Simple Notification Service (Amazon SNS) topic.
+- Publish event messages to an Amazon Simple Notification Service (Amazon SNS)
+  topic.
 
 - Publish event messages to an Amazon Simple Queue Service (Amazon SQS) queue.
 
-- Publish event messages to AWS Lambda by invoking a Lambda function and providing the event message as an argument.
+- Publish event messages to AWS Lambda by invoking a Lambda function and
+  providing the event message as an argument.
 
+Need to grant Amazon S3 permissions to post messages to an Amazon SNS topic or
+an Amazon SQS queue.
 
-Need to grant Amazon S3 permissions to post messages to an Amazon SNS topic or an Amazon SQS queue.
-
-
-Need to also grant Amazon S3 permission to invoke an AWS Lambda function on your behalf. For information about granting
+Need to also grant Amazon S3 permission to invoke an AWS Lambda function on your
+behalf. For information about granting
 
 these permissions.
 

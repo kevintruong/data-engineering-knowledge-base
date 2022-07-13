@@ -1,12 +1,13 @@
 ##### Question 1
 
+The financial institution you are working for stores large amounts of historical
+transaction records. There are over
 
-The financial institution you are working for stores large amounts of historical transaction records. There are over
+25TB of records and your manager has decided to move them into the AWS Cloud.
+You are planning to use Snowball as
 
-25TB of records and your manager has decided to move them into the AWS Cloud. You are planning to use Snowball as
-
-copying the data would take too long. Which of the statements below are true regarding Snowball? (choose 2)
-
+copying the data would take too long. Which of the statements below are true
+regarding Snowball? (choose 2)
 
 ```
 

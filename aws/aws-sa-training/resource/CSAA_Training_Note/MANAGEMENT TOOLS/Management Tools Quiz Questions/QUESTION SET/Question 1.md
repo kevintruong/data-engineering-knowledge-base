@@ -1,14 +1,15 @@
 ##### Question 1
 
+You are a Solutions Architect at Digital Cloud Training. A client from a large
+multinational corporation is working on a
 
-You are a Solutions Architect at Digital Cloud Training. A client from a large multinational corporation is working on a
+deployment of a significant amount of resources into AWS. The client would like
+to be able to deploy resources across
 
-deployment of a significant amount of resources into AWS. The client would like to be able to deploy resources across
-
-multiple AWS accounts and regions using a single toolset and template. You have been asked to suggest a toolset that can
+multiple AWS accounts and regions using a single toolset and template. You have
+been asked to suggest a toolset that can
 
 provide this functionality?
-
 
 ```
 

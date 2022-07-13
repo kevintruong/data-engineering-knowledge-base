@@ -1,10 +1,10 @@
 ##### Question 7
 
+An Architect would like to use an Elastic Load Balancer to forward traffic to
+different back-end applications
 
-An Architect would like to use an Elastic Load Balancer to forward traffic to different back-end applications
-
-for https://dctlabs.com/orders and https://dctlabs.com/account. Which type of ELB should be used?**
-
+for https://dctlabs.com/orders and https://dctlabs.com/account. Which type of
+ELB should be used?**
 
 1. Application Load Balancer with path-based routing
 
