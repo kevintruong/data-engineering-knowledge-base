@@ -186,14 +186,14 @@ class StandardNoteFormatter(BaseQuizFormater):
         except:
             pass
 
-    def dump(self, root_path):
-        note_file = f"{root_path}/{self.title}.md"
+    def dump(self, root_path, prefix=1):
+        note_file = f"{root_path}/{prefix}_{self.title}.md"
         if self.childs and len(self.childs):
-            next_root = os.path.join(root_path, self.title)
+            next_root = os.path.join(root_path, f"{prefix}_{self.title}")
             os.makedirs(next_root, exist_ok=True)
-            note_file = f"{next_root}/{self.title}.md"
-            for each_note in self.childs:
-                each_note.dump(next_root)
+            note_file = f"{next_root}/{prefix}_{self.title}.md"
+            for index, each_note in enumerate(self.childs, start=1):
+                each_note.dump(next_root, prefix=f"{prefix}.{index}")
             with open(note_file, 'w') as note_fd:
                 note_fd.write(self.content)
         else:

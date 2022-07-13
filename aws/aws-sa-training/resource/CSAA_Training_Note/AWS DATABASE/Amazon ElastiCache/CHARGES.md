@@ -1,9 +1,0 @@
-#### CHARGES
-
-Pricing is per Node-hour consumed for each Node Type.
-
-Partial Node-hours consumed are billed as full hours.
-
-There is no charge for data transfer between Amazon EC2 and Amazon Elasticache
-within the same Availability Zone.
-
