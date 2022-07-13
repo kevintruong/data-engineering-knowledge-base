@@ -1,0 +1,23 @@
+#### LOGGING AND MONITORING
+
+
+The Amazon API Gateway logs (near real time) back-end performance metrics such as API calls, latency, and error rates to
+
+CloudWatch.
+
+
+You can monitor through the API Gateway dashboard (REST API) allowing you to visually monitor calls to the services.
+
+
+API Gateway also meters utilization by third-party developers and the data is available in the API Gateway console and
+
+through APIs.
+
+
+Amazon API Gateway is integrated with AWS CloudTrail to give a full auditable history of the changes to your REST APIs.
+
+
+All API calls made to the Amazon API Gateway APIS to create, modify, delete, or deploy REST APIs are logged to
+
+CloudTrail.
+

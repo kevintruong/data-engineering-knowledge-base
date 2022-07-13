@@ -1,0 +1,17 @@
+##### Question 7
+
+
+Which DynamoDB feature integrates with AWS Lambda to automatically execute functions in response to table
+
+
+updates?
+
+
+1. DynamoDB Global Tables
+
+2. DynamoDB Auto Scaling
+
+3. DynamoDB Streams
+
+4. DynamoDB DAX
+

@@ -1,0 +1,2 @@
+### AWS Auto Scaling
+

@@ -1,0 +1,56 @@
+#### VPC ENDPOINTS
+
+
+An Interface endpoint uses AWS PrivateLink and is an elastic network interface (ENI) with a private IP address that
+
+serves as an entry point for traffic destined to a supported service.
+
+
+Using PrivateLink you can connect your VPC to supported AWS services, services hosted by other AWS accounts (VPC
+
+endpoint services), and supported AWS Marketplace partner services.
+
+
+**AWS PrivateLink access over Inter-Region VPC Peering:**
+
+
+- Applications in an AWS VPC can securely access AWS PrivateLink endpoints across AWS Regions using Inter-Region VPC
+
+  Peering.
+
+- AWS PrivateLink allows you to privately access services hosted on AWS in a highly available and scalable manner,
+
+  without using public IPs, and without requiring the traffic to traverse the Internet.
+
+- Customers can privately connect to a service even if the service endpoint resides in a different AWS Region.
+
+- Traffic using Inter-Region VPC Peering stays on the global AWS backbone and never traverses the public Internet.
+
+
+A gateway endpoint is a gateway that is a target for a specified route in your route table, used for traffic destined to
+
+a supported AWS service.
+
+
+An interface VPC endpoint (interface endpoint) enables you to connect to services powered by AWS PrivateLink.
+
+
+The table below highlights some key information about both types of endpoint:
+
+
+By default, IAM users do not have permission to work with endpoints.
+
+
+You can create an IAM user policy that grants users the permissions to create, modify, describe, and delete endpoints.
+
+
+There’s a long list of services that are supported by interface endpoints.
+
+
+Gateway endpoints are only available for:
+
+
+- Amazon DyanmoDB
+
+- Amazon S 3
+

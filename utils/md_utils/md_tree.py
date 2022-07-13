@@ -1,7 +1,6 @@
 #  Copyright (c) 2021 Vu Truong - kevin.truong.ds@gmail.com all rights reserved
 import re
 
-from utils.logger.logger import app_logger
 from utils.md_utils.standard_quiz_fmt import BaseQuizFormater
 
 
@@ -17,19 +16,18 @@ class MarkdownTree:
     def __init__(self):
         self.dircount = 0
         self.filecount = 0
-        self.titleTree = {}
+        self.titleTree = []
         # self.filename = filename
 
     def get_deck_title(self):
         pass
 
-    def get_heading_level(self, line, level):
+    def is_heading_level(self, line, level):
         heading_regex_list = [
             r'(^#{1} \s{0,})(.*)',
             r'(^#{2} \s{0,})(.*)',
             r'(^#{3} \s{0,})(.*)',
             r'(^#{4} \s{0,})(.*)',
-            r'(^#{5} \s{0,})(.*)',
             r'(^#{5} \s{0,})(.*)',
             r'(^#{6} \s{0,})(.*)'
         ]
@@ -38,91 +36,56 @@ class MarkdownTree:
             return True
         return
 
-    def register(self, lines):
-        last_node = {}
-        current_prior_node_dict = {}
-        # using to find the prior node by recording all the current prior node at all # levels
-        commit_checking_point = 0  # avoid commit in code block surrounded by ```
-        for index, line in enumerate(lines.splitlines(), start=1):
-            if "```" in line:
-                commit_checking_point ^= 1
-                continue
-            if commit_checking_point == 1:
-                continue
+    def get_headers(self, md_text, max_priority=6):
+        """
+        Retrieves a list of header, priority pairs in a given Markdown text.
+        Format: (Header Title, Priority)
+        """
+        # lines_iter = iter(md_text.splitlines())
 
-            titlecount = 0
-            for char in line:
-                if char == '#':
-                    titlecount += 1
-                else:
-                    break
-            if titlecount != 0:
-                if not self.get_heading_level(line, titlecount):
-                    titlecount = 0
+        # Skip the first line because it's the Title
+        # next(lines_iter)
 
-            if titlecount != 0:
-                temp_node = {"rank": titlecount,
-                             "line": index,
-                             "title": line[titlecount + 1:].strip(),
-                             "children": []}
-                temp_node = Node(titlecount, index, line[titlecount + 1:].strip(), [])
+        # List of Tuples: (Header Title, Number of #)
+        header_priority_pairs = []
+        in_code_block = False
+        for index, line in enumerate(md_text.splitlines()):
+            if line.startswith('```'):
+                in_code_block = not in_code_block
 
-                if self.titleTree == {}:
-                    if temp_node.rank:
-                        self.titleTree = temp_node
-                        current_prior_node_dict[titlecount] = temp_node
-                    else:
-                        self.titleTree = Node(1, index, "No Title", [])
-                        current_prior_node_dict[1] = self.titleTree
-                        for i in range(2, titlecount):
-                            fake_node = Node(i, index, "┐", [])
-                            current_prior_node_dict[i - 1].children.append(fake_node)
-                            current_prior_node_dict[i] = fake_node
-                        current_prior_node_dict[titlecount - 1].children.append(temp_node)
-                        current_prior_node_dict[titlecount] = temp_node
+            elif not in_code_block and line.startswith('#') and ' ' in line:
+                md_header, header_title = line.split(' ', 1)
 
-                else:
-                    if titlecount < last_node.rank:
-                        parent_rank = self.titleTree.rank
-                        for each_range in range(titlecount - 1, self.titleTree.rank, -1):
-                            if current_prior_node_dict.get(each_range, None):
-                                parent_rank = each_range
-                        current_prior_node_dict[parent_rank].children.append(temp_node)
-                        current_prior_node_dict[titlecount] = temp_node
-                        # update current_prior_node_dict to delete low rank node
-                        current_prior_node_dict = {key: current_prior_node_dict[key] for key in current_prior_node_dict
-                                                   if
-                                                   key <= titlecount}
-                    elif titlecount == last_node.rank:
-                        parent_rank = self.titleTree.rank
-                        for each_range in range(titlecount - 1, self.titleTree.rank, -1):
-                            if current_prior_node_dict.get(each_range, None):
-                                parent_rank = each_range
-                        current_prior_node_dict[parent_rank].children.append(temp_node)
-                        current_prior_node_dict[titlecount] = temp_node
-                    elif titlecount > last_node.rank:
-                        if titlecount - last_node.rank == 1:
-                            current_prior_node_dict[titlecount - 1].children.append(temp_node)
-                            current_prior_node_dict[titlecount] = temp_node
-                        else:
-                            # script will hit this when the rank difference between
-                            # titlerank & lastnode is more than one, because you need to fill fake node.
-                            # tempRank = last_node["rank"]
-                            # we don't need fake_node there,
-                            current_prior_node_dict[last_node.rank].children.append(temp_node)
-                            current_prior_node_dict[titlecount] = temp_node
+                # Check if md_header has all '#'
+                if md_header != md_header[0] * len(md_header):
+                    continue
 
-                    else:
-                        print("Error Occurs! Have no idea.")
-                last_node = temp_node
-        try:
-            app_logger.info(self.titleTree.title)  # print first title
-            return self.titleTree
-        except Exception:
-            app_logger.info("***Error Occurs!***:")
-            app_logger.info("Please make sure input file satisfied Markdown format. At least it should hava one "
-                            "markdown title. : )")
-            return None
+                # Check if md_header is of lower priority than listed
+                if len(md_header) > max_priority:
+                    continue
+
+                if header_title.lower() != 'table of contents' and len(header_title) > 1:
+                    header_priority_pairs.append(Node(header_title, len(md_header), index, []))
+
+        return self.sequentialize_header_priorities(header_priority_pairs)
+
+    def sequentialize_header_priorities(self, header_priority_pairs):
+        """
+        In a case where a H3 or H4 succeeds a H1, due to the nature of the Table of Contents generator\
+        which adds the number of tabs corresponding to the header priority/strength, this will sequentialize\
+        the headers such that all headers have a priority of atmost 1 more than their preceeding header.
+        [('Header 1', 1), ('Header 3', 3), ('Header 4', 4)] -> [('Header 1', 1), ('Header 2', 2), ('Header 3', 3)]
+        """
+        # Go through each header and and if we see a pair where the difference in priority is > 1, make them sequential
+        # Ex: (H1, H3) -> (H1, H2)
+        for i in range(len(header_priority_pairs) - 1):
+            header, priority = header_priority_pairs[i]
+            next_header, next_priority = header_priority_pairs[i + 1]
+
+            if (next_priority - priority > 1):
+                header_priority_pairs[i + 1] = (next_header, priority + 1)
+
+        return header_priority_pairs
 
     def walk(self, node, prefix=""):
         if node.children:

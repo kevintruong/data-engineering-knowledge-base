@@ -1,0 +1,17 @@
+#### GROUPS
+
+
+Groups are collections of users and have policies attached to them.
+
+
+A group is not an identity and cannot be identified as a principal in an IAM policy.
+
+
+Use groups to assign permissions to users.
+
+
+Use the principal of least privilege when assigning permissions.
+
+
+You cannot nest groups (groups within groups).
+

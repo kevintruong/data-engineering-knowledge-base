@@ -1,0 +1,116 @@
+#### GENERAL REDSHIFT CONCEPTS
+
+
+Amazon Redshift is a fast, fully managed data warehouse that makes it simple and cost-effective to analyze all your data
+
+using standard SQL and existing Business Intelligence (BI) tools.
+
+
+Clustered peta-byte scale data warehouse.
+
+
+RedShift is a SQL based data warehouse used for **analytics** applications.
+
+
+RedShift is an Online Analytics Processing (OLAP) type of DB.
+
+
+RedShift is used for running complex analytic queries against petabytes of structured data, using sophisticated query
+
+optimization, columnar storage on high-performance local disks, and massively parallel query execution.
+
+
+RedShift is ideal for **processing** large amounts of data for business intelligence.
+
+
+Extremely cost-effective as compared to some other on-premises data warehouse platforms.
+
+
+PostgreSQL compatible with JDBC and ODBC drivers available; compatible with most Business Intelligence tools out of the
+
+box.
+
+
+Features parallel processing and columnar data stores which are optimized for complex queries.
+
+
+Option to query directly from data files on S3 via RedShift Spectrum.
+
+
+RedShift is 10x faster than a traditional SQL DB.
+
+
+RedShift can store huge amounts of data but cannot ingest huge amounts of data in real time.
+
+
+**RedShift uses columnar data storage:**
+
+
+- Data is stored sequentially in columns instead of rows.
+
+- Columnar based DB is ideal for data warehousing and analytics.
+
+- Requires fewer I/Os which greatly enhances performance.
+
+
+**RedShift provides advanced compression:**
+
+
+- Data is stored sequentially in columns which allows for much better performance and less storage space.
+
+- RedShift automatically selects the compression scheme.
+
+
+RedShift provides good query performance and compression.
+
+
+RedShift provides Massively Parallel Processing (MPP) by distributing data and queries across all nodes.
+
+
+RedShift uses EC2 instances so you need to choose your instance type/size for scaling compute vertically, but you can
+
+also scale horizontally by adding more nodes to the cluster.
+
+
+You cannot have direct access to your AWS RedShift cluster nodes as a user, but you can through applications.
+
+
+HDD and SSD storage options.
+
+
+The size of a single node is 160GB and clusters can be created up to a petabyte or more.
+
+
+**Multi-node consists of:**
+
+
+**Leader node:**
+
+
+- Manages client connections and receives queries.
+
+- Simple SQL end-point.
+
+- Stores metadata.
+
+- Optimizes query plan.
+
+- Coordinates query execution.
+
+
+**Compute nodes:**
+
+
+- Stores data and performs queries and computations.
+
+- Local columnar storage.
+
+- Parallel/distributed execution of all queries, loads, backups, restores, resizes.
+
+- Up to 128 compute nodes.
+
+
+Amazon RedShift Spectrum is a feature of Amazon Redshift that enables you to run queries against exabytes of
+
+unstructured data in Amazon S3, with no loading or ETL required.
+

@@ -1,0 +1,73 @@
+#### BILLING AND PROVISIONING
+
+
+**AWS Charge for:**
+
+
+- DB instance hours (partial hours are charged as full hours).
+
+- Storage GB/month.
+
+- I/O requests/month – for magnetic storage.
+
+- Provisioned IOPS/month – for RDS provisioned IOPS SSD.
+
+- Egress data transfer.
+
+- Backup storage (DB backups and manual snapshots).
+
+
+Backup storage for the automated RDS backup is free of charge up to the provisioned EBS volume size.
+
+
+However, AWS replicate data across multiple AZs and so you are charged for the extra storage space on S3.
+
+
+**For multi-AZ you are charged for:**
+
+
+- Multi-AZ DB hours.
+
+- Provisioned storage.
+
+- Double write I/Os.
+
+
+For multi-AZ you are not charged for DB data transfer during replication from primary to standby.
+
+
+Oracle and Microsoft SQL licences are included or you can bring your own (BYO).
+
+
+On-demand and reserved instance pricing available.
+
+
+**Reserved instances are defined based on the following attributes which must not be changed:**
+
+
+- DB engine.
+
+
+
+- DB instance class
+
+- Deployment type (standalone, multi-AZ_
+
+- License model
+
+- Region
+
+
+**Reserved instances:**
+
+
+- Can be moved between AZs in the same region.
+
+- Are available for multi-AZ deployments.
+
+- Can be applied to Read Replicas if DB instance class and region are the same.
+
+- Scaling is achieved through changing the instance class for compute and modifying storage capacity for additional
+
+  storage allocation.
+

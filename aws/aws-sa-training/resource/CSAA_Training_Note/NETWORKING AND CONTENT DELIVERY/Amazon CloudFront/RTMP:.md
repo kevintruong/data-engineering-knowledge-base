@@ -1,0 +1,53 @@
+#### RTMP:
+
+
+- Distribute streaming media files using Adobe Flash Media Server’s RTMP protocol.
+
+- Allows an end user to begin playing a media file before the file has finished downloading from a CloudFront edge
+
+  location.
+
+- Files must be stored in an S3 bucket.
+
+
+To use CloudFront live streaming, create a web distribution.
+
+
+**For serving both the media player and media files you need two types of distributions:**
+
+
+- A web distribution for the media player.
+
+
+
+- An RTMP distribution for the media files.
+
+
+S3 buckets can be configured to create access logs and cookie logs which log all requests made to the S3 bucket.
+
+
+Amazon Athena can be used to analyze access logs.
+
+
+CloudFront is integrated with CloudTrail.
+
+
+CloudTrail saves logs to the S3 bucket you specify.
+
+
+CloudTrail captures information about all requests whether they were made using the CloudFront console, the CloudFront
+
+API, the AWS SDKs, the CloudFront CLI, or another service.
+
+
+CloudTrail can be used to determine which requests were made, the source IP address, who made the request etc.
+
+
+To view CloudFront requests in CloudTrail logs you must update an existing trail to include global services.
+
+
+To delete a distribution, it must first be disabled (can take up to 15 minutes).
+
+
+The diagram below depicts Amazon CloudFront Distributions and Origins:
+

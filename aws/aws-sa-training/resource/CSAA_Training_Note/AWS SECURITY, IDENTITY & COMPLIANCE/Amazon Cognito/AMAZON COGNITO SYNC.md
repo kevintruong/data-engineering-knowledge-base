@@ -1,0 +1,18 @@
+#### AMAZON COGNITO SYNC
+
+
+Amazon Cognito Sync is an AWS service and client library that enables cross-device syncing of application-related user
+
+data.
+
+
+You can use it to synchronize user profile data across mobile devices and the web without requiring your own backend.
+
+
+The client libraries cache data locally so your app can read and write data regardless of device connectivity status.
+
+
+When the device is online, you can synchronize data, and if you set up push sync, notify other devices immediately that
+
+an update is available.
+

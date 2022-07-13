@@ -191,6 +191,7 @@ class StandardNoteFormatter(BaseQuizFormater):
         if self.childs and len(self.childs):
             next_root = os.path.join(root_path, self.title)
             os.makedirs(next_root, exist_ok=True)
+            note_file = f"{next_root}/{self.title}.md"
             for each_note in self.childs:
                 each_note.dump(next_root)
             with open(note_file, 'w') as note_fd:

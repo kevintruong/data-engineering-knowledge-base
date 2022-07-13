@@ -1,0 +1,189 @@
+#### GENERAL DYNAMODB CONCEPTS
+
+
+Amazon DynamoDB is a fully managed NoSQL database service that provides fast and predictable performance with seamless
+
+scalability.
+
+
+Multi-AZ NoSQL data store with Cross-Region Replication option.
+
+
+Push button scaling means that you can scale the DB at any time without incurring downtime.
+
+
+Defaults to eventual consistency reads but can request strongly consistent read via SDK parameter.
+
+
+Priced on throughput, rather than compute.
+
+
+Provision read and write capacity in anticipation of need.
+
+
+Autoscale capacity adjusts per configured min/max levels.
+
+
+On-Demand Capacity provides flexible capacity at a small premium cost.
+
+
+Can achieve ACID compliance with DynamoDB Transactions.
+
+
+SSD based and uses limited indexing on attributes for performance.
+
+
+DynamoDB is a Web service that uses HTTP over SSL (HTTPS) as a transport and JSON as a message serialization format.
+
+
+Amazon DynamoDB stores three geographically distributed replicas of each table to enable high availability and data
+
+durability.
+
+
+Data is synchronously replicated across 3 facilities (AZs) in a region.
+
+
+**Cross-region replication allows you to replicate across regions:**
+
+
+- Amazon DynamoDB global tables provides a fully managed solution for deploying a multi- region, multi-master database.
+
+- When you create a global table, you specify the AWS regions where you want the table to be available.
+
+- DynamoDB performs all of the necessary tasks to create identical tables in these regions, and propagate ongoing data
+
+  changes to all of them.
+
+
+Provides low read and write latency.
+
+
+Scale storage and throughput up or down as needed without code changes or downtime.
+
+
+DynamoDB is schema-less.
+
+
+DynamoDB can be used for storing session state.
+
+
+Provides two read models.
+
+
+**Eventually consistent reads (Default):**
+
+
+- The eventual consistency option maximises your read throughput (best read performance).
+
+- An eventually consistent read might not reflect the results of a recently completed write.
+
+- Consistency across all copies reached within 1 second.
+
+
+**Strongly consistent reads:**
+
+
+- A strongly consistent read returns a result that reflects all writes that received a successful response prior to the
+
+  read (faster consistency).
+
+
+Users/applications reading from DynamoDB tables can specify in their requests if they want strong consistency (default
+
+is eventually consistent).
+
+
+Attributes consists of a name and a value or set of values.
+
+
+Attributes in DynamoDB are similar to fields or columns in other database systems.
+
+
+The primary key is the only required attribute for items in a table and it uniquely identifies each item.
+
+
+**A primary key can either be one of the following types.**
+
+
+**Partition key:**
+
+
+- A simple primary key composed of one attribute known as the partition key.
+
+
+**Partition key and sort key:**
+
+
+- Referred to as a composite primary key.
+
+- Composed of two attributes: partition key and sort key.
+
+
+An item is a collection of attributes.
+
+
+The aggregate size of an item cannot exceed 400KB including keys and all attributes.
+
+
+Can store pointers to objects in S3, including items over 400KB.
+
+
+Tables are a collection of items and items are made up of attributes (columns).
+
+
+Supports key-value and document data structures.
+
+
+Supports fast, in-place Atomic updates.
+
+
+Stores structured data in tables, indexed by a primary key.
+
+
+Supports GET/PUT operations using a user-defined primary key.
+
+
+DynamoDB provides flexible querying by letting you query on non-primary key attributes using Global Secondary Indexes
+
+and Local Secondary Indexes.
+
+
+You can create one or more secondary indexes on a table.
+
+
+A _secondary index_ lets you query the data in the table using an alternate key, in addition to queries against the
+
+primary key.
+
+
+**DynamoDB supports two kinds of secondary indexes:**
+
+
+- Global secondary index – An index with a partition key and sort key that can be different from those on the table.
+
+- Local secondary index – An index that has the same partition key as the table, but a different sort key.
+
+
+**You can search using one of the following methods:**
+
+
+- Query operation – find items in a table or a secondary index using only the primary keys attributes.
+
+- Scan operation – reads every item in a table or a secondary index and by default will return all items.
+
+
+Use DynamoDB when relational features are not required and the DB is likely to need to scale.
+
+
+**Not ideal for the following situations:**
+
+
+- Traditional RDS apps.
+
+- Joins and/or complex transactions.
+
+- BLOB data.
+
+- Large data with low I/O rate.
+

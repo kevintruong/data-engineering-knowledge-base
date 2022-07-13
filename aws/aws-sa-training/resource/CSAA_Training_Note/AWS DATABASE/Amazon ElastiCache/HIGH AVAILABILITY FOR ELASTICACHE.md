@@ -1,0 +1,22 @@
+#### HIGH AVAILABILITY FOR ELASTICACHE
+
+
+**Memcached:**
+
+
+- Because Memcached does not support replication, a node failure will result in data loss.
+
+- Use multiple nodes in each shard to minimize data loss on node failure.
+
+- Launch multiple nodes across available AZs to minimize data loss on AZ failure.
+
+
+**Redis:**
+
+
+- Use multiple nodes in each shard and distribute the nodes across multiple AZs.
+
+- Enable Multi-AZ on the replication group to permit automatic failover if the primary nodes fails.
+
+- Schedule regular backups of your Redis cluster.
+

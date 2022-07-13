@@ -1,0 +1,25 @@
+##### Question 4
+
+
+Your company has started using the AWS CloudHSM for secure key storage. A recent administrative error resulted in the
+
+loss of credentials to access the CloudHSM. You need access to data that was encrypted using keys stored on the hardware
+
+security module.
+
+
+How can you recover the keys that are no longer accessible?
+
+
+```
+
+A. There is no way to recover your keys if you lose your credentials
+
+B. Log a case with AWS support and they will use MFA to recover the credentials
+
+C. Restore a snapshot of the CloudHSM
+
+D. Reset the CloudHSM device and create a new set of credentials
+
+```
+

@@ -1,0 +1,56 @@
+#### MEMCACHED
+
+
+Not persistent.
+
+
+Cannot be used as a data store.
+
+
+Supports large nodes with multiple cores or threads.
+
+
+Scales out and in, by adding and removing nodes.
+
+
+Ideal front-end for data stores (RDS, Dynamo DB etc.).
+
+
+**Use cases:**
+
+
+- Cache the contents of a DB.
+
+- Cache data from dynamically generated web pages.
+
+- Transient session data.
+
+- High frequency counters for admission control in high volume web apps.
+
+
+Max 100 nodes per region, 1 - 20 nodes per cluster (soft limits).
+
+
+Can integrate with SNS for node failure/recovery notification.
+
+
+Supports auto-discovery for nodes added/removed from the cluster.
+
+
+Scales out/in (horizontally) by adding/removing nodes.
+
+
+Scales up/down (vertically) by changing the node family/type.
+
+
+Does not support multi-AZ failover or replication.
+
+
+Does not support snapshots.
+
+
+You can place nodes in different AZs.
+
+
+With ElastiCache Memcached each node represents a partition of data and nodes in a cluster can span availability zones:
+

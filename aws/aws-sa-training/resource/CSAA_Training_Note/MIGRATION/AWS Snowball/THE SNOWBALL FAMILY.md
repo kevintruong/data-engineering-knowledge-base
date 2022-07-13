@@ -1,0 +1,20 @@
+#### THE SNOWBALL FAMILY
+
+
+Several services are offered in the Snowball family.
+
+
+The table below describes these at a high-level:
+
+
+Snowball (80TB) (50TB model available only in the USA).
+
+
+Snowball Edge (100TB) comes with onboard storage and compute capabilities.
+
+
+Snowmobile – exabyte scale with up to 100PB per Snowmobile.
+
+
+AWS Import/export is when you send your own disks into AWS – this is being deprecated in favour of Snowball.
+

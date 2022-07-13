@@ -98,7 +98,7 @@ KMS is validated by many compliance schemes (e.g. PCI DSS Level 1, FIPS 140 - 2 
 - Delete custom key stores*.
 
 
-- The use of custom key stores requires CloudHSM resources to be available in your account.
+* The use of custom key stores requires CloudHSM resources to be available in your account.
 
 
 **Typically, data is encrypted in one of the following three scenarios:**

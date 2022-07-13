@@ -1,0 +1,30 @@
+#### USE CASES
+
+
+Query services like Amazon Athena, data warehouses like Amazon Redshift, and sophisticated data processing frameworks
+
+like Amazon EMR, all address different needs and use cases.
+
+
+Amazon Redshift provides the fastest query performance for enterprise reporting and business intelligence workloads,
+
+particularly those involving extremely complex SQL with multiple joins and sub-queries.
+
+
+Amazon EMR makes it simple and cost effective to run highly distributed processing frameworks
+
+
+such as Hadoop, Spark, and Presto when compared to on-premises deployments. Amazon EMR is flexible – you can run custom
+
+applications and code, and define specific compute, memory, storage, and application parameters to optimize your
+
+analytic requirements.
+
+
+Amazon Athena provides the easiest way to run ad-hoc queries for data in S3 without the need to setup or manage any
+
+servers.
+
+
+The table below shows the primary use case and situations for using a few AWS query and analytics services:
+

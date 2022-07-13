@@ -1,0 +1,5 @@
+#### AD CONNECTOR VS SIMPLE AD
+
+
+The table below describes some of the key differences to consider when choosing AD Connector or Simple AD:
+

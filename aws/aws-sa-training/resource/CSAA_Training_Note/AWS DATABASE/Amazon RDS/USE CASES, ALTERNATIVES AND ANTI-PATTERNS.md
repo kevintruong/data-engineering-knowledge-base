@@ -1,0 +1,34 @@
+#### USE CASES, ALTERNATIVES AND ANTI-PATTERNS
+
+
+The table below provides guidance on when best to use RDS and several other AWS database/data store services:
+
+
+**Alternative to Amazon RDS:**
+
+
+If your use case isn’t supported on RDS, you can run databases on Amazon EC2.
+
+
+**Consider the following points when considering a DB on EC2:**
+
+
+- You can run any database you like with full control and ultimate flexibility.
+
+- You must manage everything like backups, redundancy, patching and scaling.
+
+- Good option if you require a database not yet supported by RDS, such as IBM DB2 or SAP HANA.
+
+- Good option if it is not feasible to migrate to AWS-managed database.
+
+
+**Anti-Patterns:**
+
+
+Anti-patterns are certain patterns in architecture or development that are considered bad, or sub- optimal practices –
+
+i.e. there may be a better service of method to produce the best result.
+
+
+The following table describes requirements that are not a good fit for RDS:
+

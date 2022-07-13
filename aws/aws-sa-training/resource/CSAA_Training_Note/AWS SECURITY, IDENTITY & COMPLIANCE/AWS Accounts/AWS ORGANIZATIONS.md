@@ -1,0 +1,132 @@
+#### AWS ORGANIZATIONS
+
+
+AWS Organizations helps you centrally govern your environment as you grow and scale your workloads on AWS.
+
+
+Organizations helps you to centrally manage billing; control access, compliance, and security; and share resources
+
+across your AWS accounts.
+
+
+Using AWS Organizations, you can automate account creation, create groups of accounts to reflect your business needs,
+
+and apply policies for these groups for governance.
+
+
+You can also simplify billing by setting up a single payment method for all of your AWS accounts.
+
+
+Through integrations with other AWS services, you can use Organizations to define central configurations and resource
+
+sharing across accounts in your organization.
+
+
+AWS Organizations is available to all AWS customers at no additional charge.
+
+
+The AWS Organizations API enables automation for account creation and management.
+
+
+**Available in two feature sets:**
+
+
+- Consolidated billing
+
+- All features
+
+
+By default, organizations support consolidated billing features.
+
+
+Consolidated billing separates paying accounts and linked accounts.
+
+
+You can use AWS Organizations to set up a single payment method for all the AWS accounts in your organization through
+
+consolidated billing.
+
+
+With consolidated billing, you can see a combined view of charges incurred by all your accounts.
+
+
+Can also take advantage of pricing benefits from aggregated usage, such as volume discounts for Amazon EC2 and Amazon
+
+S3.
+
+
+Limit of 20 linked accounts for consolidated billing (default).
+
+
+Policies can be assigned at different points in the hierarchy.
+
+
+Can help with cost control through volume discounts.
+
+
+Unused reserved EC2 instances are applied across the group.
+
+
+Paying accounts should be used for billing purposes only.
+
+
+Billing alerts can be setup at the paying account which shows billing for all linked accounts.
+
+
+**Core concepts:**
+
+
+- **AWS Organization -** An organization is a collection of AWS accounts that you can organize into a hierarchy and
+
+  manage centrally.
+
+- **AWS Account -** An AWS account is a container for your AWS resources.
+
+- **Master Account -** A master account is the AWS account you use to create your organization.
+
+- **Member Account -** A member account is an AWS account, other than the master account, that is part of an
+
+  organization.
+
+- **Administrative Root -** An administrative root is the starting point for organizing your AWS accounts. The
+
+  administrative root is the top-most container in your organization’s hierarchy.
+
+- **Organizational Unit (OU) -** An organizational unit (OU) is a group of AWS accounts within an organization. An OU
+
+  can also contain other OUs enabling you to create a hierarchy.
+
+- **Policy -** A policy is a “document” with one or more statements that define the controls that you want to apply to a
+
+  group of AWS accounts. AWS Organizations supports a specific type of policy called a Service Control Policy (SCP). An
+
+  SCP defines the AWS service actions, such as Amazon EC2 RunInstances, that are available for use in different accounts
+
+  within an organization.
+
+
+**Migrating accounts between organizations:**
+
+
+- Accounts can be migrated between organizations.
+
+- You must have root or IAM access to both the member and master accounts.
+
+- Use the AWS Organizations console for just a few accounts.
+
+- Use the AWS Organizations API or AWS Command Line Interface (AWS CLI) if there are many accounts to migrate.
+
+
+
+- Billing history and billing reports for all accounts stay with the master account in an organization.
+
+- Before migration download any billing or report history for any member accounts that you want to keep.
+
+- When a member account leaves an organization, all charges incurred by the account are charged directly to the
+
+  standalone account.
+
+- Even if the account move only takes a minute to process, it is likely that some charges will be incurred by the member
+
+  account.
+

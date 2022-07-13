@@ -1,0 +1,27 @@
+#### GENERAL
+
+
+Petabyte scale data transport solution for transferring data into or out of AWS.
+
+
+Uses a secure storage device for physical transportation.
+
+
+AWS Snowball Client is software that is installed on a local computer and is used to identify, compress, encrypt, and
+
+transfer data.
+
+
+Uses 256 - bit encryption (managed with the AWS KMS) and tamper-resistant enclosures with TPM.
+
+
+Snowball must be ordered from and returned to the same region.
+
+
+To speed up data transfer it is recommended to run simultaneous instances of the AWS Snowball Client in multiple
+
+terminals and transfer small files as batches.
+
+
+Snowball can import to S3 or export from S3.
+

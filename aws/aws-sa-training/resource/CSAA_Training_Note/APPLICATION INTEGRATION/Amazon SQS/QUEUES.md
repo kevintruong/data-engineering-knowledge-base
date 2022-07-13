@@ -1,0 +1,30 @@
+#### QUEUES
+
+
+Queue names must be unique within a region.
+
+
+Queues can be either standard or first-in-first-out (FIFO).
+
+
+Standard queues provide a loose-FIFO capability that attempts to preserve the order of messages.
+
+
+Because standard queues are designed to be massively scalable using a highly distributed architecture, receiving
+
+messages in the exact order they are sent is not guaranteed.
+
+
+Standard queues provide at-least-once delivery, which means that each message is delivered at least once.
+
+
+FIFO (first-in-first-out) queues preserve the exact order in which messages are sent and received.
+
+
+If you use a FIFO queue, you don’t have to place sequencing information in your message.
+
+
+FIFO queues provide exactly-once processing, which means that each message is delivered once and remains available until
+
+a consumer processes it and deletes it.
+

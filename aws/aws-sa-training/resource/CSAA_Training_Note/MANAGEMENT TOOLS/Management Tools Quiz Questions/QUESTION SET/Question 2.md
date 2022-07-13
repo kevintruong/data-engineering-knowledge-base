@@ -1,0 +1,20 @@
+##### Question 2
+
+
+A Solutions Architect needs to monitor application logs and receive a notification whenever a specific number of
+
+occurrences of certain HTTP status code errors occur. Which tool should the Architect use?
+
+
+```
+
+A. CloudWatch Events
+
+B. CloudWatch Logs
+
+C. CloudTrail Trails
+
+D. CloudWatch Metrics
+
+```
+

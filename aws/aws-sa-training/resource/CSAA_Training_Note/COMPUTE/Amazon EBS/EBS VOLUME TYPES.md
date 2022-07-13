@@ -1,0 +1,79 @@
+#### EBS VOLUME TYPES
+
+
+**SSD, General Purpose – GP2**
+
+
+- Baseline of 3 IOPS per GiB with a minimum of 100 IOPS.
+
+- Burst up to 3000 IOPS (for volumes >= 334GB).
+
+- Up to 16,000 IOPS per volume.
+
+- AWS designs gp2 volumes to deliver 90% of the provisioned performance 99% of the time. A gp2 volume can range in size
+
+  from 1 GiB to 16 TiB.
+
+
+**SSD, Provisioned IOPS – I01**
+
+
+- More than 16,000 IOPS.
+
+- Up to 64,000 IOPS per volume.
+
+- Up to 50 IOPS per GiB.
+
+- Amazon EBS delivers the provisioned IOPS performance 99.9 percent of the time.
+
+
+**HDD, Throughput Optimized – (ST1):**
+
+
+- Frequently accessed, throughput intensive workloads with large datasets and large I/O sizes, such as MapReduce, Kafka,
+
+  log processing, data warehouse, and ETL workloads.
+
+- Throughput measured in MB/s, and includes the ability to burst up to 250 MB/s per TB, with a baseline throughput of 40
+
+  MB/s per TB and a maximum throughput of 500 MB/s per volume.
+
+- Cannot be a boot volume.
+
+
+**HDD, Cold – (SC1):**
+
+
+- Lowest cost storage – cannot be a boot volume.
+
+- Less frequently accessed workloads with large, cold datasets.
+
+- These volumes can burst up to 80 MB/s per TB, with a baseline throughput of 12 MB/s per TB and a maximum throughput of
+
+  250 MB/s per volume.
+
+
+HDD, Magnetic – Standard – cheap, infrequently accessed storage – lowest cost storage that cannot be a boot volume.
+
+
+**EBS optimized instances:**
+
+
+- Dedicated capacity for Amazon EBS I/O.
+
+- EBS-optimized instances are designed for use with all EBS volume types.
+
+- Max bandwidth: 400 Mbps – 12000 Mbps.
+
+- IOPS: 3000 – 65000.
+
+- GP-SSD within 10% of baseline and burst performance 99.9% of the time.
+
+- PIOPS within 10% of baseline and burst performance 99.9% of the time.
+
+- Additional hourly fee.
+
+- Available for select instance types.
+
+- Some instance types have EBS-optimized enabled by default.
+

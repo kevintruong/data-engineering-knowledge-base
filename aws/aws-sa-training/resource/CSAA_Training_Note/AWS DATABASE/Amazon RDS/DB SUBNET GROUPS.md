@@ -1,0 +1,21 @@
+#### DB SUBNET GROUPS
+
+
+A DB subnet group is a collection of subnets (typically private) that you create in a VPC and that you then designate
+
+for your DB instances.
+
+
+Each DB subnet group should have subnets in at least two Availability Zones in a given region.
+
+
+It is recommended to configure a subnet group with subnets in each AZ (even for standalone instances).
+
+
+During the creation of an RDS instance you can select the DB subnet group and the AZ within the group to place the RDS
+
+DB instance in.
+
+
+You cannot pick the IP within the subnet that is allocated.
+
